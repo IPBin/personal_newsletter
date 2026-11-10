@@ -1,0 +1,25 @@
+name: Morning fetch
+on:
+  schedule:
+    - cron: "15 10 * * 1-5"   # 5:15 am Toronto (EST); the paper is written after this
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: pip install feedparser requests pyyaml pillow
+      - run: python collectors/fetch.py
+        env:
+          TODOIST_TOKEN: ${{ secrets.TODOIST_TOKEN }}
+      - name: Commit collected data
+        run: |
+          git config user.name "the-long-view-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add collected state
+          git commit -m "fetch $(date -u +%F)" || echo "nothing new"
+          git push

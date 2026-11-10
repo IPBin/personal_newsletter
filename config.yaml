@@ -1,0 +1,106 @@
+# The Long View — configuration
+# Everything you might want to change lives here. Add a source by adding a line.
+
+paper:
+  name: The Long View
+  motto: "Printed once a day. Finished by breakfast."
+  place: Toronto
+  reader: Pio
+  timezone: America/Toronto
+  language: English
+
+layout:
+  page_size: half-letter        # 5.5 x 8.5 in
+  max_pages: 20                 # 5 Letter sheets, duplex = 10 printed sides
+  cost_per_side: 0.10           # UofT Library, per printed side (CAD)
+  target_pages: 16              # aim here; go to 20 only when there's good reading to fill it
+
+delivery:
+  email_to: professional.binawan@gmail.com
+  subject: "The Long View · {date_long}"
+  attach: [print-booklet.pdf, paper.pdf]
+
+# ---------- Sources ----------
+sources:
+  calendar:
+    connector: google_calendar
+    calendars: [primary]
+  gmail:
+    connector: gmail
+    labels:
+      newsletters: News          # Substack + Visual Capitalist
+      uoft: UofT                 # forwarded UofT mail
+      quercus: Quercus           # forwarded Quercus notifications
+      luma: Luma                 # registrations, reminders, events you host
+    important_query: "is:unread newer_than:2d -label:News -label:Luma -category:promotions -category:social"
+  slack:
+    - workspace: TAISI
+      connector: slack
+      channels: all-joined       # or a list like [taisi-team, hackathons]
+      lookback_hours: 36
+    # - workspace: (second workspace)   # needs its own connector — on the to-do list
+  todoist:
+    enabled: false               # see SETUP.md: connect Todoist's MCP server, or its Google Calendar sync
+  discord:
+    enabled: false               # needs a read-only bot added by a server admin
+
+news:
+  regions:
+    - id: indonesia
+      title: Indonesia
+      outlets: [ANTARA English, Tempo English, The Jakarta Post, Jakarta Globe, Kompas]
+    - id: canada
+      title: Canada
+      outlets: [The Canadian Press, CBC, CTV News, Global News, The Globe and Mail]
+    - id: usa
+      title: United States
+      outlets: [Associated Press, Reuters, PBS NewsHour, NPR]
+    - id: elsewhere
+      title: Elsewhere & science
+      outlets: [Nature, Science News, Quanta, BBC, The Conversation]
+      rule: not about AI
+  stories_per_region: 3
+
+opportunities:
+  aggregators:
+    - https://www.aisafety.com/events-and-training
+    - https://www.aisafety.com/funding
+    - https://www.effectivealtruism.org/opportunities
+    - https://jobs.80000hours.org/
+  watch_pages:                   # program pages checked for changes
+    - https://www.matsprogram.org/
+    - https://sparai.org/
+    - https://erafellowship.org/
+    - https://bluedot.org/courses
+    - https://www.constellation.org/programs
+    - https://www.governance.ai/opportunities
+    - https://pivotal-research.org/
+    - https://www.lasrlabs.org/
+    - https://alignment.anthropic.com/
+    - https://www.apartresearch.com/sprints
+    - https://pathfinder.kairos-project.org/
+    - https://aisafetymontreal.org/programs/
+    - https://www.iliad.ac/calendar
+  searches:
+    - AI safety fellowship applications open
+    - AI governance fellowship deadline
+    - AI safety Canada student opportunity
+  about_me: >
+    Second-year University of Toronto (Scarborough) student, CS + Public Policy double major.
+    On TAISI's operations team (not an executive). Alum of the TAISI Technical AI Safety
+    Fellowship (BlueDot curricula) and the CORDA Democracy Fellowship. Interests: technical
+    AI governance, AI security, cybersecurity (TryHackMe), policy writing, civic tech.
+    Indonesian (Garuda Scholar). Beginner-to-intermediate in AI safety.
+    Star: undergrad-eligible, remote or Toronto, research or security or governance,
+    operations-friendly. Say in one line why each item fits. Leave out PhD-only, senior-only,
+    law-only and journalism-only items (list them in one line at the end).
+  show_days_ahead: 28
+
+essays:
+  prefer_in_full: true           # fill spare pages with whole essays
+  max_full_per_issue: 4          # human writing first: as many as fit in 20 pages
+  summaries_window_hours: 24
+  skip_kinds: [podcast, live video, welcome email]
+  never_repeat_summary: true
+  skip_senders: [no-reply@substack.com]   # "live video" notices, not essays
+  never_reprint_full_twice: true

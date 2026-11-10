@@ -1,0 +1,5 @@
+weasyprint>=66
+pypdf>=5
+jinja2
+pyyaml
+pillow

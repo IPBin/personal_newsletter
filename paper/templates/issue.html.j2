@@ -1,0 +1,243 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>{{ cfg.paper.name }} — {{ issue.date_long }}</title>
+<link rel="stylesheet" href="{{ css }}">
+</head>
+<body>
+<span class="paper-name">{{ cfg.paper.name }}</span>
+
+{% macro dropcap(p) -%}<span class="dc">{{ p[0] }}</span>{{ p[1:] }}{%- endmacro %}
+
+{% macro figure(b) %}
+<figure class="fig {{ b.size or 'full' }}">
+  <img src="{{ b.src }}" alt="">
+  {% if b.caption %}<figcaption>{{ b.caption }}{% if b.credit %} <span class="credit">{{ b.credit }}</span>{% endif %}</figcaption>{% endif %}
+</figure>
+{% endmacro %}
+
+{# ===================== FRONT PAGE ===================== #}
+<section class="front">
+  <div class="masthead">
+    <div class="ears">
+      <span class="ear">{{ issue.edition }}<br><b>{{ cfg.paper.place }}</b></span>
+      <h1>{{ cfg.paper.name }}</h1>
+      <span class="ear right">{{ weather[0].hi }}° · {{ weather[0].lo }}°<br><b>{{ issue.weather_word }}</b></span>
+    </div>
+    <div class="motto">{{ cfg.paper.motto }}</div>
+  </div>
+  <div class="dateline">
+    <span>{{ issue.date_long }}</span>
+    <span>No. {{ issue.number }}</span>
+    <span>{{ pages_label }}</span>
+  </div>
+
+  {% if issue.front.image %}
+  <figure class="band">
+    <img src="{{ issue.front.image.src }}" alt="">
+    <figcaption>{{ issue.front.image.caption }}</figcaption>
+  </figure>
+  {% endif %}
+
+  <div class="lede">
+    {% for p in issue.front.lede %}<p>{% if loop.first %}{{ dropcap(p) }}{% else %}{{ p }}{% endif %}</p>{% endfor %}
+  </div>
+
+  <div class="front-grid">
+    <div class="col-a">
+      <div class="kicker">Today · {{ issue.weekday }}</div>
+      <ul class="agenda">
+        {% for e in issue.front.today %}
+        <li class="{{ 'dim' if e.dim }}"><span class="t">{{ e.time }}</span><span class="what">{{ e.what }}{% if e.where %}<span class="where">{{ e.where }}</span>{% endif %}</span></li>
+        {% else %}
+        <li><span class="t">—</span><span class="what">Nothing on the calendar. The day is yours.</span></li>
+        {% endfor %}
+      </ul>
+      <div class="weather">
+        {% for d in weather %}
+        <div class="d"><b>{{ d.label }}</b>{{ d.icon | safe }}{{ d.hi }}° / {{ d.lo }}°{% if d.pc >= 30 %}<br>{{ d.pc }}% {{ d.ptype }}{% endif %}</div>
+        {% endfor %}
+      </div>
+      {% if issue.front.brief %}
+      <div class="brief"><div class="kicker">Inside, in one minute</div>
+        <ul>{% for x in issue.front.brief %}<li><b>{{ x.where }}</b> {{ x.text }}</li>{% endfor %}</ul></div>
+      {% endif %}
+    </div>
+    <div class="col-b">
+      <div class="kicker">To do</div>
+      {% for g in issue.front.todos %}
+      <div class="todo-group">
+        <div class="gname">{{ g.topic }}</div>
+        <ul class="todos">
+          {% for t in g['items'] %}<li class="{{ 'urgent' if t.urgent }}">{{ t.text }} {% if t.src %}<span class="src">· {{ t.src }}</span>{% endif %}</li>{% endfor %}
+        </ul>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+{# ===================== SECTIONS ===================== #}
+{% for s in sections %}
+<section class="{{ 'major' if s.new_page is not defined or s.new_page else 'cont' }}" id="{{ s.id }}">
+  <div class="section-head" data-title="{{ s.title }}">
+    <div class="tab">{{ s.tab or s.title }}</div>
+    <div class="row"><h2>{{ s.title }}</h2>{% if s.aside %}<span class="aside">{{ s.aside }}</span>{% endif %}</div>
+  </div>
+
+  {% for b in s.blocks %}
+  {% if b.type == 'attention' %}
+    <div class="attention">
+      <div class="kicker">{{ b.title or 'Needs you' }}</div>
+      <ol>{% for it in b['items'] %}<li><b>{{ it.what }}</b> {{ it.detail }} <span class="meta">— {{ it.src }}</span></li>{% endfor %}</ol>
+    </div>
+
+  {% elif b.type == 'agenda' %}
+    <h4>{{ b.title }}</h4>
+    <ul class="agenda">
+      {% for e in b['items'] %}
+      <li class="{{ 'dim' if e.dim }}"><span class="t">{{ e.time }}</span><span class="what">{{ e.what }}{% if e.where %}<span class="where">{{ e.where }}</span>{% endif %}</span></li>
+      {% endfor %}
+    </ul>
+
+  {% elif b.type == 'channels' %}
+    <h4>{{ b.title }}</h4>
+    <div class="cols2">
+    {% for c in b.channels %}
+      <div class="channel"><div class="cname">{{ c.name }}</div>
+        <ul>{% for m in c.points %}<li>{{ m }}</li>{% endfor %}</ul></div>
+    {% endfor %}
+    </div>
+
+  {% elif b.type == 'events' %}
+    <h4>{{ b.title }}</h4>
+    {% for e in b['items'] %}
+      <div class="opp"><div class="dl">{{ e.when }}<small>{{ e.time }}</small></div>
+        <div class="body"><span class="name">{{ e.name }}</span> {{ e.detail }}{% if e.status %} <span class="tag">{{ e.status }}</span>{% endif %}</div></div>
+    {% endfor %}
+
+  {% elif b.type == 'opportunities' %}
+    {% if b.intro %}<p class="intro">{{ b.intro }}</p>{% endif %}
+    {% if b.ruler %}<div class="ruler"><div class="kicker">The next four weeks</div>{{ b.ruler | safe }}</div>{% endif %}
+    {% for grp in b.groups %}
+      <h4>{{ grp.title }}</h4>
+      {% for o in grp['items'] %}
+      <div class="opp {{ 'star' if o.star }}">
+        <div class="dl">{{ o.deadline_short }}<small>{{ o.deadline_note }}</small></div>
+        <div class="body"><span class="name">{{ o.name }}</span> <span class="meta">{{ o.org }}</span><br>{{ o.desc }}
+          {% if o.fit %}<span class="fit">{{ o.fit }}</span>{% endif %}
+          <div class="tags">{% for t in o.tags %}<span class="tag {{ 'solid' if t in ['undergrad ok','new'] }}">{{ t }}</span> {% endfor %}</div>
+          <div class="url">{{ o.url if o.url|length < 45 else o.url.split('/')[0] }}</div></div>
+      </div>
+      {% endfor %}
+    {% endfor %}
+    {% if b.note %}<div class="box tint"><span class="label">A note on accuracy</span>{{ b.note }}</div>{% endif %}
+
+  {% elif b.type == 'region' %}
+    <div class="region">
+      <div class="region-head">
+        {% if b.map %}<div class="map">{{ b.map | safe }}</div>{% endif %}
+        <div class="rtitle"><div class="kicker">{{ b.kicker }}</div><h3>{{ b.title }}</h3>{% if b.blurb %}<div class="blurb">{{ b.blurb }}</div>{% endif %}</div>
+      </div>
+      {% if b.chart_svg %}<div class="chart"><div class="kicker">{{ b.chart.title }}</div>{{ b.chart_svg | safe }}<div class="src">{{ b.chart.source }}</div></div>{% endif %}
+      <div class="cols2">
+      {% for st in b.stories %}
+        <div class="story {{ 'lead' if st.lead }}">
+          {% if st.tag %}<div class="kicker">{{ st.tag }}</div>{% endif %}
+          <h3>{{ st.headline }}</h3>
+          {% for p in (st.paras or [st.body]) %}<p>{{ p }}</p>{% endfor %}
+          {% if st.views %}<p class="views"><b>Not everyone agrees.</b> {{ st.views }}</p>{% endif %}
+          <p class="why">{{ st.why }}</p>
+          <div class="src">{{ st.outlet }} · {{ st.date }}</div>
+        </div>
+      {% endfor %}
+      </div>
+    </div>
+
+  {% elif b.type == 'chart' %}
+    <div class="chart {{ b.style or '' }}"><div class="kicker">{{ b.title }}</div>{% if b.sub %}<div class="sub">{{ b.sub }}</div>{% endif %}{{ b.svg | safe }}<div class="src">{{ b.source }}</div></div>
+
+  {% elif b.type == 'numbers' %}
+    <div class="numbers">
+      <div class="kicker">{{ b.title }}</div>
+      <div class="ngrid">{% for n in b['items'] %}<div class="n"><div class="big">{{ n.n }}</div><div class="what">{{ n.label }}</div></div>{% endfor %}</div>
+      {% if b.source %}<div class="src">{{ b.source }}</div>{% endif %}
+    </div>
+
+  {% elif b.type == 'figure' %}
+    {{ figure(b) }}
+
+  {% elif b.type == 'box' %}
+    <div class="box {{ b.style or '' }}"><span class="label">{{ b.label }}</span>{% for p in b.paras %}<p>{{ p }}</p>{% endfor %}</div>
+
+  {% elif b.type == 'essay' %}
+    <div class="essay {{ 'break' if b.new_page }}">
+    <div class="essay-head">
+      {% if b.figure %}{{ figure(b.figure) }}{% endif %}
+      <div class="kicker">{{ b.kicker or 'The essay' }}</div>
+      <h3>{{ b.title }}</h3>
+      <div class="byline">by {{ b.author }} · {{ b.publication }}</div>
+      {% if b.dek %}<div class="dek">{{ b.dek }}</div>{% endif %}
+      {% if b.label %}<div class="label-line"><span class="tag">{{ b.label }}</span></div>{% endif %}
+    </div>
+    <div class="essay-body">
+      {% for p in b.paras %}
+        {% if p.startswith('## ') %}<p class="sub">{{ p[3:] }}</p>
+        {% elif p.startswith('>> ') %}<div class="pull">{{ p[3:] }}</div>
+        {% elif p.startswith('> ') %}<blockquote>{{ p[2:] }}</blockquote>
+        {% elif loop.first %}<p class="first">{{ dropcap(p) }}</p>
+        {% else %}<p>{{ p }}</p>{% endif %}
+      {% endfor %}
+      <div class="essay-end">■</div>
+    </div>
+    <div class="meta" style="text-align:center">{{ b.source_note }}</div>
+    {% if b.counterpoint %}
+    <div class="counterpoint"><span class="label">{{ b.counter_label or 'The other side' }}</span>
+      {% for p in b.counterpoint %}<p>{{ p }}</p>{% endfor %}</div>
+    {% endif %}
+    </div>
+
+  {% elif b.type == 'newsstand' %}
+    {% for n in b['items'] if not (n.hide_if_full and n.mode == 'in full') %}
+      <div class="stand {{ 'long' if n.long }}"><span class="badge tag {{ 'solid' if n.mode == 'in full' }}">{{ n.mode }}</span>
+        <span class="pub">{{ n.pub }}</span>{% if n.author %} · {{ n.author }}{% endif %}
+        <div class="ttl">{{ n.title }}</div>
+        {% if n.paras %}{% for p in n.paras %}<p>{{ p }}</p>{% endfor %}{% else %}<p>{{ n.summary }}</p>{% endif %}
+      </div>
+    {% endfor %}
+
+  {% elif b.type == 'prose' %}
+    {% if b.title %}<h4>{{ b.title }}</h4>{% endif %}
+    <div class="{{ b.cls or '' }}">{% for p in b.paras %}<p>{{ p }}</p>{% endfor %}</div>
+
+  {% elif b.type == 'colophon' %}
+    <div class="colophon">
+      {% for part in b.parts %}<h4>{{ part.title }}</h4>{% for p in part.paras %}<p>{{ p }}</p>{% endfor %}{% endfor %}
+      <div class="the-end">— THE END —</div>
+    </div>
+  {% endif %}
+  {% endfor %}
+</section>
+{% endfor %}
+
+{% for i in range(gallery_pages) %}
+<section class="gallery">
+  <img src="{{ gallery.src }}" alt="">
+  <div class="cap">{{ gallery.caption }}</div>
+</section>
+{% endfor %}
+
+{% if issue.back %}
+<section class="back">
+  <div class="back-art"><img src="{{ issue.back.src }}" alt=""></div>
+  <div class="back-cap">
+    <div class="kicker">{{ issue.back.kicker }}</div>
+    <div class="title">{{ issue.back.title }}</div>
+    <div class="text">{{ issue.back.caption }}</div>
+    <div class="credit">{{ issue.back.credit }}</div>
+  </div>
+</section>
+{% endif %}
+</body>
+</html>

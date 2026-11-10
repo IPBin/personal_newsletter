@@ -1,0 +1,20 @@
+# RSS feeds the cloud fetcher reads. Add or remove freely.
+indonesia:
+  - https://en.antaranews.com/rss/news.xml
+  - https://en.tempo.co/rss
+  - https://jakartaglobe.id/rss
+canada:
+  - https://www.cbc.ca/webfeed/rss/rss-canada
+  - https://www.cbc.ca/webfeed/rss/rss-politics
+  - https://globalnews.ca/canada/feed/
+  - https://theconversation.com/ca/articles.atom
+usa:
+  - https://feeds.npr.org/1001/rss.xml
+  - https://www.pbs.org/newshour/feeds/rss/headlines
+  - https://theconversation.com/us/articles.atom
+elsewhere:
+  - https://www.nature.com/nature.rss
+  - https://www.sciencenews.org/feed
+  - https://www.quantamagazine.org/feed/
+  - https://feeds.bbci.co.uk/news/world/rss.xml
+  - https://www.positive.news/feed/

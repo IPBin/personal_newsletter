@@ -1,0 +1,66 @@
+{
+ "decker": [
+  "Bryan Caplan (professor of economics at George Mason University) recently tweeted the following: [the tweet, an image in the original email, is not reproduced here — in it Caplan welcomed the idea of handing more decision-making to AI].",
+  "A lot of people on twitter disliked this. Much of the criticism was vulgar and sexual in nature. That which wasn’t focused on how turning over decision making to an AI would reduce human freedom. I believe this is false, and is deeply confused about what freedom is. I would support turning over as much decision making as possible to more intelligent entities in the future, and believe that it would be a substantial improvement over the status quo.",
+  "We should start by defining what freedom is. Consider a set of choices. To restrict the number of choices possible is to reduce our freedom. To expand it is to increase it. Given the choice between a ham and a turkey sandwich, to ban the individual from picking ham is to reduce their freedom, while to allow someone to pick egg salad is to increase it.",
+  "Now of course, some actions are incompatible with the choice sets of other people. If I am to take the ham sandwich which someone else intends to eat, I have reduced their freedom. We therefore agree not to do things which reduce the choice sets of other people, and agree to take coercive action against those who would do those things.",
+  "That is the core function of government. It is not the only thing which it does, of course. Although we have done an excellent job of hiding it, politics are about violence. What is decided in the political process is who should be able to coerce whom, and to what extent. We do not call it theft, of course – we call it taxes – but its violent nature is still the same. If one does not pay their taxes, they are arrested; if they decline to be arrested, they are killed. The government exists largely to take ham sandwiches from some people and give them to others. A fifth of our whole production every year is given and taken in transfers, largely from the young to the old. It is the struggle of group against group.",
+  "To prevent us from destroying ourselves, we are bound by past commitments. We have a Constitution, and in it we enumerate rights which cannot be violated. We are to have free speech. We have the right to have our case heard by a jury of our peers in the event that we are accused of restricting the choice sets of other people. We cannot write a bill of attainder. We formerly restricted ourselves from levying an income tax. When we find that we want to break these chains we have placed on ourselves, we turn over the decision making to a court. These individuals are selected in a process kept (historically) as far away from conscious politicking as possible, on the basis of intellectual merit, and their decisions, while unpopular, must be followed.",
+  "To turn over the government to AI would be to take our disputes for arbitration. If we agree that smarter and wiser judges are better, then why would we not take our disputes and our problems to the smartest and wisest judge?",
+  "All of these are restrictions on political freedom. But political freedom is the least of all freedoms. Retaining political freedom means simply retaining the option to harm others. The courts restrict your political freedom, because you cannot vote with your compatriots to lynch someone. We cannot keep ourselves from the cookies in the box, but we can do our best to throw the ability to harm others so far out of reach that we cannot pick it back up again.",
+  "I am not impressed by the voter, as I have written before. I believe that his ignorance is a strength, because it keeps him from doing what he wants. The voter wants to hurt others to accomplish impossible ends. He wants to restrict the freedom of billions to live and work and love where they wish; he wants to take from others to support himself; he wants to restrict the freedom of others under the banner “common sense”. He is callous, shallow, and conceited.",
+  "And yet, it has never been desirable for the people to be without power, for the power of the government could equally well be used to oppress them. There must be some sort of check on the government to prevent tyranny. Until, perhaps, soon.",
+  "I find the notion that there is anything special about human government deplorable. You, already, are substantially disenfranchised. It’s called representative democracy. So that we are not subject to the ignorant whims of the people, we separate out the decision making process, and give it to people who are subject only to the infrequent check of the voters. To change who makes decisions makes you no more a slave than you were before.",
+  "Those who want our decisions to be made by humans are like those who celebrate an anti-colonial dictator. What good does it do you to be oppressed by tyrants with the same skin color as you? Perhaps you have notions that you will be the one deciding things in the future. Of course, lots of people think that, and they can’t all be right.",
+  "Humans have been in power a long time. And what have they done with it? We have grown, yes. We are lucky that such a flourishing has been possible. But we have grown far less than we would otherwise have, were it not for violence and the exploitation of man by man. Much of the world is still in poverty, caused by misrule. I hope that we can do better.",
+  "It is possible that we never do want to hand over our decision making to an AI. Perhaps we can never trust it enough, or perhaps we might be unable to bind ourselves to the AI’s decisions. There are obviously practical obstacles which might interfere.",
+  "But we should be clear about one thing. There is something special about humans making decisions for themselves, but there is nothing special about when they make decisions for others. Freedom is not the power to oppress others.",
+  "## P.S.",
+  "There are two basic categories of AI risk. Either AI escapes our control, and causes a catastrophe, or AI remains in our control, and humans use it to oppress us. These two dangers have different implications for development. The possibility of AI escaping our control encourages us to go slowly so that we have more time to monitor. But the possibility of humans using AI to oppress us tells us to go faster – so that the men with guns, who are for now doddering and stupid, don’t realize that they have lost their power until it is too late.",
+  "This post is brought to you by Mechanize, Inc. They are hiring for a variety of positions, including software engineers. I encourage you to apply here. I promise that my views are entirely independent of my sponsorship."
+ ],
+ "weather": {
+  "daily": [
+   {
+    "date": "2026-11-10",
+    "day_of_week": "Tuesday",
+    "high": 16.0,
+    "low": 5.4,
+    "precipitation_chance": 10,
+    "precipitation_type": "rain"
+   },
+   {
+    "date": "2026-11-11",
+    "day_of_week": "Wednesday",
+    "high": 11.8,
+    "low": 5.3,
+    "precipitation_chance": 35,
+    "precipitation_type": "rain"
+   },
+   {
+    "date": "2026-11-12",
+    "day_of_week": "Thursday",
+    "high": 6.1,
+    "low": 1.5,
+    "precipitation_chance": 15,
+    "precipitation_type": "rain"
+   },
+   {
+    "date": "2026-11-13",
+    "day_of_week": "Friday",
+    "high": 5.5,
+    "low": 1.5,
+    "precipitation_chance": 15,
+    "precipitation_type": "snow"
+   },
+   {
+    "date": "2026-11-14",
+    "day_of_week": "Saturday",
+    "high": 6.5,
+    "low": 1.7,
+    "precipitation_chance": 10,
+    "precipitation_type": "snow"
+   }
+  ]
+ }
+}
