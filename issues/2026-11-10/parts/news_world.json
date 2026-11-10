@@ -1,0 +1,261 @@
+{
+ "world": {
+  "map_points": [
+   {
+    "lon": 30.71,
+    "lat": 36.9,
+    "label": "Antalya",
+    "anchor": "end"
+   },
+   {
+    "lon": 2.35,
+    "lat": 48.86,
+    "label": "Paris"
+   },
+   {
+    "lon": -57.58,
+    "lat": -25.26,
+    "label": "Asunción"
+   },
+   {
+    "lon": 33.37,
+    "lat": 35.17,
+    "label": "Nicosia"
+   },
+   {
+    "lon": 11.52,
+    "lat": 3.87,
+    "label": "Yaoundé"
+   },
+   {
+    "lon": 77.03,
+    "lat": 28.46,
+    "label": "Gurugram"
+   }
+  ],
+  "kicker": "Region four",
+  "title": "Around the World",
+  "blurb": "A climate summit, a wage rise, a fallen bank, and two new gates in Cyprus.",
+  "stories": [
+   {
+    "lead": true,
+    "tag": "Turkey",
+    "headline": "The UN climate summit opens in Turkey with a push for electricity",
+    "paras": [
+     "COP31, the UN's yearly climate meeting, opened on Monday in Antalya, Turkey. The host wants countries to sign a pledge called 35 by 35. It asks that electricity supply at least 35% of the world's energy by 2035. Today the share is about one-fifth, the International Energy Agency says. The pledge is non-binding, which means no one is forced to keep it.",
+     "The war on Iran has cut oil shipments and pushed fuel prices up. South Korea, India and Thailand have turned more to coal. Clean energy has grown too, helped by cheap equipment from China."
+    ],
+    "views": "Not everyone agrees. Turkey's environment minister, Murat Kurum, says electrification cuts emissions and protects countries from price shocks. Climate advocates say the pledge does not require the extra electricity to be low-carbon. Pacific island nations want a clear plan to leave fossil fuels. Saudi Arabia and other oil producers say fossil fuels can stay if emissions are captured.",
+    "why": "The summit shapes how the world tries to slow warming during an energy crisis.",
+    "outlet": "Al Jazeera",
+    "date": "Nov 9",
+    "url": "https://www.aljazeera.com/news/2026/11/9/turkiye-pushes-electrification-top-of-climate-agenda-as-cop31-set-to-open"
+   },
+   {
+    "tag": "France",
+    "headline": "France moves its minimum wage rise forward by a month",
+    "paras": [
+     "Prime Minister Sebastien Lecornu said on Monday the minimum wage will rise 1.6% on Dec 1. The rise was planned for January. Monthly pay goes from 1,477.93 euros to 1,502 euros, a gain of 24 euros.",
+     "The move follows weeks of student-led protests. They began over school funding and grew into protests about the cost of living. France votes for a new president in five months."
+    ],
+    "views": "Not everyone agrees. Lecornu calls it the second-largest rise in 20 years and “not merely symbolic”. The CFDT, France's largest union, wants 100 euros more a month and calls the rise “insufficient”. The CGT union wants 10%, about 150 euros, and calls it “crumbs”.",
+    "why": "It shows how a government responds to street protests before an election.",
+    "outlet": "Al Jazeera",
+    "date": "Nov 9",
+    "url": "https://www.aljazeera.com/news/2026/11/9/france-accelerates-minimum-wage-hike-in-bid-to-quell-protest"
+   },
+   {
+    "tag": "Paraguay",
+    "headline": "A bank collapse in Paraguay brings down the president",
+    "paras": [
+     "Ueno Bank, a digital lender launched in 2021, collapsed last week. Nearly three million customers lost access to their savings. That is close to half the country. The Senate voted unanimously on Friday to remove President Santiago Pena. Police searched his home on Sunday.",
+     "Prosecutors say Pena pushed state bodies to deposit public money in the bank. He held shares in its parent company until March 2025. Ueno held about $850 million in public funds, including pension money. Pena denies wrongdoing. The new president, Pedro Alliana, says 1.2 million customers have been refunded about $158 million so far."
+    ],
+    "views": "Not everyone agrees. Pena's lawyer says there is no evidence and that removing him hurts trust in the banks. Analyst Andrew Nickson of the University of Birmingham doubts that powerful politicians will face lasting punishment.",
+    "why": "It shows the risk when a bank, its regulators and politicians are too close.",
+    "outlet": "Al Jazeera",
+    "date": "Nov 9",
+    "url": "https://www.aljazeera.com/news/2026/11/9/paraguay-raids-ex-presidents-home-why-a-bank-crash-brought-down-pena"
+   },
+   {
+    "tag": "Cyprus",
+    "headline": "The two sides of Cyprus agree to open two new crossings",
+    "paras": [
+     "Cyprus has been split since 1974 into a Greek Cypriot south and a Turkish Cypriot north. On Monday the two leaders met a UN envoy in the buffer zone between them. They agreed to open two new crossings, coordinate emergency responses and share archives.",
+     "Local media say this brings the number of open crossings to 11. It is the first concrete step after nearly ten years of deadlock. The last official peace talks collapsed in 2017. The UN called the meeting “positive”, and the leaders will meet again in the coming weeks."
+    ],
+    "why": "Small, practical steps can rebuild trust before bigger peace talks.",
+    "outlet": "Al Jazeera",
+    "date": "Nov 9",
+    "url": "https://www.aljazeera.com/news/2026/11/9/cyprus-rivals-agree-new-crossings-across-islands-dividing-line"
+   },
+   {
+    "tag": "Cameroon",
+    "headline": "Cameroon sets a date for elections it delayed twice",
+    "paras": [
+     "President Paul Biya set legislative and local elections for Feb 7, 2027. His decree was read on public radio on Monday. The government had postponed these votes twice and extended lawmakers' terms.",
+     "Biya is 93 and has ruled since 1982. He is the world's oldest head of state. His re-election in October 2025 set off protests. Lawyers cited by Human Rights Watch say security forces detained up to 2,000 people. Last month the authorities suspended the party of his main rival, Issa Tchiroma Bakary."
+    ],
+    "why": "The vote will test how much room the opposition still has.",
+    "outlet": "Al Jazeera",
+    "date": "Nov 10",
+    "url": "https://www.aljazeera.com/news/2026/11/10/cameroon-sets-date-for-twice-delayed-legislative-and-local-elections"
+   },
+   {
+    "tag": "India",
+    "headline": "Indian companies now offer a “grandchild for rent” to older people",
+    "paras": [
+     "A small but growing number of Indian firms send young companions to older people. They go along to the temple or hospital, play cards, or just listen. One firm near Delhi charges 450 rupees, about $5, an hour. Only better-off city families can pay that.",
+     "India is ageing fast. People over 60 were 10.5% of the population in 2022. A UN report expects 21% by 2050. That is about 347 million people, almost the whole population of the United States today."
+    ],
+    "why": "As families spread out, care that relatives once gave is becoming a paid service.",
+    "outlet": "Al Jazeera",
+    "date": "Nov 8",
+    "url": "https://www.aljazeera.com/news/2026/11/8/rent-a-grandchild-businesses-offering-companions-to-elderly-grow-in-india"
+   }
+  ]
+ },
+ "science": {
+  "kicker": "Region five",
+  "title": "Science",
+  "blurb": "A small dip in emissions, and what fiber did for mice.",
+  "stories": [
+   {
+    "tag": "Climate",
+    "headline": "Fossil fuel emissions are set to dip slightly in 2026",
+    "paras": [
+     "Scientists project that carbon dioxide emissions from fossil fuels will fall 0.4% this year. From 2019 to 2025 they grew 0.8% a year on average. The study came out on Nov 9 in the journal Nature Climate Change.",
+     "The researchers say high oil prices from the Iran war probably caused the dip, not clean energy. Emissions should reach 38.24 gigatons, about 0.16 gigatons less than in 2025. A gigaton is a billion tons. Still, electric cars, solar and wind already help. Without them, emissions would have grown 1.9% a year since 2019."
+    ],
+    "why": "A dip caused by a price shock may not last.",
+    "outlet": "Science News",
+    "date": "Nov 9",
+    "url": "https://www.sciencenews.org/article/fossil-fuel-emissions-down-2026-gas"
+   },
+   {
+    "tag": "Health",
+    "headline": "Fiber helped mice clear tiny plastic bits from their guts",
+    "paras": [
+     "Researchers fed mice low, medium or high amounts of fiber, then gave them plastic particles. Within 24 hours, the medium and high fiber groups cleared more of the particles. After a week of daily plastic, only the low-fiber mice had gut damage. Test-tube work suggests fiber wraps around the particles and sticks to them.",
+     "This was a mouse study, published Oct 15 in Nature Communications. The high-fiber mice ate far more fiber than people are advised to eat. No one knows yet if the same thing happens in humans."
+    ],
+    "why": "Tiny plastics are everywhere, and a common food may offer some protection.",
+    "outlet": "Science News",
+    "date": "Nov 9",
+    "url": "https://www.sciencenews.org/article/high-fiber-diet-nanoplastic-gut-health"
+   }
+  ]
+ },
+ "charts": [
+  {
+   "type": "chart",
+   "title": "France’s minimum wage: the offer and the demands",
+   "sub": "Extra euros per month. The government offers 24. Unions want far more.",
+   "kind": "bars",
+   "unit": "€",
+   "max": 150,
+   "rows": [
+    {
+     "label": "Government (1.6%)",
+     "value": 24,
+     "style": "solid"
+    },
+    {
+     "label": "CFDT union",
+     "value": 100,
+     "style": "grey"
+    },
+    {
+     "label": "CGT union (10%, about)",
+     "value": 150,
+     "style": "outline"
+    }
+   ],
+   "source": "Al Jazeera, Nov 9"
+  },
+  {
+   "type": "numbers",
+   "title": "This year’s emissions in four numbers",
+   "items": [
+    {
+     "n": "−0.4%",
+     "label": "projected change in fossil fuel CO2 emissions in 2026"
+    },
+    {
+     "n": "+0.8%",
+     "label": "average yearly growth, 2019 to 2025"
+    },
+    {
+     "n": "38.24 Gt",
+     "label": "expected emissions this year, in billions of tons"
+    },
+    {
+     "n": "+1.9%",
+     "label": "yearly growth since 2019 without electric cars, solar and wind"
+    }
+   ],
+   "source": "Nature Climate Change study, via Science News, Nov 9"
+  }
+ ],
+ "weather": {
+  "source": "Open-Meteo forecast API (fetched evening of Nov 9)",
+  "daily": [
+   {
+    "date": "2026-11-10",
+    "day_of_week": "Tuesday",
+    "high": 16,
+    "low": 6,
+    "precipitation_chance": 3,
+    "precipitation_type": "none",
+    "summary": "cloudy and mild"
+   },
+   {
+    "date": "2026-11-11",
+    "day_of_week": "Wednesday",
+    "high": 11,
+    "low": 5,
+    "precipitation_chance": 52,
+    "precipitation_type": null,
+    "summary": "cloudy, cooler"
+   },
+   {
+    "date": "2026-11-12",
+    "day_of_week": "Thursday",
+    "high": 9,
+    "low": 3,
+    "precipitation_chance": 66,
+    "precipitation_type": "rain",
+    "summary": "rain, maybe a little wet snow"
+   },
+   {
+    "date": "2026-11-13",
+    "day_of_week": "Friday",
+    "high": 6,
+    "low": 1,
+    "precipitation_chance": 19,
+    "precipitation_type": "none",
+    "summary": "cloudy and cold"
+   },
+   {
+    "date": "2026-11-14",
+    "day_of_week": "Saturday",
+    "high": 6,
+    "low": 3,
+    "precipitation_chance": 7,
+    "precipitation_type": "none",
+    "summary": "cloudy and cold"
+   }
+  ]
+ },
+ "caveats": [
+  "All eight stories were read in full on the article page; every figure is from that page. Each story has one source.",
+  "Africanews, France 24 and Phys.org article pages did not load, and the NHK feed was stale, so seven of eight stories are Al Jazeera or Science News.",
+  "Cameroon: the page is stamped Nov 10, 02:03 UTC (9 pm Nov 9 in Toronto); the decree was read on Monday Nov 9.",
+  "India is a feature dated Nov 8 (updated Nov 9), not a single news event. The article was read to about two-thirds; all figures used come from that part.",
+  "Emissions study: Science News notes the researchers used the AI model Claude to source data and write code. The story itself is about climate; that detail is left out.",
+  "Fiber study: the paper is from Oct 15; the Science News report is from Nov 9.",
+  "Paraguay: 'last week' and 'Friday' follow Al Jazeera (Senate vote Friday Nov 6). A Conversation piece says Pena resigned Nov 5; Al Jazeera says the Senate rejected that resignation attempt.",
+  "Weather: Open-Meteo gives a WMO code, not words. Summaries are my reading of code 3 (overcast) and, for Thursday, code 71 with 6.7 mm rain and 0.07 cm snow. Wednesday has a 52% chance but no forecast amount, so its type is null. Saturday low is 2.5, rounded to 3. day_of_week uses full names to match the proof issue.",
+  "Chart rows carry 'style' and 'max' as in the proof issue's chart block. The CGT figure is 'around 150 euros' in the source."
+ ]
+}

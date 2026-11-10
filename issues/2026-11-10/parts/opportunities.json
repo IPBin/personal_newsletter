@@ -1,0 +1,401 @@
+{
+ "type": "opportunities",
+ "ruler_days": 28,
+ "intro": "Picked for you: a second-year CS and Public Policy student, on TAISI’s operations team, with BlueDot-style technical training (TAISI) and a democracy fellowship (CORDA) done. You lean toward technical AI governance and security. ★ = strong fit. Each item says why. Dates were checked on each program’s own page on Nov 9, except where an item says otherwise.",
+ "groups": [
+  {
+   "title": "Closing soon",
+   "items": [
+    {
+     "name": "Frontier AI Governance course",
+     "org": "AI Safety Montréal",
+     "desc": "A free six-week course on BlueDot’s governance lessons. It meets in person in Montréal on Tuesday evenings, Nov 17 to Dec 22. 12 places.",
+     "fit": "You did the technical track; this is the governance half. It is in person every week, so from Toronto take the online BlueDot version below.",
+     "deadline": "2026-11-10",
+     "deadline_short": "Nov 10",
+     "deadline_note": "today, 11:59pm EST",
+     "tags": [
+      "course",
+      "Canada",
+      "in person"
+     ],
+     "url": "aisafetymontreal.org/programs",
+     "on_ruler": false
+    },
+    {
+     "name": "Gen Stream, Cohort 2",
+     "org": "Gen Stream",
+     "short": "Gen Stream",
+     "desc": "A fully funded week in Oxford, Nov 22 to 28, for generalists moving into AI safety. You build a project for an AI safety group with a mentor. 15 places.",
+     "fit": "Built for operations people like you. But it starts 11 days after the deadline, in term time, and you would need to check UK visa rules for an Indonesian passport first.",
+     "deadline": "2026-11-11",
+     "deadline_short": "Nov 11",
+     "deadline_note": "tomorrow",
+     "tags": [
+      "workshop",
+      "ops",
+      "funded",
+      "stretch"
+     ],
+     "url": "genstream.org"
+    },
+    {
+     "name": "Apart: AI × Epistemics sprint",
+     "org": "Apart Research",
+     "short": "Apart epistemics",
+     "desc": "A free online weekend sprint, Nov 13 to 15. Teams build a test, dataset or tool about how AI changes what people believe. $2,000 in prizes. Entries are due Sunday night.",
+     "fit": "This weekend. No AI safety background is needed, and you can work at your own pace. A low-cost way to get a first research write-up.",
+     "deadline": "2026-11-13",
+     "deadline_short": "Nov 13",
+     "deadline_note": "starts Fri",
+     "tags": [
+      "hackathon",
+      "online",
+      "free"
+     ],
+     "url": "apartresearch.com/sprints"
+    },
+    {
+     "name": "Frontier AI Governance course (online)",
+     "org": "BlueDot Impact",
+     "short": "BlueDot gov",
+     "desc": "BlueDot’s own free online governance course, about 40 hours. Take it as a six-day intensive or over six weeks. Groups run in many time zones.",
+     "fit": "The governance half of what you did at TAISI, with no travel. No earlier BlueDot course is required. You give your free hours after you apply.",
+     "deadline": "2026-11-15",
+     "deadline_short": "Nov 15",
+     "deadline_note": "Sun",
+     "tags": [
+      "course",
+      "online",
+      "governance",
+      "free",
+      "new"
+     ],
+     "url": "bluedot.org/courses/ai-governance",
+     "star": true
+    },
+    {
+     "name": "CLR Fundamentals Program",
+     "org": "Center on Long-Term Risk",
+     "short": "CLR course",
+     "desc": "An online reading course, Nov 20 to Dec 21, on how advanced AI could cause suffering on a huge scale. About five hours a week. Meeting times fit the group.",
+     "fit": "Online, short, and new topics beyond what TAISI’s fellowship covered. It runs into exam season, so five hours a week needs a plan.",
+     "deadline": "2026-11-16",
+     "deadline_short": "Nov 16",
+     "deadline_note": "Mon, 23:59 GMT",
+     "tags": [
+      "course",
+      "online",
+      "beginner ok"
+     ],
+     "url": "longtermrisk.org/intro-seminar",
+     "star": true
+    },
+    {
+     "name": "AGI Strategy course",
+     "org": "AI Safety Montréal",
+     "short": "AGI Strategy",
+     "desc": "A free five-week starter course. It meets in person in Montréal on Monday evenings, Nov 23 to Dec 21. English or French.",
+     "fit": "Big-picture strategy that pairs well with your policy major. Only useful if you can be in Montréal every Monday.",
+     "deadline": "2026-11-16",
+     "deadline_short": "Nov 16",
+     "deadline_note": "Mon, 11:59pm EST",
+     "tags": [
+      "course",
+      "Canada",
+      "in person"
+     ],
+     "url": "aisafetymontreal.org/programs",
+     "on_ruler": false
+    },
+    {
+     "name": "GovAI Summer Fellowship 2027 (London)",
+     "org": "Centre for the Governance of AI",
+     "short": "GovAI",
+     "desc": "Three months of AI policy work in London, June 7 to Aug 27, 2027, paid £14,000. There is a research track and an applied track. No degree is required.",
+     "fit": "A stretch for a second-year, but CS plus policy is exactly their field. GovAI can sponsor UK work visas. Skip the DC version: it needs the right to work in the US.",
+     "deadline": "2026-11-22",
+     "deadline_short": "Nov 22",
+     "deadline_note": "Sun, 23:59 UK time",
+     "tags": [
+      "fellowship",
+      "paid",
+      "governance",
+      "stretch"
+     ],
+     "url": "governance.ai/opportunities",
+     "star": true
+    },
+    {
+     "name": "AFFINE Superintelligence Alignment Seminar",
+     "org": "AFFINE",
+     "desc": "A full-time, in-person month in Portugal, Jan 4 to 29, on the ideas behind alignment. Travel, room and food are covered, plus a $1,000 stipend. 35 places.",
+     "fit": "Math and philosophy heavy, and it overlaps the start of winter term. AFFINE asked people who need a visa to apply by Nov 8, so this is now a long shot.",
+     "deadline": "2026-11-22",
+     "deadline_short": "Nov 22",
+     "deadline_note": "Sun",
+     "tags": [
+      "seminar",
+      "funded",
+      "stretch"
+     ],
+     "url": "affine.org/program",
+     "on_ruler": false
+    },
+    {
+     "name": "Kairos Pathfinder Fellowship, Spring 2027",
+     "org": "Kairos",
+     "short": "Pathfinder",
+     "desc": "Mentoring, workshops and group funding for students who organize AI safety or AI policy groups at a university. Online. Decisions come Dec 2 and it starts Dec 5.",
+     "fit": "You help run TAISI, so you can apply. Each organizer applies alone. Kairos now funds only groups with an organizer in this program, so tell TAISI’s leads. Undergrads get no personal stipend.",
+     "deadline": "2026-11-24",
+     "deadline_short": "Nov 24",
+     "deadline_note": "Tue, 23:59 anywhere on Earth",
+     "tags": [
+      "field-building",
+      "ops",
+      "remote"
+     ],
+     "url": "pathfinder.kairos-project.org",
+     "star": true
+    },
+    {
+     "name": "AI Safety Camp 12",
+     "org": "AI Safety Camp",
+     "short": "AI Safety Camp",
+     "desc": "An online research program, Jan 9 to Apr 18, 2027. You join a small team on a project picked in advance. The project list goes up Nov 13, when team applications open.",
+     "fit": "Part-time, remote and open to beginners. A good first research project, and it does not depend on SPAR. Read the list on Friday and apply to the governance or security projects.",
+     "deadline": "2026-11-29",
+     "deadline_short": "Nov 29",
+     "deadline_note": "Sun; opens Nov 13",
+     "tags": [
+      "research",
+      "remote",
+      "beginner ok"
+     ],
+     "url": "aisafety.camp",
+     "star": true
+    },
+    {
+     "name": "Apart: Threat Intelligence & Threat Modelling hackathon",
+     "org": "Apart Research",
+     "short": "Apart security",
+     "desc": "A free online weekend hackathon, Dec 4 to 6, run with Security Level 5. Teams test whether AI can speed up security planning for AI data centres. $5,000 in prizes.",
+     "fit": "The closest match to your security interest on this page. Entries are due Dec 6, 11:59pm anywhere on Earth. It falls near exams, so decide early.",
+     "deadline": "2026-12-04",
+     "deadline_short": "Dec 4",
+     "deadline_note": "starts Fri",
+     "tags": [
+      "hackathon",
+      "security",
+      "online",
+      "free"
+     ],
+     "url": "apartresearch.com/sprints/threat-intelligence-threat-modelling-2026",
+     "star": true
+    }
+   ]
+  },
+  {
+   "title": "Opening soon: best fits",
+   "items": [
+    {
+     "name": "SPAR, Spring 2027",
+     "org": "SPAR (run by Kairos)",
+     "desc": "Remote, part-time research with a mentor, usually 5 to 20 hours a week. Open to undergrads. It has policy projects too. Applications open around December.",
+     "fit": "Your best next step: real research that fits around classes. Press “Express interest” on the site now so you get the email when it opens.",
+     "deadline_short": "Dec",
+     "deadline_note": "opens; date not announced",
+     "tags": [
+      "research",
+      "remote",
+      "undergrad ok"
+     ],
+     "url": "sparai.org",
+     "star": true
+    },
+    {
+     "name": "Apart: Agent Attribution Hackathon",
+     "org": "Apart Research",
+     "short": "Apart agents",
+     "desc": "A free online weekend sprint, Dec 11 to 13, on telling rogue AI agents apart from ones a human is steering. Entries are due Dec 13.",
+     "fit": "An AI security topic close to your TryHackMe work. Some other sites still show Nov 27 to 29. Apart’s own page says Dec 11.",
+     "deadline": "2026-12-11",
+     "deadline_short": "Dec 11",
+     "deadline_note": "starts Fri",
+     "tags": [
+      "hackathon",
+      "security",
+      "online",
+      "free",
+      "new"
+     ],
+     "url": "apartresearch.com/sprints/agent-attribution-2026"
+    },
+    {
+     "name": "PRISM AI Safety Research Fellowship",
+     "org": "Women Who Do Data",
+     "short": "PRISM",
+     "desc": "A remote, part-time program of about four months from Jan 31, 2027. A mentor guides a team of four or five from a research question to a paper. No stipend.",
+     "fit": "Has governance projects, which suits you. Applications are not open yet. The Dec 14 to Jan 8 window comes from a search result, because PRISM’s site would not load for us.",
+     "deadline": "2027-01-08",
+     "deadline_short": "Jan 8",
+     "deadline_note": "opens Dec 14; dates from a search result",
+     "tags": [
+      "research",
+      "remote",
+      "governance"
+     ],
+     "url": "prism-research.org"
+    },
+    {
+     "name": "Vector Institute research internship, summer 2027",
+     "org": "Vector Institute",
+     "short": "Vector",
+     "desc": "A paid research internship in Toronto, May to August, with a Vector professor. Vector takes summer applications from November to January. The page says they are closed for now.",
+     "fit": "In Toronto and open to undergrads at any school, in Canada or abroad. Letters are optional for undergrads. You need some machine learning experience.",
+     "deadline_short": "TBA",
+     "deadline_note": "not open yet",
+     "tags": [
+      "research",
+      "Toronto",
+      "paid",
+      "new"
+     ],
+     "url": "vectorinstitute.ai/research-talent/students/ai-research-internships",
+     "star": true
+    },
+    {
+     "name": "UTSC summer research award (UTEA)",
+     "org": "University of Toronto Scarborough",
+     "short": "UTEA",
+     "desc": "A $7,500 award to do 14 to 16 weeks of summer research with a UTSC professor. The 2027 date is not posted. The 2026 deadline was Feb 27.",
+     "fit": "On your own campus. Foreign students with a valid study permit for the summer can hold a UTEA. You need a professor to back you, so start asking in November.",
+     "deadline_short": "TBA",
+     "deadline_note": "likely Feb; not announced",
+     "tags": [
+      "research",
+      "Toronto",
+      "undergrad ok",
+      "paid",
+      "new"
+     ],
+     "url": "utsc.utoronto.ca/research/utea-ursa",
+     "star": true
+    }
+   ]
+  },
+  {
+   "title": "For TAISI, any time",
+   "items": [
+    {
+     "name": "Money for TAISI projects",
+     "org": "always open",
+     "desc": "BlueDot Rapid Grants give up to $20,000 for AI safety projects. Manifund keeps a list of who else is funding. It says the Long-Term Future Fund has stopped taking new applications.",
+     "fit": "Useful for ops: hackathon food, room costs, compute keys. For TAISI’s regular budget, the route is now the Pathfinder Fellowship above, due Nov 24.",
+     "deadline_short": "any time",
+     "deadline_note": "",
+     "tags": [
+      "grants",
+      "for groups"
+     ],
+     "url": "bluedot.org/grants/rapid · manifund.org/ais-funder-bulletin"
+    }
+   ]
+  }
+ ],
+ "note": "Left out because they don’t fit you yet: Iliad (math PhD level, Nov 16), Anthropic Residency (senior, Nov 22), Tarbell (journalism, Nov 22), LawAI (law students, Jan 29), Oxford technical AI governance DPhil (PhD, Dec 2), AI Security Bootcamp (working security staff), GovAI DC (needs US work rights). BlueDot’s Technical AI Safety course repeats your TAISI fellowship. Algoverse’s free AI Safety Fellowship is closed; its Nov 15 banner is for a paid program. Recently closed: MATS Winter, Pivotal, ERA Winter, LASR Winter, IAPS, Anthropic Fellows. No dates yet: MATS Summer 2027, LASR Summer 2027. EA Global San Francisco is Mar 19 to 21, 2027; applications are not open. Always check dates on the program’s site.",
+ "memory_updates": [
+  {
+   "id": "Frontier AI Governance course (online)",
+   "name": "Frontier AI Governance course (online)",
+   "deadline": "2026-11-15",
+   "first_seen": "2026-11-10"
+  },
+  {
+   "id": "Apart: Agent Attribution Hackathon",
+   "name": "Apart: Agent Attribution Hackathon",
+   "deadline": "2026-12-11",
+   "first_seen": "2026-11-10"
+  },
+  {
+   "id": "AI Safety Camp 12",
+   "name": "AI Safety Camp 12",
+   "deadline": "2026-11-29",
+   "first_seen": "2026-11-10"
+  },
+  {
+   "id": "PRISM AI Safety Research Fellowship",
+   "name": "PRISM AI Safety Research Fellowship",
+   "deadline": "2027-01-08",
+   "first_seen": "2026-11-10"
+  },
+  {
+   "id": "Vector Institute research internship, summer 2027",
+   "name": "Vector Institute research internship, summer 2027",
+   "deadline": null,
+   "first_seen": "2026-11-10"
+  },
+  {
+   "id": "UTSC summer research award (UTEA)",
+   "name": "UTSC summer research award (UTEA)",
+   "deadline": null,
+   "first_seen": "2026-11-10"
+  }
+ ],
+ "date_changes": [
+  {
+   "id": "Kairos Pathfinder Fellowship",
+   "name": "Kairos Pathfinder Fellowship, Spring 2027",
+   "deadline": "2026-11-24",
+   "was": null,
+   "why": "Program page: opens Nov 10, closes Nov 24 at 23:59 anywhere on Earth."
+  },
+  {
+   "id": "GovAI Summer Fellowships 2027 (London or DC)",
+   "name": "GovAI Summer Fellowship 2027 (London)",
+   "deadline": "2026-11-22",
+   "was": "2026-11-22",
+   "why": "Date unchanged. Renamed: the DC fellowship does not sponsor visas."
+  },
+  {
+   "id": "AI Safety Camp 12 · PRISM",
+   "name": "split into two items",
+   "deadline": null,
+   "was": null,
+   "why": "AISC team applications run Nov 13 to 29 (program page). PRISM window Dec 14 to Jan 8 is from a search result only."
+  },
+  {
+   "id": "Apart: AI × Epistemics sprint",
+   "name": "Apart: AI × Epistemics sprint",
+   "deadline": "2026-11-13",
+   "was": "2026-11-13",
+   "why": "Date unchanged; moved from Opening soon to Closing soon."
+  },
+  {
+   "id": "CLR Fundamentals Program",
+   "name": "CLR Fundamentals Program",
+   "deadline": "2026-11-16",
+   "was": "2026-11-16",
+   "why": "Date unchanged; url now points to CLR's own page."
+  }
+ ],
+ "dropped": [
+  {
+   "name": "Algoverse AI Safety Fellowship, Spring 2027",
+   "why": "Added in my first pass, now removed. Its own page says applications are closed; the Nov 15 banner is site-wide and belongs to Algoverse's paid program."
+  },
+  {
+   "name": "Pathfinder Support Grants",
+   "why": "Added in my first pass, now removed. Kairos's FAQ says the grants ended; it now funds only groups with organizers in the Pathfinder Fellowship."
+  },
+  {
+   "name": "AI Safety Camp 12 · PRISM (combined entry)",
+   "why": "Not removed. Split into two items because each has its own dates."
+  },
+  {
+   "name": "EA Infrastructure Fund, Coefficient Giving, Lightcone Commons (inside Money for TAISI projects)",
+   "why": "Could not confirm an open route for student groups on their own pages (Coefficient's page returned 403). Manifund's bulletin says the Long-Term Future Fund no longer takes new applications."
+  }
+ ]
+}
