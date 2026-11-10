@@ -18,7 +18,8 @@ layout:
 delivery:
   email_to: professional.binawan@gmail.com
   subject: "The Long View · {date_long}"
-  attach: [print-booklet.pdf, paper.pdf]
+  attach: []                    # too big for the Gmail tool; the email links to the PDFs instead
+  repo_url: https://github.com/IPBin/personal_newsletter   # PDFs are committed under issues/<date>/
 
 # ---------- Sources ----------
 sources:
@@ -40,7 +41,7 @@ sources:
       lookback_hours: 36
     # - workspace: (second workspace)   # needs its own connector — on the to-do list
   todoist:
-    enabled: false               # see SETUP.md: connect Todoist's MCP server, or its Google Calendar sync
+    enabled: true                # python collectors/todoist.py; key comes from the TODOIST_TOKEN environment variable only
   discord:
     enabled: false               # needs a read-only bot added by a server admin
 

@@ -34,7 +34,7 @@ def build(issue_path: Path):
     cfg = yaml.safe_load(open(ROOT / "config.yaml"))
     fitted = issue_path.parent / "issue.fitted.json"
     iss = json.load(open(fitted if fitted.exists() else issue_path))
-    rows_news, rows_opps, rows_reads = [], [], []
+    rows_news, rows_opps, rows_reads, rows_stand = [], [], [], []
     attention = []
     for s in iss["sections"]:
         for b in s["blocks"]:
@@ -49,15 +49,28 @@ def build(issue_path: Path):
                         rows_opps.append((o["name"], o.get("deadline_short", ""), o.get("url", "")))
             if b["type"] == "essay":
                 rows_reads.append((b["title"], b.get("author", ""), b.get("source_note", "").split(" · ")[0]))
+            if b["type"] == "newsstand":
+                for n in b["items"]:
+                    if n.get("mode") != "in full" and n.get("url"):
+                        rows_stand.append((n["title"], n.get("pub", ""), n["url"]))
     li = lambda x: f"<li>{x}</li>"
     a = lambda text, u: f'<a href="{html.escape(_url(u))}">{html.escape(text)}</a>' if _url(u) else html.escape(text)
+    base = cfg["delivery"].get("repo_url", "").rstrip("/") + f"/blob/main/issues/{iss['date']}/"
+    back = iss.get("back", {})
+    credits = [f"Back page: {back.get('title', '')}. {back.get('credit', '')}"] + iss.get("credits", [])
     parts = [
-        f"<p>Good morning, {html.escape(cfg['paper']['reader'])}. Today’s <b>{html.escape(cfg['paper']['name'])}</b> is attached. "
-        "Print <b>print-booklet.pdf</b> double-sided, flip on the short edge, and fold.</p>",
+        f"<p>Good morning, {html.escape(cfg['paper']['reader'])}. Today’s <b>{html.escape(cfg['paper']['name'])}</b> "
+        f"(No. {html.escape(str(iss.get('number', '')))}, {html.escape(iss.get('date_long', ''))}) is ready.</p>"
+        f"<p><b>{a('print-booklet.pdf', base + 'print-booklet.pdf')}</b>: print double-sided, flip on the short edge, and fold. "
+        f"{a('paper.pdf', base + 'paper.pdf')}: page by page, for reading on a screen. "
+        "The repository is private, so sign in to GitHub first, then press Download.</p>",
         "<h3>Needs you</h3><ol>" + "".join(li(f"<b>{html.escape(i['what'])}</b> {html.escape(i['detail'])}") for i in attention) + "</ol>",
         "<h3>Sources for today’s news</h3><ul>" + "".join(li(f"{html.escape(r)} — {a(h, u)} ({html.escape(o)}, {html.escape(d)})") for r, h, o, d, u in rows_news) + "</ul>",
         "<h3>Essays printed in full</h3><ul>" + "".join(li(f"{a(t, u)} — {html.escape(au)}") for t, au, u in rows_reads) + "</ul>",
         "<h3>Opportunity links</h3><ul>" + "".join(li(f"{a(n, u)} — {html.escape(d)}") for n, d, u in rows_opps) + "</ul>",
+        *(["<h3>Newsletters summed up</h3><ul>" + "".join(li(f"{a(t, u)} — {html.escape(pb)}") for t, pb, u in rows_stand) + "</ul>"] if rows_stand else []),
+        *(["<h3>Notes from the editor</h3><ul>" + "".join(li(html.escape(n)) for n in iss["email_notes"]) + "</ul>"] if iss.get("email_notes") else []),
+        "<h3>Art and credits</h3><ul>" + "".join(li(html.escape(c)) for c in credits) + "</ul>",
         "<h3>House rules</h3><ul>" + "".join(li(html.escape(r)) for r in HOUSE_RULES) + "</ul>",
     ]
     body = "\n".join(parts)
