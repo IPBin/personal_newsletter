@@ -109,19 +109,11 @@ def luma_toronto():
 
 
 def todoist():
-    token = os.environ.get("TODOIST_TOKEN")
-    if not token:
+    # Key comes from the TODOIST_TOKEN secret only; see collectors/todoist.py.
+    if not os.environ.get("TODOIST_TOKEN"):
         return
-    h = {**UA, "Authorization": f"Bearer {token}"}
-    try:
-        tasks = requests.get("https://api.todoist.com/rest/v2/tasks", headers=h, timeout=25).json()
-        projects = {p["id"]: p["name"] for p in requests.get("https://api.todoist.com/rest/v2/projects", headers=h, timeout=25).json()}
-        slim = [{"content": t["content"], "project": projects.get(t["project_id"]),
-                 "due": (t.get("due") or {}).get("date"), "priority": t.get("priority"),
-                 "labels": t.get("labels")} for t in tasks]
-        (OUT / "todoist.json").write_text(json.dumps(slim, indent=1, ensure_ascii=False))
-    except Exception as e:
-        (OUT / "todoist.json").write_text(json.dumps({"error": str(e)}))
+    from collectors.todoist import fetch
+    (OUT / "todoist.json").write_text(json.dumps(fetch(), indent=1, ensure_ascii=False))
 
 
 def picture_of_the_day():
