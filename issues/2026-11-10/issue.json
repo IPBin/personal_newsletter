@@ -1,0 +1,1103 @@
+{
+ "date": "2026-11-10",
+ "date_long": "Tuesday, November 10, 2026",
+ "weekday": "Tuesday",
+ "number": "1",
+ "edition": "Morning edition",
+ "weather_word": "Mild & cloudy",
+ "weather": {
+  "daily": [
+   {
+    "date": "2026-11-10",
+    "day_of_week": "Tuesday",
+    "high": 16,
+    "low": 6,
+    "precipitation_chance": 3,
+    "precipitation_type": "",
+    "summary": "cloudy and mild"
+   },
+   {
+    "date": "2026-11-11",
+    "day_of_week": "Wednesday",
+    "high": 11,
+    "low": 5,
+    "precipitation_chance": 52,
+    "precipitation_type": "",
+    "summary": "cloudy, cooler"
+   },
+   {
+    "date": "2026-11-12",
+    "day_of_week": "Thursday",
+    "high": 9,
+    "low": 3,
+    "precipitation_chance": 66,
+    "precipitation_type": "rain",
+    "summary": "rain, maybe a little wet snow"
+   },
+   {
+    "date": "2026-11-13",
+    "day_of_week": "Friday",
+    "high": 6,
+    "low": 1,
+    "precipitation_chance": 19,
+    "precipitation_type": "",
+    "summary": "cloudy and cold"
+   },
+   {
+    "date": "2026-11-14",
+    "day_of_week": "Saturday",
+    "high": 6,
+    "low": 3,
+    "precipitation_chance": 7,
+    "precipitation_type": "",
+    "summary": "cloudy and cold"
+   }
+  ]
+ },
+ "front": {
+  "image": {
+   "src": "assets/art/processed/front-overworld-band.png",
+   "caption": "Mount Fuji and the old road from Edo to Kyoto, drawn by Katsushika Hokusai around 1818. The back page starts down that road today."
+  },
+  "lede": [
+   "Three AI Safety Week sessions fill your day at the Design Exchange, from 11:15 to 4:45. Paul Christiano’s second Hinton Lecture streams at 6. It stays dry and mild, up to 16°. Rain is likely on Thursday. One thing is late: the PHLB18 reading response was due Monday."
+  ],
+  "today": [
+   {
+    "time": "11:15",
+    "what": "Forecasting: Jobs and the Economy",
+    "where": "Design Exchange, 234 Bay St · until 12:30"
+   },
+   {
+    "time": "1:30",
+    "what": "Post-AGI Civilization: What’s the Destination? (David Duvenaud)",
+    "where": "Design Exchange · until 3:00"
+   },
+   {
+    "time": "3:15",
+    "what": "Research & Ideas Gallery (posters)",
+    "where": "Design Exchange · until 4:45"
+   },
+   {
+    "time": "6:00",
+    "what": "Hinton Lectures, night 2: Paul Christiano on oversight",
+    "where": "Livestream · until 7:30 · you can rewind",
+    "dim": true
+   }
+  ],
+  "todos": [
+   {
+    "topic": "Academics",
+    "items": [
+     {
+      "text": "PHLB18 reading response. It was due Monday.",
+      "src": "Todoist",
+      "urgent": true
+     },
+     {
+      "text": "Scaffolding Assignment 2 is still open from Nov 2. No. 3 is due Nov 23.",
+      "src": "Todoist"
+     },
+     {
+      "text": "Click the link in the “Confirm Email: Canvas” email, if you haven’t.",
+      "src": "Quercus"
+     }
+    ]
+   },
+   {
+    "topic": "TAISI",
+    "items": [
+     {
+      "text": "Upload your receipts to HCB. Isabel asked everyone on Monday.",
+      "src": "#taisi-team"
+     },
+     {
+      "text": "Shivam’s cohort, Mon Nov 16: order the kosher meal too.",
+      "src": "Todoist"
+     }
+    ]
+   },
+   {
+    "topic": "Misc",
+    "items": [
+     {
+      "text": "Pay off the credit card by Thursday.",
+      "src": "Todoist",
+      "urgent": true
+     },
+     {
+      "text": "No date yet: Health and Wellness visit, bike, co-op papers.",
+      "src": "Todoist"
+     }
+    ]
+   }
+  ],
+  "brief": [
+   {
+    "where": "Essays",
+    "text": "Damon Linker on Trump’s new chief of staff. A Chinese analyst on startup money."
+   },
+   {
+    "where": "p. 6",
+    "text": "Old rights cases in Indonesia; two new crossings in Cyprus."
+   }
+  ]
+ },
+ "sections": [
+  {
+   "id": "desk",
+   "title": "Your Desk",
+   "tab": "For you",
+   "aside": "What needs you, and what TAISI talked about",
+   "blocks": [
+    {
+     "type": "attention",
+     "title": "Needs you",
+     "items": [
+      {
+       "what": "One school task is late.",
+       "detail": "Todoist still shows the PHLB18 reading response, due Monday, and Scaffolding Assignment 2, due Nov 2. Tick them off if they are done.",
+       "src": "Todoist"
+      },
+      {
+       "what": "Two courses close in six days.",
+       "detail": "BlueDot’s free online governance course closes Sunday, Nov 15. CLR’s reading course closes Monday, Nov 16. Both are online.",
+       "src": "bluedot.org · longtermrisk.org"
+      },
+      {
+       "what": "Tell TAISI’s leads about Nov 24.",
+       "detail": "Kairos now funds only student groups that have an organizer in its Pathfinder Fellowship. Applications close Tuesday, Nov 24.",
+       "src": "kairos-project.org"
+      }
+     ]
+    },
+    {
+     "type": "agenda",
+     "title": "This week and beyond",
+     "items": [
+      {
+       "time": "Wed",
+       "what": "AI Safety Week, Day 3: Forecasting AI-Enabled Power Concentration Risk",
+       "where": "11:15–12:15 · Design Exchange · you’re approved"
+      },
+      {
+       "time": "Wed",
+       "what": "Hinton Lectures, night 3: governing transformative AI, then Geoffrey Hinton’s Q&A",
+       "where": "6:00–7:30 pm · livestream"
+      },
+      {
+       "time": "Thu",
+       "what": "Credit card payment",
+       "where": "your Todoist date"
+      },
+      {
+       "time": "Sat",
+       "what": "Marches for an AI treaty",
+       "where": "cities in the US, Canada and France · noted in Astral Codex Ten",
+       "dim": true
+      },
+      {
+       "time": "Nov 16",
+       "what": "Shivam’s cohort: you’re on food",
+       "where": "kosher meal needed · Todoist"
+      },
+      {
+       "time": "Nov 23",
+       "what": "Scaffolding Assignment 3 due",
+       "where": "Todoist"
+      }
+     ]
+    },
+    {
+     "type": "events",
+     "title": "Your events (from Luma)",
+     "items": [
+      {
+       "when": "Nov 10",
+       "time": "Tue",
+       "name": "AI Safety Week, Day 2.",
+       "detail": "Three sessions at the Design Exchange, 11:15 to 4:45.",
+       "status": "approved"
+      },
+      {
+       "when": "Nov 9–11",
+       "time": "6 pm",
+       "name": "The Hinton Lectures 2026.",
+       "detail": "Paul Christiano, three evenings. One livestream link works for all three.",
+       "status": "registered"
+      },
+      {
+       "when": "Nov 11",
+       "time": "Wed",
+       "name": "AI Safety Week, Day 3.",
+       "detail": "Power Concentration Risk, 11:15.",
+       "status": "approved"
+      },
+      {
+       "when": "Nov 6–8",
+       "time": "you hosted",
+       "name": "Swarm Alignment Hackathon Toronto.",
+       "detail": "Done. Ilyass sent the slides to guests on Sunday.",
+       "status": "done"
+      }
+     ]
+    },
+    {
+     "type": "channels",
+     "title": "TAISI Slack · since Sunday",
+     "channels": [
+      {
+       "name": "#taisi-team · money and plans",
+       "points": [
+        "Isabel reminded everyone to upload receipts to HCB. One missing receipt has locked Joseph’s card. That hurts people who use the Uber Business account.",
+        "Someone outside TAISI wants to run a linear algebra study group. Joseph would book a room and refer people, but not call it a TAISI program. Boyan agrees. Joseph offered to call the organizer first."
+       ]
+      },
+      {
+       "name": "#taisi-team · running sessions",
+       "points": [
+        "Boyan asked that anyone helping run a session watch Discord for about 30 minutes after it starts, in case someone comes late."
+       ]
+      },
+      {
+       "name": "#f26-facilitators",
+       "points": [
+        "Tazik shared the slides from Sunday’s mech-interp talk."
+       ]
+      },
+      {
+       "name": "#hackathons",
+       "points": [
+        "On Sunday, Pera said to hold off on ordering food. There were leftover subs from David’s fellowship."
+       ]
+      },
+      {
+       "name": "Quiet",
+       "points": [
+        "Nothing new in #general, #colloquium, #phl-panel, #reading-group, #writing-desk, #si-main, #si-notebooks or #off-topic."
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "opps",
+   "title": "Opportunities",
+   "new_page": false,
+   "tab": "Don’t miss",
+   "aside": "Sorted by deadline",
+   "blocks": [
+    {
+     "type": "opportunities",
+     "ruler_days": 28,
+     "intro": "Picked for a second-year CS and Public Policy student on TAISI’s operations team. ★ = strong fit. Each item says why. Dates were checked on each program’s own page on Nov 9.",
+     "groups": [
+      {
+       "title": "Closing soon",
+       "items": [
+        {
+         "name": "Apart: AI × Epistemics sprint",
+         "org": "Apart Research",
+         "short": "Apart epistemics",
+         "desc": "A free online weekend sprint, Nov 13 to 15. Teams build a test, dataset or tool about how AI changes what people believe. $2,000 in prizes. Entries are due Sunday night.",
+         "fit": "This weekend. No AI safety background is needed, and you can work at your own pace. A low-cost way to get a first research write-up.",
+         "deadline": "2026-11-13",
+         "deadline_short": "Nov 13",
+         "deadline_note": "starts Fri",
+         "tags": [
+          "hackathon",
+          "online",
+          "free"
+         ],
+         "url": "apartresearch.com/sprints"
+        },
+        {
+         "name": "Frontier AI Governance course (online)",
+         "org": "BlueDot Impact",
+         "short": "BlueDot gov",
+         "desc": "BlueDot’s own free online governance course, about 40 hours. Take it as a six-day intensive or over six weeks. Groups run in many time zones.",
+         "fit": "The governance half of what you did at TAISI, with no travel. No earlier BlueDot course is required. You give your free hours after you apply.",
+         "deadline": "2026-11-15",
+         "deadline_short": "Nov 15",
+         "deadline_note": "Sun",
+         "tags": [
+          "course",
+          "online",
+          "governance",
+          "free",
+          "new"
+         ],
+         "url": "bluedot.org/courses/ai-governance",
+         "star": true
+        },
+        {
+         "name": "CLR Fundamentals Program",
+         "org": "Center on Long-Term Risk",
+         "short": "CLR course",
+         "desc": "An online reading course, Nov 20 to Dec 21, on how advanced AI could cause suffering on a huge scale. About five hours a week. Meeting times fit the group.",
+         "fit": "Online, short, and new topics beyond what TAISI’s fellowship covered. It runs into exam season, so five hours a week needs a plan.",
+         "deadline": "2026-11-16",
+         "deadline_short": "Nov 16",
+         "deadline_note": "Mon, 23:59 GMT",
+         "tags": [
+          "course",
+          "online",
+          "beginner ok"
+         ],
+         "url": "longtermrisk.org/intro-seminar",
+         "star": true
+        },
+        {
+         "name": "GovAI Summer Fellowship 2027 (London)",
+         "org": "Centre for the Governance of AI",
+         "short": "GovAI",
+         "desc": "Three months of AI policy work in London, June 7 to Aug 27, 2027, paid £14,000. There is a research track and an applied track. No degree is required.",
+         "fit": "A stretch for a second-year, but CS plus policy is exactly their field. GovAI can sponsor UK work visas. Skip the DC version: it needs the right to work in the US.",
+         "deadline": "2026-11-22",
+         "deadline_short": "Nov 22",
+         "deadline_note": "Sun, 23:59 UK time",
+         "tags": [
+          "fellowship",
+          "paid",
+          "governance",
+          "stretch"
+         ],
+         "url": "governance.ai/opportunities",
+         "star": true
+        },
+        {
+         "name": "Kairos Pathfinder Fellowship, Spring 2027",
+         "org": "Kairos",
+         "short": "Pathfinder",
+         "desc": "Mentoring, workshops and group funding for students who organize AI safety or AI policy groups at a university. Online. Decisions come Dec 2 and it starts Dec 5.",
+         "fit": "You help run TAISI, so you can apply. Each organizer applies alone. Kairos now funds only groups with an organizer in this program, so tell TAISI’s leads. Undergrads get no personal stipend.",
+         "deadline": "2026-11-24",
+         "deadline_short": "Nov 24",
+         "deadline_note": "Tue, 23:59 anywhere on Earth",
+         "tags": [
+          "field-building",
+          "ops",
+          "remote"
+         ],
+         "url": "pathfinder.kairos-project.org",
+         "star": true
+        },
+        {
+         "name": "AI Safety Camp 12",
+         "org": "AI Safety Camp",
+         "short": "AI Safety Camp",
+         "desc": "An online research program, Jan 9 to Apr 18, 2027. You join a small team on a project picked in advance. The project list goes up Nov 13, when team applications open.",
+         "fit": "Part-time, remote and open to beginners. A good first research project, and it does not depend on SPAR. Read the list on Friday and apply to the governance or security projects.",
+         "deadline": "2026-11-29",
+         "deadline_short": "Nov 29",
+         "deadline_note": "Sun; opens Nov 13",
+         "tags": [
+          "research",
+          "remote",
+          "beginner ok"
+         ],
+         "url": "aisafety.camp",
+         "star": true
+        },
+        {
+         "name": "Apart: Threat Intelligence & Threat Modelling hackathon",
+         "org": "Apart Research",
+         "short": "Apart security",
+         "desc": "A free online weekend hackathon, Dec 4 to 6, run with Security Level 5. Teams test whether AI can speed up security planning for AI data centres. $5,000 in prizes.",
+         "fit": "The closest match to your security interest on this page. Entries are due Dec 6, 11:59pm anywhere on Earth. It falls near exams, so decide early.",
+         "deadline": "2026-12-04",
+         "deadline_short": "Dec 4",
+         "deadline_note": "starts Fri",
+         "tags": [
+          "hackathon",
+          "security",
+          "online",
+          "free"
+         ],
+         "url": "apartresearch.com/sprints/threat-intelligence-threat-modelling-2026",
+         "star": true
+        }
+       ]
+      },
+      {
+       "title": "Opening soon: best fits",
+       "items": [
+        {
+         "name": "SPAR, Spring 2027",
+         "org": "SPAR (run by Kairos)",
+         "desc": "Remote, part-time research with a mentor, usually 5 to 20 hours a week. Open to undergrads. It has policy projects too. Applications open around December.",
+         "fit": "Your best next step: real research that fits around classes. Press “Express interest” on the site now so you get the email when it opens.",
+         "deadline_short": "Dec",
+         "deadline_note": "opens; date not announced",
+         "tags": [
+          "research",
+          "remote",
+          "undergrad ok"
+         ],
+         "url": "sparai.org",
+         "star": true
+        },
+        {
+         "name": "Apart: Agent Attribution Hackathon",
+         "org": "Apart Research",
+         "short": "Apart agents",
+         "desc": "A free online weekend sprint, Dec 11 to 13, on telling rogue AI agents apart from ones a human is steering. Entries are due Dec 13.",
+         "fit": "An AI security topic close to your TryHackMe work. Some other sites still show Nov 27 to 29. Apart’s own page says Dec 11.",
+         "deadline": "2026-12-11",
+         "deadline_short": "Dec 11",
+         "deadline_note": "starts Fri",
+         "tags": [
+          "hackathon",
+          "security",
+          "online",
+          "free",
+          "new"
+         ],
+         "url": "apartresearch.com/sprints/agent-attribution-2026"
+        },
+        {
+         "name": "Vector Institute research internship, summer 2027",
+         "org": "Vector Institute",
+         "short": "Vector",
+         "desc": "A paid research internship in Toronto, May to August, with a Vector professor. Vector takes summer applications from November to January. The page says they are closed for now.",
+         "fit": "In Toronto and open to undergrads at any school, in Canada or abroad. Letters are optional for undergrads. You need some machine learning experience.",
+         "deadline_short": "TBA",
+         "deadline_note": "not open yet",
+         "tags": [
+          "research",
+          "Toronto",
+          "paid",
+          "new"
+         ],
+         "url": "vectorinstitute.ai/research-talent/students/ai-research-internships",
+         "star": true
+        },
+        {
+         "name": "UTSC summer research award (UTEA)",
+         "org": "University of Toronto Scarborough",
+         "short": "UTEA",
+         "desc": "A $7,500 award to do 14 to 16 weeks of summer research with a UTSC professor. The 2027 date is not posted. The 2026 deadline was Feb 27.",
+         "fit": "On your own campus. Foreign students with a valid study permit for the summer can hold a UTEA. You need a professor to back you, so start asking in November.",
+         "deadline_short": "TBA",
+         "deadline_note": "likely Feb; not announced",
+         "tags": [
+          "research",
+          "Toronto",
+          "undergrad ok",
+          "paid",
+          "new"
+         ],
+         "url": "utsc.utoronto.ca/research/utea-ursa",
+         "star": true
+        }
+       ]
+      },
+      {
+       "title": "For TAISI, any time",
+       "items": [
+        {
+         "name": "Money for TAISI projects",
+         "org": "always open",
+         "desc": "BlueDot Rapid Grants give up to $20,000 for AI safety projects. Manifund keeps a list of who else is funding. It says the Long-Term Future Fund has stopped taking new applications.",
+         "fit": "Useful for ops: hackathon food, room costs, compute keys. For TAISI’s regular budget, the route is now the Pathfinder Fellowship above, due Nov 24.",
+         "deadline_short": "any time",
+         "deadline_note": "",
+         "tags": [
+          "grants",
+          "for groups"
+         ],
+         "url": "bluedot.org/grants/rapid · manifund.org/ais-funder-bulletin"
+        }
+       ]
+      }
+     ],
+     "note": "Programs that don’t fit you yet are listed in this morning’s email. Always check dates on the program’s own site."
+    }
+   ]
+  },
+  {
+   "id": "world",
+   "title": "The World",
+   "tab": "News",
+   "aside": "The facts first. The opinions get labels.",
+   "new_page": true,
+   "blocks": [
+    {
+     "type": "region",
+     "kicker": "Region one",
+     "title": "Indonesia",
+     "blurb": "Old rights cases, a new deal for writers and artists, and a prize-winning chip.",
+     "stories": [
+      {
+       "lead": true,
+       "tag": "Rights",
+       "headline": "A new working group will try to move 13 stalled human rights cases",
+       "paras": [
+        "The government has set up a working group on past serious human rights cases. Coordinating Minister Yusril Ihza Mahendra announced it in Jakarta on Monday. Deputy Coordinating Minister Otto Hasibuan leads it.",
+        "Indonesia recognizes 17 such cases. Only four have gone to court. The other 13 are stuck between two bodies. The rights commission, Komnas HAM, does the first inquiry. The Attorney General’s Office then investigates and prosecutes. Prosecutors keep sending files back, saying the evidence is not enough.",
+        "The stalled cases include the 1965–1966 anti-communist killings, the 1997–1998 forced disappearances and the May 1998 riots."
+       ],
+       "why": "Families have waited decades for these cases to reach a court.",
+       "outlet": "ANTARA",
+       "date": "Nov 9",
+       "url": "https://en.antaranews.com/news/441355/indonesia-forms-working-group-to-resolve-stalled-human-rights-cases"
+      },
+      {
+       "tag": "Culture",
+       "headline": "The government wants authors paid when libraries lend their books",
+       "paras": [
+        "The government has proposed new rights for creators in a draft copyright law. Officials discussed it with parliament’s lawmaking body in Jakarta on Monday. Hermansyah Siregar, the Director General of Intellectual Property, set out the ideas.",
+        "One idea is a public lending right. It would pay authors when libraries lend their works. Another is a resale right. It would give visual artists a share when certain works of art are sold again."
+       ],
+       "why": "It could change how writers, artists and newsrooms in Indonesia earn money.",
+       "outlet": "ANTARA",
+       "date": "Nov 10",
+       "url": "https://en.antaranews.com/news/441447/indonesian-govt-proposes-stronger-copyright-protection-for-creators"
+      },
+      {
+       "tag": "Health",
+       "headline": "Most Indonesian schoolchildren do not move enough, health checks show",
+       "paras": [
+        "The Health Ministry wants 80% of Indonesians to get enough physical activity by 2029. Spokesman Aji Muhawarman stated the goal on Monday.",
+        "The numbers for children are far from that. About 12.3 million school-age children had a free health check in 2025. Of those, 60.61% did not get enough physical activity. About 11.2 million had a fitness test. Of those, 73.42% had poor or very low fitness."
+       ],
+       "why": "Active children are less likely to get diseases like high blood pressure later.",
+       "outlet": "ANTARA",
+       "date": "Nov 9",
+       "url": "https://en.antaranews.com/news/441311/govt-targets-80-pct-of-population-with-sufficient-physical-activity"
+      },
+      {
+       "tag": "Students",
+       "headline": "Bandung students win a national contest with a passport security chip",
+       "paras": [
+        "A student team from the Bandung Institute of Technology (ITB) won the PERURI Chip Hackathon 2026. The company PERURI held the contest and announced the result on Monday.",
+        "The team designed a security chip for electronic passports. It uses the tiny physical differences in each chip as a kind of fingerprint. That makes a chip harder to fake or copy."
+       ],
+       "why": "Indonesia wants its own chip designers, and these students are a start.",
+       "outlet": "ANTARA",
+       "date": "Nov 9",
+       "url": "https://en.antaranews.com/news/441403/itb-students-design-anti-counterfeiting-chip-for-e-passports"
+      }
+     ],
+     "region": "indonesia",
+     "map_points": [
+      {
+       "lon": 106.85,
+       "lat": -6.2,
+       "label": "Jakarta",
+       "anchor": "end"
+      },
+      {
+       "lon": 107.61,
+       "lat": -6.91,
+       "label": "Bandung"
+      }
+     ],
+     "chart": {
+      "type": "chart",
+      "title": "Indonesian schoolchildren and exercise",
+      "sub": "Share of children checked in 2025. Two separate tests, each with more than 11 million children.",
+      "kind": "bars",
+      "unit": "%",
+      "max": 100,
+      "rows": [
+       {
+        "label": "Not active enough",
+        "value": 60.61,
+        "style": "solid"
+       },
+       {
+        "label": "Poor or very low fitness",
+        "value": 73.42,
+        "style": "grey"
+       }
+      ],
+      "source": "Health Ministry free health check data, via ANTARA, Nov 9"
+     }
+    },
+    {
+     "type": "region",
+     "kicker": "Region two",
+     "title": "Canada",
+     "blurb": "Longer work permits, an old pandemic bill, and guns before the top court.",
+     "stories": [
+      {
+       "lead": true,
+       "tag": "Work",
+       "headline": "Employers can now keep low-wage foreign workers for two years",
+       "paras": [
+        "The federal government has doubled how long a business can employ a low-wage temporary foreign worker. The permit an employer needs now lasts up to two years, not one. Immigration Minister Lena Diab spoke about the changes on Monday in Stellarton, Nova Scotia."
+       ],
+       "views": "Diab says many regions need the program, and that jobs should go to Canadians first. Conservative Leader Pierre Poilievre says it should be closed where unemployment is above 5.5%. The national rate was 6.7% in October.",
+       "why": "It affects who gets hired for low-wage jobs across the country.",
+       "outlet": "The Canadian Press via CBC News",
+       "date": "Nov 9",
+       "url": "https://www.cbc.ca/news/politics/temporary-foreign-worker-program-9.7415498"
+      },
+      {
+       "tag": "Budget",
+       "headline": "Ottawa gave up on collecting $4.5 billion in COVID benefits",
+       "paras": [
+        "The federal government wrote off $4.5 billion in COVID-19 benefits last fiscal year. A write-off means it no longer expects the money back. The year before, the figure was $26 million. The numbers come from the Auditor General’s review of the government’s books.",
+        "The money was paid to people who got too much, or who did not qualify. Pandemic business loans are also at risk. The government expects to lose $5.6 billion of the $7.2 billion still owed."
+       ],
+       "why": "Pandemic aid is still costing the government money.",
+       "outlet": "Global News",
+       "date": "Nov 9",
+       "url": "https://globalnews.ca/news/12143258/covid-benefits-written-off-2025-auditor-general/"
+      },
+      {
+       "tag": "Courts",
+       "headline": "The Supreme Court hears the challenge to the federal gun ban",
+       "paras": [
+        "The Supreme Court of Canada began hearing arguments on Monday about a federal firearms ban. The hearing continues on Tuesday.",
+        "In May 2020, the government banned 1,500 models of firearm, including the AR-15. The list has since grown past 2,500. Two lower courts have upheld the ban, in 2023 and 2025."
+       ],
+       "views": "The government says the guns are too deadly for civilian use, and thousands of other models remain legal. The Canadian Coalition for Firearm Rights says the courts never checked if people used the banned guns for hunting or sport.",
+       "why": "The court will decide how far cabinet can go without a vote in Parliament.",
+       "outlet": "Global News",
+       "date": "Nov 9",
+       "url": "https://globalnews.ca/news/12143378/federal-firearms-ban-supreme-court-arguments/"
+      }
+     ],
+     "region": "canada",
+     "map_points": [
+      {
+       "lon": -75.7,
+       "lat": 45.42,
+       "label": "Ottawa",
+       "anchor": "end"
+      }
+     ]
+    },
+    {
+     "type": "region",
+     "kicker": "Region three",
+     "title": "United States",
+     "blurb": "A court lets the border wall go on, and Democrats plan their next two years.",
+     "stories": [
+      {
+       "lead": true,
+       "tag": "Courts",
+       "headline": "The Supreme Court lets border wall work resume in Big Bend",
+       "paras": [
+        "The US Supreme Court ruled on Monday that border wall construction in west Texas can continue. A lawsuit against the project is still going on. A judge in El Paso had paused the work.",
+        "The plan covers hundreds of miles and includes Big Bend National Park. It calls for 30-foot steel barriers, patrol roads and surveillance systems. The court said the law lets the Homeland Security Secretary set aside environmental rules for border building.",
+        "The Big Bend sector is nearly 500 miles long. It regularly has the fewest border encounters in Texas, according to border agency data."
+       ],
+       "views": "The government says a gap in Big Bend would draw cartels and illegal crossings. The Center for Biological Diversity says the work will damage canyon walls and untouched desert. NPR reports that people in both parties oppose a wall there.",
+       "why": "It tests how much nature law can be set aside for border security.",
+       "outlet": "NPR",
+       "date": "Nov 9",
+       "url": "https://www.npr.org/2026/11/09/nx-s1-6019424/border-wall-big-bend-texas-trump"
+      },
+      {
+       "tag": "Schools",
+       "headline": "Democrats plan to push back on Trump’s education policy, with limited tools",
+       "paras": [
+        "Democrats will control both chambers of Congress from January. They plan to challenge President Trump’s move to take apart the Education Department. Trump has promised to veto bills he sees as harmful."
+       ],
+       "views": "An Education Department spokesperson says Democrats want to “prematurely sabotage” Secretary Linda McMahon. Sen. Elizabeth Warren says the administration is “turning its back on students.”",
+       "why": "It shows what a new majority can and cannot do against a veto.",
+       "outlet": "AP via PBS NewsHour",
+       "date": "Nov 9",
+       "url": "https://www.pbs.org/newshour/politics/democrats-plan-to-use-new-power-to-rein-in-trumps-education-agenda-but-their-tools-are-limited"
+      }
+     ],
+     "region": "usa",
+     "map_points": [
+      {
+       "lon": -77.04,
+       "lat": 38.9,
+       "label": "Washington",
+       "anchor": "end"
+      },
+      {
+       "lon": -103.25,
+       "lat": 29.25,
+       "label": "Big Bend"
+      }
+     ]
+    },
+    {
+     "type": "region",
+     "kicker": "Region four",
+     "title": "Around the World",
+     "blurb": "A climate summit, a wage rise, a fallen bank, and two new gates in Cyprus.",
+     "stories": [
+      {
+       "lead": true,
+       "tag": "Turkey",
+       "headline": "The UN climate summit opens in Turkey with a push for electricity",
+       "paras": [
+        "COP31, the UN's yearly climate meeting, opened on Monday in Antalya, Turkey. The host wants countries to sign a pledge called 35 by 35. It asks that electricity supply at least 35% of the world's energy by 2035. Today the share is about one-fifth, the International Energy Agency says. The pledge is non-binding, which means no one is forced to keep it."
+       ],
+       "views": "Turkey's environment minister, Murat Kurum, says electrification cuts emissions and protects countries from price shocks. Climate advocates say the pledge does not require the extra electricity to be low-carbon. Pacific island nations want a clear plan to leave fossil fuels. Saudi Arabia and other oil producers say fossil fuels can stay if emissions are captured.",
+       "why": "The summit shapes how the world tries to slow warming during an energy crisis.",
+       "outlet": "Al Jazeera",
+       "date": "Nov 9",
+       "url": "https://www.aljazeera.com/news/2026/11/9/turkiye-pushes-electrification-top-of-climate-agenda-as-cop31-set-to-open"
+      },
+      {
+       "tag": "France",
+       "headline": "France moves its minimum wage rise forward by a month",
+       "paras": [
+        "Prime Minister Sebastien Lecornu said on Monday the minimum wage will rise 1.6% on Dec 1. The rise was planned for January. Monthly pay goes from 1,477.93 euros to 1,502 euros, a gain of 24 euros.",
+        "The move follows weeks of student-led protests. They began over school funding and grew into protests about the cost of living. France votes for a new president in five months."
+       ],
+       "views": "Lecornu calls it the second-largest rise in 20 years and “not merely symbolic”. The CFDT, France's largest union, wants 100 euros more a month and calls the rise “insufficient”. The CGT union wants 10%, about 150 euros, and calls it “crumbs”.",
+       "why": "It shows how a government responds to street protests before an election.",
+       "outlet": "Al Jazeera",
+       "date": "Nov 9",
+       "url": "https://www.aljazeera.com/news/2026/11/9/france-accelerates-minimum-wage-hike-in-bid-to-quell-protest"
+      },
+      {
+       "tag": "Paraguay",
+       "headline": "A bank collapse in Paraguay brings down the president",
+       "paras": [
+        "Ueno Bank, a digital lender launched in 2021, collapsed last week. Nearly three million customers lost access to their savings. That is close to half the country. The Senate voted unanimously on Friday to remove President Santiago Pena. Police searched his home on Sunday.",
+        "Prosecutors say Pena pushed state bodies to deposit public money in the bank. He held shares in its parent company until March 2025. Ueno held about $850 million in public funds, including pension money. Pena denies wrongdoing."
+       ],
+       "views": "Pena's lawyer says there is no evidence and that removing him hurts trust in the banks. Analyst Andrew Nickson of the University of Birmingham doubts that powerful politicians will face lasting punishment.",
+       "why": "It shows the risk when a bank, its regulators and politicians are too close.",
+       "outlet": "Al Jazeera",
+       "date": "Nov 9",
+       "url": "https://www.aljazeera.com/news/2026/11/9/paraguay-raids-ex-presidents-home-why-a-bank-crash-brought-down-pena"
+      },
+      {
+       "tag": "Cyprus",
+       "headline": "The two sides of Cyprus agree to open two new crossings",
+       "paras": [
+        "Cyprus has been split since 1974 into a Greek Cypriot south and a Turkish Cypriot north. On Monday the two leaders met a UN envoy in the buffer zone between them. They agreed to open two new crossings, coordinate emergency responses and share archives.",
+        "Local media say this brings the number of open crossings to 11. It is the first concrete step after nearly ten years of deadlock. The last official peace talks collapsed in 2017. The UN called the meeting “positive”, and the leaders will meet again in the coming weeks."
+       ],
+       "why": "Small, practical steps can rebuild trust before bigger peace talks.",
+       "outlet": "Al Jazeera",
+       "date": "Nov 9",
+       "url": "https://www.aljazeera.com/news/2026/11/9/cyprus-rivals-agree-new-crossings-across-islands-dividing-line"
+      }
+     ],
+     "map_points": [
+      {
+       "lon": 30.71,
+       "lat": 36.9,
+       "label": "Antalya",
+       "anchor": "end"
+      },
+      {
+       "lon": 2.35,
+       "lat": 48.86,
+       "label": "Paris"
+      },
+      {
+       "lon": -57.58,
+       "lat": -25.26,
+       "label": "Asunción"
+      },
+      {
+       "lon": 33.37,
+       "lat": 35.17,
+       "label": "Nicosia"
+      }
+     ],
+     "chart": {
+      "type": "chart",
+      "title": "France’s minimum wage: the offer and the demands",
+      "sub": "Extra euros per month. The government offers 24. Unions want far more.",
+      "kind": "bars",
+      "unit": "€",
+      "max": 150,
+      "rows": [
+       {
+        "label": "Government (1.6%)",
+        "value": 24,
+        "style": "solid"
+       },
+       {
+        "label": "CFDT union",
+        "value": 100,
+        "style": "grey"
+       },
+       {
+        "label": "CGT union (10%, about)",
+        "value": 150,
+        "style": "outline"
+       }
+      ],
+      "source": "Al Jazeera, Nov 9"
+     }
+    },
+    {
+     "type": "region",
+     "kicker": "Region five",
+     "title": "Science",
+     "blurb": "A small dip in emissions, and what fiber did for mice.",
+     "stories": [
+      {
+       "tag": "Climate",
+       "headline": "Fossil fuel emissions are set to dip slightly in 2026",
+       "paras": [
+        "Scientists project that carbon dioxide emissions from fossil fuels will fall 0.4% this year. From 2019 to 2025 they grew 0.8% a year on average. The study came out on Nov 9 in the journal Nature Climate Change.",
+        "The researchers say high oil prices from the Iran war probably caused the dip, not clean energy. Emissions should reach 38.24 gigatons, about 0.16 gigatons less than in 2025. A gigaton is a billion tons. Still, electric cars, solar and wind already help. Without them, emissions would have grown 1.9% a year since 2019."
+       ],
+       "why": "A dip caused by a price shock may not last.",
+       "outlet": "Science News",
+       "date": "Nov 9",
+       "url": "https://www.sciencenews.org/article/fossil-fuel-emissions-down-2026-gas",
+       "lead": true
+      },
+      {
+       "tag": "Health",
+       "headline": "Fiber helped mice clear tiny plastic bits from their guts",
+       "paras": [
+        "Researchers fed mice low, medium or high amounts of fiber, then gave them plastic particles. Within 24 hours, the medium and high fiber groups cleared more of the particles. After a week of daily plastic, only the low-fiber mice had gut damage. Test-tube work suggests fiber wraps around the particles and sticks to them.",
+        "This was a mouse study, published Oct 15 in Nature Communications. The high-fiber mice ate far more fiber than people are advised to eat. No one knows yet if the same thing happens in humans."
+       ],
+       "why": "Tiny plastics are everywhere, and a common food may offer some protection.",
+       "outlet": "Science News",
+       "date": "Nov 9",
+       "url": "https://www.sciencenews.org/article/high-fiber-diet-nanoplastic-gut-health"
+      }
+     ]
+    },
+    {
+     "type": "box",
+     "style": "tint",
+     "label": "Bubble check",
+     "paras": [
+      "Eight of the 14 newsletter emails that reached you in the last day were about AI. None of today’s 16 news stories is. For a change of pace, read up on Cyprus. The island has been split for 52 years, and Monday brought its first real step in almost ten."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "essays",
+   "title": "The Essays",
+   "tab": "Read slowly",
+   "aside": "Printed whole, in the writers’ own words",
+   "blocks": [
+    {
+     "type": "essay",
+     "essay_id": "1a1c0d360df73dd5",
+     "optional": false,
+     "priority": 9,
+     "kicker": "Persuasion · Nov 9 · Opinion",
+     "title": "The True Believer",
+     "author": "Damon Linker",
+     "publication": "Persuasion",
+     "dek": "A political writer argues that Trump’s new chief of staff shows he will not soften after losing the midterms.",
+     "paras": [
+      "Democrats did so well in last Tuesday’s midterm elections that for a few days afterwards it was possible to imagine we’d just lived through the end of the Trump era.",
+      "On social media and podcasts, pundits took note of the fact that the president appeared to accept the outcome without a fight. Could this mean he would be open to bipartisanship with the new and sizable Democratic majorities in Congress? Or perhaps that he would recede from governing altogether, allowing aides to run the show while he all but retired to the White House? Or might it even be possible he would resign the presidency, allowing Vice President JD Vance to take over and the country as a whole to move on from the anxiety and dramas of the past decade?",
+      "Such musings were nice while they lasted—but they didn’t last long. The fantasies came to an abrupt end on Friday, when the president announced on Truth Social that White House Chief of Staff Susie Wiles would be stepping down to be replaced by Stephen Miller.",
+      "Miller served as a senior advisor to the president in the first Trump administration, with special focus on immigration policy. Since the start of the second administration, he has been Homeland Security Advisor and White House Deputy Chief of Staff for Policy. But this rundown of Miller’s resume fails to capture what is most distinctive about him. Miller is a true-believing MAGA ideologue, a fiercely committed Trump loyalist, someone convinced Judeo-Christian white civilization is fatally threatened with a “great replacement” by people from other races and religions, and a man who longs to see the president assert and wield unconstrained power.",
+      "Far from signaling the conclusion of the Trump era, the midterm elections of 2026 now look likely to be viewed as the moment when the country began to confront an even more intense challenge to liberal democratic principles from the hardline xenophobic right than the one we’ve already been enduring for much of the past 10 years.",
+      "## Respect vs. Contempt for Public Opinion",
+      "When Bill Clinton, George W. Bush, and Barack Obama saw their parties’ congressional majorities swept away by midterm discontent, they were chastened. Their embrace of greater moderation after electoral rebukes flowed partly from an acceptance of political reality: With Congress lost, governing required the trimming of sails and a willingness to compromise with ideological opponents.",
+      "But there was more to it than this. Politicians in a democracy typically defer to and respect public opinion, even when they disagree with it. Just as a solid electoral victory bestows a sense of democratic legitimacy on a governing agenda, a drubbing does the reverse. It conveys vital information about how the American people are responding to that agenda. When the response is sufficiently negative, the former sense of legitimacy diminishes or vanishes altogether, leaving a president and his party weakened.",
+      "Though only if the president is open to receiving the message.",
+      "Trump’s decision to promote Miller to the position of White House Chief of Staff is an undeniable sign that the president has no intention whatsoever of deferring to the message of displeasure the midterm elections conveyed. On the contrary, the president appears eager to defy that message. Rather than feeling chastened, Trump seems committed to moving further away from anything resembling moderation and compromise. Whereas the election showed that many more Americans disapprove of how Trump is governing the country than support it, the president thinks the right response is to double down on a maximally MAGA agenda.",
+      "## The Politics of Hyperbole",
+      "Miller is passionately devoted to the cause of doing exactly that. In addition to strongly supporting Trump’s protectionist tariff agenda and the vaccine skepticism of Health and Human Services Secretary Robert F. Kennedy Jr., he is an unapologetic anti-immigration zealot. Miller wants ICE and the Border Patrol to deport as many people as possible as quickly as possible, without regard for the effect this will have on immigrant communities, families, and children, or for whether the immigrants have committed any crime since arriving in the country. (Miller was the primary advocate behind the highly unpopular policy of family separation that generated considerable controversy and was eventually abandoned during the first Trump administration.)",
+      "This makes Miller an extremist on the issue. But it’s not merely his goals that are radical. It’s also the means he believes should be employed to achieve his preferred ends. When an ICE agent killed anti-ICE protester Renee Good in Minneapolis last winter, Miller immediately labeled her, without evidence, a “domestic terrorist,” just as he described protester Alex Pretti, a nurse shot to death in the same city 17 days later by two federal immigration agents, as a “would-be assassin.”",
+      "These hyperbolic lies were not exceptions for Miller. They were expressions of a worldview rooted in panic and alarm about the existential threat immigration and its defenders pose to the American way of life. The threat is so acute that Miller has long advocated suspending habeas corpus (the requirement that government officials must legally justify detaining a person) for noncitizens, despite its presence in Article I of the Constitution. The rule has been suspended four times in American history, each time in conformity with the constitutional stipulation that a suspension can only be put into effect in times of rebellion or invasion.",
+      "That’s why Miller consistently calls, and urges the president to call, immigration a form of “invasion” that is leading the country to being “conquered”—that is, in order to lay the legal groundwork for such a move. (Miller has also called birthright citizenship “a deep knife wound in the heart of the American republic” that will produce the “suicide” of our “civilization,” and has denied the Democrats are even a party, preferring to call them “a domestic extremist organization.”) As Maggie Haberman and Jonathan Swan of The New York Times reported, others in the administration have actively opposed Miller’s efforts in this area, though with Miller set to run the White House, such opposition will now likely be neutered.",
+      "## Emergency Situations",
+      "Miller (along with Vance) has likewise been a leading advocate of Trump invoking the Insurrection Act against those protesting deportation sweeps. Doing so would give the president exceptionally broad powers to deploy military forces on American soil. As with the suspension of habeas corpus, Miller favors Trump asserting these powers in order to test the limits of what the system will permit the president to do in emergency situations.",
+      "The emphasis on emergency is key. Political philosophers as different from one another as Aristotle, John Locke, and Carl Schmitt have recognized that legal norms, and even the rule of law itself, can be justly set aside in emergency situations in which the very survival of the polity is at stake. The question then becomes: What constitutes a genuine emergency or situation of existential threat? The answer can ultimately be determined only by elected officials, judges, and citizens exercising independent judgment.",
+      "That points to an exceedingly dangerous possibility. What if someone in power continually describes the status quo as a situation involving a dire threat—or even behaves in such a way as to provoke the very chaotic conditions that would justify their own seizure of post-constitutional rule? The first option (threat inflation) is something Miller, along with the president and countless right-wing “influencers,” regularly engages in. Meanwhile, the second (acting to cause the very crisis that justifies an extralegal seizure of power) is what Miller seems to have been hoping for last winter in Minnesota.",
+      "In the end, cooler heads in the White House prevailed, leading ICE to back off its highly aggressive actions in the state.",
+      "## Testing the Outer Limits of Presidential Power",
+      "Who were those cooler heads? We have reason to suspect that one of them may have been outgoing Chief of Staff Susie Wiles. According to the reporting by Haberman and Swan, the push to suspend habeas corpus for noncitizens was abandoned after an “archconservative” White House lawyer named Will Scharf wrote a confidential memo to Wiles making the case against any such move. Did Scharf write the memo unbidden? Or, more likely, did Wiles ask him to put his misgivings down on paper in order to provide herself with legal justification for quashing the power grab?",
+      "Regardless of what happened behind the scenes, it’s clear where Miller was eager to go—and equally clear that he has now been elevated to a position within the administration that will enable him to make the crucial judgment calls about what the nation’s ongoing immigration “emergency” requires with regard to habeas corpus and the Insurrection Act. He will be making these calls with no oversight at all, besides the minimal and mercurial one provided by the man who just promoted him.",
+      "We should be very grateful that the president and his fanatical enabler will be facing broad Democratic majorities in both houses of Congress come January 3, 2027. But we shouldn’t downplay the threat that they nonetheless pose to the competent and lawful functioning of democracy in the United States over the next two years. Those in charge of the executive branch may well actively seek to precipitate a constitutional crisis in the hope of testing the outer limits of presidential power.",
+      "That’s a situation no American should hope for—though it is one all of us need to be prepared for."
+     ],
+     "source_note": "persuasion.community/p/the-true-believer · Damon Linker teaches political science at the University of Pennsylvania",
+     "counter_label": "In plain words, and the other side",
+     "counterpoint": [
+      "The short version: Democrats won the midterms on Nov 3. Some people hoped Trump would now move to the middle, as Clinton, Bush and Obama did after losing. Instead, on Friday he made Stephen Miller his chief of staff. That is the person who runs the White House day to day. Linker says Miller wants the hardest line on immigration. He has pushed to suspend habeas corpus for non-citizens. Habeas corpus is the rule that the government must justify locking someone up. He has also pushed to use the Insurrection Act, a law that lets a president send soldiers into American cities. Linker’s fear is a leader who keeps calling things an “emergency” so he can step around the normal rules.",
+      "The other side. This is opinion, from a magazine that openly opposes Trump. Words like “zealot” and “fanatical” are the writer’s judgement, not facts. Miller’s supporters would say he is carrying out the immigration policy Trump campaigned on and won with in 2024. Two things here are guesses. That Susie Wiles blocked the habeas plan is, in Linker’s own words, something “we have reason to suspect”. And the constitutional crisis is a forecast, not an event. Courts and a Democratic Congress will also have a say from January."
+     ]
+    },
+    {
+     "type": "essay",
+     "essay_id": "1a1c03f311b75abb",
+     "new_page": false,
+     "optional": true,
+     "priority": 5,
+     "kicker": "ChinAI #381 · Nov 9",
+     "title": "China’s Venture Capital Market Is Defying Common Sense",
+     "author": "Jeffrey Ding (translating Liu Xiaoqing)",
+     "publication": "ChinAI Newsletter",
+     "dek": "A Chinese analyst lists five ways money for new tech companies has gone wrong.",
+     "paras": [
+      "Context: Liu Xiaoqing is director of analysis at IT Juzi, one of my favorite sources on China’s venture capital ecosystem. Last week, she posted a lengthy denunciation that begins with this bold statement:",
+      "> In 2026, a year where “embodied AI” has become practically in unison with “Chinese venture capital,” there are too many things happening that run counter to common sense.",
+      "Let’s break down Liu’s critique into five main parts.",
+      "## 1. Inflated valuations based on résumés alone",
+      "Big tech execs and elite university PhD graduates easily land initial valuations of hundreds of millions of RMB. Liu critiques the restless, rushed mindset of these young geniuses, who spin and chase narratives defined by fundraising windows — unmoored from technological progress and maturity.",
+      "## 2. All-star lineups that don’t form real teams",
+      "Liu has seen countless founding teams that look good on paper: “a brilliant technical lead, a former executive from a major tech firm, a supply-chain veteran, and someone well-versed in the world of capital.” In practice, the whole is much less than the sum of its parts. In a piece full of zingers, this might have been my favorite one:",
+      "> Yet, for many teams today, the journey looks more like this: the first time you meet happens at a dinner arranged by a financial advisor, the second time you meet takes place at the negotiating table for a term sheet, and the third you meet is the signing ceremony. People with completely different backgrounds, splitting equity 40/30/30, suddenly find themselves “running a company together” from day one. That’s not called a partnership; that’s called assembling a party for a video game quest.",
+      ">> That’s not called a partnership; that’s called assembling a party for a video game quest.",
+      "## 3. Startups that look like tech giants from day one",
+      "Liu recalls learning about an embodied AI startup founded in 2023. Its founding experience reflects how the VC market is skipping steps when it comes to cultivating organizational capital:",
+      "> They had raised hundreds of millions in their Series A round. Their office was in a high-rise building, complete with a logo wall at the reception. They had hired an HR director poached from a major tech giant, who spent the very first month setting up a rigid corporate hierarchy and performance review system. The founder, in his early thirties, had previously launched a startup out of a residential apartment, where four people shared a single case of instant noodles and spent three days haggling with a cloud service provider just to save on server costs. Only five years separate these two experiences. Yet, throughout those five years, he never truly experienced the process of an organization growing from five people to five hundred. But in this second venture, his team started out with five hundred people from the start.",
+      "## 4. Dependence on government-backed funds",
+      "Liu writes, “And here’s the most terrifying, yet often overlooked, aspect: a massive portion of this capital comes from state-backed funds.” Government guidance funds often involve an initial seed fund contributed by the government, with the remaining majority raised from local state-owned enterprises, private capital, and bank partners. However, as Liu notes, “When private capital enters a government guidance fund, it often comes with strings attached, such as requirements for ‘re-investment’ (investing a portion of the capital back into the local area), specific policy objectives, and various constraints that prioritize goals other than pure financial return.”",
+      "Liu’s piece contains this sobering quote: “Yet, even among the most professional and long-established funds, those that have been around for only seven or eight years, the number that have truly completed the full lifecycle of ‘fundraising, investment, management, and exit’ can be counted on one’s fingers.” Again, the big question is what happens when these funds reach maturity (typical funds have a lifespan of 7–10 years)? Liu shares more stories: “I have encountered instances where, by the time a fund reached maturity, not a single project had exited. In the end, the only solution was for a local state-owned enterprise (SOE) to step in and take over the assets.”",
+      "## 5. A fragile system",
+      "Putting all of these points together, Liu’s thesis is that China’s VC ecosystem is far too fragile. She outlines this un-virtuous circle: “Capital flows in too quickly, forcing young founders to chase ever-higher valuations; the pace of growth outstrips the organization’s ability to mature… by the time these valuations are reached, no clear path for an exit has been established; with no exit in sight, the pressure ultimately falls back on the founders.”",
+      "She ends with a comparison to a previous wave of mass entrepreneurship in the mid-2010s, when there was a boom of e-commerce and internet startups. There were also absurd valuations in that wave, but the chaotic mix was resilient because the ecosystem had a tolerance for failure. Liu points out, “Consequently, while that previous wave saw a massive number of casualties, the deaths were ‘clean’ — leaving the soil, in fact, even more fertile.” In contrast, the current Chinese entrepreneurship wave is lacking time and tolerance for failure."
+     ],
+     "source_note": "chinai.substack.com/p/chinai-381-chinas-venture-capital · full translation linked there",
+     "counter_label": "Why it’s here",
+     "counterpoint": [
+      "It is a view from inside China, translated, about how new companies get money. Like Noah Smith in the Newsstand, it says China’s state-led investing has gone too far. Liu Xiaoqing is one analyst with one view. Others in China would defend the state’s role."
+     ]
+    },
+    {
+     "type": "essay",
+     "essay_id": "1a1b7deb2c081195",
+     "new_page": false,
+     "optional": true,
+     "priority": 2,
+     "kicker": "Noahpinion · Nov 7 · Opinion",
+     "title": "Why I’m Becoming a China Bear",
+     "author": "Noah Smith",
+     "publication": "Noahpinion",
+     "dek": "An economics writer who always expected China to keep rising explains why he has changed his mind.",
+     "paras": [
+      "When I tell people I’m becoming a China bear, they’re often surprised. “Weren’t you already a China bear?” they ask me.",
+      "Well, no. I’ve always been a China bull — I’ve always believed that China’s economic growth would be robust, that they would master advanced technologies, and that their geopolitical influence would grow. This is exactly why I was also always a China hawk1 — I recognized the very real possibility that China would become a global hegemon, and I didn’t especially want to live in a world ruled from Beijing. It’s why I advocated so strongly for friend-shoring, for export controls, and for military alliances to balance out China’s awesome and growing power.",
+      "This was true even as China began to show visible signs of weakness in the late 2010s and early 2020s. Xi Jinping proved himself less competent than his predecessors, and the country’s real-estate-heavy growth model hit the skids. But despite those stumbling blocks, I still predicted that this would be the Chinese Century. The country had what seemed like unassailable advantages in human capital, market size, and state capacity, even as all of its possible rivals were convulsed by internal division. And the one thing that most people cite as China’s big weakness — demographic decline — never struck me as much of a threat to the country’s power.",
+      "Now, however, for the first time I can remember, I’ve found myself becoming actually bearish on China. I still think it will be an immensely powerful country — perhaps the most powerful single country on the planet. I still think it will be at or near the forefront of technology, and that it will generally be a safe, moderately prosperous, and tolerable place for its people to live. But more and more, I’m starting to think that global hegemony of the type the U.S. enjoyed throughout most of the 20th century will be out of reach. I’m also starting to think that China’s bid for technological dominance is weaker than I had believed.",
+      "And just as my previous bullishness made me a hawk, my increasing bearishness makes me more of a China dove. I still think friend-shoring is important, export controls are good, and we need robust military alliances to make very sure China doesn’t try to conquer Asia. But I no longer feel the same sense of desperate urgency about these prudent measures — they feel more like an insurance policy now.",
+      "There are basically three reasons I’m revising my China expectations downward. The biggest reason is AI. China’s system is incredibly optimized for an era of technology and economic production that is very quickly coming to an end. AI will change everything, and modern China is not the kind of country that adapts well when everything changes.",
+      "The other reasons are less important but still worth mentioning. China’s new economic model — the government-supported push to capture all of global high-tech manufacturing — is not likely to succeed. And third, the country’s political situation appears to be deteriorating. Just as the Deng/Jiang/Hu era illustrated the strengths of authoritarian political systems, Xi Jinping is giving us a much-needed lesson on the weaknesses of those systems. His spiraling paranoia is turning the country inward, just as his economic policies are running out of steam.",
+      "Anyway, let’s start with those economic policies. This is an economics blog, after all.",
+      "## China’s manufacturing push is hitting its limits",
+      "In a nutshell, Xi Jinping’s economic strategy is to dominate manufacturing — to have China be, in the words of Damien Ma, the “make-everything country”. I’m increasingly convinced that this approach is already beginning to backfire.",
+      "Going all-in on manufacturing is a strategy you see a lot of developing countries use during their periods of rapid catch-up industrialization. And there are some good reasons for that. When you’re poor, what your people need most aren’t video games or dog-walking services, but houses and cars and refrigerators. Manufactured products are also easy to export, and poor countries don’t have big domestic markets to rely on. It might also be easier to reach the technological frontier in manufacturing, since you can reverse-engineer physical products more easily than services.",
+      "Usually, as countries get rich and their needs evolve from the physical to the ephemeral, they move out of manufacturing and into services to some degree. But Xi Jinping decided that this was a mistake. He reasoned that if China continued to behave like a developing country forever, and promoted manufacturing at the expense of everything else, China could dominate the globe.",
+      "This was an interesting hypothesis, and it might have worked — indeed, there’s still some chance it might work. Militaries, after all, depend on manufacturing above all else, so in a big protracted WW2-style war, being the master of manufacturing might give you an automatic win.",
+      "And dominating key nodes in global supply chains lets you use export controls to bully other countries without actually bombing them. In fact, China is doing this more and more, using export controls on everything from tunnel-boring machines to rare earths to drones to medicines as bludgeons to force other nations to do its bidding.",
+      "In order to make China dominate global manufacturing, Xi unleashed a wave of industrial policy bigger than any the world had ever seen, spending about 4% of GDP per year on subsidizing manufacturing industries — usually through cheap bank loans, but sometimes just by sending cash directly.",
+      "For a while, this seemed to be working spectacularly. A 2024 paper by UNIDO got a lot of attention for predicting that China’s share of global manufacturing would be 45% by 2030 — equal to the United States right after World War 2. But cooler heads pointed out that China’s manufacturing share growth had already slowed; more reasonable predictions put its 2030 share at maybe 35-36% — still enormous, but more like America in the 1960s or the early 1920s.",
+      "And in U.S. dollar terms, China’s share peaked during the pandemic and has been drifting down since then:",
+      "In fact, despite Xi’s push, manufacturing is a shrinking share of China’s economy. China is now less industrial than South Korea, despite being less than half as rich:",
+      "The reason is simple, and it’s something I’ve written about many times before. Unlike South Korea, China is a very large country. That means most of China’s manufacturing production is going to have to go to the domestic market. Even if other countries don’t slap big tariffs on your products, export markets will simply saturate. One of the most reliable empirical laws in all of economics is the gravity model of trade, which says that trade volumes drop off rapidly with distance.",
+      "Of course, some countries will put tariffs on China. The EU recently forced China to make a deal to limit auto imports, and if that doesn’t work, stronger measures are likely. That will only accelerate the natural saturation of China’s export markets.",
+      "And despite everything you’ve read about the “Second China Shock” and the big export boom, China is still far less export-intensive than Korea, and that’s not going to change:",
+      "China simply can’t be Giant Korea; it’s so big that its manufacturers need to rely on its domestic market. But that domestic market is becoming saturated even faster than the global market. Profits in the auto sector, the steel sector, the solar sector, and many other manufacturing industries are all collapsing. Weak domestic demand from China’s real estate bust has encountered massive oversupply from government subsidies, and the result is that few companies in China are making much money. That will force lots of businesses to close and consolidate, and it will starve dynamic private-sector companies of R&D budgets, forcing them to rely more on research handed down by the distant, unresponsive, and unaccountable government.",
+      "Government subsidies can keep the party going a lot longer than it ought to, but already the limits have probably been reached. Chinese manufacturing indicators are faltering, and manufacturing investment seems to have topped out as well.",
+      "In fact, this isn’t even the only example of Xi Jinping taking a developing-country strategy and pushing it far beyond its limits. Infrastructure is another. For many years, China invested huge amounts into building more roads and bridges and high-speed trains than they knew what to do with. But there was a limit to that process, and China has now hit the limit. The Economist reports that China’s infrastructure investment has leveled off:",
+      "> China’s years-long splurge on bridges, tunnels, expressways, high-speed rail and airports is beginning to tail off…In July this year a senior transport official said China’s main transport network was “91% complete”, and the country would pivot from expanding to upgrading existing infrastructure.",
+      "But it isn’t so easy weaning yourself off of infrastructure overinvestment. China built so much infrastructure that it will have to spend a lot of money just to upkeep all those roads, trains, and bridges. That’s the iron logic of depreciation. And since much of China’s infrastructure isn’t really carrying many passengers or much cargo, that means China is stuck spending a significant fraction of its GDP upkeeping stuff that people don’t really need — unless, of course, it chooses to let some of that infrastructure decay into ruin.",
+      "All of this means growth will slow. And of course, it’s all happening against the backdrop of weak demand from the continuing, protracted fallout from China’s real estate bust. There are signs that the real economic damage in that sector is only getting started:",
+      "Weak domestic demand won’t just be a drag on China’s headline growth — it will also make it harder for China’s manufacturing sector to maintain its 30% global market share, much less expand it to 35% or more. Xi seems to think that China can just sort of pull resources off of real estate development and put them into manufacturing, one for one, like a corporate manager reassigning engineers to a different project. But it doesn’t work like that; demand matters, and China’s manufacturing triumphs in past decades depended heavily on the tailwind that the long property boom had been delivering.",
+      "Chinese economists realize this, but Xi seems to have stopped listening to economists, and to have purged his government of anyone who was inclined to listen.",
+      "(And of course as the years go by, China’s accelerating population decline will reduce its domestic market size by more and more, compounding the pressure on manufacturing. I don’t expect this to be a big factor until at least 2040 or so, but it’s worth mentioning.)",
+      "In other words, Xi’s “make-everything country” strategy is likely to see only modest short-term success. It will not let China conquer the world. And the failure of this strategy will come just as a massive new technological revolution upends the global economy — a revolution that China, despite all reports, is not well-prepared to take advantage of."
+     ],
+     "source_note": "noahpinion.blog/p/why-im-becoming-a-china-bear · the free part of the post; the charts are left out, and the section on AI is for subscribers",
+     "counter_label": "In plain words, and the other side",
+     "counterpoint": [
+      "The short version: a “bear” expects something to do badly, and a “bull” expects it to do well. Smith was a China bull for years. Now he doubts China can lead the world. His first reason is here. China’s leader, Xi Jinping, wants China to make everything. The state spends about 4% of the whole economy each year helping factories. But China is too big to live on exports. Its own shoppers are spending less after the housing bust. So factories make more than anyone buys, and profits fall. China also built so many roads and railways that upkeep alone will be costly.",
+      "The other side. Smith says himself that the plan “might have worked” and still might. A country that makes most of the world’s goods has real power, in trade and in war. People have predicted China’s slowdown many times and been early. His biggest reason, that China will handle AI badly, is behind the paywall, so you are reading the smaller part of his case. And he writes from the United States, with an American view of who should lead."
+     ]
+    },
+    {
+     "type": "box",
+     "style": "poem",
+     "optional": true,
+     "priority": -2,
+     "label": "A poem for a cold week",
+     "paras": [
+      "The way a crow / Shook down on me",
+      "The dust of snow / From a hemlock tree",
+      "Has given my heart / A change of mood",
+      "And saved some part / Of a day I had rued.",
+      "Robert Frost, “Dust of Snow”, 1920. To rue a day is to wish it had gone differently."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "stand",
+   "title": "The Newsstand",
+   "new_page": false,
+   "tab": "Your inbox",
+   "aside": "The last 24 hours, summed up",
+   "blocks": [
+    {
+     "type": "newsstand",
+     "items": [
+      {
+       "essay_id": "1a1b7deb2c081195",
+       "pub": "Noahpinion",
+       "author": "Noah Smith",
+       "title": "Why I’m becoming a China bear",
+       "mode": "in full",
+       "summary": "Printed in full in the Essays.",
+       "hide_if_full": true,
+       "fallback": [
+        "Opinion, from Saturday. Noah Smith long expected China to keep rising. Now he doubts it. China’s plan to make everything is running into a wall, he says: its own shoppers are spending less, export markets are filling up, and factory profits are falling. The free part of the post stops before his main reason, which is AI."
+       ]
+      },
+      {
+       "essay_id": "1a1c348a38c199f7",
+       "pub": "AI Futures Project",
+       "title": "Verified compute allocation disclosures as a foundational governance tool",
+       "mode": "summary",
+       "long": true,
+       "url": "https://blog.aifutures.org/p/verified-compute-allocation-disclosures",
+       "paras": [
+        "A policy proposal, and close to your interest in technical AI governance. “Compute” means the computer chips an AI company runs. The authors want AI companies to report regularly how they use their compute: how much goes to building stronger AI, how much to safety research, and how much to serving customers. Outside auditors would check the reports. They call this VCAD.",
+        "Why bother? The authors want companies to slow down the building of more powerful AI. They call that “pacing”. Almost every way of slowing down, they argue, needs someone to check that no hidden chips are doing banned work. They also say it is not enough to delay big training runs. If research carries on, the progress piles up and arrives all at once later. Public reports could let people compare companies and reward the careful ones.",
+        "Keep in mind: the authors rate their own confidence as “medium”. The group behind the post wants AI development slowed, so it starts from that goal. The post does not say how auditors would catch hidden chips, or why companies would agree to be checked."
+       ]
+      },
+      {
+       "essay_id": "1a1c2657eebbb358",
+       "pub": "Astral Codex Ten",
+       "title": "Open Thread 459",
+       "mode": "blurb",
+       "url": "https://www.astralcodexten.com/p/open-thread-459",
+       "summary": "Two notes. An astronomer wrote in to say it is untrue that there are millions of “Wow” signals. And marches for an AI treaty are planned for Saturday, Nov 14, in cities across the US, Canada and France."
+      },
+      {
+       "essay_id": "1a1c162ac8d53883",
+       "pub": "Visual Capitalist",
+       "title": "The world’s biggest economies vs. debt in 2026",
+       "mode": "blurb",
+       "url": "https://www.visualcapitalist.com/largest-economies-vs-government-debt-2026/",
+       "summary": "A chart, not an essay. The US has the largest economy. Sudan owes the most compared with the size of its economy."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "email_notes": [
+  "Opportunities left out of print. Not practical from Toronto: AI Safety Montréal’s governance course (in person in Montréal, closes today); its AGI Strategy course (in person, Nov 16); AFFINE’s seminar in Portugal (visa applicants were asked to apply by Nov 8); Gen Stream’s week in Oxford (closes Nov 11, starts Nov 22, in term time, and needs a UK visa check); PRISM (not open yet; we could not confirm its dates on its own site). Left out because they don’t fit you yet: Iliad (math PhD level, Nov 16), Anthropic Residency (senior, Nov 22), Tarbell (journalism, Nov 22), LawAI (law students, Jan 29), Oxford technical AI governance DPhil (PhD, Dec 2), AI Security Bootcamp (working security staff), GovAI DC (needs US work rights). BlueDot’s Technical AI Safety course repeats your TAISI fellowship. Algoverse’s free AI Safety Fellowship is closed; its Nov 15 banner is for a paid program. Recently closed: MATS Winter, Pivotal, ERA Winter, LASR Winter, IAPS, Anthropic Fellows. No dates yet: MATS Summer 2027, LASR Summer 2027. EA Global San Francisco is Mar 19 to 21, 2027; applications are not open. Always check dates on the program’s site.",
+  "Todoist is now read every day. Three school items show as overdue (ENGA10 midterm, Oct 27; Scaffolding Assignment 2, Nov 2; PHLB18 reading response, Nov 9). Tick off the ones that are done so they stop appearing.",
+  "World and Science stories all come from Al Jazeera and Science News today; other outlets’ pages did not load. Each story was read on its own article page.",
+  "Noah Smith’s essay is the free part of a subscriber post. Its charts are not printed.",
+  "Visual Capitalist’s page blocked our reader, so that item is a one-line blurb from the email itself."
+ ],
+ "credits": [
+  "Front page band and Newsstand plate: Katsushika Hokusai, Famous Places on the Tōkaidō in One View (c. 1818). UBC Library, no known copyright restrictions.",
+  "Poem: Robert Frost, “Dust of Snow” (1920), public domain.",
+  "Maps: Natural Earth data via world-atlas. Weather: Open-Meteo."
+ ],
+ "back": {
+  "src": "assets/art/processed/back-01-nihonbashi.png",
+  "kicker": "The Road · Stop 1 of 55",
+  "title": "Nihonbashi: Morning View · Hiroshige, c. 1834",
+  "caption": "Every trip on the Tōkaidō, the great road from Edo (now Tokyo) to Kyoto, started at this bridge. Here a lord’s parade crosses at dawn while fish sellers wait to get by. Hiroshige made 55 prints of the road. Turn the page sideways to see it the right way up.",
+  "credit": "Public domain. Cooper Hewitt, Smithsonian Design Museum, via Wikimedia Commons."
+ }
+}

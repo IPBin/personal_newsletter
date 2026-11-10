@@ -38,7 +38,7 @@ essay_tb = {
 }
 
 essay_nb = {
-    "type": "essay", "essay_id": "1a1b7deb2c081195", "new_page": False, "optional": True, "priority": 5,
+    "type": "essay", "essay_id": "1a1b7deb2c081195", "new_page": False, "optional": True, "priority": 2,
     "kicker": "Noahpinion · Nov 7 · Opinion", "title": "Why I’m Becoming a China Bear",
     "author": "Noah Smith", "publication": "Noahpinion",
     "dek": "An economics writer who always expected China to keep rising explains why he has changed his mind.",
@@ -52,36 +52,38 @@ essay_nb = {
 }
 
 essay_chinai = next(b for s in proof["sections"] for b in s["blocks"] if b.get("essay_id") == "1a1c03f311b75abb")
-essay_chinai = {**essay_chinai, "priority": 2, "optional": True, "new_page": False,
-                "counterpoint": ["It is a view from inside China, translated, about how new companies get money. Read it next to Noah Smith’s essay before it. Both say China’s state-led investing has gone too far. Liu Xiaoqing is one analyst with one view. Others in China would defend the state’s role."]}
+essay_chinai = {**essay_chinai, "priority": 5, "optional": True, "new_page": False,
+                "counterpoint": ["It is a view from inside China, translated, about how new companies get money. Like Noah Smith in the Newsstand, it says China’s state-led investing has gone too far. Liu Xiaoqing is one analyst with one view. Others in China would defend the state’s role."]}
 
 # ---------------------------------------------------------------- newsstand
 newsstand = {"type": "newsstand", "items": [
     {"essay_id": "1a1b7deb2c081195", "pub": "Noahpinion", "author": "Noah Smith", "title": "Why I’m becoming a China bear",
      "mode": "in full", "summary": "Printed in full in the Essays.", "hide_if_full": True,
-     "fallback": ["Opinion. Noah Smith long expected China to keep rising. Now he doubts it. China’s plan to make everything is running into a wall, he says: its own shoppers are spending less, export markets are filling up, and factory profits are falling. The free part of the post stops before his main reason, which is AI."]},
+     "fallback": ["Opinion, from Saturday. Noah Smith long expected China to keep rising. Now he doubts it. China’s plan to make everything is running into a wall, he says: its own shoppers are spending less, export markets are filling up, and factory profits are falling. The free part of the post stops before his main reason, which is AI."]},
     {"essay_id": "1a1c348a38c199f7", "pub": "AI Futures Project", "title": "Verified compute allocation disclosures as a foundational governance tool",
-     "mode": "summary", "long": True, "paras": [
+     "mode": "summary", "long": True, "url": "https://blog.aifutures.org/p/verified-compute-allocation-disclosures", "paras": [
         "A policy proposal, and close to your interest in technical AI governance. “Compute” means the computer chips an AI company runs. The authors want AI companies to report regularly how they use their compute: how much goes to building stronger AI, how much to safety research, and how much to serving customers. Outside auditors would check the reports. They call this VCAD.",
         "Why bother? The authors want companies to slow down the building of more powerful AI. They call that “pacing”. Almost every way of slowing down, they argue, needs someone to check that no hidden chips are doing banned work. They also say it is not enough to delay big training runs. If research carries on, the progress piles up and arrives all at once later. Public reports could let people compare companies and reward the careful ones.",
         "Keep in mind: the authors rate their own confidence as “medium”. The group behind the post wants AI development slowed, so it starts from that goal. The post does not say how auditors would catch hidden chips, or why companies would agree to be checked.",
      ]},
-    {"essay_id": "1a1c2657eebbb358", "pub": "Astral Codex Ten", "title": "Open Thread 459", "mode": "blurb",
+    {"essay_id": "1a1c2657eebbb358", "pub": "Astral Codex Ten", "title": "Open Thread 459", "mode": "blurb", "url": "https://www.astralcodexten.com/p/open-thread-459",
      "summary": "Two notes. An astronomer wrote in to say it is untrue that there are millions of “Wow” signals. And marches for an AI treaty are planned for Saturday, Nov 14, in cities across the US, Canada and France."},
-    {"essay_id": "1a1c162ac8d53883", "pub": "Visual Capitalist", "title": "The world’s biggest economies vs. debt in 2026", "mode": "blurb",
+    {"essay_id": "1a1c162ac8d53883", "pub": "Visual Capitalist", "title": "The world’s biggest economies vs. debt in 2026", "mode": "blurb", "url": "https://www.visualcapitalist.com/largest-economies-vs-government-debt-2026/",
      "summary": "A chart, not an essay. The US has the largest economy. Sudan owes the most compared with the size of its economy."},
 ]}
 
 poem = {"type": "box", "style": "poem", "optional": True, "priority": -2, "label": "A poem for a cold week",
-        "paras": ["The way a crow / Shook down on me / The dust of snow / From a hemlock tree",
-                  "Has given my heart / A change of mood / And saved some part / Of a day I had rued.",
+        "paras": ["The way a crow / Shook down on me",
+                  "The dust of snow / From a hemlock tree",
+                  "Has given my heart / A change of mood",
+                  "And saved some part / Of a day I had rued.",
                   "Robert Frost, “Dust of Snow”, 1920. To rue a day is to wish it had gone differently."]}
 plate = {"type": "figure", "optional": True, "priority": -1, "src": "assets/art/processed/overworld-crop-kyoto.png",
          "caption": "Edo (today’s Tokyo, bottom right), where the road begins at Nihonbashi bridge. From Hokusai’s map of the Tōkaidō, about 1818."}
 
 # ---------------------------------------------------------------- weather
-wx = world["weather"]["daily"][:5]
-t0 = wx[0]
+wx = [{**d, "precipitation_type": d.get("precipitation_type") if d.get("precipitation_type") not in (None, "none") else ""}
+      for d in world["weather"]["daily"][:5]]
 
 # ---------------------------------------------------------------- front + desk
 front = {
@@ -122,29 +124,30 @@ desk = {"id": "desk", "title": "Your Desk", "tab": "For you", "aside": "What nee
         {"time": "Nov 16", "what": "Shivam’s cohort: you’re on food", "where": "kosher meal needed · Todoist"},
         {"time": "Nov 23", "what": "Scaffolding Assignment 3 due", "where": "Todoist"},
     ]},
-    {"type": "channels", "title": "TAISI Slack · since Sunday", "channels": [
-        {"name": "#taisi-team", "points": [
-            "Isabel reminded everyone to upload receipts to HCB. One missing receipt has locked Joseph’s card. That hurts people who use the Uber Business account.",
-            "Someone outside TAISI wants to run a linear algebra study group. Joseph thinks it does little harm and costs little: he would book a room and refer people, but not call it a TAISI program. Boyan agrees. He adds that U of T students could take MAT223 for credit instead. Joseph offered to call the organizer first.",
-            "Boyan asked that anyone helping run a session watch Discord for about 30 minutes after it starts, in case someone comes late.",
-            "Your Monday food order went through: Dr. Laffa (kosher) for Daniel, Ali Baba for the rest. Isabel said thanks.",
-        ]},
-        {"name": "#f26-facilitators", "points": ["Tazik shared the slides from Sunday’s mech-interp talk."]},
-        {"name": "#hackathons", "points": ["On Sunday, Pera said to hold off on ordering food. There were leftover subs from David’s fellowship."]},
-        {"name": "Quiet", "points": ["Nothing new in #general, #colloquium, #phl-panel, #reading-group, #writing-desk, #si-main, #si-notebooks or #off-topic."]},
-    ]},
     {"type": "events", "title": "Your events (from Luma)", "items": [
         {"when": "Nov 10", "time": "Tue", "name": "AI Safety Week, Day 2.", "detail": "Three sessions at the Design Exchange, 11:15 to 4:45.", "status": "approved"},
         {"when": "Nov 9–11", "time": "6 pm", "name": "The Hinton Lectures 2026.", "detail": "Paul Christiano, three evenings. One livestream link works for all three.", "status": "registered"},
         {"when": "Nov 11", "time": "Wed", "name": "AI Safety Week, Day 3.", "detail": "Power Concentration Risk, 11:15.", "status": "approved"},
         {"when": "Nov 6–8", "time": "you hosted", "name": "Swarm Alignment Hackathon Toronto.", "detail": "Done. Ilyass sent the slides to guests on Sunday.", "status": "done"},
     ]},
+    {"type": "channels", "title": "TAISI Slack · since Sunday", "channels": [
+        {"name": "#taisi-team · money and plans", "points": [
+            "Isabel reminded everyone to upload receipts to HCB. One missing receipt has locked Joseph’s card. That hurts people who use the Uber Business account.",
+            "Someone outside TAISI wants to run a linear algebra study group. Joseph would book a room and refer people, but not call it a TAISI program. Boyan agrees. Joseph offered to call the organizer first.",
+        ]},
+        {"name": "#taisi-team · running sessions", "points": [
+            "Boyan asked that anyone helping run a session watch Discord for about 30 minutes after it starts, in case someone comes late.",
+        ]},
+        {"name": "#f26-facilitators", "points": ["Tazik shared the slides from Sunday’s mech-interp talk."]},
+        {"name": "#hackathons", "points": ["On Sunday, Pera said to hold off on ordering food. There were leftover subs from David’s fellowship."]},
+        {"name": "Quiet", "points": ["Nothing new in #general, #colloquium, #phl-panel, #reading-group, #writing-desk, #si-main, #si-notebooks or #off-topic."]},
+    ]},
 ]}
 
 # Filled in below once the news and opportunities are in (kept here so the words sit together).
 front["lede"] = [
     "Three AI Safety Week sessions fill your day at the Design Exchange, from 11:15 to 4:45. Paul Christiano’s second Hinton Lecture streams at 6. "
-    + world["weather"].get("lede", "") +
+    + "It stays dry and mild, up to 16°. Rain is likely on Thursday." +
     " One thing is late: the PHLB18 reading response was due Monday."
 ]
 front["brief"] = P("brief.json")
@@ -163,22 +166,79 @@ def region(src, key, kicker, title, region_id=None):
     b["stories"][0]["lead"] = True
     return b
 
-graphics = P("graphics.json")   # {"after_usa": [...blocks], "after_world": [...], "bubble": {...}}
+# ---- fit to the page budget: fewer, shorter stories (PLAYBOOK §3: never pad, and 20 pages is a hard cap)
+def keep(src, key, drop=(), two_paras=()):
+    src[key]["stories"] = [st for st in src[key]["stories"] if st["tag"] not in drop]
+    for st in src[key]["stories"]:
+        if st["tag"] in two_paras:
+            st["paras"] = st["paras"][:2]
+
+keep(regions, "indonesia", drop=("Tourism",), two_paras=("Culture", "Health", "Students"))
+keep(regions, "canada", drop=("Money",), two_paras=("Work", "Budget"))
+keep(regions, "usa", drop=("Congress",), two_paras=("Schools",))
+keep(world, "world", drop=("India", "Cameroon"))
+world["world"]["map_points"] = [m for m in world["world"]["map_points"] if m["label"] not in ("Gurugram", "Yaoundé")]
+regions["indonesia"]["map_points"] = [m for m in regions["indonesia"]["map_points"] if m["label"] != "Anak Krakatau"]
+regions["indonesia"]["blurb"] = "Old rights cases, a new deal for writers and artists, and a prize-winning chip."
+regions["canada"]["blurb"] = "Longer work permits, an old pandemic bill, and guns before the top court."
+regions["usa"]["blurb"] = "A court lets the border wall go on, and Democrats plan their next two years."
+world["world"]["blurb"] = "A climate summit, a wage rise, a fallen bank, and two new gates in Cyprus."
+
+# opportunities he cannot realistically take go to the note line, not the list
+OUT = {"Frontier AI Governance course": "AI Safety Montréal’s governance course (in person in Montréal, closes today)",
+       "AGI Strategy course": "its AGI Strategy course (in person, Nov 16)",
+       "AFFINE Superintelligence Alignment Seminar": "AFFINE’s seminar in Portugal (visa applicants were asked to apply by Nov 8)",
+       "Gen Stream, Cohort 2": "Gen Stream’s week in Oxford (closes Nov 11, starts Nov 22, in term time, and needs a UK visa check)",
+       "PRISM AI Safety Research Fellowship": "PRISM (not open yet; we could not confirm its dates on its own site)"}
+for g in opps["groups"]:
+    g["items"] = [i for i in g["items"] if not (i["name"] in OUT and i["org"] != "BlueDot Impact")]
+LEFT_OUT = "Not practical from Toronto: " + "; ".join(OUT.values()) + ". " + opps["note"]   # goes in the email, not the paper
+opps["note"] = "Programs that don’t fit you yet are listed in this morning’s email. Always check dates on the program’s own site."
+opps["intro"] = "Picked for a second-year CS and Public Policy student on TAISI’s operations team. ★ = strong fit. Each item says why. Dates were checked on each program’s own page on Nov 9."
+
+for src in (regions, world):
+    for k in ("indonesia", "canada", "usa", "world", "science"):
+        for st in src.get(k, {}).get("stories", []):
+            if st.get("views"):   # the template prints "Not everyone agrees." itself
+                st["views"] = st["views"].replace("Not everyone agrees. ", "", 1)
+regions["indonesia"]["map_points"] = [{"lon": 106.85, "lat": -6.2, "label": "Jakarta", "anchor": "end"}, {"lon": 107.61, "lat": -6.91, "label": "Bandung"}]
+regions["canada"]["map_points"] = [{"lon": -75.7, "lat": 45.42, "label": "Ottawa", "anchor": "end"}]
+regions["usa"]["map_points"] = [{"lon": -77.04, "lat": 38.9, "label": "Washington", "anchor": "end"}, {"lon": -103.25, "lat": 29.25, "label": "Big Bend"}]
+
+def cut(src, key, tag, para, sentences):
+    st = next(x for x in src[key]["stories"] if x["tag"] == tag)
+    parts = re.split(r"(?<=[.”]) ", st["paras"][para])
+    st["paras"][para] = " ".join(parts[:sentences])
+    if not sentences:
+        del st["paras"][para]
+
+cut(regions, "indonesia", "Rights", 2, 1)     # keep the list of cases, drop the process detail
+cut(regions, "usa", "Courts", 1, 3)
+cut(world, "world", "Turkey", 1, 0)
+cut(regions, "canada", "Work", 1, 0)
+cut(world, "world", "Paraguay", 1, 4)
+cut(regions, "canada", "Courts", 2, 0)
+cut(regions, "usa", "Schools", 1, 0)
+
+charts = {c["title"]: {k: v for k, v in c.items()} for c in regions["charts"] + world["charts"]}
+world["world"]["chart"] = charts["France’s minimum wage: the offer and the demands"]
+regions["indonesia"]["chart"] = charts["Indonesian schoolchildren and exercise"]
+bubble = {"type": "box", "style": "tint", "label": "Bubble check", "paras": [
+    "Eight of the 14 newsletter emails that reached you in the last day were about AI. None of today’s 16 news stories is. "
+    "For a change of pace, read up on Cyprus. The island has been split for 52 years, and Monday brought its first real step in almost ten."]}
 world_blocks = [
     region(regions, "indonesia", "Region one", "Indonesia", "indonesia"),
     region(regions, "canada", "Region two", "Canada", "canada"),
     region(regions, "usa", "Region three", "United States", "usa"),
-    *graphics["after_usa"],
     region(world, "world", "Region four", "Around the World"),
-    *graphics["after_world"],
     region(world, "science", "Region five", "Science"),
-    graphics["bubble"],
+    bubble,
 ]
 
 issue = {
     "date": "2026-11-10", "date_long": "Tuesday, November 10, 2026", "weekday": "Tuesday",
     "number": "1", "edition": "Morning edition",
-    "weather_word": world["weather"]["word"], "weather": {"daily": wx},
+    "weather_word": "Mild & cloudy", "weather": {"daily": wx},
     "front": front,
     "sections": [
         desk,
@@ -186,11 +246,22 @@ issue = {
          "blocks": [{k: v for k, v in opps.items() if k in ("type", "intro", "ruler_days", "groups", "note")}]},
         {"id": "world", "title": "The World", "tab": "News", "aside": "The facts first. The opinions get labels.", "new_page": True, "blocks": world_blocks},
         {"id": "essays", "title": "The Essays", "tab": "Read slowly", "aside": "Printed whole, in the writers’ own words",
-         "blocks": [essay_tb, essay_nb] + ([essay_chinai] if P("options.json").get("chinai") else [])},
+         "blocks": [essay_tb, essay_chinai, essay_nb, poem]},
         {"id": "stand", "title": "The Newsstand", "new_page": False, "tab": "Your inbox", "aside": "The last 24 hours, summed up",
-         "blocks": [newsstand, poem, plate]},
+         "blocks": [newsstand]},
     ],
-    "gallery": proof["gallery"],
+    "email_notes": [
+        "Opportunities left out of print. " + LEFT_OUT,
+        "Todoist is now read every day. Three school items show as overdue (ENGA10 midterm, Oct 27; Scaffolding Assignment 2, Nov 2; PHLB18 reading response, Nov 9). Tick off the ones that are done so they stop appearing.",
+        "World and Science stories all come from Al Jazeera and Science News today; other outlets’ pages did not load. Each story was read on its own article page.",
+        "Noah Smith’s essay is the free part of a subscriber post. Its charts are not printed.",
+        "Visual Capitalist’s page blocked our reader, so that item is a one-line blurb from the email itself.",
+    ],
+    "credits": [
+        "Front page band and Newsstand plate: Katsushika Hokusai, Famous Places on the Tōkaidō in One View (c. 1818). UBC Library, no known copyright restrictions.",
+        "Poem: Robert Frost, “Dust of Snow” (1920), public domain.",
+        "Maps: Natural Earth data via world-atlas. Weather: Open-Meteo.",
+    ],
     "back": {**proof["back"],
              "caption": "Every trip on the Tōkaidō, the great road from Edo (now Tokyo) to Kyoto, started at this bridge. Here a lord’s parade crosses at dawn while fish sellers wait to get by. Hiroshige made 55 prints of the road. Turn the page sideways to see it the right way up."},
 }

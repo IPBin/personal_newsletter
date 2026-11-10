@@ -1,0 +1,314 @@
+{
+ "indonesia": {
+  "map_points": [
+   {
+    "lon": 106.85,
+    "lat": -6.2,
+    "label": "Jakarta"
+   },
+   {
+    "lon": 107.61,
+    "lat": -6.91,
+    "label": "Bandung"
+   },
+   {
+    "lon": 105.42,
+    "lat": -6.1,
+    "label": "Anak Krakatau",
+    "anchor": "end"
+   }
+  ],
+  "kicker": "Region one",
+  "title": "Indonesia",
+  "blurb": "Old rights cases, more visitors, and a new deal for artists and writers.",
+  "stories": [
+   {
+    "lead": true,
+    "tag": "Rights",
+    "headline": "A new working group will try to move 13 stalled human rights cases",
+    "paras": [
+     "The government has set up a working group on past serious human rights cases. Coordinating Minister Yusril Ihza Mahendra announced it in Jakarta on Monday. Deputy Coordinating Minister Otto Hasibuan leads it.",
+     "Indonesia recognizes 17 such cases. Only four have gone to court. The other 13 are stuck between two bodies. The rights commission, Komnas HAM, does the first inquiry. The Attorney General’s Office then investigates and prosecutes. Prosecutors keep sending files back, saying the evidence is not enough.",
+     "The stalled cases include the 1965–1966 anti-communist killings, the 1997–1998 forced disappearances and the May 1998 riots. The group will not change the law. One idea is to have prosecutors help Komnas HAM early, so files meet legal standards."
+    ],
+    "why": "Families have waited decades for these cases to reach a court.",
+    "outlet": "ANTARA",
+    "date": "Nov 9",
+    "url": "https://en.antaranews.com/news/441355/indonesia-forms-working-group-to-resolve-stalled-human-rights-cases"
+   },
+   {
+    "tag": "Tourism",
+    "headline": "Foreign visits to Indonesia rose 5% in the first nine months",
+    "paras": [
+     "Indonesia counted 12.01 million foreign tourist visits from January to September. That is 5.01% more than in the same months last year. Tourism Minister Widiyanti Putri Wardhana gave the figures in Jakarta on Monday.",
+     "September alone had 1.43 million visits, up 2.31% from a year ago. That growth came despite an eruption of Mount Anak Krakatau. The eruption disrupted flights at eight airports and affected more than 454,000 passengers.",
+     "Each foreign visitor spent US$1,374 on average in the third quarter, up 5.95%. Visits from Europe fell 4.27%. Indonesians themselves made 938.84 million trips at home, up 4.1%."
+    ],
+    "why": "The ministry estimates tourism makes up about 4% of the whole economy.",
+    "outlet": "ANTARA",
+    "date": "Nov 9",
+    "url": "https://en.antaranews.com/news/441279/international-tourist-arrivals-reach-1201-million-in-september"
+   },
+   {
+    "tag": "Culture",
+    "headline": "The government wants authors paid when libraries lend their books",
+    "paras": [
+     "The government has proposed new rights for creators in a draft copyright law. Officials discussed it with parliament’s lawmaking body in Jakarta on Monday. Hermansyah Siregar, the Director General of Intellectual Property, set out the ideas.",
+     "One idea is a public lending right. It would pay authors when libraries lend their works. Another is a resale right. It would give visual artists a share when certain works of art are sold again.",
+     "The draft would also give press companies economic rights over their journalism. It would make digital platforms more accountable. The government has prepared a list of 1,117 points to discuss."
+    ],
+    "why": "It could change how writers, artists and newsrooms in Indonesia earn money.",
+    "outlet": "ANTARA",
+    "date": "Nov 10",
+    "url": "https://en.antaranews.com/news/441447/indonesian-govt-proposes-stronger-copyright-protection-for-creators"
+   },
+   {
+    "tag": "Health",
+    "headline": "Most Indonesian schoolchildren do not move enough, health checks show",
+    "paras": [
+     "The Health Ministry wants 80% of Indonesians to get enough physical activity by 2029. Spokesman Aji Muhawarman stated the goal on Monday.",
+     "The numbers for children are far from that. About 12.3 million school-age children had a free health check in 2025. Of those, 60.61% did not get enough physical activity. About 11.2 million had a fitness test. Of those, 73.42% had poor or very low fitness.",
+     "The ministry is using school programs, car-free days and a healthy-cities plan. Aji said habits formed in childhood often last into adult life."
+    ],
+    "why": "Active children are less likely to get diseases like high blood pressure later.",
+    "outlet": "ANTARA",
+    "date": "Nov 9",
+    "url": "https://en.antaranews.com/news/441311/govt-targets-80-pct-of-population-with-sufficient-physical-activity"
+   },
+   {
+    "tag": "Students",
+    "headline": "Bandung students win a national contest with a passport security chip",
+    "paras": [
+     "A student team from the Bandung Institute of Technology (ITB) won the PERURI Chip Hackathon 2026. The company PERURI held the contest and announced the result on Monday.",
+     "The team designed a security chip for electronic passports. It uses the tiny physical differences in each chip as a kind of fingerprint. That makes a chip harder to fake or copy.",
+     "The contest drew 98 teams, with 338 students from 41 universities. A second ITB team came second. A University of Indonesia team came third."
+    ],
+    "why": "Indonesia wants its own chip designers, and these students are a start.",
+    "outlet": "ANTARA",
+    "date": "Nov 9",
+    "url": "https://en.antaranews.com/news/441403/itb-students-design-anti-counterfeiting-chip-for-e-passports"
+   }
+  ]
+ },
+ "canada": {
+  "map_points": [
+   {
+    "lon": -75.7,
+    "lat": 45.42,
+    "label": "Ottawa"
+   },
+   {
+    "lon": -62.66,
+    "lat": 45.56,
+    "label": "Stellarton",
+    "anchor": "end"
+   }
+  ],
+  "kicker": "Region two",
+  "title": "Canada",
+  "blurb": "Faster payments, longer work permits, and two old bills that came due.",
+  "stories": [
+   {
+    "lead": true,
+    "tag": "Work",
+    "headline": "Employers can now keep low-wage foreign workers for two years",
+    "paras": [
+     "The federal government has doubled how long a business can employ a low-wage temporary foreign worker. The permit an employer needs now lasts up to two years, not one. Immigration Minister Lena Diab spoke about the changes on Monday in Stellarton, Nova Scotia.",
+     "One limit stays. Employers in cities with unemployment above 6% still cannot hire these workers, with some exceptions. Early childhood educators now join that list of exceptions.",
+     "More changes are proposed for March 1, 2027. Provinces could let employers raise the share of low-wage foreign workers from 10% to 15% of staff. Each province would have to opt in."
+    ],
+    "views": "Not everyone agrees. Diab says many regions need the program, and that jobs should go to Canadians first. Conservative Leader Pierre Poilievre says it should be closed where unemployment is above 5.5%. The national rate was 6.7% in October.",
+    "why": "It affects who gets hired for low-wage jobs across the country.",
+    "outlet": "The Canadian Press via CBC News",
+    "date": "Nov 9",
+    "url": "https://www.cbc.ca/news/politics/temporary-foreign-worker-program-9.7415498"
+   },
+   {
+    "tag": "Money",
+    "headline": "Canada switches on its instant payment system, years late",
+    "paras": [
+     "Payments Canada launched its “real-time rail” on Monday. It is a national system that moves money between accounts in seconds, at any hour. The group first aimed to have it ready by 2019.",
+     "Eight firms have joined so far, including Wealthsimple, Koho and Bank of America. Payments Canada expects the big Canadian banks to join in the coming months.",
+     "Fast payments leave less time to catch fraud. So the system has required central fraud controls. One of them confirms who is being paid before the money moves."
+    ],
+    "why": "Businesses and workers can get paid in seconds, not days.",
+    "outlet": "The Canadian Press via CBC News",
+    "date": "Nov 9",
+    "url": "https://www.cbc.ca/news/business/real-time-rail-canada-9.7415380"
+   },
+   {
+    "tag": "Budget",
+    "headline": "Ottawa gave up on collecting $4.5 billion in COVID benefits",
+    "paras": [
+     "The federal government wrote off $4.5 billion in COVID-19 benefits last fiscal year. A write-off means it no longer expects the money back. The year before, the figure was $26 million. The numbers come from the Auditor General’s review of the government’s books.",
+     "The money was paid to people who got too much, or who did not qualify. Pandemic business loans are also at risk. The government expects to lose $5.6 billion of the $7.2 billion still owed.",
+     "The audit found other problems. More than 110,000 pay cases for public servants had waited over a year as of March 31."
+    ],
+    "why": "Pandemic aid is still costing the government money.",
+    "outlet": "Global News",
+    "date": "Nov 9",
+    "url": "https://globalnews.ca/news/12143258/covid-benefits-written-off-2025-auditor-general/"
+   },
+   {
+    "tag": "Courts",
+    "headline": "The Supreme Court hears the challenge to the federal gun ban",
+    "paras": [
+     "The Supreme Court of Canada began hearing arguments on Monday about a federal firearms ban. The hearing continues on Tuesday.",
+     "In May 2020, the government banned 1,500 models of firearm, including the AR-15. The list has since grown past 2,500. Two lower courts have upheld the ban, in 2023 and 2025.",
+     "Owners do not have to give up the banned guns yet. That grace period now runs until 90 days after the ruling. The ruling is expected no later than next year."
+    ],
+    "views": "Not everyone agrees. The government says the guns are too deadly for civilian use, and thousands of other models remain legal. The Canadian Coalition for Firearm Rights says the courts never checked if people used the banned guns for hunting or sport.",
+    "why": "The court will decide how far cabinet can go without a vote in Parliament.",
+    "outlet": "Global News",
+    "date": "Nov 9",
+    "url": "https://globalnews.ca/news/12143378/federal-firearms-ban-supreme-court-arguments/"
+   }
+  ]
+ },
+ "usa": {
+  "map_points": [
+   {
+    "lon": -77.04,
+    "lat": 38.9,
+    "label": "Washington"
+   },
+   {
+    "lon": -103.25,
+    "lat": 29.25,
+    "label": "Big Bend"
+   },
+   {
+    "lon": -106.49,
+    "lat": 31.76,
+    "label": "El Paso",
+    "anchor": "end"
+   }
+  ],
+  "kicker": "Region three",
+  "title": "United States",
+  "blurb": "A court lets the border wall go on, and Congress enters its last weeks.",
+  "stories": [
+   {
+    "lead": true,
+    "tag": "Courts",
+    "headline": "The Supreme Court lets border wall work resume in Big Bend",
+    "paras": [
+     "The US Supreme Court ruled on Monday that border wall construction in west Texas can continue. A lawsuit against the project is still going on. A judge in El Paso had paused the work.",
+     "The plan covers hundreds of miles and includes Big Bend National Park. It calls for 30-foot steel barriers, patrol roads and surveillance systems. The court said the law lets the Homeland Security Secretary set aside environmental rules for border building. Justice Ketanji Brown Jackson was the only one to disagree.",
+     "The Big Bend sector is nearly 500 miles long. It regularly has the fewest border encounters in Texas, according to border agency data."
+    ],
+    "views": "Not everyone agrees. The government says a gap in Big Bend would draw cartels and illegal crossings. The Center for Biological Diversity says the work will damage canyon walls and untouched desert. NPR reports that people in both parties oppose a wall there.",
+    "why": "It tests how much nature law can be set aside for border security.",
+    "outlet": "NPR",
+    "date": "Nov 9",
+    "url": "https://www.npr.org/2026/11/09/nx-s1-6019424/border-wall-big-bend-texas-trump"
+   },
+   {
+    "tag": "Schools",
+    "headline": "Democrats plan to push back on Trump’s education policy, with limited tools",
+    "paras": [
+     "Democrats will control both chambers of Congress from January. They plan to challenge President Trump’s move to take apart the Education Department. Trump has promised to veto bills he sees as harmful.",
+     "That leaves two main tools. One is investigations. Rep. Bobby Scott of Virginia has told 10 federal agencies to keep their records. The other is money. Sen. Chris Van Hollen wants to attach conditions to spending bills.",
+     "Van Hollen said this could stop further cuts. He said rebuilding a department through a spending bill is harder."
+    ],
+    "views": "Not everyone agrees. An Education Department spokesperson says Democrats want to “prematurely sabotage” Secretary Linda McMahon. Sen. Elizabeth Warren says the administration is “turning its back on students.”",
+    "why": "It shows what a new majority can and cannot do against a veto.",
+    "outlet": "AP via PBS NewsHour",
+    "date": "Nov 9",
+    "url": "https://www.pbs.org/newshour/politics/democrats-plan-to-use-new-power-to-rein-in-trumps-education-agenda-but-their-tools-are-limited"
+   },
+   {
+    "tag": "Congress",
+    "headline": "The outgoing Congress has until Dec 11 to keep the government funded",
+    "paras": [
+     "Congress returned to Washington this week for its last weeks before the new one starts in January. Its main job is to keep the government open. Current funding runs out on Dec 11.",
+     "NPR reports that lawmakers will likely pass a short-term extension. They lack the time to agree on the usual 12 spending bills. Republicans hold the House by only two votes, so absences could matter.",
+     "President Trump also named Stephen Miller as his chief of staff. Miller replaces Susie Wiles."
+    ],
+    "why": "If funding lapses, parts of the government shut down.",
+    "outlet": "NPR",
+    "date": "Nov 9",
+    "url": "https://www.npr.org/2026/11/09/g-s1-152627/up-first-newsletter-stephen-miller-trump-congress-nvidia-cop31"
+   }
+  ]
+ },
+ "charts": [
+  {
+   "type": "chart",
+   "title": "Indonesian schoolchildren and exercise",
+   "sub": "Share of children checked in 2025. Two separate tests, each with more than 11 million children.",
+   "kind": "bars",
+   "unit": "%",
+   "max": 100,
+   "rows": [
+    {
+     "label": "Not active enough",
+     "value": 60.61,
+     "style": "solid"
+    },
+    {
+     "label": "Poor or very low fitness",
+     "value": 73.42,
+     "style": "grey"
+    }
+   ],
+   "source": "Health Ministry free health check data, via ANTARA, Nov 9"
+  },
+  {
+   "type": "numbers",
+   "title": "Ottawa’s pandemic bills in four numbers",
+   "items": [
+    {
+     "n": "$4.5B",
+     "label": "COVID benefits written off last fiscal year"
+    },
+    {
+     "n": "$26M",
+     "label": "written off the year before"
+    },
+    {
+     "n": "$7.2B",
+     "label": "pandemic business loans still owed"
+    },
+    {
+     "n": "$5.6B",
+     "label": "of those loans the government expects to lose"
+    }
+   ],
+   "source": "Auditor General of Canada, via Global News, Nov 9"
+  },
+  {
+   "type": "numbers",
+   "title": "Indonesian tourism, January to September",
+   "items": [
+    {
+     "n": "12.01M",
+     "label": "foreign visits, up 5.01% from last year"
+    },
+    {
+     "n": "$1,374",
+     "label": "average spending per foreign visit (US dollars, third quarter)"
+    },
+    {
+     "n": "938.84M",
+     "label": "trips by Indonesians at home, up 4.1%"
+    },
+    {
+     "n": "−4.27%",
+     "label": "change in visits from Europe"
+    }
+   ],
+   "source": "Tourism Ministry, via ANTARA, Nov 9"
+  }
+ ],
+ "how_do_we_know": null,
+ "caveats": [
+  "All 12 article pages were opened and read in full via curl on Nov 9–10; every figure is from the page.",
+  "The copyright story is dated Nov 10 on ANTARA (06:22 Jakarta time, which is Nov 9 evening in Toronto). The meeting was on Monday Nov 9.",
+  "The Congress story is from NPR’s Up First morning newsletter, a short briefing, so it is thinner than the others.",
+  "The two Global News pages show no byline in the extracted text. They may be Canadian Press copy.",
+  "The ANTARA health story also cites WHO global figures with an odd date range; those were left out.",
+  "The firearms story follows a hearing that continues Tuesday; no ruling yet.",
+  "feeds.npr.org RSS was refused, but npr.org article pages loaded."
+ ]
+}

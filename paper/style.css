@@ -174,11 +174,11 @@ figcaption .credit { color: var(--soft); }
 .essay-body { font-size: 9.1pt; line-height: 1.42; }
 .essay-body p { text-indent: 1.1em; margin: 0; }
 .essay-body p.first { text-indent: 0; }
-.essay-body .sub { font: 700 10pt "Fraunces"; text-indent: 0; margin: 8pt 0 2pt; }
+.essay-body .sub { font: 700 10pt "Fraunces"; text-indent: 0; margin: 8pt 0 2pt; break-after: avoid; }
 .essay-body blockquote { margin: 4pt 12pt; font-style: italic; }
 .essay-body .pull { font: italic 400 13pt/1.25 "Fraunces", serif; text-align: center; border-top: 1.2pt solid #000; border-bottom: 1.2pt solid #000; padding: 6pt 10pt; margin: 9pt 14pt; break-inside: avoid; }
 .essay-end { text-align: center; font: 400 11pt "Fraunces"; margin: 6pt 0; }
-.counterpoint { background: var(--tint); padding: 6pt 8pt 3pt; margin: 9pt 0 4pt; font-size: 8.6pt; break-inside: avoid; }
+.counterpoint { background: var(--tint); padding: 6pt 8pt 3pt; margin: 9pt 0 4pt; font-size: 8.6pt; break-inside: auto; orphans: 3; widows: 3; box-decoration-break: clone; }
 .counterpoint .label { display: block; font: 600 6.9pt "IBM Plex Sans Condensed"; text-transform: uppercase; letter-spacing: 0.15em; margin-bottom: 2pt; }
 
 /* ---------- newsstand ---------- */

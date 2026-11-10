@@ -51,7 +51,7 @@ def day_kind(day: dict) -> str:
     pc = day.get("precipitation_chance", 0) or 0
     pt = day.get("precipitation_type", "rain")
     if pc >= 40:
-        return pt
+        return pt or "partly cloudy"   # likely wet, but the forecast gave no type
     if pc >= 20:
         return "partly cloudy"
     return "sun"

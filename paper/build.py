@@ -125,8 +125,28 @@ def fit(issue, cfg):
     iss = _prepare(issue, cfg)
     demoted = []
 
+    stand_items = [it for s in iss["sections"] for b in s["blocks"] if b["type"] == "newsstand" for it in b["items"]]
+    originals = {id(it): copy.deepcopy(it) for it in stand_items}
+
+    def sync():
+        """Newsstand follows the essays: a dropped essay shows its fallback summary there.
+        Done before every count, because that summary takes space too."""
+        present = {b.get("essay_id") for s in iss["sections"] for b in s["blocks"] if b["type"] == "essay"}
+        for it in stand_items:
+            orig = originals[id(it)]
+            if orig.get("mode") == "in full" and it.get("essay_id") not in present:
+                it["mode"] = "summary"
+                if orig.get("fallback"):
+                    it["paras"] = orig["fallback"]
+            else:
+                it.clear()
+                it.update(copy.deepcopy(orig))
+
     def count():
-        return len(_render(iss, cfg)[1].pages)
+        # render the way build() does (front-page index and page label included), so the count is the real one
+        sync()
+        inside = [{"title": s["title"], "page": 9} for s in iss["sections"] if s.get("in_index", True)]
+        return len(_render(iss, cfg, inside=inside, pages_label=f"{budget} pages · {budget // 4} sheets · $0.00")[1].pages)
 
     def locate(block):
         for s in iss["sections"]:
@@ -154,15 +174,7 @@ def fit(issue, cfg):
         else:
             s["blocks"].remove(b)
     demoted = [d[2] for d in demoted]
-    for b in demoted:
-        for s2 in iss["sections"]:
-            for b2 in s2["blocks"]:
-                if b2["type"] == "newsstand":
-                    for it in b2["items"]:
-                        if b.get("essay_id") and it.get("essay_id") == b.get("essay_id"):
-                            it["mode"] = "summary"
-                            if it.get("fallback"):
-                                it["paras"] = it["fallback"]
+    sync()
     target = budget if n > budget - 4 else n + (4 - n % 4) % 4
     gallery = max(0, target - n) if iss.get("gallery") else 0
     return iss, gallery, target, demoted
@@ -196,7 +208,8 @@ def build(issue_path: Path):
         old.unlink()
     subprocess.run(["pdftoppm", "-r", "110", "-png", str(pdf), str(prev / "page")], check=True)
 
-    _update_memory(issue, demoted)
+    if not out_dir.name.startswith("proof"):   # proofs must not rewrite the reading memory
+        _update_memory(issue, demoted)
     report = {"pages": len(doc.pages), "sheets": len(doc.pages) // 4, "gallery_pages": gallery,
               "demoted_essays": [d.get("title") for d in demoted],
               "pdf": str(pdf), "booklet": str(booklet) if booklet else None}

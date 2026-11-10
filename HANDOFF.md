@@ -81,6 +81,28 @@ re-asking Pio. Read this, then `PLAYBOOK.md`, then `EDITORIAL.md`, `config.yaml`
   5. Connect Todoist; consider the other 2 Slack workspaces later.
   6. Issue No. 1: back page stop 1 again (Nihonbashi), then +1 per issue (`state/memory.json → back_stop`).
 
+## Update from the second session (Nov 9–10, 2026): read this before the tables above
+- **Repo is live.** `main` holds the project; PDFs are committed under `issues/<date>/`. The email links to them.
+- **Network.** Pio opened the environment's network access. From the shell, `curl -sSL -A "Mozilla/5.0" <url>`
+  reaches news sites, program pages, Open-Meteo, Wikimedia and Todoist. The WebFetch tool still fails here, so read
+  pages with curl and strip the tags in Python. Visual Capitalist and some JS-only sites (80,000 Hours, PRISM) block this.
+- **Todoist works.** `python collectors/todoist.py` prints open tasks. The key is read from the `TODOIST_TOKEN`
+  environment variable only. Never write it to a file, a commit, the paper or an email.
+- **Issue No. 1 (2026-11-10) is made.** `issues/2026-11-10/make_issue.py` is the worked example of a real issue:
+  research in `parts/`, fetched essay texts, then trimming to fit. The three proof drafts moved to `issues/proof-2026-11-10/`.
+- **Essays come from the writer's web page, not retyped.** Fetch the Substack post with curl and keep the body
+  paragraphs (drop subscribe pleas, related-post headings, comments). Paywalled posts: print the free part and say so.
+- **Page budget that worked:** front 1 · Desk + Opportunities 4 · World 6 · Essays + Newsstand 8 · back 1.
+  Sixteen news stories of about 100 words is the ceiling. A long lead essay (1,700 words) leaves room for one more.
+- **Fitter fixed.** `paper/build.py → fit` now counts pages the same way the final render does, and a dropped essay's
+  fallback summary is counted too. Proof folders no longer rewrite `state/memory.json`.
+- **Email carries the notes.** Anything said to Pio rather than printed goes in `issue["email_notes"]` and
+  `issue["credits"]` (left-out opportunities, thin sources, art credits). The paper stays a paper.
+- **Art.** Pio is open to other public-domain art besides the Hiroshige road series. Wikimedia is reachable now.
+- **Still open:** PDFs are 5 MB + 10 MB a day, which will bloat the repo; shrink the art images or the booklet step.
+  The GitHub Action (`collectors/fetch.py`) is still untested and now less needed, since the session can reach the web.
+  Discord and the other two Slack workspaces are not connected.
+
 ## Memory file
 `state/memory.json` lists every essay already printed in full (Decker, Fukuyama,
 Bentham's Bulldog, Jack Clark's story) and every summary given, plus opportunities
