@@ -15,6 +15,13 @@ as its prompt.
 
 ## Steps
 
+0. **Date check (do this first).** Get today's date with `TZ=America/Toronto date +%F`, never from the
+   container's UTC clock or a date written in a file. Issue number = last real issue + 1. If
+   `issues/<that date>/` already exists with a sent email (see HANDOFF.md), do NOT make or send a second one:
+   stop and tell Pio in one short email only if something is wrong. (Issue No. 2 was made on the evening of
+   Nov 10 Toronto time and dated Wed Nov 11, so the Nov 11 morning run must skip it; the next new issue is
+   Thu Nov 12, No. 3.) Also run `git pull` first so you see the latest issues.
+
 1. **Get the project.** Private repo `IPBin/personal_newsletter`, branch `main`. Pull the
    latest. If it is not in the working directory, attach it (add_repo, push access) and
    clone it. Then set up Python, always through the same interpreter you will run:
