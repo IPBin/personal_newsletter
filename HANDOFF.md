@@ -128,3 +128,11 @@ issues/2026-11-10/  proof issue: make_issue*.py (worked examples), issue.json,
 ```
 Build an issue: `pip install -r requirements.txt` (also needs `pdftoppm`/poppler) then
 `python -m paper.build issues/<date>/issue.json && python -m paper.email issues/<date>/issue.json`.
+
+## Run of Wed Nov 11, 2026: no issue made (network closed)
+The 6:45 am run found the open web blocked: curl and WebFetch got 403 / no DNS for news sites
+(ANTARA, CBC, BBC, PBS), Todoist, Open-Meteo and Wikipedia. Only GitHub and the package registries
+worked. With no articles to read, no issue was printed (no invented facts). Gmail, Calendar and Slack
+did work. Also: the shell `python` is 3.11 and `pip` installs into 3.13, so `python -m pip install -r requirements.txt`
+is needed, and WeasyPrint failed to import because of a broken system PIL.
+Fix for Pio: allow outbound web access in the environment's network settings (the routine's environment), then rerun.
