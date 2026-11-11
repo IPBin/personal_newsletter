@@ -136,3 +136,7 @@ worked. With no articles to read, no issue was printed (no invented facts). Gmai
 did work. Also: the shell `python` is 3.11 and `pip` installs into 3.13, so `python -m pip install -r requirements.txt`
 is needed, and WeasyPrint failed to import because of a broken system PIL.
 Fix for Pio: allow outbound web access in the environment's network settings (the routine's environment), then rerun.
+
+## Run of Wed Nov 11, 2026: Issue No. 2 made and sent
+- Worked: network open, Todoist, Gmail, Calendar, Slack. Built from `issues/2026-11-11/make_issue.py` (a worked example of the cheap flow).
+- Things to watch next time: (1) the container clock can be in UTC and show the previous evening date; use the date in the task, America/Toronto, and set it everywhere (issue.json, weather `start_date`, `collected/<date>`). (2) `collectors/fetch.py` needs `feedparser` (now in requirements.txt); `python -m pip install --ignore-installed PyYAML -r requirements.txt` avoids the Debian PyYAML error. (3) Substack posts can be fetched whole at `https://<host>/api/v1/posts/<slug>` (`body_html`). (4) If a back image makes a PDF over 1.5 MB, blur/denoise it before processing. (5) No reading titles in lecture entries (see SCHOOL.md).
