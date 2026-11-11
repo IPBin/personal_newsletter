@@ -17,7 +17,14 @@ as its prompt.
 
 1. **Get the project.** Private repo `IPBin/personal_newsletter`, branch `main`. Pull the
    latest. If it is not in the working directory, attach it (add_repo, push access) and
-   clone it. `pip install -r requirements.txt` if weasyprint is missing.
+   clone it. Then set up Python, always through the same interpreter you will run:
+   `python -m pip install --upgrade -r requirements.txt` (plain `pip` may install into a
+   different Python). Test with `python -c "import weasyprint, PIL, pypdf"`. If PIL is
+   broken, run `python -m pip install --upgrade --force-reinstall pillow`. `pdftoppm` must
+   exist (`apt-get install -y poppler-utils` if not).
+   **Check the network before anything else:** `curl -sS -m 15 -o /dev/null -w "%{http_code}" https://en.antaranews.com/`
+   must print 200. If it does not, the environment's network access is closed: stop, email
+   Pio one short note, and do not spend more of the run.
 
 2. **Read, in this order:** HANDOFF.md, PLAYBOOK.md, EDITORIAL.md, config.yaml, RUN.md,
    SCHOOL.md, QUERCUS_CONTEXT.md. Where they disagree, PLAYBOOK.md wins. Do not redesign

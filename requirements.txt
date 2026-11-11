@@ -3,3 +3,4 @@ pypdf>=5
 jinja2
 pyyaml
 pillow
+requests
