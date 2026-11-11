@@ -18,7 +18,7 @@ layout:
 delivery:
   email_to: professional.binawan@gmail.com
   subject: "The Long View · {date_long}"
-  attach: []                    # too big for the Gmail tool; the email links to the PDFs instead
+  attach: [paper.pdf, print-booklet.pdf]   # Gmail tool limit: about 3 MB for both together; the build keeps each near 1.2 MB
   repo_url: https://github.com/IPBin/personal_newsletter   # PDFs are committed under issues/<date>/
 
 # ---------- Sources ----------

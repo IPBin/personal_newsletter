@@ -47,8 +47,8 @@ the rules; this file is the full method. When they disagree, this file wins.
 12. **Email** — `python -m paper.email issues/<date>/issue.json` writes `email.html`
     (Needs you, every source link, essay links, opportunity links, art credits, house rules).
     Send to professional.binawan@gmail.com with subject
-    `The Long View · <Weekday, Month D, YYYY>`. Link to the PDFs in the repo
-    (attachments are too big to pass through the Gmail tool).
+    `The Long View · <Weekday, Month D, YYYY>`. Attach `paper.pdf` and `print-booklet.pdf` (file references, see HANDOFF.md)
+    and keep the repo links in the body as a backup.
 13. **Save** — commit `issues/<date>/` (issue.json, paper.pdf, print-booklet.pdf,
     email.html) and `state/memory.json`.
 
@@ -192,6 +192,14 @@ One-line blurbs only when a post is too long or thin to summarise — keep them 
 - [ ] Every essay has its plain-words box; every opinion piece is labelled.
 - [ ] No secrets, no phone numbers, no addresses in print.
 - [ ] Back page art + caption + credit; caption says which stop of the series.
+
+**Rules added by Pio after Issue No. 1 (Nov 2026):**
+- Region maps are plain country shapes. No city dots or labels (`map_points: []`).
+- The two PDFs together must stay under about 3 MB so they can be emailed as attachments.
+  The build already resizes art to 300 ppi JPEG (`_print_image`), folds duplicate objects in
+  the booklet, and uses solid hairlines (dotted borders made each page huge). If a build
+  comes out over 1.5 MB per file, find the cause before sending.
+- School deadlines come from `QUERCUS_CONTEXT.md`, Todoist and the Quercus Gmail label. See `SCHOOL.md`.
 
 **Design system** (don't drift): fonts Fraunces (masthead, headlines), Source Serif 4
 (body), IBM Plex Sans Condensed (labels); black ink only, light grey tints for boxes;

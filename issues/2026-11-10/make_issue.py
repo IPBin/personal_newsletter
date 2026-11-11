@@ -159,8 +159,7 @@ def region(src, key, kicker, title, region_id=None):
     b = {"type": "region", "kicker": kicker, "title": title, "blurb": r["blurb"], "stories": r["stories"]}
     if region_id:
         b["region"] = region_id
-    if r.get("map_points"):
-        b["map_points"] = r["map_points"]
+    b["map_points"] = []   # Pio asked for plain country maps, no city dots or labels
     if r.get("chart"):
         b["chart"] = r["chart"]
     b["stories"][0]["lead"] = True

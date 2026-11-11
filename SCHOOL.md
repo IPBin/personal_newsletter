@@ -26,23 +26,30 @@ settings. Never write them into a file, a commit, the paper, an email or a chat.
   being open. That is why the calendar feed is the right source for due dates.
 - Quercus pages need a UofT login (with 2FA), so `curl` cannot read them.
 
-## Still missing: the back catalogue
+## The baseline: QUERCUS_CONTEXT.md
 
-Announcements and course pages from before Nov 9, each course's syllabus, and grade
-weights have **not** been read by anyone yet. Ways to get them, best first:
-1. Calendar feed (above) for all due dates. This covers most of what the paper needs.
-2. Pio downloads each syllabus PDF and uploads it to a session; summarise it below.
-3. A desktop-app session with computer use, reading Quercus in Chrome, for old announcements.
+`QUERCUS_CONTEXT.md` is a full snapshot of Quercus taken on **Nov 10, 2026** by a Claude
+desktop session that Pio signed into Quercus himself. It has the five courses (COPB50,
+ENGA10, GGRA30, MGEA01, PHLB18), every open deadline, grading weights, late rules, room
+and lecture times, and what was already in Todoist. Read it before writing the Academics
+to-dos or the "Needs you" box. It goes stale: anything older than a week or two should be
+checked against Todoist and new Quercus emails. To refresh it, Pio runs a desktop session
+again (the method is written at the top of that file).
 
-## Courses seen so far (from Todoist task names only; unverified)
-
-| Course | Seen in Todoist | Notes |
-|---|---|---|
-| ENGA10 | "ENGA10 Midterm" (Oct 27, still open); "Journal Entries Deadline" (Dec 8) | |
-| PHLB18 | "PHLB18 Reading Response" (Nov 9, still open) | |
-| unknown course | "Scaffolding Assignment 2" (Nov 2, open), 3 (Nov 23), 4 (Dec 8); "Peer Teaching 2" (Nov 30) | Course not named in Todoist |
-
-Other Todoist items without dates: "Submit everything Coop", "Review Syllabuses".
+How to use it in the paper:
+- **Front-page Academics to-dos**: Todoist is the live list (the snapshot's deadlines were
+  added there on Nov 10). Use the snapshot for the detail Todoist lacks: weight, late
+  penalty, lock dates, room.
+- **Recurring items that are not in Todoist**: MGEA01 Achieve quizzes (one per lecture, due
+  the next Thursday 7:00 pm; dates only appear in the instructor's "Update" announcements
+  in the Quercus Gmail label) and GGRA30 practical quizzes (Wednesdays, open 1:00 pm,
+  close 7:00 pm).
+- **Class times for the calendar strip** if Google Calendar has no entry: PHLB18 Mon 10–12
+  and tutorial 1–2; GGRA30 Wed 11:10–1 and practical 4:10–5; ENGA10 Wed 1–3; MGEA01 Thu 7–10 pm.
+- **Academic integrity**: PHLB18 and ENGA10 forbid AI-written submissions. The paper may
+  remind, plan and explain. It never drafts graded work.
+- **Tone**: several items are overdue or unsubmitted. State them plainly once, with the
+  real consequence (penalty, lock date). No nagging, no judgement.
 
 ## Rule for adding assignments to Todoist
 

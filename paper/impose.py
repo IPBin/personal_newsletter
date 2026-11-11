@@ -38,6 +38,10 @@ def impose(src: Path, out: Path) -> Path:
             ty = (LETTER_LANDSCAPE[1] - ph * scale) / 2
             sheet.merge_transformed_page(p, Transformation().scale(scale).translate(tx, ty))
         writer.add_page(sheet)
+    # merging copies fonts and images once per page; fold the copies back together
+    writer.compress_identical_objects(remove_duplicates=True, remove_unreferenced=True)
+    for page in writer.pages:
+        page.compress_content_streams()
     with open(out, "wb") as f:
         writer.write(f)
     return out

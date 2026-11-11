@@ -106,10 +106,16 @@ def locator_map(
                 # cheap cull
                 if any(lon0 - 5 <= x <= lon1 + 5 and lat0 - 5 <= y <= lat1 + 5 for x, y in ring[:: max(1, len(ring) // 20)]):
                     inside = True
-                seg = []
-                for i, (x, y) in enumerate(ring):
+                # Thin the outline: a point less than 0.4 units from the last one kept adds
+                # nothing at this size, and thousands of them made the PDF too big to email.
+                seg, last = [], None
+                for x, y in ring:
                     px, py = proj(x, y)
-                    seg.append(("M" if i == 0 else "L") + f"{px:.1f},{py:.1f}")
+                    if last is None or abs(px - last[0]) + abs(py - last[1]) >= 0.4:
+                        seg.append(("L" if seg else "M") + f"{px:.1f},{py:.1f}")
+                        last = (px, py)
+                if len(seg) < 3:
+                    continue
                 d.append("".join(seg) + "Z")
             if not inside or not d:
                 continue

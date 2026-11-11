@@ -99,7 +99,11 @@ re-asking Pio. Read this, then `PLAYBOOK.md`, then `EDITORIAL.md`, `config.yaml`
 - **Email carries the notes.** Anything said to Pio rather than printed goes in `issue["email_notes"]` and
   `issue["credits"]` (left-out opportunities, thin sources, art credits). The paper stays a paper.
 - **Art.** Pio is open to other public-domain art besides the Hiroshige road series. Wikimedia is reachable now.
-- **Still open:** PDFs are 5 MB + 10 MB a day, which will bloat the repo; shrink the art images or the booklet step.
+- **PDFs are small now** (about 1.2 MB each), so they are emailed as attachments. In `create_draft` /
+  `send_message`, an attachment's content is a file reference: `sha256:<hex of the file>:<absolute path>`.
+  The connector refuses calls over about 3 MB of files. If attaching fails, send the email with the repo links only.
+- **School context** is in `SCHOOL.md` and `QUERCUS_CONTEXT.md` (snapshot of Quercus from Nov 10).
+- **Still open:**
   The GitHub Action (`collectors/fetch.py`) is still untested and now less needed, since the session can reach the web.
   Discord and the other two Slack workspaces are not connected.
 

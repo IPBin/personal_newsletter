@@ -52,18 +52,43 @@ def _resolve(path_str):
     return str(p if p.is_absolute() else (ROOT / p))
 
 
+def _print_image(path_str, width_in, photo=True):
+    """A smaller copy of an image, sized for print, so the PDF stays small enough to email.
+
+    300 pixels per inch is all a laser printer can use for grey art. Photo-like art
+    (the back page, plates) is saved as high-quality grayscale JPEG; line art (the
+    front band) stays PNG with 16 grey levels. Copies are cached in assets/art/print/.
+    """
+    from PIL import Image
+    src = Path(_resolve(path_str))
+    out_dir = ROOT / "assets" / "art" / "print"
+    out_dir.mkdir(parents=True, exist_ok=True)
+    out = out_dir / (src.stem + (".jpg" if photo else ".png"))
+    if out.exists() and out.stat().st_mtime >= src.stat().st_mtime:
+        return str(out)
+    im = Image.open(src).convert("L")
+    max_w = int(width_in * 300)
+    if im.width > max_w:
+        im = im.resize((max_w, round(im.height * max_w / im.width)), Image.LANCZOS)
+    if photo:
+        im.save(out, "JPEG", quality=82, optimize=True)
+    else:
+        im.quantize(16).save(out, "PNG", optimize=True)
+    return str(out)
+
+
 def _prepare(issue, cfg):
     """Fill derived visuals (maps, rulers, charts, image paths) into a copy of the issue."""
     iss = copy.deepcopy(issue)
     today = date.fromisoformat(iss["date"])
     if iss.get("front", {}).get("image"):
-        iss["front"]["image"]["src"] = _resolve(iss["front"]["image"]["src"])
+        iss["front"]["image"]["src"] = _print_image(iss["front"]["image"]["src"], 4.7)
     if iss.get("back"):
-        iss["back"]["src"] = _resolve(iss["back"]["src"])
+        iss["back"]["src"] = _print_image(iss["back"]["src"], 4.6)
     for s in iss["sections"]:
         for b in s["blocks"]:
             if b["type"] == "figure":
-                b["src"] = _resolve(b["src"])
+                b["src"] = _print_image(b["src"], 4.7)
             if b["type"] == "essay" and b.get("figure"):
                 b["figure"]["src"] = _resolve(b["figure"]["src"])
             if b["type"] == "region" and b.get("region"):

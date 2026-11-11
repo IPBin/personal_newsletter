@@ -61,9 +61,10 @@ def build(issue_path: Path):
     parts = [
         f"<p>Good morning, {html.escape(cfg['paper']['reader'])}. Today’s <b>{html.escape(cfg['paper']['name'])}</b> "
         f"(No. {html.escape(str(iss.get('number', '')))}, {html.escape(iss.get('date_long', ''))}) is ready.</p>"
-        f"<p><b>{a('print-booklet.pdf', base + 'print-booklet.pdf')}</b>: print double-sided, flip on the short edge, and fold. "
-        f"{a('paper.pdf', base + 'paper.pdf')}: page by page, for reading on a screen. "
-        "The repository is private, so sign in to GitHub first, then press Download.</p>",
+        "<p>Both PDFs are attached. <b>paper.pdf</b> is page by page, for reading on your phone. "
+        "<b>print-booklet.pdf</b> is for printing: double-sided, flip on the short edge, then fold.</p>"
+        f"<p>Backup copies: {a('print-booklet.pdf', base + 'print-booklet.pdf')} · {a('paper.pdf', base + 'paper.pdf')} "
+        "(private repository, so sign in to GitHub first).</p>",
         "<h3>Needs you</h3><ol>" + "".join(li(f"<b>{html.escape(i['what'])}</b> {html.escape(i['detail'])}") for i in attention) + "</ol>",
         "<h3>Sources for today’s news</h3><ul>" + "".join(li(f"{html.escape(r)} — {a(h, u)} ({html.escape(o)}, {html.escape(d)})") for r, h, o, d, u in rows_news) + "</ul>",
         "<h3>Essays printed in full</h3><ul>" + "".join(li(f"{a(t, u)} — {html.escape(au)}") for t, au, u in rows_reads) + "</ul>",

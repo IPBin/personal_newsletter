@@ -581,19 +581,7 @@
       }
      ],
      "region": "indonesia",
-     "map_points": [
-      {
-       "lon": 106.85,
-       "lat": -6.2,
-       "label": "Jakarta",
-       "anchor": "end"
-      },
-      {
-       "lon": 107.61,
-       "lat": -6.91,
-       "label": "Bandung"
-      }
-     ],
+     "map_points": [],
      "chart": {
       "type": "chart",
       "title": "Indonesian schoolchildren and exercise",
@@ -662,14 +650,7 @@
       }
      ],
      "region": "canada",
-     "map_points": [
-      {
-       "lon": -75.7,
-       "lat": 45.42,
-       "label": "Ottawa",
-       "anchor": "end"
-      }
-     ]
+     "map_points": []
     },
     {
      "type": "region",
@@ -706,19 +687,7 @@
       }
      ],
      "region": "usa",
-     "map_points": [
-      {
-       "lon": -77.04,
-       "lat": 38.9,
-       "label": "Washington",
-       "anchor": "end"
-      },
-      {
-       "lon": -103.25,
-       "lat": 29.25,
-       "label": "Big Bend"
-      }
-     ]
+     "map_points": []
     },
     {
      "type": "region",
@@ -778,29 +747,7 @@
        "url": "https://www.aljazeera.com/news/2026/11/9/cyprus-rivals-agree-new-crossings-across-islands-dividing-line"
       }
      ],
-     "map_points": [
-      {
-       "lon": 30.71,
-       "lat": 36.9,
-       "label": "Antalya",
-       "anchor": "end"
-      },
-      {
-       "lon": 2.35,
-       "lat": 48.86,
-       "label": "Paris"
-      },
-      {
-       "lon": -57.58,
-       "lat": -25.26,
-       "label": "Asunción"
-      },
-      {
-       "lon": 33.37,
-       "lat": 35.17,
-       "label": "Nicosia"
-      }
-     ],
+     "map_points": [],
      "chart": {
       "type": "chart",
       "title": "France’s minimum wage: the offer and the demands",
@@ -859,7 +806,8 @@
        "date": "Nov 9",
        "url": "https://www.sciencenews.org/article/high-fiber-diet-nanoplastic-gut-health"
       }
-     ]
+     ],
+     "map_points": []
     },
     {
      "type": "box",
