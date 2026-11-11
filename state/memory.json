@@ -192,10 +192,10 @@
       "history": [
         {
           "date": "2026-11-11",
-          "mode": "summary"
+          "mode": "in full"
         }
       ],
-      "given_in_full": false
+      "given_in_full": true
     },
     "decker-meritocratic-consensus": {
       "title": "On “The Meritocratic Consensus” in Higher Education",
@@ -262,6 +262,29 @@
         }
       ],
       "given_in_full": false
+    },
+    "1a1c9d31b03d704b": {
+      "title": "India is quietly doing great",
+      "pub": "Noahpinion",
+      "history": [
+        {
+          "date": "2026-11-11",
+          "mode": "summary"
+        }
+      ],
+      "given_in_full": true
+    },
+    "1a1c974b97364390": {
+      "title": "Escaping The “Outside Criticism” Trap",
+      "pub": "Astral Codex Ten",
+      "history": [
+        {
+          "date": "2026-11-11",
+          "mode": "in full",
+          "issue": "morning update"
+        }
+      ],
+      "given_in_full": true
     }
   },
   "opportunities": {
@@ -411,5 +434,5 @@
     "2026-11-11"
   ],
   "back_stop": 2,
-  "note": "Issue No. 2 (2026-11-11) showed back_stop 2 (Shinagawa). The next issue shows stop 3, then +1 per issue."
+  "note": "Issue No. 2 (2026-11-11) showed back_stop 2 (Shinagawa), rebuilt as a morning update on Nov 11. The next issue (Thu Nov 12, No. 3) shows stop 3, then +1 per issue."
 }
