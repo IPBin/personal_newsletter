@@ -70,6 +70,29 @@ as its prompt.
    what you honestly can, invent nothing, and email Pio a short plain note on what failed.
    Write anything a future run should know into HANDOFF.md and push it.
 
+## Keep it cheap (Pio's rule, Nov 11, 2026)
+
+Pio does not want this to eat his Claude credits. "Good and honest" beats "polished".
+Aim to finish in about 30 minutes.
+- **One session, no sub-agents.** Do the research yourself, in order.
+- **News:** start from `collected/<today>/news.json` if the GitHub Action left one (RSS
+  headlines, summaries and links). Pick the stories from that list, then open only the
+  articles you will print: about 16 pages, one fetch each. Do not browse around.
+- **Story size:** about 90 words each plus one "why it matters" line. Write them short the
+  first time so nothing needs trimming later.
+- **Opportunities:** re-check every program page on **Mondays only**. Other days, carry the
+  list from the last issue, re-check only items closing within 7 days, and add anything new
+  that reached the inbox or Slack.
+- **Essays:** fetch with curl. Pick by length so they fit: about 3,000 words of essays in
+  total fills the space. Do not fetch essays you will not print.
+- **Slack:** read only channels with new messages; skip thread replies unless Pio is named.
+- **Building:** build once, run `python -m paper.check issues/<date>`, and look at the four
+  contact sheets it writes (not twenty single pages). At most three fix-and-rebuild rounds.
+  If it is 20 pages with no half-empty page, ship it. Small blank patches are fine.
+- **Start from yesterday:** copy the previous issue's `issue.json` as the skeleton and
+  replace the content. Do not write a new make_issue script each day.
+- **Email:** send the generated HTML as is. Do not rewrite it.
+
 ## Timing
-A run takes roughly 45 to 75 minutes, so the email lands around 7:30 to 8:00 am. To have it
-earlier, move the schedule earlier.
+With the rules above a run should take about 30 minutes, so the email lands by about 7:30 am.
+Pio said 8:00 am is fine.

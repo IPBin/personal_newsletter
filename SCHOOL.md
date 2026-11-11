@@ -16,6 +16,15 @@ deadlines) so a new session or a new model does not have to rediscover it.
 Secrets (`QUERCUS_ICAL_URL`, `TODOIST_TOKEN`) live only in the cloud environment's
 settings. Never write them into a file, a commit, the paper, an email or a chat.
 
+## Updates from Pio (Nov 11, 2026)
+- **Google Calendar now has everything**: classes, birthdays and the rest. Use it for the
+  front-page "Today" list and the week ahead. The class times in QUERCUS_CONTEXT.md are a fallback only.
+- **New assignments and MGEA01 Achieve quiz dates** arrive through Quercus emails (Gmail
+  label Quercus). That is the agreed source; the calendar-feed reader (`collectors/quercus.py`)
+  is optional and unused.
+- **ENGA10 midterm**: the "no submission, no grade" note in QUERCUS_CONTEXT.md is a mistake.
+  Do not flag it in the paper.
+
 ## What cannot be done from a cloud session (learned Nov 10–11, 2026)
 
 - **No computer use.** A cloud session has no tools to see or control Pio's laptop or
