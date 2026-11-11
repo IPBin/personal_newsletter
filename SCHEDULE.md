@@ -16,11 +16,15 @@ as its prompt.
 ## Steps
 
 0. **Date check (do this first).** Get today's date with `TZ=America/Toronto date +%F`, never from the
-   container's UTC clock or a date written in a file. Issue number = last real issue + 1. If
-   `issues/<that date>/` already exists with a sent email (see HANDOFF.md), do NOT make or send a second one:
-   stop and tell Pio in one short email only if something is wrong. (Issue No. 2 was made on the evening of
-   Nov 10 Toronto time and dated Wed Nov 11, so the Nov 11 morning run must skip it; the next new issue is
-   Thu Nov 12, No. 3.) Also run `git pull` first so you see the latest issues.
+   container's UTC clock or a date written in a file. `git pull` first. Then:
+   - No `issues/<date>/` yet: make a new issue. Number = last real issue + 1.
+   - `issues/<date>/` exists because an evening pre-run made it (Issue No. 2, dated Wed Nov 11, was made and
+     emailed on the evening of Nov 10): **still make the morning paper.** Rebuild that same folder with fresh
+     news, a fresh calendar, Todoist and weather, keep the issue number and the back-page stop (do not advance
+     `back_stop` again), and send it once with the subject suffix ` · morning update`. Do not skip the run.
+   - Never write a date by hand in scripts: set one `DATE` from the command above and derive everything from it
+     (weather start date, folders, `date_long`, `weekday`).
+   - Pio wants a paper every weekday morning. Keep changes to the code small and do not break the build.
 
 1. **Get the project.** Private repo `IPBin/personal_newsletter`, branch `main`. Pull the
    latest. If it is not in the working directory, attach it (add_repo, push access) and
