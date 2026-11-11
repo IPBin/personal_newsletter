@@ -185,6 +185,83 @@
         }
       ],
       "given_in_full": false
+    },
+    "benthams-longtermism-animals": {
+      "title": "Longtermism For Animals",
+      "pub": "Bentham’s Newsletter",
+      "history": [
+        {
+          "date": "2026-11-11",
+          "mode": "summary"
+        }
+      ],
+      "given_in_full": false
+    },
+    "decker-meritocratic-consensus": {
+      "title": "On “The Meritocratic Consensus” in Higher Education",
+      "pub": "Homo Economicus",
+      "history": [
+        {
+          "date": "2026-11-11",
+          "mode": "summary"
+        }
+      ],
+      "given_in_full": false
+    },
+    "aisn-85": {
+      "title": "AISN #85: US midterms favor candidates backing AI regulation",
+      "pub": "AI Safety Newsletter",
+      "history": [
+        {
+          "date": "2026-11-11",
+          "mode": "summary"
+        }
+      ],
+      "given_in_full": false
+    },
+    "aifutures-q35": {
+      "title": "Q3.5 Timelines Update",
+      "pub": "AI Futures Project",
+      "history": [
+        {
+          "date": "2026-11-11",
+          "mode": "summary"
+        }
+      ],
+      "given_in_full": false
+    },
+    "asterisk-german-romantics": {
+      "title": "What Bay Area culture owes the German Romantics",
+      "pub": "Asterisk",
+      "history": [
+        {
+          "date": "2026-11-11",
+          "mode": "summary"
+        }
+      ],
+      "given_in_full": false
+    },
+    "hyperdimensional-iron": {
+      "title": "Iron Makes Iron",
+      "pub": "Hyperdimensional",
+      "history": [
+        {
+          "date": "2026-11-11",
+          "mode": "summary"
+        }
+      ],
+      "given_in_full": false
+    },
+    "vc-fossil-fuels": {
+      "title": "Ranked: countries that use the most of each fossil fuel",
+      "pub": "Visual Capitalist",
+      "history": [
+        {
+          "date": "2026-11-11",
+          "mode": "blurb"
+        }
+      ],
+      "given_in_full": false
     }
   },
   "opportunities": {
@@ -207,7 +284,7 @@
       "deadline": "2026-11-16",
       "url": "longtermrisk.org/intro-seminar",
       "first_seen": "2026-11-10",
-      "last_seen": "2026-11-10"
+      "last_seen": "2026-11-11"
     },
     "AGI Strategy course": {
       "name": "AGI Strategy course",
@@ -235,21 +312,21 @@
       "deadline": null,
       "url": "sparai.org",
       "first_seen": "2026-11-10",
-      "last_seen": "2026-11-10"
+      "last_seen": "2026-11-11"
     },
     "Apart: Threat Intelligence & Threat Modelling hackathon": {
       "name": "Apart: Threat Intelligence & Threat Modelling hackathon",
       "deadline": "2026-12-04",
       "url": "apartresearch.com/sprints/threat-intelligence-threat-modelling-2026",
       "first_seen": "2026-11-10",
-      "last_seen": "2026-11-10"
+      "last_seen": "2026-11-11"
     },
     "Apart: AI × Epistemics sprint": {
       "name": "Apart: AI × Epistemics sprint",
       "deadline": "2026-11-13",
       "url": "apartresearch.com/sprints",
       "first_seen": "2026-11-10",
-      "last_seen": "2026-11-10"
+      "last_seen": "2026-11-11"
     },
     "AI Safety Camp 12 · PRISM": {
       "name": "AI Safety Camp 12 · PRISM",
@@ -270,42 +347,42 @@
       "deadline": null,
       "url": "bluedot.org/grants/rapid · manifund.org/ais-funder-bulletin",
       "first_seen": "2026-11-10",
-      "last_seen": "2026-11-10"
+      "last_seen": "2026-11-11"
     },
     "Frontier AI Governance course (online)": {
       "first_seen": "2026-11-10",
       "name": "Frontier AI Governance course (online)",
       "deadline": "2026-11-15",
       "url": "bluedot.org/courses/ai-governance",
-      "last_seen": "2026-11-10"
+      "last_seen": "2026-11-11"
     },
     "GovAI Summer Fellowship 2027 (London)": {
       "first_seen": "2026-11-10",
       "name": "GovAI Summer Fellowship 2027 (London)",
       "deadline": "2026-11-22",
       "url": "governance.ai/opportunities",
-      "last_seen": "2026-11-10"
+      "last_seen": "2026-11-11"
     },
     "Kairos Pathfinder Fellowship, Spring 2027": {
       "first_seen": "2026-11-10",
       "name": "Kairos Pathfinder Fellowship, Spring 2027",
       "deadline": "2026-11-24",
       "url": "pathfinder.kairos-project.org",
-      "last_seen": "2026-11-10"
+      "last_seen": "2026-11-11"
     },
     "AI Safety Camp 12": {
       "first_seen": "2026-11-10",
       "name": "AI Safety Camp 12",
       "deadline": "2026-11-29",
       "url": "aisafety.camp",
-      "last_seen": "2026-11-10"
+      "last_seen": "2026-11-11"
     },
     "Apart: Agent Attribution Hackathon": {
       "first_seen": "2026-11-10",
       "name": "Apart: Agent Attribution Hackathon",
       "deadline": "2026-12-11",
       "url": "apartresearch.com/sprints/agent-attribution-2026",
-      "last_seen": "2026-11-10"
+      "last_seen": "2026-11-11"
     },
     "PRISM AI Safety Research Fellowship": {
       "first_seen": "2026-11-10",
@@ -319,19 +396,20 @@
       "name": "Vector Institute research internship, summer 2027",
       "deadline": null,
       "url": "vectorinstitute.ai/research-talent/students/ai-research-internships",
-      "last_seen": "2026-11-10"
+      "last_seen": "2026-11-11"
     },
     "UTSC summer research award (UTEA)": {
       "first_seen": "2026-11-10",
       "name": "UTSC summer research award (UTEA)",
       "deadline": null,
       "url": "utsc.utoronto.ca/research/utea-ursa",
-      "last_seen": "2026-11-10"
+      "last_seen": "2026-11-11"
     }
   },
   "issues": [
-    "2026-11-10"
+    "2026-11-10",
+    "2026-11-11"
   ],
-  "back_stop": 1,
-  "note": "Issue No. 1 (2026-11-10) is the first real daily issue and showed back_stop 1 (Nihonbashi). The next issue shows stop 2, then +1 per issue. History entries marked issue 'proof' come from the three proof drafts."
+  "back_stop": 2,
+  "note": "Issue No. 2 (2026-11-11) showed back_stop 2 (Shinagawa). The next issue shows stop 3, then +1 per issue."
 }

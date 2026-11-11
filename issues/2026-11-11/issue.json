@@ -1,0 +1,1071 @@
+{
+ "date": "2026-11-11",
+ "date_long": "Wednesday, November 11, 2026",
+ "weekday": "Wednesday",
+ "number": "2",
+ "edition": "Morning edition",
+ "weather_word": "Drizzly & cool",
+ "weather": {
+  "daily": [
+   {
+    "date": "2026-11-11",
+    "day_of_week": "Wednesday",
+    "high": 11,
+    "low": 3,
+    "precipitation_chance": 59,
+    "precipitation_type": "",
+    "summary": "light rain"
+   },
+   {
+    "date": "2026-11-12",
+    "day_of_week": "Thursday",
+    "high": 7,
+    "low": 3,
+    "precipitation_chance": 82,
+    "precipitation_type": "rain",
+    "summary": "rain"
+   },
+   {
+    "date": "2026-11-13",
+    "day_of_week": "Friday",
+    "high": 6,
+    "low": 2,
+    "precipitation_chance": 30,
+    "precipitation_type": "",
+    "summary": "mostly cloudy"
+   },
+   {
+    "date": "2026-11-14",
+    "day_of_week": "Saturday",
+    "high": 6,
+    "low": 2,
+    "precipitation_chance": 7,
+    "precipitation_type": "",
+    "summary": "flurries"
+   },
+   {
+    "date": "2026-11-15",
+    "day_of_week": "Sunday",
+    "high": 7,
+    "low": 4,
+    "precipitation_chance": 2,
+    "precipitation_type": "",
+    "summary": "mostly cloudy"
+   }
+  ]
+ },
+ "front": {
+  "image": {
+   "src": "assets/art/processed/front-overworld-band.png",
+   "caption": "The old road from Edo to Kyoto, drawn by Katsushika Hokusai around 1818. Today’s back page is the second stop on that road, Shinagawa."
+  },
+  "lede": [
+   "Your GIS Assignment 3 is due at 10:59 this morning, and the Practical 7 quiz closes at 7 tonight. An AI Safety Week session at 11:15 overlaps your GGRA30 lecture, so pick one. Expect drizzle and about 11°, with real rain on Thursday. Two PHLB18 items are still late."
+  ],
+  "today": [
+   {
+    "time": "10:59",
+    "what": "GGRA30 Assignment 3 due (PostgreSQL in QGIS)",
+    "where": "Quercus upload · 5%"
+   },
+   {
+    "time": "11:00",
+    "what": "GGRA30 lecture",
+    "where": "HL B101 · until 1:00 · clashes with next",
+    "dim": false
+   },
+   {
+    "time": "11:15",
+    "what": "AI Safety Week, Day 3: Power Concentration Risk",
+    "where": "Design Exchange, 234 Bay St · until 12:15",
+    "dim": true
+   },
+   {
+    "time": "1:00",
+    "what": "ENGA10 lecture (Mrs Dalloway)",
+    "where": "AC 223 · until 3:00"
+   },
+   {
+    "time": "4:00",
+    "what": "GGRA30 practical",
+    "where": "BV 469 · until 5:00"
+   },
+   {
+    "time": "6:00",
+    "what": "Hinton Lectures, night 3",
+    "where": "Livestream · until 7:30",
+    "dim": true
+   }
+  ],
+  "todos": [
+   {
+    "topic": "Academics",
+    "items": [
+     {
+      "text": "GGRA30 Assignment 3 is due 10:59 this morning. Practical 7 quiz closes 7 tonight.",
+      "src": "Todoist",
+      "urgent": true
+     },
+     {
+      "text": "PHLB18 reading response 6 is late. It earns half marks until Nov 16, then nothing.",
+      "src": "Todoist",
+      "urgent": true
+     },
+     {
+      "text": "PHLB18 Scaffolding 2 is late. It loses 20% for every 3 days. It stays open to Dec 8.",
+      "src": "Todoist"
+     },
+     {
+      "text": "MGEA01 Achieve quiz, Chapter 11: Thursday 7 pm.",
+      "src": "Todoist"
+     }
+    ]
+   },
+   {
+    "topic": "TAISI",
+    "items": [
+     {
+      "text": "Upload your receipts to HCB, if you haven’t.",
+      "src": "#taisi-team"
+     },
+     {
+      "text": "Shivam’s cohort, Mon Nov 16: order the kosher meal too.",
+      "src": "Todoist"
+     }
+    ]
+   },
+   {
+    "topic": "Misc",
+    "items": [
+     {
+      "text": "Pay off the credit card by Thursday.",
+      "src": "Todoist",
+      "urgent": true
+     },
+     {
+      "text": "Read the UTSC Health and Wellness message waiting in Medeo.",
+      "src": "UofT mail"
+     }
+    ]
+   }
+  ],
+  "brief": [
+   {
+    "where": "Essays",
+    "text": "Yglesias on Democratic populism; animals and the far future."
+   },
+   {
+    "where": "World",
+    "text": "Indonesia’s vice president; Ukraine talks; a lost WWII ship."
+   }
+  ]
+ },
+ "sections": [
+  {
+   "id": "desk",
+   "title": "Your Desk",
+   "tab": "For you",
+   "aside": "What needs you, and what TAISI talked about",
+   "blocks": [
+    {
+     "type": "attention",
+     "title": "Needs you",
+     "items": [
+      {
+       "what": "School deadlines today.",
+       "detail": "GGRA30 Assignment 3 is due at 10:59 this morning, before your lecture ends. The Practical 7 quiz opens at 1:00 and closes at 7:00 tonight. Both are in Todoist.",
+       "src": "Todoist · QUERCUS_CONTEXT"
+      },
+      {
+       "what": "Two PHLB18 items are late.",
+       "detail": "Reading response 6 gets half marks until Nov 16, then is not accepted. Scaffolding 2 loses 20% for every 3 days it is late, so handing it in soon costs less. It closes Dec 8.",
+       "src": "Todoist · QUERCUS_CONTEXT"
+      },
+      {
+       "what": "Two course windows close this weekend.",
+       "detail": "BlueDot’s governance course closes Sunday, Nov 15. CLR’s course closes Monday, Nov 16. Both are below.",
+       "src": "bluedot.org · longtermrisk.org"
+      }
+     ]
+    },
+    {
+     "type": "agenda",
+     "title": "This week and beyond",
+     "items": [
+      {
+       "time": "Wed",
+       "what": "AI Safety Week, Day 3: Forecasting AI-Enabled Power Concentration Risk",
+       "where": "11:15–12:15 · Design Exchange · overlaps GGRA30 lecture"
+      },
+      {
+       "time": "Wed",
+       "what": "Hinton Lectures, night 3, then the Q&A",
+       "where": "6:00–7:30 pm · livestream"
+      },
+      {
+       "time": "Thu",
+       "what": "MGEA01 lecture, Perfect Competition; Achieve quiz Ch. 11 due 7 pm",
+       "where": "7:00–10:00 pm · IC 130"
+      },
+      {
+       "time": "Thu",
+       "what": "Credit card payment",
+       "where": "your Todoist date"
+      },
+      {
+       "time": "Fri",
+       "what": "Apart epistemics sprint starts; AI Safety Camp project list goes up",
+       "where": "online · see Opportunities"
+      },
+      {
+       "time": "Sat",
+       "what": "Marches for an AI treaty",
+       "where": "cities in the US, Canada and France · noted in Astral Codex Ten",
+       "dim": true
+      },
+      {
+       "time": "Sun",
+       "what": "COPB50 Informational Interview due; BlueDot closes",
+       "where": "Nov 15"
+      },
+      {
+       "time": "Nov 16",
+       "what": "PHLB18 lecture 10–12 (IA 2150) and tutorial 1–2 (HW 402); reading response 7 due; CLR closes; Shivam’s cohort food",
+       "where": "Monday"
+      }
+     ]
+    },
+    {
+     "type": "events",
+     "title": "Your events (from Luma)",
+     "items": [
+      {
+       "when": "Nov 11",
+       "time": "Wed",
+       "name": "AI Safety Week, Day 3.",
+       "detail": "Power Concentration Risk, 11:15 to 12:15.",
+       "status": "approved"
+      },
+      {
+       "when": "Nov 9–11",
+       "time": "6 pm",
+       "name": "The Hinton Lectures 2026.",
+       "detail": "Paul Christiano, three evenings. Monday’s and Tuesday’s recordings are online.",
+       "status": "registered"
+      }
+     ]
+    },
+    {
+     "type": "channels",
+     "title": "TAISI Slack · since Monday",
+     "channels": [
+      {
+       "name": "#taisi-team · money and food",
+       "points": [
+        "Isabel reminded everyone to upload receipts to HCB. A locked card hurts people who use the Uber Business account. Joseph said he is working on it.",
+        "You ordered shawarma from Ali Baba for Shivam’s cohort, and kosher food from Dr. Laffa for Daniel. Isabel thanked you."
+       ]
+      },
+      {
+       "name": "#taisi-team · a study-group offer",
+       "points": [
+        "Someone outside TAISI wants to run a linear algebra study group. Joseph thinks it is slightly good, but he would not run it and would not call it a TAISI program. He is happy to refer people and may call the organizer first.",
+        "Boyan said it should not overlap with his reading group. He asked who the group is for, since it says it is for people outside a university program."
+       ]
+      },
+      {
+       "name": "Other channels",
+       "points": [
+        "No new messages in #writing-desk, #si-main or #hackathons. #general had only a note about spare Hinton tickets for Tuesday."
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "opps",
+   "title": "Opportunities",
+   "new_page": false,
+   "tab": "Don’t miss",
+   "aside": "Sorted by deadline",
+   "blocks": [
+    {
+     "type": "opportunities",
+     "ruler_days": 28,
+     "intro": "Picked for a second-year CS and Public Policy student on TAISI’s operations team. ★ = strong fit. Each item says why. Dates were last checked on each program’s own page on Nov 9. BlueDot and CLR were checked again today.",
+     "groups": [
+      {
+       "title": "Closing soon",
+       "items": [
+        {
+         "name": "Apart: AI × Epistemics sprint",
+         "org": "Apart Research",
+         "short": "Apart epistemics",
+         "desc": "A free online weekend sprint, Nov 13 to 15. Teams build a test, dataset or tool about how AI changes what people believe. $2,000 in prizes. Entries are due Sunday night.",
+         "fit": "This weekend. No AI safety background is needed, and you can work at your own pace. A low-cost way to get a first research write-up.",
+         "deadline": "2026-11-13",
+         "deadline_short": "Nov 13",
+         "deadline_note": "starts Fri",
+         "tags": [
+          "hackathon",
+          "online",
+          "free"
+         ],
+         "url": "apartresearch.com/sprints"
+        },
+        {
+         "name": "Frontier AI Governance course (online)",
+         "org": "BlueDot Impact",
+         "short": "BlueDot gov",
+         "desc": "BlueDot’s own free online governance course, about 40 hours. Take it as a six-day intensive or over six weeks. Groups run in many time zones.",
+         "fit": "The governance half of what you did at TAISI, with no travel. No earlier BlueDot course is required. You give your free hours after you apply.",
+         "deadline": "2026-11-15",
+         "deadline_short": "Nov 15",
+         "deadline_note": "Sun; closes in 4 days",
+         "tags": [
+          "course",
+          "online",
+          "governance",
+          "free"
+         ],
+         "url": "bluedot.org/courses/ai-governance",
+         "star": true
+        },
+        {
+         "name": "CLR Fundamentals Program",
+         "org": "Center on Long-Term Risk",
+         "short": "CLR course",
+         "desc": "An online reading course, Nov 20 to Dec 21, on how advanced AI could cause suffering on a huge scale. About five hours a week. Meeting times fit the group.",
+         "fit": "Online, short, and new topics beyond what TAISI’s fellowship covered. It runs into exam season, so five hours a week needs a plan.",
+         "deadline": "2026-11-16",
+         "deadline_short": "Nov 16",
+         "deadline_note": "Mon, 23:59 GMT",
+         "tags": [
+          "course",
+          "online",
+          "beginner ok"
+         ],
+         "url": "longtermrisk.org/intro-seminar",
+         "star": true
+        },
+        {
+         "name": "GovAI Summer Fellowship 2027 (London)",
+         "org": "Centre for the Governance of AI",
+         "short": "GovAI",
+         "desc": "Three months of AI policy work in London, June 7 to Aug 27, 2027, paid £14,000. There is a research track and an applied track. No degree is required.",
+         "fit": "A stretch for a second-year, but CS plus policy is exactly their field. GovAI can sponsor UK work visas. Skip the DC version: it needs the right to work in the US.",
+         "deadline": "2026-11-22",
+         "deadline_short": "Nov 22",
+         "deadline_note": "Sun, 23:59 UK time",
+         "tags": [
+          "fellowship",
+          "paid",
+          "governance",
+          "stretch"
+         ],
+         "url": "governance.ai/opportunities",
+         "star": true
+        },
+        {
+         "name": "Kairos Pathfinder Fellowship, Spring 2027",
+         "org": "Kairos",
+         "short": "Pathfinder",
+         "desc": "Mentoring, workshops and group funding for students who organize AI safety or AI policy groups at a university. Online. Decisions come Dec 2 and it starts Dec 5.",
+         "fit": "You help run TAISI, so you can apply. Each organizer applies alone. Kairos now funds only groups with an organizer in this program, so tell TAISI’s leads. Undergrads get no personal stipend.",
+         "deadline": "2026-11-24",
+         "deadline_short": "Nov 24",
+         "deadline_note": "Tue, 23:59 anywhere on Earth",
+         "tags": [
+          "field-building",
+          "ops",
+          "remote"
+         ],
+         "url": "pathfinder.kairos-project.org",
+         "star": true
+        },
+        {
+         "name": "AI Safety Camp 12",
+         "org": "AI Safety Camp",
+         "short": "AI Safety Camp",
+         "desc": "An online research program, Jan 9 to Apr 18, 2027. You join a small team on a project picked in advance. The project list goes up Nov 13, when team applications open.",
+         "fit": "Part-time, remote and open to beginners. A good first research project, and it does not depend on SPAR. Read the list on Friday and apply to the governance or security projects.",
+         "deadline": "2026-11-29",
+         "deadline_short": "Nov 29",
+         "deadline_note": "Sun; opens Nov 13",
+         "tags": [
+          "research",
+          "remote",
+          "beginner ok"
+         ],
+         "url": "aisafety.camp",
+         "star": true
+        },
+        {
+         "name": "Apart: Threat Intelligence & Threat Modelling hackathon",
+         "org": "Apart Research",
+         "short": "Apart security",
+         "desc": "A free online weekend hackathon, Dec 4 to 6, run with Security Level 5. Teams test whether AI can speed up security planning for AI data centres. $5,000 in prizes.",
+         "fit": "The closest match to your security interest on this page. Entries are due Dec 6, 11:59pm anywhere on Earth. It falls near exams, so decide early.",
+         "deadline": "2026-12-04",
+         "deadline_short": "Dec 4",
+         "deadline_note": "starts Fri",
+         "tags": [
+          "hackathon",
+          "security",
+          "online",
+          "free"
+         ],
+         "url": "apartresearch.com/sprints/threat-intelligence-threat-modelling-2026",
+         "star": true
+        }
+       ]
+      },
+      {
+       "title": "Opening soon: best fits",
+       "items": [
+        {
+         "name": "SPAR, Spring 2027",
+         "org": "SPAR (run by Kairos)",
+         "desc": "Remote, part-time research with a mentor, usually 5 to 20 hours a week. Open to undergrads. It has policy projects too. Applications open around December.",
+         "fit": "Your best next step: real research that fits around classes. Press “Express interest” on the site now so you get the email when it opens.",
+         "deadline_short": "Dec",
+         "deadline_note": "opens; date not announced",
+         "tags": [
+          "research",
+          "remote",
+          "undergrad ok"
+         ],
+         "url": "sparai.org",
+         "star": true
+        },
+        {
+         "name": "Apart: Agent Attribution Hackathon",
+         "org": "Apart Research",
+         "short": "Apart agents",
+         "desc": "A free online weekend sprint, Dec 11 to 13, on telling rogue AI agents apart from ones a human is steering. Entries are due Dec 13.",
+         "fit": "An AI security topic close to your TryHackMe work. Some other sites still show Nov 27 to 29. Apart’s own page says Dec 11.",
+         "deadline": "2026-12-11",
+         "deadline_short": "Dec 11",
+         "deadline_note": "starts Fri",
+         "tags": [
+          "hackathon",
+          "security",
+          "online",
+          "free"
+         ],
+         "url": "apartresearch.com/sprints/agent-attribution-2026"
+        },
+        {
+         "name": "Vector Institute research internship, summer 2027",
+         "org": "Vector Institute",
+         "short": "Vector",
+         "desc": "A paid research internship in Toronto, May to August, with a Vector professor. Vector takes summer applications from November to January. The page says they are closed for now.",
+         "fit": "In Toronto and open to undergrads at any school, in Canada or abroad. Letters are optional for undergrads. You need some machine learning experience.",
+         "deadline_short": "TBA",
+         "deadline_note": "not open yet",
+         "tags": [
+          "research",
+          "Toronto",
+          "paid"
+         ],
+         "url": "vectorinstitute.ai/research-talent/students/ai-research-internships",
+         "star": true
+        },
+        {
+         "name": "UTSC summer research award (UTEA)",
+         "org": "University of Toronto Scarborough",
+         "short": "UTEA",
+         "desc": "A $7,500 award to do 14 to 16 weeks of summer research with a UTSC professor. The 2027 date is not posted. The 2026 deadline was Feb 27.",
+         "fit": "On your own campus. Foreign students with a valid study permit for the summer can hold a UTEA. You need a professor to back you, so start asking in November.",
+         "deadline_short": "TBA",
+         "deadline_note": "likely Feb; not announced",
+         "tags": [
+          "research",
+          "Toronto",
+          "undergrad ok",
+          "paid"
+         ],
+         "url": "utsc.utoronto.ca/research/utea-ursa",
+         "star": true
+        }
+       ]
+      },
+      {
+       "title": "For TAISI, any time",
+       "items": [
+        {
+         "name": "Money for TAISI projects",
+         "org": "always open",
+         "desc": "BlueDot Rapid Grants give up to $20,000 for AI safety projects. Manifund keeps a list of who else is funding. It says the Long-Term Future Fund has stopped taking new applications.",
+         "fit": "Useful for ops: hackathon food, room costs, compute keys. For TAISI’s regular budget, the route is now the Pathfinder Fellowship above, due Nov 24.",
+         "deadline_short": "any time",
+         "deadline_note": "",
+         "tags": [
+          "grants",
+          "for groups"
+         ],
+         "url": "bluedot.org/grants/rapid · manifund.org/ais-funder-bulletin"
+        }
+       ]
+      }
+     ],
+     "note": "Programs that don’t fit you yet are listed in this morning’s email. Always check dates on the program’s own site."
+    }
+   ]
+  },
+  {
+   "id": "world",
+   "title": "The World",
+   "tab": "News",
+   "aside": "The facts first. The opinions get labels.",
+   "new_page": true,
+   "blocks": [
+    {
+     "type": "region",
+     "kicker": "Region one",
+     "title": "Indonesia",
+     "region": "indonesia",
+     "map_points": [],
+     "blurb": "The vice president’s diploma, a forest plan, and jobs abroad.",
+     "chart": {
+      "type": "chart",
+      "title": "Indonesians placed in jobs abroad",
+      "sub": "Workers sent abroad in 2025, and the government’s guess for 2026.",
+      "kind": "bars",
+      "unit": "",
+      "max": 400000,
+      "rows": [
+       {
+        "label": "2025 (actual)",
+        "value": 296948,
+        "style": "grey"
+       },
+       {
+        "label": "2026 (projected)",
+        "value": 350000,
+        "style": "solid"
+       }
+      ],
+      "source": "Ministry of Migrant Worker Protection (KP2MI), via ANTARA, Nov 10"
+     },
+     "stories": [
+      {
+       "tag": "Politics",
+       "headline": "Vice President Gibran says he wants to resign over his school diploma",
+       "paras": [
+        "On Tuesday the palace said Vice President Gibran Rakabuming Raka told President Prabowo Subianto he wants to step down. They met for two and a half hours. The palace said Prabowo did not oppose the idea.",
+        "The issue is Gibran’s high school paper. In October the Supreme Court declared his senior high school equivalency certificate invalid. A different court case on his qualifications was dismissed earlier, because the people who filed it had no standing. Gibran asked for another chance to prove the diploma is real, through an administrative court."
+       ],
+       "why": "Several parties in the House want a formal inquiry. The palace says it respects the House’s right to hold one. Reports say Gibran still does his duties.",
+       "outlet": "ANTARA",
+       "date": "Nov 10",
+       "url": "https://en.antaranews.com/news/441583/palace-confirms-gibrans-intention-to-resign-from-vice-presidency",
+       "lead": true,
+       "views": "The palace says a House inquiry is a normal political process. Two parties, PKB and PDI-P, call it the right tool. Gibran wants to answer the question in court instead."
+      },
+      {
+       "tag": "Forests",
+       "headline": "Indonesia says it will protect forests, earn from them, and share them with villages",
+       "paras": [
+        "At the UN climate meeting (COP31) in Turkey, a forestry ministry adviser gave three priorities for ending forest loss by 2030. They are protecting and restoring forests and peatland, building a forest economy beyond timber, and helping local communities.",
+        "Villages now have legal access to more than 8.3 million hectares of forest. That helps about 1.4 million households."
+       ],
+       "why": "Forests hold carbon, and Indonesia has some of the largest in the world.",
+       "outlet": "ANTARA",
+       "date": "Nov 10",
+       "url": "https://en.antaranews.com/news/441635/indonesia-outlines-three-priorities-to-halt-deforestation-at-cop31"
+      },
+      {
+       "tag": "Jobs",
+       "headline": "The government wants to send 500,000 trained workers abroad by 2029",
+       "paras": [
+        "The Ministry of Migrant Worker Protection runs a program called SMK Go Global. It trains vocational school graduates in language and job skills for work in 85 countries. Japan, South Korea, Germany and Austria are among them. It plans 32,000 placements in 2026.",
+        "In 2025 about 296,948 Indonesians were placed abroad, and their remittances (money sent home) were Rp288 trillion. The ministry expects up to 350,000 placements this year."
+       ],
+       "why": "Money sent home by workers abroad is a big source of foreign currency for Indonesia.",
+       "outlet": "ANTARA",
+       "date": "Nov 10",
+       "url": "https://en.antaranews.com/news/441579/indonesia-targets-500000-migrant-workers-abroad-by-2029"
+      }
+     ]
+    },
+    {
+     "type": "region",
+     "kicker": "Region two",
+     "title": "Canada",
+     "region": "canada",
+     "map_points": [],
+     "blurb": "A meeting with China’s leader, a rate rise, and a lost ship found.",
+     "stories": [
+      {
+       "tag": "China",
+       "headline": "Carney will raise foreign interference when he meets Xi",
+       "paras": [
+        "Prime Minister Mark Carney said on Tuesday that he will bring up foreign interference when he meets China’s president, Xi Jinping, next week. The two are expected to meet at the APEC summit in Shenzhen.",
+        "Carney also said the two countries’ partnership is growing but has “clear guardrails”. A public inquiry found in January 2025 that China was the top source of foreign interference in Canadian democracy. Carney said a new ambassador to China will be named soon. The post has been empty since spring."
+       ],
+       "why": "Canada is rebuilding trade ties with China while worrying about its meddling.",
+       "outlet": "Global News (Canadian Press)",
+       "date": "Nov 10",
+       "url": "https://globalnews.ca/news/12145021/carney-xi-china-foreign-interference/",
+       "lead": true
+      },
+      {
+       "tag": "Rates",
+       "headline": "The Bank of Canada says it may raise interest rates again, but slowly",
+       "paras": [
+        "The bank’s summary of its last meeting says members will decide “one meeting at a time”. Last month it raised its key rate by a quarter point to 2.5%. That was its first rise since 2023.",
+        "It fears high oil prices, because of the war in the Middle East, could spread to other prices. It expects inflation to reach 3.5% by the end of this year. The next decision is Dec 9."
+       ],
+       "why": "Interest rates set what Canadians pay on mortgages and loans.",
+       "outlet": "Global News (Canadian Press)",
+       "date": "Nov 10",
+       "url": "https://globalnews.ca/news/12144994/bank-of-canada-rate-hike-summary/"
+      },
+      {
+       "tag": "History",
+       "headline": "Divers find a Canadian ship sunk by a German U-boat in 1944",
+       "paras": [
+        "The S.S. Cornwallis was sailing from Barbados to New Brunswick in December 1944 when a German submarine sank it. Only five of its 48 crew survived. For more than 80 years nobody knew where it lay.",
+        "A team of volunteer American divers found it in July, about 16 km from a small island off Maine and 122 metres deep. They checked it was the Cornwallis by its size, 400 feet long. Relatives of the crew say the news brings some closure."
+       ],
+       "why": "More than 1,600 merchant sailors died carrying supplies in the Second World War.",
+       "outlet": "Global News",
+       "date": "Nov 10",
+       "url": "https://globalnews.ca/news/12144434/ss-cornwallis-wreckage-found/"
+      }
+     ]
+    },
+    {
+     "type": "region",
+     "kicker": "Region three",
+     "title": "United States",
+     "region": "usa",
+     "map_points": [],
+     "blurb": "A House vote on the defense secretary, prices still rising, and California’s billionaire tax.",
+     "stories": [
+      {
+       "tag": "Congress",
+       "headline": "The House sends the effort to impeach Defense Secretary Hegseth back to committee",
+       "paras": [
+        "On Tuesday the House voted to send the impeachment articles back to a committee. That effectively ends the effort for now. Representative Thomas Massie of Kentucky wrote them. He lost his primary. The articles accuse Pete Hegseth of illegal wars and unlawful strikes.",
+        "Hegseth said the charges are policy disagreements, and he would carry out the same operations again. President Trump praised him. The same day, House Republicans chose Jim Jordan as their leader, and Senate Republicans kept John Thune."
+       ],
+       "why": "It shows how much Republicans will back the administration after losing the House.",
+       "outlet": "PBS NewsHour",
+       "date": "Nov 10",
+       "url": "https://www.pbs.org/newshour/show/house-rejects-hegseth-impeachment-as-gop-selects-jordan-and-thune-as-leaders",
+       "lead": true,
+       "views": "Massie says Hegseth is a “threat to the Constitution”. Hegseth calls it a “political spectacle”. Don Bacon, a Republican, has doubts about Hegseth but opposed the impeachment as written."
+      },
+      {
+       "tag": "Prices",
+       "headline": "US prices rose 0.4% in October, and about 4% a year is expected",
+       "paras": [
+        "The latest Consumer Price Index showed prices up four-tenths of a percent in a month, more than expected. Food and energy led the rise. Housing rose 0.3%.",
+        "Economists expect about 4% inflation this year, faster than pay is rising. Austan Goolsbee, who runs the Federal Reserve Bank of Chicago, called the report “distressing”. He said price rises in services, such as health care, are not mainly from oil or tariffs."
+       ],
+       "why": "Prices are rising faster than pay, so most households can buy less.",
+       "outlet": "PBS NewsHour",
+       "date": "Nov 10",
+       "url": "https://www.pbs.org/newshour/show/u-s-inflation-report-highlights-strain-of-rising-food-energy-and-housing-costs"
+      },
+      {
+       "tag": "Taxes",
+       "headline": "California voters reject a one-time tax on billionaires",
+       "paras": [
+        "Proposition 40 would have taxed people worth more than $1 billion 5% of their wealth, one time. Most of the money would have replaced federal health-care cuts. The Associated Press said on Monday that “no” had won.",
+        "The “no” side raised about 10 times as much money. Sergey Brin of Google gave more than $100 million. Supporters say they may bring the idea back in 2028."
+       ],
+       "why": "It was the biggest US test yet of taxing the wealth of the very rich.",
+       "outlet": "Associated Press via PBS",
+       "date": "Nov 10",
+       "url": "https://www.pbs.org/newshour/politics/california-voters-reject-tax-on-net-worth-of-billionaires",
+       "views": "Critics said the rich would leave the state. Supporters said it was needed to protect health care."
+      }
+     ]
+    },
+    {
+     "type": "region",
+     "kicker": "Region four",
+     "title": "Around the World",
+     "map_points": [],
+     "blurb": "Peace talks in Abu Dhabi, floods feared in Kenya, a court ruling in the Caribbean, and a Malaysian ex-leader at home.",
+     "stories": [
+      {
+       "tag": "Ukraine",
+       "headline": "Ukraine, Russia and the US hold a first day of peace talks in Abu Dhabi",
+       "paras": [
+        "Senior officials met for about four hours on Tuesday and will meet again today. They said little. President Zelensky, who was not there, called the talks “constructive and quite substantive”. US Secretary of State Marco Rubio said they were “very productive”.",
+        "Few expect a breakthrough soon. US officials say both sides are showing “a little bit of flexibility” on who will control eastern Ukraine after the war. Prisoner swaps were also discussed. European leaders have mostly been left out, but the US now says they are part of the answer."
+       ],
+       "why": "These are the main talks on ending a war that began in 2022.",
+       "outlet": "BBC News",
+       "date": "Nov 10",
+       "url": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o",
+       "lead": true
+      },
+      {
+       "tag": "Kenya",
+       "headline": "Kenyans in Nairobi’s river slums fear floods from El Niño",
+       "paras": [
+        "El Niño is a warming of the Pacific Ocean that changes weather around the world. Forecasters say this one could be among the strongest on record. In March floods killed more than 60 people in Kenya.",
+        "Crews are clearing rubbish from Nairobi’s rivers and drains. The city’s drains were built 30 years ago for 2.5 million people, and about 7 million are there by day. A full upgrade would cost up to $192 million, which the city lacks. Officials say up to 100,000 people could be at risk in the worst case."
+       ],
+       "why": "Poor neighbourhoods by rivers take the worst of the flooding.",
+       "outlet": "BBC News",
+       "date": "Nov 11",
+       "url": "https://www.bbc.co.uk/news/articles/c8wy9y37z30vo"
+      },
+      {
+       "tag": "Caribbean",
+       "headline": "A UK court strikes down Trinidad and Tobago’s ban on same-sex intimacy",
+       "paras": [
+        "The Privy Council in London is the island’s final court of appeal. It ruled that the laws break the right to private and family life. The case was brought by Jason Jones, 62, and took 11 years.",
+        "It is the first time the court has struck down such a law. Until now Trinidad and Tobago was one of about 34 Commonwealth countries that keep these laws, which date from British rule."
+       ],
+       "why": "Campaigners hope other countries will see similar court cases.",
+       "outlet": "BBC News",
+       "date": "Nov 10",
+       "url": "https://www.bbc.co.uk/news/articles/cm0e0evlpp87o"
+      },
+      {
+       "tag": "Malaysia",
+       "headline": "Ex-prime minister Najib Razak leaves prison for house arrest",
+       "paras": [
+        "Najib, 73, went home late on Tuesday. He was jailed in 2022 for taking money from the 1MDB state fund. Investigators say about $4.5 billion was taken from the fund. In September the king pardoned him on condition that he serve the rest of his sentence, about two years, at home.",
+        "The high court ruled the house arrest begins now. Critics say it weakens the fight against corruption, and that Malaysian law has no house arrest."
+       ],
+       "why": "How a country treats a corrupt former leader signals how serious it is about corruption.",
+       "outlet": "BBC News",
+       "date": "Nov 10",
+       "url": "https://www.bbc.co.uk/news/articles/cxnv0v4yln7do",
+       "views": "Najib says he was misled by advisers. Critics question the legal basis for house arrest."
+      }
+     ]
+    },
+    {
+     "type": "region",
+     "kicker": "Region five",
+     "title": "Science",
+     "map_points": [],
+     "blurb": "Emissions dip for a reason that may not last, fungi that hold up grasslands, and a new eye warning.",
+     "chart": {
+      "type": "chart",
+      "title": "How big is this year’s dip in CO2?",
+      "sub": "Change in carbon dioxide from fossil fuels, in billion tonnes.",
+      "kind": "bars",
+      "unit": " Gt",
+      "max": 2,
+      "rows": [
+       {
+        "label": "2026 (projected)",
+        "value": 0.16,
+        "style": "solid"
+       },
+       {
+        "label": "2009 financial crisis",
+        "value": 0.5,
+        "style": "grey"
+       },
+       {
+        "label": "2020 COVID",
+        "value": 1.9,
+        "style": "outline"
+       }
+      ],
+      "source": "Science News, Nov 10, on a Nature Climate Change study"
+     },
+     "stories": [
+      {
+       "tag": "Climate",
+       "headline": "Carbon dioxide from fossil fuels is set to fall slightly in 2026",
+       "paras": [
+        "Scientists project emissions will fall 0.4% this year. From 2019 to 2025 they grew 0.8% a year on average. The study was published Nov 9 in Nature Climate Change.",
+        "The likely cause is high oil prices from the Iran war, not a faster switch to clean energy. Electric cars, wind and solar are helping, though. If they keep growing, they could cancel about 63% of the growth in emissions from 2025 to 2028."
+       ],
+       "why": "A dip caused by a price shock may not last.",
+       "outlet": "Science News",
+       "date": "Nov 10",
+       "url": "https://www.sciencenews.org/article/fossil-fuel-emissions-down-2026-gas",
+       "lead": true
+      },
+      {
+       "tag": "Ecology",
+       "headline": "Hidden fungi may help save Mongolia’s dry grasslands",
+       "paras": [
+        "More than 70% of Mongolia’s land is damaged by heat, drought and overgrazing. The country is warming three times faster than the world average. Researchers want to map the underground fungi that trade nutrients with plant roots and help plants live in poor soil.",
+        "The idea is early. The team is still looking for the places where these fungi are most common, so those spots can be protected first."
+       ],
+       "why": "Protecting the soil’s hidden life might be cheaper than replanting land that has died.",
+       "outlet": "Nature",
+       "date": "Nov 10",
+       "url": "https://www.nature.com/articles/d41586-026-03589-9"
+      },
+      {
+       "tag": "Health",
+       "headline": "Weight-loss drugs must now carry a warning about a rare eye condition",
+       "paras": [
+        "The US Food and Drug Administration told the makers of Ozempic, Wegovy, Mounjaro and Zepbound to add a warning about NAION. It happens when blood stops reaching the optic nerve. It can cause sudden, painless vision loss in one eye.",
+        "The agency found a higher risk of this rare condition in people taking the drugs. Eye doctors say any added risk looks small and that cause is not proven. They tell patients not to stop the drugs without asking a doctor."
+       ],
+       "why": "Millions take these drugs, so even a rare risk affects many people.",
+       "outlet": "BBC News",
+       "date": "Nov 10",
+       "url": "https://www.bbc.co.uk/news/articles/crwydyde0lp3o"
+      }
+     ]
+    },
+    {
+     "type": "box",
+     "style": "tint",
+     "label": "Bubble check",
+     "paras": [
+      "Seven of the 12 newsletters that reached your inbox in the last day were about AI. None of today’s 17 news stories is. For something different, read up on Kenya’s drains: a city built for 2.5 million people now holds about 7 million by day."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "essays",
+   "title": "The Essays",
+   "tab": "Read slowly",
+   "aside": "Printed whole, in the writers’ own words",
+   "blocks": [
+    {
+     "type": "essay",
+     "essay_id": "slowboring-sanders-populist",
+     "optional": false,
+     "priority": 9,
+     "kicker": "Slow Boring · Nov 10 · Opinion",
+     "title": "Bernie Sanders Did Not Invent Populist Rhetoric",
+     "author": "Matthew Yglesias",
+     "publication": "Slow Boring",
+     "dek": "A centre-left writer argues that Democrats have always talked about a “rigged” economy, so last week’s winners are not copying Sanders.",
+     "paras": [
+      "A lot of the Democratic candidates who did well last week say things about the political economy of the United States that sound like things Bernie Sanders might say.",
+      "Many on the left have pointed this out in their post-election commentary, and I agree that it’s factually accurate.",
+      "But the reason for this is that Bernie Sanders’s rhetoric about the need to unrig a rigged economic system, check the power of billionaire donors, and fight for the little guy rather than for special interests is not distinctive. It’s the kind of language Democrats have used throughout the existence of America’s oldest political party.",
+      "That’s why I find it strange that Sanders’s communications director, Jeremy Slevin, insists that pre-2016 presidential candidates did not engage in the kind of non-specific populist rhetoric that we heard from James Talarico. Slevin goes so far as to say that “anyone pretending otherwise is obviously full of shit.”",
+      "This is one of these things where I think a lot of people who are younger than me are genuinely confused about the history of American party politics. It is absolutely true that in the specific context of the 2016 presidential campaign, Hillary Clinton campaigned on some slightly bizarre anti-populist ideas about how breaking up banks won’t end racism, followed by putting forward an unusually character-focused general-election campaign against Donald Trump.",
+      "But that is what was unusual. Both the effort to win a primary largely by out-woking Sanders and the effort to win a general election with character attacks rather than issue appeals were idiosyncratic.",
+      "Ryan O’Donnell, who graduated from college 19 years ago, says that if I’d been working campaigns 20 years ago like him, I’d know that Bernie innovated specifically by “centering the idea that billionaires and corporations have rigged the system.”",
+      "Now, here I think the tragic reality is just that I am 45, and as a result, my political memory goes back further than 20 years.",
+      "But even within the O’Donnell window, I recall Barack Obama’s 2008 speech to the A.F.L.-C.I.O. in which he said that “for far too long, through both Democratic and Republican administrations, the system has been rigged against everyday Americans by the lobbyists that Wall Street uses to get its way.” Obama’s 2012 campaign against Mitt Romney was famously populist in its linking of Romney’s regressive tax agenda to his personal wealth and his work in private equity. I’ve often cited Obama’s second term as a break point in Democratic Party thinking, but the difference is that after Obama’s re-election (and especially after the 2014 midterms), Democrats moved left on social issues and energy.",
+      "Notably, Sanders, who used to be an immigration moderate and an opponent of gun control, also moved left on social issues.",
+      "On economics, though, while Bernie has clearly had a lot of influence within the party since his 2016 run, it’s just not true that his populist rhetorical flourishes are distinctive.",
+      "## Distinctive Bernie ideas have gained ground",
+      "You can’t really talk about Bernie Sanders without talking about Medicare for All.",
+      "The concept of single-payer health care is, of course, not original to him. But it was Bernie, distinctively, who in the wake of the Affordable Care Act’s passage said “not good enough” and revived the whole idea of a push for big bang health-care reform.",
+      "What’s more, Bernie has literally redefined the meaning of Medicare for All as a slogan. When I started my career, Medicare for All was John Conyers’s H.R. 676, which was more literally modeled on how Canadian health care works — it featured a hard-capped global budget, for example — than Sanders’s version of Medicare for All. I would like to see a Medicare for All initiative that’s modeled on Australian Medicare rather than Canadian Medicare. But unlike Sanders, I do not wield a lot of influence over intra-caucus health-care politics.",
+      "Bernie also played an important secondary role to Elizabeth Warren in persuading the Biden administration to ditch a generation of consumer-focused antitrust policy in favor of a neo-Brandeisian approach that emphasizes corporate power and market concentration. While that hasn’t gotten nearly as much mass public attention as Medicare for All, it is, if anything, a clearer example of Sanders’s influence, because his people genuinely did run all the agencies.",
+      "Last but not least, Bernie has exerted a lot of influence over the specific idea of a wealth tax.",
+      "As one of the few people who actually read his book, I am aware that Thomas Piketty proposed a wealth tax in “Capital in the Twenty-First Century” as a revenue-neutral idea. When I interviewed him, he criticized property taxes as falling heavily on the middle class and for not properly distinguishing between a situation where you have $600,000 in housing wealth and a situation where you have a $600,000 home and $480,000 in mortgage debt. He wanted to replace property taxes with a progressive net-wealth tax to encourage a more equitable distribution of financial assets.",
+      "And this is what comes to mind when I think about distinctively Sandersite economic-policy ideas.",
+      "These are ideas that Democratic Party nominees have mostly not embraced, and they’re influential enough that it’s plausible the 2028 nominee will embrace one or all of them but also controversial enough that the 2028 nominee might embrace none of them.",
+      "This rhetorical stuff, on the other hand, is just how Democrats talk.",
+      "## Democrats are always doing “populism”",
+      "The whole idea of the Democratic Party not only is but always has been that an electoral republic needs a mass political organization the purpose of which is to combat the concentrated power of financial capital. I am aware that the musical “Hamilton” is not a literal work of history, but part of its power is that Lin-Manuel Miranda does a good job of capturing these basic themes of American political conflict.",
+      "In the first cabinet rap battle, Thomas Jefferson calls out Alexander Hamilton’s financial schemes as dirty dealing by well-connected political insiders (“His plan would have the government assume states’ debts / Now, place your bets as to who that benefits / The very seat of government where Hamilton sits”) and celebrates productive labor over financial machinations (“In Virginia, we plant seeds in the ground / We create, you just wanna move our money around / This financial plan is an outrageous demand”).",
+      "Contemporary Democrats, of course, reject Jefferson as a slaver (Hamilton retorts, “your debts are paid ‘cause you don’t pay for labor”) and no longer hold Jefferson-Jackson Day fundraisers.",
+      "But the reason the dinners originally had that name is that Jefferson and Andrew Jackson were the founders of the party. Jackson, like Jefferson, was a slaver and extremely un-woke. But the economic-policy issue at the center of Jackson’s presidency was his effort to kill the Bank of the United States, which he and his allies characterized as a system-rigging hydra of economic and political influence that threatened the true spirit of democracy.",
+      "I don’t have time to do the entire political history of the United States, but let’s just yadda yadda yadda to the first presidential acceptance speech that I remember watching. Bill Clinton said:",
+      "> I was raised to believe the American Dream was built on rewarding hard work. But we have seen the folks of Washington turn the American ethic on its head.For too long those who play by the rules and keep the faith have gotten the shaft, and those who cut corners and cut deals have been rewarded.People are working harder than ever, spending less time with their children, working nights and weekends at their jobs instead of going to P.T.A. and Little League or Scouts. And their incomes are still going down. Their taxes are still going up. And the costs of health care, housing, and education are going through the roof.Meanwhile, more and more of our best people are falling into poverty even though they work 40 hours a week. Our people are pleading for change, but government is in the way. It has been hijacked by privileged private interests.",
+      "Clinton, of course, was not a distinctively populist Democrat on economics. What made him distinctive as a candidate was that he embraced the death penalty, criticized Jesse Jackson for hosting Sister Souljah, and otherwise had a moderate approach to culture. There’s a progressive critique of the substance of Clintonomics, but the way this critique worked — former Labor Secretary Robert Reich is its canonical voice — was that Clinton betrayed the promise of his populist campaign with his governance choices.",
+      "But then right after Clinton, the nominee was Al Gore, whose campaign slogan was “the people, not the powerful” and whose speeches were full of themes about a rigged system, such as “whether you’re starting out to raise your own family or getting ready to retire after a lifetime of hard work, so often powerful forces and powerful interests stand in your way and the odds seem stacked against you, even as you do what’s right for you and your family.” Next up was John Kerry, whose campaign, of course, talked a lot about national security but whose economic message was focused on the evils of Benedict Arnold C.E.O.s who were shipping your job overseas.",
+      "It’s true that Hillary Clinton largely eschewed these themes, but she’s the exception; the populist rhetorical mood is the connective tissue that holds the Democratic Party together across space and time.",
+      "## Governing matters!",
+      "It’s a good idea for politicians to use good slogans and put good zingers in their speeches. But governing actually matters a lot.",
+      "I think it’s kind of weird that economic populist types who are way more left-wing than I am are excited about Governor-elect Gina Hinojosa, largely on the basis of the way she blasted the data center industry even though she was explicitly disavowing any kind of income tax for Texas.",
+      "I am (famously) not that left-wing, and this is too right-wing for me. Texas is a fast-growing, high-inequality state with a high poverty rate and no Medicaid expansion. If they adopted the same 3 percent flat income tax as Louisiana (not exactly a hotbed of leftist politics), they could raise a ton of money while still having a tax competition advantage vis-a-vis Oklahoma and New Mexico, to say nothing of New York and California.",
+      "I very, very rarely write articles slamming Democrats for a lack of progressive ambition, but I think this is a real whiff on policy substance — though admittedly she’d have to run harder toward the center on culture to be able to pull it off.",
+      "Regardless, the point is that sane people don’t just care what politicians say — they care what they do.",
+      "Sanders doesn’t just criticize Obama for failing to invoke populist rhetorical tropes; he embraces a leftist conspiracy theory about Obama’s handling of the financial crisis. Progressives think it was wrong of Bill Clinton to embrace deficit reduction and at the time they were furious about free trade (today Abdul El-Sayed has emerged as a big tariff critic) and the now-forgotten 1996 Telecommunications Act. I am on the side of Obama and Clinton about that stuff, which is part of why I’m not enthusiastic about the idea of a bunch of left-factionalists running economic policy in 2029.",
+      "But this is not an argument about whether politicians should vow to fight for the little guy against the rigged system where special interests screw you over. Everyone thinks Democrats should run like that!",
+      "And beyond rhetoric, it is genuinely outrageous how Trump has prioritized the interests of his A.I. executive benefactors over the public interest in regulating this industry. That’s something every Democrat should say because the voters agree with it and because it’s true.",
+      "As a candidate for office, though, what’s distinctive about Talarico is that he took more moderate positions than establishment Democrats do on oil and gas and on transgender issues while criticizing the Biden record on immigration. He sounds like Bernie on economics in the sense that all Democrats sound broadly populist in their rhetoric and have for literally hundreds of years."
+     ],
+     "source_note": "slowboring.com/p/bernie-sanders-did-not-invent-populist · Matthew Yglesias is a Democratic-leaning commentator who is more moderate than Sanders",
+     "counter_label": "In plain words, and the other side",
+     "counterpoint": [
+      "The short version: after the Democrats’ good night last week, some on the left said the winners sound like Bernie Sanders. Yglesias says that is wrong. Talking about a rigged economy and fighting for the “little guy” is how Democrats have talked since Thomas Jefferson. He says what is truly Sanders’s own is his policies, such as Medicare for All (government health insurance for everyone) and a wealth tax. Most Democratic nominees have not adopted those. He adds that voters should judge politicians by what they do, not by their slogans.",
+      "The other side. This is opinion, and Yglesias says himself that he is “not that left-wing”. He disagrees with Sanders on policy, so he has a stake in the argument. Sanders’s communications director, Jeremy Slevin, says earlier presidential candidates did not use this kind of broad populist talk. Yglesias answers with history, but a reader can weigh how much old speeches match today’s mood. Another point is open: whether big, specific promises win more votes than slogans. The essay does not test that."
+     ]
+    },
+    {
+     "type": "essay",
+     "essay_id": "benthams-longtermism-animals",
+     "optional": true,
+     "priority": 6,
+     "new_page": false,
+     "kicker": "Bentham’s Newsletter · Nov 10 · Opinion",
+     "title": "Longtermism For Animals",
+     "author": "Bentham’s Bulldog",
+     "publication": "Bentham’s Newsletter",
+     "dek": "A philosopher-blogger argues that the animal movement should focus on how animals fare in the far future.",
+     "paras": [
+      "If you’re serious about helping animals, you should be almost entirely concerned with making sure the far future goes well for animals.",
+      "The core argument for Longtermism is that the future is huge!  There could be countless future generations that our actions might affect.  Thus, in expectation, for every one present individual affected by your actions, there are countless affected future individuals.  If you want to maximize your positive impact, you should care a lot about the impact you have on the future—because that is most of the impact that you have.",
+      "This argument applies to animals just as much as it does to humans.  In expectation, vastly more animals will live in the far future than live in the present day.  If we’re concerned about animals, we should be very concerned with making sure the future is good for animals.  That’s even more important than stopping present animal suffering.  An animal being tortured in a factory farm a thousand years from now is just as tragic as one being tortured in a factory farm today.",
+      "Because the future is so huge, taking it seriously has pretty nutty implications.  For example, one extremely conservative estimate found:",
+      "> Reducing the probability of spreading [wild animal suffering] to one other planet by 0.1% has an expected value equivalent to stopping all suffering caused by exploiting animals for food on Earth for over a thousand years.",
+      "My guess is that this estimate is too low by many orders of magnitude.  But the basic logic is straightforward: if we bring animal suffering to a new planet, there could be suffering until some cosmic catastrophe ends life on that planet.  This could mean billions of years of suffering.  Actions that nudge the probability of spreading suffering to other planets almost totally dominate actions on factory farming (though ending factory farming is one good way of stopping future animal suffering).",
+      "And note: animal Longtermism is primarily about stopping extreme suffering in the future.  It is a lot more obvious that preventing future extreme suffering is important than it is that creating lots of happy people is important.  So the premises on which the case for animal Longtermism rests are pretty conservative.",
+      "The future is big enough that if the animal movement wants to make things go well for animals, they can for all practical purposes ignore what will happen near-term, except insofar as it affects the probability of things going well long term.  The short-term impact of the animal movement is likely to be basically non-existent compared to their impact in the very long term.",
+      "So what is it that those in the animal movement should do?",
+      "First, it’s really important that we don’t spread factory farming or wild animal suffering to space.  If you think animals live bad lives, making sure we don’t fill countless planets with the screams of innocent terrified animals is hugely important.  Preventing intergalactic factory farms is a no-brainer.",
+      "Second, we need to make AI concerned about animal welfare.  We are currently building gods of metal; it is reasonably likely that they’ll be indifferent to almost all the well-being and suffering in the world.  This is partly for the sake of animals.  AI is likely to soon become extremely powerful.  Making sure that the digital beings who will dominate the future aren’t indifferent to animal welfare is of vital importance.",
+      "My friend Adria Moret has a piece written alongside Peter Singer and two other people that makes this case in more detail and talks about how it could work.  In my view, getting AI models to have concern for animals is the #1 near-term priority for animal welfare.  If I could trade a doubling of factory farming for getting all AIs firmly and reliably committed to its abolition, I would take that trade.  Kudos to both OpenAI and Anthropic for including concern for animals in their model specs.",
+      "There’s also a more self-interested reason to make AI concerned about animal welfare: if AIs internalize norms that neglect the interests of alternative species that are much dumber than them, then they would neglect our interests once they become superintelligent.  It is thus important that AIs take every sentient being seriously.  If you want to get more involved, I recommend attending Sentient Futures conferences and applying to work for organizations like Sentient Futures or the NYU Center for Mind Ethics and Policy.  The welfare alignment project, in particular, is thinking through AI alignment for animals in a very serious and responsible way.",
+      "Third, trying to increase compassion for animals—especially neglected animals like shrimp and wild animals—is likely to make the future go well for animals.  A world that cares more about the welfare of animals is less likely to harm them gratuitously without a good reason.",
+      "This also supports efforts to work on particular animal welfare causes that might stick.  So, for example, I think Screwworm Free Future is a great charity to support.  Screwworms are horrible—they lay eggs inside live animals, so that little maggots devour their victims from the inside.  Screw screwworms!  Here’s , who pioneered the use of CRISPR in gene drives, summarizing the situation:",
+      "If we’re serious about wanting to benefit animals, we should mostly be concerned with how our actions affect them over long time scales.  If your animal welfare intervention has no chance of making things better more than a hundred years out, you should probably stop doing it.  Fortunately, a lot of standard animal welfare interventions push the world in a more pro animal direction, making it likelier we’ll get a future that’s good for animals.",
+      "The scale of future animal suffering is truly incomprehensible.  This is one of the big challenges that we’ll need to solve to get a good future, and it’s the most important challenge in the animal welfare space.  For this reason, if you’re an animal advocate reading this, I cannot implore you enough to think hard about the far future."
+     ],
+     "source_note": "benthams.substack.com/p/longtermism-for-animals · two upsetting passages about parasites and a link list are left out",
+     "counter_label": "In plain words, and the other side",
+     "counterpoint": [
+      "The short version: “Longtermism” is the idea that the future could hold so many lives that helping them matters most. The writer says this also applies to animals. If humans spread factory farming, or wild animal suffering, to other planets, the harm could be enormous. He says animal groups should work to stop that, to make future AI care about animals, and to make people kinder to animals.",
+      "The other side. This is one writer’s view, and the numbers in it are guesses about a very far future, as he admits. Critics say effort spent on distant futures can take attention from animals suffering now, in farms today, where we know what helps. Others doubt that anyone can predict what will matter for animals in thousands of years. The writer is a committed longtermist, so this is the case from inside that view."
+     ]
+    },
+    {
+     "type": "box",
+     "style": "poem",
+     "optional": true,
+     "priority": -2,
+     "label": "A poem for a wet week",
+     "paras": [
+      "I wandered lonely as a cloud / That floats on high o’er vales and hills,",
+      "When all at once I saw a crowd, / A host, of golden daffodils;",
+      "William Wordsworth, “I Wandered Lonely as a Cloud”, 1807. The first four lines. A host is a large crowd."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "stand",
+   "title": "The Newsstand",
+   "new_page": false,
+   "tab": "Your inbox",
+   "aside": "The last 24 hours, summed up",
+   "blocks": [
+    {
+     "type": "newsstand",
+     "items": [
+      {
+       "essay_id": "benthams-longtermism-animals",
+       "pub": "Bentham’s Newsletter",
+       "author": "Bentham’s Bulldog",
+       "title": "Longtermism For Animals",
+       "mode": "in full",
+       "summary": "Printed in full in the Essays.",
+       "hide_if_full": true,
+       "fallback": [
+        "Opinion, from Tuesday. The writer says the animal movement should care most about the far future. If factory farming or wild animal suffering spread to other planets, the harm could be huge. He wants groups to stop that, to make future AI care about animals, and to build kindness toward animals."
+       ]
+      },
+      {
+       "essay_id": "decker-meritocratic-consensus",
+       "pub": "Homo Economicus",
+       "author": "Nicholas Decker",
+       "title": "On “The Meritocratic Consensus” in Higher Education",
+       "mode": "summary",
+       "url": "https://nicholasdecker.substack.com/p/on-the-meritocratic-consensus-in",
+       "paras": [
+        "Opinion. Decker, an economics blogger, disagrees with a new paper on how colleges spend money. The paper notes that top schools have richer students and spend far more on each one. It asks whether that is a good use of money. Decker says the paper’s three theories for why spending more on top students could pay off are never really tested.",
+        "Keep in mind: Decker says the paper is “wrong, bad, and annoying”. That is his opinion, and this summary rests on his reading of it, not the paper itself."
+       ]
+      },
+      {
+       "essay_id": "aisn-85",
+       "pub": "AI Safety Newsletter",
+       "author": "Center for AI Safety",
+       "title": "AISN #85: US midterms favor candidates backing AI regulation",
+       "mode": "summary",
+       "long": true,
+       "url": "https://newsletter.safe.ai/p/aisn-85-us-midterms-favor-candidates",
+       "paras": [
+        "Last week’s US elections went well for people who want to regulate AI, the newsletter says. A group that backs data center rules won all six races it spent in. In 44 of 45 local votes on data centers, voters added limits or turned projects down. A poll found 56% of voters said AI and data centers mattered a lot to their vote. But more people named other things, like corruption, living costs and the Iran war.",
+        "The authors argue that limits on data centers may not be enough to stop the biggest AI risks. Companies could build elsewhere, or improve AI without more chips. They say rules on how AI is developed may be needed.",
+        "Keep in mind: the newsletter comes from an AI safety group. Some in the industry say the vote was about President Trump, not AI."
+       ]
+      },
+      {
+       "essay_id": "aifutures-q35",
+       "pub": "AI Futures Project",
+       "title": "Q3.5 Timelines Update",
+       "mode": "summary",
+       "long": true,
+       "url": "https://blog.aifutures.org/p/q35-timelines-update-looks-like-the",
+       "paras": [
+        "A forecast, and it is long. The authors now think AI that can do the work of the best human AI researchers will probably arrive in 2027. Their main reason is a report from METR, a research group. It estimates that AI is already speeding up progress at one AI company by about two times.",
+        "Because of this, the authors say AI development should be slowed or paused, ideally with an international agreement.",
+        "Keep in mind: this is a forecast, not a fact, and the authors say there may be mistakes in their model. The group has long argued for caution. I read only the opening of the post."
+       ]
+      },
+      {
+       "essay_id": "asterisk-german-romantics",
+       "pub": "Asterisk",
+       "title": "What Bay Area culture owes the German Romantics",
+       "mode": "summary",
+       "url": "https://asteriskmag.substack.com/p/what-bay-area-culture-owes-the-german",
+       "paras": [
+        "A long essay of about 5,400 words. It asks where humans fit in a universe not made for us, a question that started with the philosopher Spinoza in 1677. It says two modern answers, looking inward and building technology, both come from German Romantic thinkers around 1800. It uses these roots to ask whether those answers can face worries about AI today. I read only the opening, so this is the setup, not the argument."
+       ]
+      },
+      {
+       "essay_id": "hyperdimensional-iron",
+       "pub": "Hyperdimensional",
+       "author": "Dean W. Ball",
+       "title": "Iron Makes Iron",
+       "mode": "summary",
+       "long": true,
+       "url": "https://www.hyperdimensional.co/p/iron-makes-iron",
+       "paras": [
+        "Opinion, and a reply to the AI Futures post above. Last week a research group called METR said one AI company is improving its AI about twice as fast as before, with AI helping. Ball says some AI safety people were frightened by this. He thinks the talk about “recursive self-improvement”, AI that builds better AI, has become too loose and extreme.",
+        "He splits it in two. In “weak recursion”, a tool helps make better versions of itself, as iron tools helped make better iron tools. That is normal in technology. “Strong recursion” is AI running its own development with no real human control. Ball agrees that is a bad idea and wants laws against it. But he fears fear of the first kind could lead to bans that slow useful work, such as medicine.",
+        "Keep in mind: Ball says his views are his own, but he works at OpenAI, an AI company, and that is worth knowing. I read the first part of the post."
+       ]
+      },
+      {
+       "essay_id": "vc-fossil-fuels",
+       "pub": "Visual Capitalist",
+       "title": "Ranked: countries that use the most of each fossil fuel",
+       "mode": "blurb",
+       "url": "https://www.visualcapitalist.com/",
+       "summary": "A chart. China burns more coal than the rest of the world combined. The US uses the most oil and natural gas."
+      }
+     ]
+    },
+    {
+     "type": "figure",
+     "src": "assets/art/processed/overworld-crop-kyoto.png",
+     "caption": "Katsushika Hokusai, Famous Places on the Tōkaidō in One View (c. 1818). UBC Library, no known copyright restrictions."
+    }
+   ]
+  }
+ ],
+ "email_notes": [
+  "Todoist worked. Slack, Gmail and Calendar worked. Opportunities were carried over from Issue 1 (it is not Monday). I re-read BlueDot’s and CLR’s own pages: BlueDot closes Nov 15, CLR closes Nov 16, 23:59 GMT. Nothing new reached the inbox or Slack. Left-out items are the same as in Issue 1.",
+  "Clash today: GGRA30 lecture (11:00–1:00) overlaps AI Safety Week Day 3 (11:15–12:15). GGRA30 Assignment 3 is due 10:59 am and the Practical 7 quiz closes 7 pm. All dates are from Todoist and QUERCUS_CONTEXT.md (Nov 10 snapshot). The calendar says ENGA10 is in AC 223; the snapshot said ARC. I used the calendar.",
+  "Thin reads. Asterisk, AI Futures (Q3.5 timelines) and Hyperdimensional were long, so I read only their first parts and said so in print. Decker’s post is summarised from his own text. The Visual Capitalist item is from the email text only, because its page blocks our reader. Zvi’s Nvidia post, the ControlAI doctrine and the two podcast or video items were left out (Zvi and ControlAI: not read; podcast and live video: your rule).",
+  "Bentham’s “Longtermism For Animals” did not fit in full, so the Newsstand carries a short summary. I cut two upsetting passages about parasites from the full text, so if it prints in full later it will carry that edit.",
+  "Indonesia: the vice president’s diploma story uses two ANTARA pieces. One ANTARA caption dates a photo Nov. 11; the article text and URL say Nov 10, so I used Nov 10. The National Heroes story (19 people named) was cut for space.",
+  "Around the World and Science are not about AI. The Science News emissions article says the researchers used an AI model to help with data and code. The printed story is about the emissions result only.",
+  "UTSC Health and Wellness sent a secure message through Medeo on Nov 10. I did not open it. The paper only tells you to read it.",
+  "Sources for essays: slowboring.com/p/bernie-sanders-did-not-invent-populist and benthams.substack.com/p/longtermism-for-animals (full text from the Substack posts). The two Substack “live video” notices and Mounk’s podcast were skipped."
+ ],
+ "credits": [
+  "Front page band: Katsushika Hokusai, Famous Places on the Tōkaidō in One View (c. 1818). UBC Library, no known copyright restrictions.",
+  "Maps: Natural Earth data via world-atlas. Weather: Open-Meteo."
+ ],
+ "back": {
+  "src": "assets/art/processed/back-02-shinagawa.png",
+  "kicker": "The Road · Stop 2 of 55",
+  "title": "Shinagawa: Sunrise in the Fifth Month · Hiroshige, c. 1833–34",
+  "caption": "Shinagawa was the first town travellers reached after leaving Edo. It sat on the shore of Edo Bay, and its inns, teahouses and boats are all in this view. Hiroshige made 55 prints of the road, and this paper shows one each issue. Turn the page sideways to see it the right way up.",
+  "credit": "Public domain (CC0). Cleveland Museum of Art, via Wikimedia Commons."
+ }
+}
