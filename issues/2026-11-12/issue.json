@@ -1,0 +1,922 @@
+{
+ "date": "2026-11-12",
+ "date_long": "Thursday, November 12, 2026",
+ "weekday": "Thursday",
+ "number": "3",
+ "edition": "Morning edition",
+ "weather_word": "Drizzle, then cloudy",
+ "weather": {
+  "daily": [
+   {
+    "date": "2026-11-12",
+    "day_of_week": "Thursday",
+    "high": 7,
+    "low": 3,
+    "precipitation_chance": 54,
+    "precipitation_type": "rain",
+    "summary": "light rain"
+   },
+   {
+    "date": "2026-11-13",
+    "day_of_week": "Friday",
+    "high": 4,
+    "low": 0,
+    "precipitation_chance": 18,
+    "precipitation_type": "",
+    "summary": "mostly cloudy"
+   },
+   {
+    "date": "2026-11-14",
+    "day_of_week": "Saturday",
+    "high": 6,
+    "low": 1,
+    "precipitation_chance": 21,
+    "precipitation_type": "",
+    "summary": "mostly cloudy"
+   },
+   {
+    "date": "2026-11-15",
+    "day_of_week": "Sunday",
+    "high": 8,
+    "low": 5,
+    "precipitation_chance": 1,
+    "precipitation_type": "",
+    "summary": "mostly cloudy"
+   }
+  ]
+ },
+ "front": {
+  "image": {
+   "src": "assets/art/processed/front-overworld-band.png",
+   "caption": "The old road from Edo to Kyoto, drawn by Katsushika Hokusai around 1818. Today’s back page is the third stop on that road, Kawasaki."
+  },
+  "lede": [
+   "Today is lighter at school. The MGEA01 Achieve quiz is due at 7 tonight, and the lecture runs from 7 to 10. The GGRA30 Practical 7 quiz closed last night. Expect drizzle and about 7° today. Two PHLB18 items are still late. Sign-ups for the BlueDot and CLR courses close this weekend."
+  ],
+  "today": [
+   {
+    "time": "All day",
+    "what": "Pay off the credit card",
+    "where": "Your Todoist date"
+   },
+   {
+    "time": "7:00 pm",
+    "what": "MGEA01 Achieve quiz, Chapter 11, due",
+    "where": "On Achieve"
+   },
+   {
+    "time": "7:00",
+    "what": "MGEA01 lecture",
+    "where": "IC 130 · until 10:00"
+   }
+  ],
+  "todos": [
+   {
+    "topic": "Academics",
+    "items": [
+     {
+      "text": "MGEA01 Achieve quiz, Chapter 11, is due tonight at 7.",
+      "src": "Todoist",
+      "urgent": true
+     },
+     {
+      "text": "GGRA30 Practical 7 quiz closed last night. Only your best 6 of 9 practicals count.",
+      "src": "Todoist · QUERCUS_CONTEXT"
+     },
+     {
+      "text": "PHLB18 reading response 6 is late. It earns half marks until Nov 16, then nothing.",
+      "src": "Todoist",
+      "urgent": true
+     },
+     {
+      "text": "PHLB18 Scaffolding 2 is late. It loses 20% for every 3 days. It stays open to Dec 8.",
+      "src": "Todoist"
+     },
+     {
+      "text": "COPB50 informational interview: due Sunday.",
+      "src": "Todoist"
+     }
+    ]
+   },
+   {
+    "topic": "TAISI",
+    "items": [
+     {
+      "text": "Upload your receipts to HCB, if you haven’t.",
+      "src": "#taisi-team"
+     },
+     {
+      "text": "Shivam’s cohort, Mon Nov 16: order the kosher meal too.",
+      "src": "Todoist"
+     }
+    ]
+   },
+   {
+    "topic": "Misc",
+    "items": [
+     {
+      "text": "Pay off the credit card today.",
+      "src": "Todoist",
+      "urgent": true
+     },
+     {
+      "text": "Read the UTSC Registrar’s check-in email (Nov 11).",
+      "src": "UofT mail"
+     }
+    ]
+   }
+  ],
+  "brief": [
+   {
+    "where": "Essays",
+    "text": "Why voters are so angry about prices; a new idea called “broadtermism”."
+   },
+   {
+    "where": "World",
+    "text": "Indonesia’s vice president resigns; Kyiv’s blackouts; a surprise in Mississippi."
+   }
+  ]
+ },
+ "sections": [
+  {
+   "id": "desk",
+   "title": "Your Desk",
+   "tab": "For you",
+   "aside": "What needs you, and what TAISI talked about",
+   "blocks": [
+    {
+     "type": "attention",
+     "title": "Needs you",
+     "items": [
+      {
+       "what": "Two school deadlines tonight.",
+       "detail": "The MGEA01 Achieve quiz (Chapter 11) is due at 7 pm. The lecture starts at 7 in IC 130. The credit card payment is also due today in Todoist.",
+       "src": "Todoist · QUERCUS_CONTEXT"
+      },
+      {
+       "what": "Two PHLB18 items are late.",
+       "detail": "Reading response 6 gets half marks until Nov 16, then is not accepted. Scaffolding 2 loses 20% for every 3 days it is late, so handing it in soon costs less. It closes Dec 8.",
+       "src": "Todoist · QUERCUS_CONTEXT"
+      },
+      {
+       "what": "Two course windows close this weekend.",
+       "detail": "BlueDot’s governance course closes Sunday, Nov 15. CLR’s course closes Monday, Nov 16 at 11:59 pm GMT. Both are below.",
+       "src": "bluedot.org · longtermrisk.org"
+      }
+     ]
+    },
+    {
+     "type": "agenda",
+     "title": "This week and beyond",
+     "items": [
+      {
+       "time": "Thu",
+       "what": "MGEA01 lecture, then Achieve quiz Ch. 11 due 7 pm",
+       "where": "7:00–10:00 pm · IC 130"
+      },
+      {
+       "time": "Fri",
+       "what": "Apart epistemics sprint starts; AI Safety Camp project list goes up",
+       "where": "online · see Opportunities"
+      },
+      {
+       "time": "Sat",
+       "what": "Marches for an AI treaty",
+       "where": "cities in the US, Canada and France · noted in Astral Codex Ten",
+       "dim": true
+      },
+      {
+       "time": "Sun",
+       "what": "COPB50 informational interview due; BlueDot closes. The International Development Conference’s online workshop was cancelled.",
+       "where": "Nov 15"
+      },
+      {
+       "time": "Mon",
+       "what": "PHLB18 lecture 10–12 (IA 2150) and tutorial 1–2 (HW 402); reading response 7 due; CLR closes; Shivam’s cohort food",
+       "where": "Nov 16"
+      },
+      {
+       "time": "Wed",
+       "what": "GGRA30 lecture 11–1 (HL B101); ENGA10 lecture 1–3 (AC 223); GGRA30 practical 4–5 (BV 469); Practical 8 quiz",
+       "where": "Nov 18"
+      }
+     ]
+    },
+    {
+     "type": "events",
+     "title": "Your events (from Luma)",
+     "items": [
+      {
+       "when": "Nov 9–11",
+       "time": "6 pm",
+       "name": "The Hinton Lectures 2026.",
+       "detail": "Paul Christiano, three evenings. Wednesday’s recording is now online, and so is Tuesday’s, from the organizers’ emails.",
+       "status": "registered"
+      }
+     ]
+    },
+    {
+     "type": "channels",
+     "title": "TAISI Slack · since Wednesday",
+     "channels": [
+      {
+       "name": "#taisi-team · ideas for TAISI",
+       "points": [
+        "Pera K sent a list of ideas late Wednesday night. One asks how TAISI can attract busy, high-skill people. Referrals through professors could feel less like a sales pitch. Another asks if TAISI has time to match people to opportunities one by one.",
+        "Pera also said personal coaching helped them, and offered to help improve the branding and website before the end of the year."
+       ]
+      },
+      {
+       "name": "#hackathons",
+       "points": [
+        "Caitlin Mah said a plan being discussed is close to a policy hackathon she ran last summer, and offered to advise."
+       ]
+      },
+      {
+       "name": "Other channels",
+       "points": [
+        "No other new messages."
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "opps",
+   "title": "Opportunities",
+   "new_page": false,
+   "tab": "Don’t miss",
+   "aside": "Sorted by deadline",
+   "blocks": [
+    {
+     "type": "opportunities",
+     "ruler_days": 28,
+     "intro": "Picked for a second-year CS and Public Policy student on TAISI’s operations team. ★ = strong fit. Each item says why. Most dates were last checked on each program’s own page on Nov 9. CLR’s date was checked again today.",
+     "groups": [
+      {
+       "title": "Closing soon",
+       "items": [
+        {
+         "name": "Apart: AI × Epistemics sprint",
+         "org": "Apart Research",
+         "short": "Apart epistemics",
+         "desc": "A free online weekend sprint, Nov 13 to 15. Teams build a test, dataset or tool about how AI changes what people believe. $2,000 in prizes. Entries are due Sunday night.",
+         "fit": "This weekend. No AI safety background is needed, and you can work at your own pace. A low-cost way to get a first research write-up.",
+         "deadline": "2026-11-13",
+         "deadline_short": "Nov 13",
+         "deadline_note": "starts Fri",
+         "tags": [
+          "hackathon",
+          "online",
+          "free"
+         ],
+         "url": "apartresearch.com/sprints"
+        },
+        {
+         "name": "Frontier AI Governance course (online)",
+         "org": "BlueDot Impact",
+         "short": "BlueDot gov",
+         "desc": "BlueDot’s own free online governance course, about 40 hours. Take it as a six-day intensive or over six weeks. Groups run in many time zones.",
+         "fit": "The governance half of what you did at TAISI, with no travel. No earlier BlueDot course is required. You give your free hours after you apply.",
+         "deadline": "2026-11-15",
+         "deadline_short": "Nov 15",
+         "deadline_note": "Sun; closes in 4 days",
+         "tags": [
+          "course",
+          "online",
+          "governance",
+          "free"
+         ],
+         "url": "bluedot.org/courses/ai-governance",
+         "star": true
+        },
+        {
+         "name": "CLR Fundamentals Program",
+         "org": "Center on Long-Term Risk",
+         "short": "CLR course",
+         "desc": "An online reading course, Nov 20 to Dec 21, on how advanced AI could cause suffering on a huge scale. About five hours a week. Meeting times fit the group.",
+         "fit": "Online, short, and new topics beyond what TAISI’s fellowship covered. It runs into exam season, so five hours a week needs a plan.",
+         "deadline": "2026-11-16",
+         "deadline_short": "Nov 16",
+         "deadline_note": "Mon, 23:59 GMT",
+         "tags": [
+          "course",
+          "online",
+          "beginner ok"
+         ],
+         "url": "longtermrisk.org/intro-seminar",
+         "star": true
+        },
+        {
+         "name": "GovAI Summer Fellowship 2027 (London)",
+         "org": "Centre for the Governance of AI",
+         "short": "GovAI",
+         "desc": "Three months of AI policy work in London, June 7 to Aug 27, 2027, paid £14,000. There is a research track and an applied track. No degree is required.",
+         "fit": "A stretch for a second-year, but CS plus policy is exactly their field. GovAI can sponsor UK work visas. Skip the DC version: it needs the right to work in the US.",
+         "deadline": "2026-11-22",
+         "deadline_short": "Nov 22",
+         "deadline_note": "Sun, 23:59 UK time",
+         "tags": [
+          "fellowship",
+          "paid",
+          "governance",
+          "stretch"
+         ],
+         "url": "governance.ai/opportunities",
+         "star": true
+        },
+        {
+         "name": "Kairos Pathfinder Fellowship, Spring 2027",
+         "org": "Kairos",
+         "short": "Pathfinder",
+         "desc": "Mentoring, workshops and group funding for students who organize AI safety or AI policy groups at a university. Online. Decisions come Dec 2 and it starts Dec 5.",
+         "fit": "You help run TAISI, so you can apply. Each organizer applies alone. Kairos now funds only groups with an organizer in this program, so tell TAISI’s leads. Undergrads get no personal stipend.",
+         "deadline": "2026-11-24",
+         "deadline_short": "Nov 24",
+         "deadline_note": "Tue, 23:59 anywhere on Earth",
+         "tags": [
+          "field-building",
+          "ops",
+          "remote"
+         ],
+         "url": "pathfinder.kairos-project.org",
+         "star": true
+        },
+        {
+         "name": "AI Safety Camp 12",
+         "org": "AI Safety Camp",
+         "short": "AI Safety Camp",
+         "desc": "An online research program, Jan 9 to Apr 18, 2027. You join a small team on a project picked in advance. The project list goes up Nov 13, when team applications open.",
+         "fit": "Part-time, remote and open to beginners. A good first research project, and it does not depend on SPAR. Read the list on Friday and apply to the governance or security projects.",
+         "deadline": "2026-11-29",
+         "deadline_short": "Nov 29",
+         "deadline_note": "Sun; opens Nov 13",
+         "tags": [
+          "research",
+          "remote",
+          "beginner ok"
+         ],
+         "url": "aisafety.camp",
+         "star": true
+        },
+        {
+         "name": "Apart: Threat Intelligence & Threat Modelling hackathon",
+         "org": "Apart Research",
+         "short": "Apart security",
+         "desc": "A free online weekend hackathon, Dec 4 to 6, run with Security Level 5. Teams test whether AI can speed up security planning for AI data centres. $5,000 in prizes.",
+         "fit": "The closest match to your security interest on this page. Entries are due Dec 6, 11:59pm anywhere on Earth. It falls near exams, so decide early.",
+         "deadline": "2026-12-04",
+         "deadline_short": "Dec 4",
+         "deadline_note": "starts Fri",
+         "tags": [
+          "hackathon",
+          "security",
+          "online",
+          "free"
+         ],
+         "url": "apartresearch.com/sprints/threat-intelligence-threat-modelling-2026",
+         "star": true
+        }
+       ]
+      },
+      {
+       "title": "Opening soon: best fits",
+       "items": [
+        {
+         "name": "SPAR, Spring 2027",
+         "org": "SPAR (run by Kairos)",
+         "desc": "Remote, part-time research with a mentor, usually 5 to 20 hours a week. Open to undergrads. It has policy projects too. Applications open around December.",
+         "fit": "Your best next step: real research that fits around classes. Press “Express interest” on the site now so you get the email when it opens.",
+         "deadline_short": "Dec",
+         "deadline_note": "opens; date not announced",
+         "tags": [
+          "research",
+          "remote",
+          "undergrad ok"
+         ],
+         "url": "sparai.org",
+         "star": true
+        },
+        {
+         "name": "Apart: Agent Attribution Hackathon",
+         "org": "Apart Research",
+         "short": "Apart agents",
+         "desc": "A free online weekend sprint, Dec 11 to 13, on telling rogue AI agents apart from ones a human is steering. Entries are due Dec 13.",
+         "fit": "An AI security topic close to your TryHackMe work. Some other sites still show Nov 27 to 29. Apart’s own page says Dec 11.",
+         "deadline": "2026-12-11",
+         "deadline_short": "Dec 11",
+         "deadline_note": "starts Fri",
+         "tags": [
+          "hackathon",
+          "security",
+          "online",
+          "free"
+         ],
+         "url": "apartresearch.com/sprints/agent-attribution-2026"
+        },
+        {
+         "name": "Vector Institute research internship, summer 2027",
+         "org": "Vector Institute",
+         "short": "Vector",
+         "desc": "A paid research internship in Toronto, May to August, with a Vector professor. Vector takes summer applications from November to January. The page says they are closed for now.",
+         "fit": "In Toronto and open to undergrads at any school, in Canada or abroad. Letters are optional for undergrads. You need some machine learning experience.",
+         "deadline_short": "TBA",
+         "deadline_note": "not open yet",
+         "tags": [
+          "research",
+          "Toronto",
+          "paid"
+         ],
+         "url": "vectorinstitute.ai/research-talent/students/ai-research-internships",
+         "star": true
+        },
+        {
+         "name": "UTSC summer research award (UTEA)",
+         "org": "University of Toronto Scarborough",
+         "short": "UTEA",
+         "desc": "A $7,500 award to do 14 to 16 weeks of summer research with a UTSC professor. The 2027 date is not posted. The 2026 deadline was Feb 27.",
+         "fit": "On your own campus. Foreign students with a valid study permit for the summer can hold a UTEA. You need a professor to back you, so start asking in November.",
+         "deadline_short": "TBA",
+         "deadline_note": "likely Feb; not announced",
+         "tags": [
+          "research",
+          "Toronto",
+          "undergrad ok",
+          "paid"
+         ],
+         "url": "utsc.utoronto.ca/research/utea-ursa",
+         "star": true
+        }
+       ]
+      },
+      {
+       "title": "For TAISI, any time",
+       "items": [
+        {
+         "name": "Money for TAISI projects",
+         "org": "always open",
+         "desc": "BlueDot Rapid Grants give up to $20,000 for AI safety projects. Manifund keeps a list of who else is funding. It says the Long-Term Future Fund has stopped taking new applications.",
+         "fit": "Useful for ops: hackathon food, room costs, compute keys. For TAISI’s regular budget, the route is now the Pathfinder Fellowship above, due Nov 24.",
+         "deadline_short": "any time",
+         "deadline_note": "",
+         "tags": [
+          "grants",
+          "for groups"
+         ],
+         "url": "bluedot.org/grants/rapid · manifund.org/ais-funder-bulletin"
+        }
+       ]
+      }
+     ],
+     "note": "Programs that don’t fit you yet are listed in this morning’s email. Always check dates on the program’s own site."
+    }
+   ]
+  },
+  {
+   "id": "world",
+   "title": "The World",
+   "tab": "News",
+   "aside": "The facts first. The opinions get labels.",
+   "new_page": true,
+   "blocks": [
+    {
+     "type": "region",
+     "kicker": "Region one",
+     "title": "Indonesia",
+     "region": "indonesia",
+     "map_points": [],
+     "blurb": "The vice president resigns, the rupiah slips, and a plan to find TB sooner.",
+     "stories": [
+      {
+       "tag": "Politics",
+       "headline": "Indonesia’s vice president resigns",
+       "lead": true,
+       "paras": [
+        "Vice President Gibran Rakabuming Raka gave his resignation to parliament on Thursday. President Prabowo Subianto said he accepted it “with a heavy heart.” Lawmakers in the upper house now have 60 days to fill the job. They will choose from two people the president names.",
+        "The Supreme Court had ruled that there was no proof Gibran finished senior high school, a rule for the job. More than 100 lawmakers had backed a move that could have led to impeachment. Impeachment is a vote to remove an official."
+       ],
+       "views": "Gibran has said his university studies show he finished high school. Prabowo said school systems abroad differ from Indonesia’s. The BBC also reports a growing split between Prabowo and Gibran’s father, former president Joko Widodo.",
+       "why": "Yesterday’s paper said the House was moving to impeach him. Now the president must pick a successor.",
+       "outlet": "BBC",
+       "date": "Nov 12",
+       "url": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro"
+      },
+      {
+       "tag": "Money",
+       "headline": "A minister says the rupiah’s dip is not like 1998",
+       "paras": [
+        "A deputy economy minister, Dradjad Hari Wibowo, said the rupiah’s swings come from politics and are different from the 1998 Asian financial crisis. On Thursday morning the rupiah fell 0.27%, to Rp18,198 per US dollar.",
+        "Bank Indonesia, the central bank, also points to expected US interest rate rises, a possible lower ranking for Indonesia’s stock market by MSCI, and year-end dollar buying."
+       ],
+       "why": "A weaker rupiah makes imports and foreign debt cost more.",
+       "outlet": "ANTARA",
+       "date": "Nov 12",
+       "url": "https://en.antaranews.com/news/442087/indonesia-says-rupiah-turbulence-unlike-1998-financial-crisis"
+      },
+      {
+       "tag": "Health",
+       "headline": "Indonesia is sending 5,600 TB testing machines to health centers",
+       "paras": [
+        "Deputy Health Minister Benjamin Paulus Octavianus said the machines will go to every community health center. Java gets them in November and the rest of the country in December. The ministry will also buy more than 1,000 X-ray units, plus light 3-kilogram portable X-rays that work without power lines."
+       ],
+       "why": "TB spreads in crowded homes. Finding it early helps stop that.",
+       "outlet": "ANTARA",
+       "date": "Nov 12",
+       "url": "https://en.antaranews.com/news/442131/indonesia-expands-tb-screening-with-5600-new-diagnostic-tools"
+      }
+     ]
+    },
+    {
+     "type": "region",
+     "kicker": "Region two",
+     "title": "Canada",
+     "region": "canada",
+     "map_points": [],
+     "blurb": "A car plant meeting, and fewer foreign students.",
+     "stories": [
+      {
+       "tag": "Jobs",
+       "headline": "Ottawa, Ontario and Unifor meet Stellantis about the Brampton plant",
+       "lead": true,
+       "paras": [
+        "The meeting is on Thursday in downtown Toronto. Stellantis has sold its idle Brampton car plant to a Canadian defence maker. That could leave thousands of workers without jobs. Prime Minister Carney said Ottawa will “enforce our rights” to protect them.",
+        "A 2023 deal promised Stellantis $1.5 billion from Ottawa and Ontario over ten years. It also asked the company to keep its Ontario operations through 2035, including Brampton. Stellantis says it has offered to pay back the government money for the Brampton retooling."
+       ],
+       "why": "Public money was given on a promise to keep jobs. The meeting asks if that promise still stands.",
+       "outlet": "Global News",
+       "date": "Nov 12",
+       "url": "https://globalnews.ca/news/12147000/ford-feds-unifor-set-for-high-stakes-meeting-with-stellantis/"
+      },
+      {
+       "tag": "Universities",
+       "headline": "Atlantic universities have lost almost half their international students",
+       "paras": [
+        "A researcher at Memorial University wrote that international enrolment in the four Atlantic provinces fell by 3,020 students, or 18%, in the past year. Since the federal limits began in January 2024, it is down almost 48%.",
+        "Ottawa had expected drops of no more than 10% in these provinces. Instead, new study permit approvals fell by at least 59%. New international enrolment rose 14% this fall."
+       ],
+       "views": "The writer says the cap is not the only cause. Applications, money pressures and Canada’s appeal also matter. This is analysis by a university researcher, from The Conversation.",
+       "why": "Smaller universities depend on these students’ fees to run programs.",
+       "outlet": "The Conversation",
+       "date": "Nov 11",
+       "url": "https://theconversation.com/canadas-international-student-cap-hit-atlantic-universities-hard-heres-why-it-matters-295649"
+      }
+     ]
+    },
+    {
+     "type": "numbers",
+     "title": "Atlantic Canada, international students",
+     "items": [
+      {
+       "n": "−48%",
+       "label": "since Jan 2024"
+      },
+      {
+       "n": "−18%",
+       "label": "in the past year"
+      },
+      {
+       "n": "+14%",
+       "label": "new students this fall"
+      }
+     ],
+     "source": "The Conversation (Memorial University researcher), Nov 11"
+    },
+    {
+     "type": "region",
+     "kicker": "Region three",
+     "title": "United States",
+     "region": "usa",
+     "map_points": [],
+     "blurb": "A Senate upset in Mississippi, secret bill text, and a rule on college accreditation.",
+     "stories": [
+      {
+       "tag": "Elections",
+       "headline": "Democrat Scott Colom wins the Senate race in Mississippi",
+       "lead": true,
+       "paras": [
+        "The Associated Press called the race for Colom, a Democrat, over Republican Senator Cindy Hyde-Smith. He was about 5,000 votes ahead. Mississippi has not elected a Democrat to the Senate since 1982. Colom is the first Black senator from the state since Reconstruction, the years after the Civil War.",
+        "Colom began his run in late 2025, and it was seen as a long shot. Hyde-Smith was said to be the likely winner for much of the campaign. NPR reports she called to concede."
+       ],
+       "why": "It was the closest Senate race this year, in a state few expected to flip.",
+       "outlet": "NPR",
+       "date": "Nov 11",
+       "url": "https://www.npr.org/2026/11/11/nx-s1-6037840/democrat-scott-colom-wins-the-closest-senate-race-in-the-country"
+      },
+      {
+       "tag": "Congress",
+       "headline": "Advocates want the Senate to post bill text online before votes",
+       "paras": [
+        "A group from both parties sent a letter asking Senate leaders to post the text of bills and amendments online as soon as senators get it. Right now the text is not always public before a vote. Daniel Schuman, an author of the letter, says problems can “sneak through.”",
+        "He gave one example. In 2013, Congress quietly repealed parts of a popular law on lawmakers’ financial disclosure and insider trading."
+       ],
+       "why": "People can only judge a law if they can read it before it passes.",
+       "outlet": "NPR",
+       "date": "Nov 12",
+       "url": "https://www.npr.org/2026/11/12/nx-s1-6037381/senate-legislation-public-review"
+      },
+      {
+       "tag": "Education",
+       "headline": "A new rule gives the Education Department more say over college accreditors",
+       "paras": [
+        "Accreditors are nonprofit groups that check colleges. Their approval lets a school get federal loans and grants. The Education Department finalized a rule that takes effect in July. President Trump has called it his “secret weapon” on higher education.",
+        "Accreditors must now look at schools’ policies on “intellectual diversity,” meaning exposure to a range of viewpoints."
+       ],
+       "views": "Bob Shireman, a former Obama-era Education Department official, warns the rule lets the government “meddle” in colleges. The department says its changes will help new ideas and lower costs.",
+       "why": "A school that loses its accreditation can lose access to federal student aid.",
+       "outlet": "NPR",
+       "date": "Nov 12",
+       "url": "https://www.npr.org/2026/11/12/nx-s1-6027967/accreditation-trump-higher-education"
+      }
+     ]
+    },
+    {
+     "type": "region",
+     "kicker": "Region four",
+     "title": "Around the World",
+     "map_points": [],
+     "blurb": "Talks over Ukraine, Kyiv’s blackouts, a Gaza hospital strike, Ebola in Kenya, and a boy found alive.",
+     "stories": [
+      {
+       "tag": "War",
+       "headline": "Russia and Ukraine agree to swap prisoners, but talks bring no big step",
+       "paras": [
+        "Two days of talks in Abu Dhabi, led by the US, ended on Wednesday with no major breakthrough. Both sides said they would hold a large exchange of prisoners of war. It was their first meeting in nine months.",
+        "Jared Kushner, President Trump’s son-in-law, said the numbers would be fixed on Thursday. The BBC reports US envoys are meeting the Russian and Ukrainian leaders on Thursday."
+       ],
+       "why": "Big gaps remain on land and on security promises after any deal.",
+       "outlet": "PBS NewsHour (AP)",
+       "date": "Nov 11",
+       "url": "https://www.pbs.org/newshour/world/russia-and-ukraine-agree-to-a-large-prisoner-exchange-as-talks-end-with-no-major-breakthrough"
+      },
+      {
+       "tag": "Winter",
+       "headline": "Ukrainians face long power cuts as Russia hits the grid",
+       "paras": [
+        "In Kyiv, some families get only four or five hours of power a day, at changing times. Some have gone up to 20 hours without it. The cuts began earlier this year than last winter.",
+        "Officials fear life becomes very hard if power cannot be kept on at least four hours a day. Ukraine has answered by hitting Russian oil refineries."
+       ],
+       "why": "Without power, water pumps and lifts stop, and homes get cold.",
+       "outlet": "BBC",
+       "date": "Nov 12",
+       "url": "https://www.bbc.co.uk/news/articles/cr1ewpd95d21o"
+      },
+      {
+       "tag": "Gaza",
+       "headline": "An Israeli strike on a Gaza hospital kills six people",
+       "paras": [
+        "Gaza’s Health Ministry says the strike hit the surgical wing of Nasser Hospital in Khan Younis overnight. Six people died, including a surgeon, and at least 28 were hurt. Israel’s military says it hit a Hamas commander and other militants, and gave no proof. It says Hamas used the hospital as a base."
+       ],
+       "views": "The two sides disagree on whether the hospital was a legitimate target. The reports come from Gaza’s health authorities and the Israeli military, and NPR could not check them itself.",
+       "why": "Nasser is one of the few Gaza hospitals still working.",
+       "outlet": "NPR",
+       "date": "Nov 12",
+       "url": "https://www.npr.org/2026/11/12/nx-s1-6038339/israeli-strike-gaza-hospital"
+      },
+      {
+       "tag": "Health",
+       "headline": "Kenya releases its last Ebola patient",
+       "paras": [
+        "Seven people recovered in Kenya, and the last one left hospital on Wednesday. The country now starts a 42-day count. If no new case appears, it can be declared Ebola-free. All 135 people who had contact with patients finished 21 days of watching. In Congo, more than 5,000 people have died since May."
+       ],
+       "why": "It shows the virus can be stopped from spreading when contacts are tracked.",
+       "outlet": "BBC",
+       "date": "Nov 11",
+       "url": "https://www.bbc.co.uk/news/articles/cwe9kzv0g0v7o"
+      },
+      {
+       "tag": "Rescue",
+       "headline": "A teenager missing six days in the Australian bush is found alive",
+       "paras": [
+        "William, 17, went missing last Friday while camping in bushland about 180 km east of Melbourne. He was found on Thursday and winched to safety with only a few scratches. His mother said he stayed in one spot and waited to be rescued."
+       ],
+       "why": "Staying put is the usual advice when lost, and here it worked.",
+       "outlet": "BBC",
+       "date": "Nov 12",
+       "url": "https://www.bbc.co.uk/news/articles/ckvg25zmppglo"
+      }
+     ]
+    },
+    {
+     "type": "region",
+     "kicker": "Region five",
+     "title": "Science",
+     "map_points": [],
+     "blurb": "Children’s fingerprints on 15,000-year-old clay.",
+     "stories": [
+      {
+       "tag": "Archaeology",
+       "headline": "Stone Age children left fingerprints on clay figures",
+       "lead": true,
+       "paras": [
+        "Archaeologists in Israel studied clay figurines made 15,000 to 11,600 years ago by the Natufian people. They found about 150 fragments of sculptures. Around 60 had fingerprints. The spacing of the ridges suggests most were made by women and children, some younger than 10.",
+        "One tiny human figure carried both adult and child prints. The lead researcher thinks an adult was teaching a child. The figures are small, and the purpose is unclear."
+       ],
+       "why": "Children’s share of early art was hard to see until now.",
+       "outlet": "Science News",
+       "date": "Nov 11",
+       "url": "https://www.sciencenews.org/article/stone-age-children-made-art-clay-sculpt"
+      }
+     ]
+    },
+    {
+     "type": "box",
+     "style": "tint",
+     "label": "Bubble check",
+     "paras": [
+      "Of the eight newsletters since last night, three were about AI. No news story today is. For something different, read the Stone Age story."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "essays",
+   "title": "The Essays",
+   "tab": "Read slowly",
+   "aside": "Printed whole, in the writers’ own words",
+   "blocks": [
+    {
+     "type": "essay",
+     "essay_id": "slowboring-gasoline",
+     "optional": false,
+     "priority": 9,
+     "kicker": "Slow Boring · Nov 12 · Opinion",
+     "title": "Gasoline isn’t really that expensive",
+     "author": "Matthew Yglesias",
+     "publication": "Slow Boring",
+     "dek": "A columnist asks why voters are so angry about prices when the numbers are not as bad as in past years.",
+     "paras": [
+      "Voters, clearly, are very upset about the cost of living, and (to be boring) this was an important factor in the midterm elections. Indeed, to the extent that we can tell from surveys, not only do voters think Republicans need to focus much more on the cost of living, but they even make this critique of Democrats to some degree.",
+      "Even where you might think other factors are at play, like with Latino voters in Texas, more than 70 percent of those voters cite the cost of living as a top three issue compared with roughly 35 percent for immigration and border security.",
+      "People are upset about costs, they’ve been upset for a long time, and the re-acceleration of inflation associated with the war in Iran has been a fiasco for the Trump administration.",
+      "But having stipulated all that, now that the election is over, I’d like to observe that voter rage about the cost of living seems somewhat out of proportion to the actual circumstances.",
+      "This was the biggest midterm wave since 1974. But on top of Watergate, which was a huge factor in that election, the inflation rate in 1974 was a bit over 12 percent after 8.7 percent inflation in 1973. More recently, we had 7 percent inflation in 2021 followed by 6.5 percent inflation in 2022. As of September, it was 3.7 percent. That’s bad! It’s a legitimate basis for criticism of Donald Trump!",
+      "But it’s way better than 1974, and on its face you’d think it would generate a smaller backlash.",
+      "Of course, Iran has specifically generated a spike in gasoline prices, which are always particularly salient and particularly annoying. Still, gasoline is way more affordable today than it was not just in the 1970s but in the pretty recent past.",
+      "Obviously, it’s completely tone deaf politically to say this, so I encourage the White House to borrow my chart and argue with the voters that things are fine, actually.",
+      "But just between you and me … it seems pretty fine? Especially because if you pop over to Jason Furman’s giant dashboard of economic indicators, a lot of other things seem to be going well. The unemployment rate is low at 4.1 percent and has been low for a long time. G.D.P. growth is solid, and the job openings rate is slightly higher than the unemployment rate, indicating a well-balanced labor market. This is not a perfect economy, but it seems genuinely better than a lot of situations I’ve seen play out in my lifetime.",
+      "Yet people really hate it, to the extent that they feel the opposition party isn’t focused enough on complaining about how terrible everything is.",
+      "## The great betrayal",
+      "This is vibes rather than data, but after some introspection, one theory I’m partial to is that people feel betrayed by their political leaders.",
+      "I, for one, find it strange and annoying that after everyone was clearly furious with inflation in 2021-22, we never got a strong pivot to “It’s time to fight inflation.”",
+      "I’m a dork, so I phrase this in technical macroeconomic terms that normal people would not use, but here’s what happened: Inflation surged, we had a period of denial that it was all transitory, and then interest rates went up to keep inflation contained. Inflation then started heading back down throughout the Biden years, but it never returned to its target level. And the Biden administration never made a big policy pivot toward deficit reduction or supply-side regulatory reform to address it. Then Trump won promising not just a return to on-target inflation but an actual fall in the price level. That second part was impossible, but Trump never delivered the return to target that was possible. Instead, he increased the budget deficit in a way that increased inflationary pressures, and then we got a negative supply shock when he started a war with Iran.",
+      "The takeaway here is not that the underlying situation is genuinely the worst on record but that the political system is stubbornly averse to addressing it.",
+      "Even now, though, if you scour the universe of Democratic Party-aligned think tanks, you don’t see anyone saying, “Now that voters are angry about the cost of living, we need a totally retooled policy agenda to reduce inflation and interest rates.”",
+      "What’s happening instead is that everyone has taken the same off-the-shelf ideas from 2019 — neo-Brandeisian antitrust policy, expanded child-care subsidies, fighting climate change — and given them an affordability rebrand.",
+      "It would be a little crazy for an ideological movement to just completely abandon its long-held substantive goals in favor of a 100 percent focus on inflation and interest rates. But right now, Republicans are doing less than zero on inflation and interest rates. And the best I can really say for Democrats’ plans is they’re mostly avoiding ideas that would make things worse.",
+      "But there has really been shockingly little rethinking of the substance of the policy agenda. The whole idea of the new antitrust thinking, for example, was that the prior generation of enforcement had been overly focused on low consumer prices. It was genuinely bad luck for Lina Khan that she took power right when public concern about low consumer prices exploded — it’s not like the Federal Trade Commission caused inflation — but it seems obvious that when everyone is mad about consumer prices, you pivot back to the “low consumer prices are really important” school of thought.",
+      "Taxing wealth or unrealized capital gains is an inflationary mechanism of financing new government spending because you’re increasing overall consumption. Carbon pricing was abandoned as a climate solution in favor of Green New Deal thinking at a time when the economy needed stimulus, but the economy doesn’t need stimulus now and nobody’s gone back. The whole progressive child-care agenda was cooked up when unemployment was high, and it doesn’t make sense in a tight labor market.",
+      "Of course, Trump is president right now, and he’s even worse on this score.",
+      "It’s not just Iran. And it’s not just that tariffs raise prices — the whole premise of the tariff agenda is that higher prices are a good idea because you’re trying to protect American manufacturers from low-cost competition. Trump is also deliberately shrinking the workforce with his immigration policy, as if there’s some pool of unemployed people who are going to fill the jobs.",
+      "Nobody seems to want to sit down and say, “Okay, what is something I believed in but that doesn’t make sense in the specific economic situation we are facing?”",
+      "## A crisis of politics, not economics",
+      "On one level, it seems a little crazy to attribute this level of policy awareness to the American electorate.",
+      "But I’m trying to make sense of all the facts. If you want to ask yourself, “How bad is the economic situation, really, in historical terms?” I think the honest answer is that it’s not ideal but we’ve seen much worse, including pretty recently. But if you want to ask yourself, “To what degree have political elites altered their policy priorities to respond to the problems in the economy?” the answer is genuinely not at all.",
+      "And that’s kind of remarkable. In 2008, the Bush administration and House Democrats collaborated on a bipartisan stimulus bill. The Obama administration passed a big economic rescue plan in 2009 and then enacted a couple of stimulative deals with Republicans around tax cut extensions and unemployment insurance. During Covid, Trump and Democrats collaborated on the CARES Act.",
+      "I don’t want to overstate the extent to which politicians are loyal public servants eager to address the problems of the mass public, but they do normally try at least a little.",
+      "I remember being on a briefing call with the Biden economic team, and they were talking about their cost-of-living ideas. Their talking points were pretty uncompelling to me, and I asked a question that I hoped would be helpful, something like: Can you give me an example of something you’re doing to address costs that people wouldn’t normally expect to see from a Democratic administration? Like what’s a policy that you wouldn’t think was a good idea if the economic situation was different but that you have specifically adopted to address the cost-of-living crisis?",
+      "And they legitimately had nothing to offer. The agenda wasn’t all bad ideas, but it was stuff Democrats would be inclined to favor in any economic climate.",
+      "Then Trump comes in and, again, it’s not like his team has zero initiatives that are helpful on costs. But everything he’s done that’s constructive here is completely generic Republican deregulatory stuff. There’s nothing at all that’s like, “If inflation was 1.9 percent, we’d love to do X, but because it’s 3.7 percent, we’re doing Y instead.”",
+      "So while I think the cost-of-living crisis, qua economic crisis, is a bit overstated, it does strike me as a very real crisis for American democracy.",
+      "Political parties are supposed to try to advance their coalition’s ideological and interest-group agenda. But they are also supposed to respond to the mass public’s priorities! And for the past four or five years, they just haven’t.",
+      "On some level, I think you don’t actually need to understand the whole macroeconomic picture to see this. Everyone knows what it would look like for a president to take on his base or his political allies in order to advance a policy goal. Biden clearly stood up to the left for the sake of a pro-Israel policy that he believed in. Trump stood up to the pro-life movement to reassure residents of blue and purple states about abortion.",
+      "But neither of them did anything like that on the cost of living.",
+      "## People are equally angry everywhere",
+      "One piece of evidence for this view is that economic trends impact different places differently, but everyone seems equally angry.",
+      "In Alaska and Texas, for example, a negative shock to Middle Eastern energy supplies is arguably good for the local economy since they produce a lot of oil. But Democrats are winning the Senate and gubernatorial races in both those states. That’s in part thanks to four smart candidates who ran smart campaigns, but there’s just clearly no way that Democrats are winning those races without pissed off voters.",
+      "I was looking for an example of something that, unlike gasoline, really has become unprecedentedly expensive, and what I came up with is beef.",
+      "Now the thing about beef is that unlike gasoline, you don’t really need to go buy beef if you think it’s too expensive. Beef is way less affordable right now than it was in the 1980s, but chicken is cheaper. People need to eat food, but you can always pick another protein. And when Cindy Hyde-Smith made this point, it was so politically toxic that it seems to have reversed the most notorious racial-polarization dynamic in all of American history and gotten a Democrat elected in Mississippi.",
+      "I think people aren’t just angry about beef; they’re angry about the arrogance of a political class that refuses to listen when they say this is their top priority.",
+      "Political scientist Christoffer Dausgaard did some technical analysis that exploited local variation in gasoline prices to ask whether the swing against Republicans was particularly large in places where gas rose an above-average amount, and the answer is no.",
+      "In other words, the level of public anger about prices does not vary with the prices themselves.",
+      "Another way I’ve been thinking about this is that northern New England is more exposed to the Strait of Hormuz shock than the rest of the country because people there rely on oil (rather than gas or electricity) for heat and also because gas-fired power plants in New England need to partially use liquefied natural gas rather than rely on cheaper pipeline gas. There was a big swing against Republicans in northern New England, the same as everywhere else, but Republican governors got re-elected in New Hampshire and Vermont, and Susan Collins put up a strong performance (as usual) even in defeat.",
+      "I think this all supports a kind of sociotropic account of price-related rage. Rather than mechanically responding to individual variation in the cost of living, voters are aware that inflation concerns are a big deal nationally and that political leaders at the national level are not prioritizing these concerns. They are equally mad about this everywhere in the country and gave some grace to Republicans who have unusually strong brands distinct from Trump and national Republican leadership.",
+      "How sure am I that this is what’s going on? Not that sure.",
+      "I think the level of voter outrage over modest inflation is genuinely a little bit mysterious. But I don’t think it’s plausible that all the economic data is wrong or that voters are responding to something that’s totally fake. Something that is absolutely real is that we’re now on Year Five of the inflationary episode and first Democrats and now Republicans have declined to genuinely prioritize inflation reduction. And I think Democrats ought to think hard about changing that when they craft their agenda for 2029."
+     ],
+     "source_note": "slowboring.com/p/gasoline-isnt-really-that-expensive · a podcast plug, two subscribe lines and a footer are left out",
+     "counter_label": "In plain words, and the other side",
+     "counterpoint": [
+      "The short version: Yglesias says voters are furious about the cost of living, yet inflation is 3.7%, well below the 1970s and the 2021–22 peak, and jobs are plentiful. His guess is that people feel betrayed. After the price jump, neither party made fighting inflation a top goal, and Trump promised prices would fall, which could not happen. He also says anger is about the same in every state, whatever local gas prices are.",
+      "The other side. He calls this a theory based on “vibes rather than data,” and says he is “not that sure.” He writes as a centrist Democrat-leaning columnist who wants his party to change its plans. A reader who disagrees might say that an average price rise hides big jumps in some costs, such as food, which he himself notes with beef. The study he cites checks one effect, gas prices and votes, so it does not settle why people are angry."
+     ],
+     "new_page": false
+    },
+    {
+     "type": "essay",
+     "essay_id": "benthams-broadtermism",
+     "optional": false,
+     "priority": 6,
+     "kicker": "Bentham’s Newsletter · Nov 12 · Opinion",
+     "title": "Broadtermism",
+     "author": "Bentham’s Bulldog",
+     "publication": "Bentham’s Newsletter",
+     "dek": "A philosopher-blogger argues that what matters most may be far away in space, just as it may be far away in time.",
+     "paras": [
+      "Lots of the big ideas in EA came from noticing that certain numbers were large.",
+      "In the early days, EAs noticed that number of people we can help is quite large, especially compared to the number most people actually help.  Then they noticed that there were a lot of farm animals too.  Then they noticed there are even more wild animals than that—and even more expected future sentient beings than that.",
+      "Another number that is large: the number of stars.  Rumor has it there are well over a hundred stars.  Might this be another source of important moral conclusions?",
+      "These days, everyone and their mother is a Longtermist.  The core argument for Longtermism is simple: the future is so big that nearly all those affected by our actions, in expectation, will reside in the far future.  Thus, if we care about those whom our actions affect, we should primarily be concerned about the impacts our actions have on the far future—especially when harmful actions threaten to extinguish the future entirely.  Or, put in a sentence: most people will be far from us in time, so the most important features of our actions are their effects on those in distant times.",
+      "But an overlooked fact: there’s an exactly parallel argument for space (thanks to Toby Ord for pointing this out and coming up with the name Broadtermism).  Rumor has it that the universe is a pretty big place.  Nearly all the stuff in the reachable universe is far from us.",
+      "In expectation, then, only a tiny slice of what matters is what will happen in the nearby bubble—even our galaxy only represents a tiny fraction of the affectable universe.  What happens on Earth represents only a tiny fraction of the morally important things that will happen throughout the history of the universe.  Far more important is ensuring things go well in the distant star systems where nearly everyone, in expectation, will live.",
+      "Call this view Broadtermism.",
+      "The case for Broadtermism is a lot like the case for Longtermism.  Longtermists say: when in time you live doesn’t affect how much you matter.  Thus, because nearly everyone will live in the far future, and those people matter as much as the rest of us, almost all of what matters is what will occur in the far future.  Broadtermists say: where in space you live doesn’t affect how much you matter.  A tiny fraction of future people will dwell on Earth.",
+      "I think that Broadtermism is correct for basically the same reason Longtermism is correct.  People in distant galaxies matter.  Almost everyone will be in a distant galaxy. So almost all of what matters is what happens in distant galaxies.  Because things we can do now affect distant locations—extinction would prevent us from settling any of them—nearly all of the expected impacts of our actions lies in how they affect distant locations.",
+      "Like with Longtermism, there is both strong and weak Broadtermism.  Weak Broadtermism merely says that making things go better in distant spatial regions is very important and the world should do a lot more of it.  Strong Broadtermism says that it’s nearly all of what matters—vastly more important than what happens in nearby regions.",
+      "Similarly to Longtermism, there is both axiological and deontic Broadtermism.  Axiological Broadtermism says that most of what matters morally is what will happen in the distant reaches of space.  Deontic Broadtermism says that the most important features of our actions are how they affect distant regions of space—so the main determinant of whether an action is worth taking is how it will affect far out spatial regions.",
+      "What implications does Broadtermism have?",
+      "First, it means we should be a lot more willing to compromise with respect to Earth.  Conventional morality primarily cares about what happens on Earth.  So if we can get a compromise, where conventional morality reigns nearby and value maximization reigns in distant star systems, to the Broadtermist, that looks pretty good.  After all, Earth is less than 1/10^20 of the affectable universe.",
+      "If we mostly cared about what happened on Earth, then we’d find a compromise solution where what happens on Earth is hugely suboptimal to be a horrible catastrophe.  To the Broadtermist, it’s vastly less significant.  The scale of the space we might develop is so vast and the stakes so giant, that what happens to Earth specifically is of little comparative importance.",
+      "It also means that we should be more focused on values spreading.  Influencing the values of present humans can affect the trajectory of space settlement.  Suppose you’re choosing between animal welfare interventions and global health ones.  Global health charities have long-lasting environmental effects that benefit animals potentially for millions of years to come.  But this is outweighed by the positive value effects of animal welfare charities, which could influence things across many planets.",
+      "Being a Broadtermist also supercharges the case for Longtermism.  If almost all of what matters is what will happen on distant planets, and all settlement of distant planets will happen in the far future, then the far future’s importance relative to the present goes up.  Probably this won’t be that action relevant—if you take future interests seriously, the numbers are extreme enough that you should already be a Longtermist—but it’s something.",
+      "I also find Broadtermism to be pretty intuitive.  Odds are non-trivial that at some point, we will have a civilization that spans countless star systems.  Once we have that, so that almost 0% of people live on Earth, it seems clear that what will happen outside of Earth will matter a lot more than what happens on Earth."
+     ],
+     "source_note": "benthams.substack.com/p/broadtermism",
+     "counter_label": "In plain words, and the other side",
+     "counterpoint": [
+      "The short version: Longtermism says the future is so long that most people who will ever live are not born yet, so their lives matter a lot to us. The writer says the same logic works for space. The universe is huge, so most of what matters may be far from Earth. He says this means we should work out compromises about Earth, and spread good values for the far future.",
+      "The other side. This is one person’s argument, with the logic in a few steps, and it rests on guesses. We know almost nothing about whether people or other life will live far away, or whether we can affect them. Critics of longtermism say that very large, uncertain numbers can be used to justify nearly anything, and that people close to us have a stronger claim on our help. The writer also says he finds the view “pretty intuitive,” which is not the same as a proof."
+     ],
+     "new_page": false
+    },
+    {
+     "type": "box",
+     "style": "poem",
+     "optional": true,
+     "priority": -2,
+     "label": "A poem for a wet week",
+     "paras": [
+      "I wandered lonely as a cloud / That floats on high o’er vales and hills,",
+      "When all at once I saw a crowd, / A host, of golden daffodils;",
+      "William Wordsworth, “I Wandered Lonely as a Cloud”, 1807. The first four lines. A host is a large crowd."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "stand",
+   "title": "The Newsstand",
+   "new_page": false,
+   "tab": "Your inbox",
+   "aside": "The last 24 hours, summed up",
+   "blocks": [
+    {
+     "type": "newsstand",
+     "items": [
+      {
+       "essay_id": "benthams-broadtermism",
+       "pub": "Bentham’s Newsletter",
+       "author": "Bentham’s Bulldog",
+       "title": "Broadtermism",
+       "mode": "in full",
+       "summary": "Printed in full in the Essays.",
+       "hide_if_full": true,
+       "fallback": [
+        "Opinion, from Thursday. The writer says that if the far future matters most, then what happens far away in space may matter most too. He says this means we should accept compromises about Earth and care more about spreading good values."
+       ]
+      },
+      {
+       "essay_id": "persuasion-pluralism",
+       "pub": "Persuasion",
+       "title": "Campuses Need More Pluralism, Not Less",
+       "mode": "summary",
+       "paras": [
+        "Opinion, from Wednesday; only the free part is public. A faculty group called “Uncivil” says programs that teach students to talk across differences are a plot backed by billionaires. The writer runs one of them and says they teach skills democracy needs. Keep in mind: he defends his own kind of program."
+       ]
+      },
+      {
+       "essay_id": "canadian-ai-registry",
+       "pub": "Substack (Ilyass)",
+       "title": "The Canadian AI Registry for Incident Tracking",
+       "mode": "summary",
+       "paras": [
+        "A proposal for the government’s call for views on AI openness. The writer wants one national registry where companies confidentially report AI accidents and near misses, with only anonymous, combined data made public. Keep in mind: it is one person’s proposal, not a government plan."
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "email_notes": [
+  "Issue No. 3, Thursday Nov 12. Gmail, Calendar, Slack and Todoist all worked. The Quercus calendar feed is not set up; school dates come from Todoist, the Quercus mail and QUERCUS_CONTEXT.md.",
+  "Weather: Open-Meteo said its daily limit was reached, so the first three days come from wttr.in (Thursday to Saturday) and Sunday is carried from yesterday’s Open-Meteo forecast. There are four days, not five. Treat Sunday as rough.",
+  "Opportunities: it is not Monday, so the list is carried over from yesterday. I re-checked CLR’s page today (deadline Mon Nov 16, 23:59 GMT). Nothing new reached the inbox or Slack. BlueDot’s page shows an AGI Strategy course closing Nov 29; the Frontier AI Governance date (Nov 15) is carried over from earlier checks.",
+  "School: the GGRA30 Practical 7 quiz closed last night at 7 pm. Todoist still lists it, so I could not tell if you did it. Only your best 6 of 9 practicals count. MGEA01 also sent a note about make-up midterm information; it only matters if you missed the Oct 15 midterm. The UTSC Registrar sent an “Academic Probation Check-in” on Nov 11. I only put a one-line reminder in the paper and did not copy any details. It lists deadlines and services, so it is worth reading.",
+  "Slack: in a DM, you and Joseph Kostousov were setting up a call about your path in AI safety. I left it out of the paper because it is a private chat. The date was not final in what I read.",
+  "Left out and why: Matthew Yglesias is printed in full (the post is free). The Epoch Brief, Zvi’s Claude post, the Bentham live-video note and Visual Capitalist were left out for space or as video or podcast items. The Persuasion piece is paywalled after a few paragraphs, so the summary covers only the free part. The Ilyass proposal and the Epoch Brief are about AI, which is fine in essays and the Newsstand but not in World or Science. The Science story is from Science News and is not about AI. I did not use Nature’s cactus story because the page would not load its text. I read but cut for space: the ANTARA palm-oil story (exports up 60% to $28.84 billion, Jan–Oct), the Global News story on Russian players barred from the World Juniors, and a Quanta piece on the metabolism-first idea of life’s origin.",
+  "Canada: CBC was blocked. The Stellantis story comes from Global News. Its page did not show the name of the defence company, so the paper says “a Canadian defence maker.” The 2023 deal figures are from the same story.",
+  "Spain’s general strike, which was printed yesterday, was not repeated. BBC says clashes broke out in Barcelona on Wednesday night."
+ ],
+ "credits": [
+  "Front page band: Katsushika Hokusai, Famous Places on the Tōkaidō in One View (c. 1818). UBC Library, no known copyright restrictions.",
+  "Maps: Natural Earth data via world-atlas. Weather: wttr.in and Open-Meteo."
+ ],
+ "back": {
+  "src": "assets/art/processed/back-03-kawasaki.png",
+  "kicker": "The Road · Stop 3 of 55",
+  "title": "Kawasaki · Hiroshige",
+  "caption": "Kawasaki was the third town on the road from Edo. The picture shows a boat full of travellers crossing a river, with Mount Fuji far away in the distance. Hiroshige made 55 prints of the road, and this paper shows one each issue. Turn the page sideways to see it the right way up.",
+  "credit": "Public domain. Library of Congress, via Wikimedia Commons."
+ }
+}
