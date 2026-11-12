@@ -147,3 +147,7 @@ Fix for Pio: allow outbound web access in the environment's network settings (th
 - Rebuilt `issues/2026-11-11/` with `update_morning.py` (starts from `issue.evening.json`, the evening copy). New: ACX essay in full, Bentham in full, new Indonesia/US/World stories, weather. Subject suffix ` · morning update`.
 - Lessons: a full essay is ~450 words per page. Two essays of ~1,600 words each do not fit with 15 news stories; ~2,600 words of essays did. `exec`-ing slices of an old make_issue.py clobbers variables: copy the weather code instead. Slack search with `after` found nothing new, a cheap check. Substack full text: `/api/v1/posts/<slug>`.
 - Next: Thu Nov 12 is a new issue, No. 3, back stop 3.
+
+## Run of Thu Nov 12, 2026: Issue No. 3 made and sent
+- Built from `issues/2026-11-12/make_issue.py` (starts from yesterday's issue.json). Back stop 3 (Kawasaki), `back_stop` = 3.
+- Lessons: Open-Meteo hit its daily limit (use wttr.in `?format=j1`, 3 days, as a fallback). `pip install feedparser` was needed for `collectors/fetch.py`; running it in the session worked and gave fresh RSS. BBC and NPR pages are readable with curl; ANTARA text needs line-based extraction. Persuasion archive API: `/api/v1/archive?limit=1` on the publication host. The fitter treats a lone section head at a page bottom badly: set the first essay `new_page: False`. Non-splitting boxes (Bubble check) can spill a page: keep them short. A trailing `figure` after the Newsstand can add a page; drop it if the count is 21.
