@@ -1,0 +1,693 @@
+{
+ "indonesia": [
+  {
+   "error": "https://en.antaranews.com/rss/news.xml: HTTPSConnectionPool(host='en.antaranews.com', port=443): Max retries exceeded with url: /rss/news.xml (Caused by NewConnectionError(\"HTTPSConnection(host='en.antaranews.com', port=443): Failed to establish a new connection: [Errno 111] Connection refused\"))"
+  },
+  {
+   "error": "https://en.tempo.co/rss: 403 Client Error: Forbidden for url: https://en.tempo.co/rss"
+  },
+  {
+   "error": "https://jakartaglobe.id/rss: 404 Client Error: Not Found for url: https://jakartaglobe.id/rss"
+  }
+ ],
+ "canada": [
+  {
+   "error": "https://www.cbc.ca/webfeed/rss/rss-canada: HTTPSConnectionPool(host='www.cbc.ca', port=443): Read timed out. (read timeout=25)"
+  },
+  {
+   "error": "https://www.cbc.ca/webfeed/rss/rss-politics: HTTPSConnectionPool(host='www.cbc.ca', port=443): Read timed out. (read timeout=25)"
+  },
+  {
+   "source": ": Canada",
+   "title": "Canadian travel to U.S. went up in October, data shows",
+   "url": "https://globalnews.ca/news/12148020/canada-us-travel-october-2026/",
+   "published": "2026-11-12T18:16:07+00:00",
+   "summary": "October also saw more Americans travel to Canada compared to the same period in 2025, with 1.5 million trips marking an increase of 8.1 per cent compared to October 2025."
+  },
+  {
+   "source": ": Canada",
+   "title": "Ontario to cap OSAP growth at career colleges following massive increases",
+   "url": "https://globalnews.ca/news/12148094/ontario-to-cap-osap-growth-at-career-colleges-following-massive-increases/",
+   "published": "2026-11-12T18:13:04+00:00",
+   "summary": "The legislation is set to include the as-yet undefined cap, limit OSAP funding to in-person and hybrid programs at those institutions and require them to have a physical location."
+  },
+  {
+   "source": ": Canada",
+   "title": "U of T rejects report, recommendations on anti-Muslim, anti-Arab discrimination",
+   "url": "https://globalnews.ca/news/12148029/u-of-t-rejects-report-recommendations-on-anti-muslim-anti-arab-discrimination/",
+   "published": "2026-11-12T17:49:31+00:00",
+   "summary": "The nearly 300-page report is based on consultations with 85 people and small groups as well as 525 responses to a survey of students, staff, faculty and librarians."
+  },
+  {
+   "source": ": Canada",
+   "title": "Association of Quebec farmers releases study challenging costs of high-speed rail",
+   "url": "https://globalnews.ca/news/12148017/association-of-quebec-farmers-alto-study/",
+   "published": "2026-11-12T17:37:50+00:00",
+   "summary": "The study conducted by Vision Transport and agricultural group Union des producteurs agricoles say these savings could be made by modernizing existing tracks."
+  },
+  {
+   "source": ": Canada",
+   "title": "Pilot killed in Quebec Remembrance Day plane crash identified",
+   "url": "https://globalnews.ca/news/12147848/daniel-parent-quebec-remembrance-day-plane-crash/",
+   "published": "2026-11-12T16:30:00+00:00",
+   "summary": "A pilot who died Wednesday when his plane crashed after participating in a Remembrance Day ceremony south of Quebec City has been identified."
+  },
+  {
+   "source": ": Canada",
+   "title": "CSIS foreign powers could help Canada navigate an unreliable U.S.: experts",
+   "url": "https://globalnews.ca/news/12146781/csis-foreign-intelligence-canada-trumps-world/",
+   "published": "2026-11-12T15:56:16+00:00",
+   "summary": "The federal government has strongly hinted that Canada’s spy service is getting an expanded mandate alongside billions in new funding."
+  },
+  {
+   "source": ": Canada",
+   "title": "Canada faces ‘gradual and bumpy recovery,’ KPMG economic outlook says",
+   "url": "https://globalnews.ca/news/12147789/canada-faces-gradual-and-bumpy-recovery-kpmg-economic-outlook-says/",
+   "published": "2026-11-12T15:53:42+00:00",
+   "summary": "Growth in 2026 is expected to be 'tepid' and 'sub-par' with U.S. President Donald Trump’s trade war weighing on Canada, KMPG's Fall Economic Outlook says."
+  },
+  {
+   "source": ": Canada",
+   "title": "Winning Mississauga Lotto 6/49 Gold Ball ticket worth $38M: OLG",
+   "url": "https://globalnews.ca/news/12147737/lotto-649-gold-ball-winning-ticket/",
+   "published": "2026-11-12T14:49:08+00:00",
+   "summary": "A winning Lotto 6/49 Gold Ball ticket sold in Mississauga is worth $38 million, the Ontario Lottery and Gaming Corporation (OLG) says."
+  },
+  {
+   "source": ": Canada",
+   "title": "Tesla driver found asleep on Highway 417 during Ottawa rush hour: OPP",
+   "url": "https://globalnews.ca/news/12147686/ottawa-tesla-driver-sleeping-highway-417/",
+   "published": "2026-11-12T13:54:23+00:00",
+   "summary": "A driver has been charged with careless driving after allegedly falling asleep behind the wheel of a Tesla during Ottawa rush-hour traffic."
+  },
+  {
+   "source": ": Canada",
+   "title": "Carney to meet European leaders in Ireland before heading to Asia",
+   "url": "https://globalnews.ca/news/12147657/carney-ireland-visit/",
+   "published": "2026-11-12T13:26:27+00:00",
+   "summary": "Carney is attending the European Political Community summit, where leaders discuss geopolitical issues every six months, ever since Russia's 2022 full-scale invasion of Ukraine."
+  },
+  {
+   "source": "The Conversation – Articles (CA)",
+   "title": "Alberta’s new physical education curriculum risks promoting disordered eating among students",
+   "url": "https://theconversation.com/albertas-new-physical-education-curriculum-risks-promoting-disordered-eating-among-students-294342",
+   "published": "2026-11-12T18:03:04+00:00",
+   "summary": "Alberta’s proposed curriculum risks reinforcing weight stigma, restrictive eating and unhealthy exercise habits among young people."
+  },
+  {
+   "source": "The Conversation – Articles (CA)",
+   "title": "What Bill C-39’s loosened environmental regulations could mean for Canadians",
+   "url": "https://theconversation.com/what-bill-c-39s-loosened-environmental-regulations-could-mean-for-canadians-294851",
+   "published": "2026-11-12T14:34:34+00:00",
+   "summary": "Under Bill C-39, Ottawa would be able to permit preliminary construction to begin, before environmental impact assessments are completed."
+  },
+  {
+   "source": "The Conversation – Articles (CA)",
+   "title": "Montréal’s school service centre is evicting community groups in its surplus buildings. An urban neighbourhood shows the cost",
+   "url": "https://theconversation.com/montreals-school-service-centre-is-evicting-community-groups-in-its-surplus-buildings-an-urban-neighbourhood-shows-the-cost-265953",
+   "published": "2026-11-12T14:23:24+00:00",
+   "summary": "A wider shift is taking place in which the Quebec government is pushing responsibility for social infrastructure off itself and onto community organizations."
+  },
+  {
+   "source": "The Conversation – Articles (CA)",
+   "title": "COP31: How AI can help us adapt to climate change",
+   "url": "https://theconversation.com/cop31-how-ai-can-help-us-adapt-to-climate-change-294050",
+   "published": "2026-11-11T20:15:12+00:00",
+   "summary": "Artificial intelligence is attracting attention for its potential to deepen our understanding of climate risks and inform our responses."
+  },
+  {
+   "source": "The Conversation – Articles (CA)",
+   "title": "Why teaching ‘ethical’ classroom use of AI to learn writing must include the right to refuse",
+   "url": "https://theconversation.com/why-teaching-ethical-classroom-use-of-ai-to-learn-writing-must-include-the-right-to-refuse-293520",
+   "published": "2026-11-11T19:35:22+00:00",
+   "summary": "If we want to teach writing students to engage with AI chatbots ethically and responsibly, we need to first consider what we mean by “ethical.”"
+  },
+  {
+   "source": "The Conversation – Articles (CA)",
+   "title": "Canada’s international student cap hit Atlantic universities hard. Here’s why it matters",
+   "url": "https://theconversation.com/canadas-international-student-cap-hit-atlantic-universities-hard-heres-why-it-matters-295649",
+   "published": "2026-11-11T12:10:44+00:00",
+   "summary": "Atlantic Canada’s experiences show that reducing international student numbers is not enough to judge whether a policy works. Its impacts on universities, students and communities matter too."
+  },
+  {
+   "source": "The Conversation – Articles (CA)",
+   "title": "What lurks ‘Below’ Newfoundland waters? A marine biologist explains the science behind the show",
+   "url": "https://theconversation.com/what-lurks-below-newfoundland-waters-a-marine-biologist-explains-the-science-behind-the-show-295615",
+   "published": "2026-11-11T12:10:37+00:00",
+   "summary": "While Below may have some things wrong —&nbsp;giant squid probably aren’t vindictive, for example — a Newfoundland ocean sciences expert praises the Netflix show for stoking an interest in the deep sea."
+  }
+ ],
+ "usa": [
+  {
+   "source": "NPR Topics: News",
+   "title": "Casualties continue to rise after Brooklyn building collapses",
+   "url": "https://www.npr.org/sections/the-picture-show/2026/11/12/g-s1-153229/brooklyn-building-collapse-photos",
+   "published": "2026-11-12T18:15:00+00:00",
+   "summary": "First responders continue to search for survivors after a building in Brooklyn collapsed, leaving at least eight dead and dozens injured."
+  },
+  {
+   "source": "NPR Topics: News",
+   "title": "Democrats want to stop Trump's arch, golf course and more. What are their options?",
+   "url": "https://www.npr.org/2026/11/12/nx-s1-6034539/democrats-congress-trump-arch-ballroom-funding-oversight",
+   "published": "2026-11-12T17:13:54+00:00",
+   "summary": "As Trump's arch and other projects make their way through the courts, many critics are looking to Congress to stop them. Democrats have a few tools, including funding and oversight."
+  },
+  {
+   "source": "NPR Topics: News",
+   "title": "The SS United States takes its final voyage to the bottom of the Gulf of Mexico",
+   "url": "https://www.npr.org/2026/11/12/g-s1-153219/the-deliberate-sinking-of-the-ss-united-states",
+   "published": "2026-11-12T16:20:04+00:00",
+   "summary": "A ship bigger than the Titanic is being sunk off the coast of Florida to make an artificial reef."
+  },
+  {
+   "source": "NPR Topics: News",
+   "title": "D.C. shooting leaves 1 person killed, 4 injured. Gunman dead",
+   "url": "https://www.npr.org/2026/11/12/nx-s1-6038860/dc-logan-circle-shooting",
+   "published": "2026-11-12T16:12:53+00:00",
+   "summary": "A gunman opened fire at a gym in Washington, D.C.'s Logan Circle Thursday morning. One person has been confirmed killed and four others injured. The gunman is dead, according to police."
+  },
+  {
+   "source": "NPR Topics: News",
+   "title": "U.S. envoys meet with Putin in the Kremlin after Ukraine talks in Abu Dhabi",
+   "url": "https://www.npr.org/2026/11/12/nx-s1-6038809/us-envoys-meet-putin-russia-ukraine-war-talks",
+   "published": "2026-11-12T15:26:34+00:00",
+   "summary": "Jared Kushner and Steve Witkoff went to the Kremlin to brief Russian President Vladimir Putin and are scheduled to fly later to Ireland for talks with Ukrainian President Volodymyr Zelenskyy."
+  },
+  {
+   "source": "NPR Topics: News",
+   "title": "Indonesia's VP resigns as his eligibility and academic credentials are questioned",
+   "url": "https://www.npr.org/2026/11/12/g-s1-153190/indonesias-vp-resigns-as-his-eligibility-and-academic-credentials-are-questioned",
+   "published": "2026-11-12T14:22:50+00:00",
+   "summary": "Raka is the son of former President Joko Widodo. The Constitutional Court and the Supreme Court ruled last month that the documents that Raka submitted regarding his overseas education didn't meet election requirements."
+  },
+  {
+   "source": "NPR Topics: News",
+   "title": "Nvidia CEO Jensen Huang steps down amid alleged spy scandal",
+   "url": "https://www.npr.org/2026/11/12/nx-s1-6037833/jensen-huang-nvidia-stepped-down",
+   "published": "2026-11-12T14:17:20+00:00",
+   "summary": "Huang co-founded the chipmaker Nvidia, which has become one of the driving forces behind the AI boom. But reports that he may have had an affair with an alleged Chinese spy quickly sank his career."
+  },
+  {
+   "source": "NPR Topics: News",
+   "title": "Colom wins Mississippi Senate race. And, White House warns Dems over future probes",
+   "url": "https://www.npr.org/2026/11/12/g-s1-153171/up-first-newsletter-scott-colom-trump-democrats-ukraine-russia",
+   "published": "2026-11-12T12:15:48+00:00",
+   "summary": "After more than a week of counting ballots, Scott Colom has narrowly won the Mississippi Senate seat. And, the White House has sent a letter warning Democrats who plan to investigate the administration."
+  },
+  {
+   "source": "NPR Topics: News",
+   "title": "At least 23 states considered laws governing ICE and schools this year",
+   "url": "https://www.npr.org/2026/11/12/nx-s1-5718547/ice-schools-state-laws-federal-immigration",
+   "published": "2026-11-12T10:00:00+00:00",
+   "summary": "When ICE agents show up at a school, educators rely on a patchwork of policies to know what to do. This year, many state legislatures tried to update those policies."
+  },
+  {
+   "source": "NPR Topics: News",
+   "title": "A blue wave helped offset for now a falling tally of Black members in the U.S. House",
+   "url": "https://www.npr.org/2026/11/12/nx-s1-6029640/black-voter-turnout-congress-redistricting",
+   "published": "2026-11-12T10:00:00+00:00",
+   "summary": "A Supreme Court ruling that further weakened the Voting Rights Act paved the way for a record drop in Black representation in Congress. But a midterm blue wave helped hold off such a decline for now."
+  },
+  {
+   "source": "PBS News Hour - The Latest",
+   "title": "U.S. envoys meet with Putin in Moscow on Ukraine talks, then head for Dublin to see Zelenskyy",
+   "url": "https://www.pbs.org/newshour/world/u-s-envoys-meet-with-putin-in-moscow-on-ukraine-talks-then-head-for-dublin-to-see-zelenskyy",
+   "published": "2026-11-12T17:22:53+00:00",
+   "summary": "Kushner and Witkoff met with Putin in a meeting that lasted about two hours. They then headed for Dublin for talks with Zelenskyy as the conflict stretches toward the five-year mark."
+  },
+  {
+   "source": "PBS News Hour - The Latest",
+   "title": "Brooklyn building collapse death toll rises to 8 as rescuers search for survivors",
+   "url": "https://www.pbs.org/newshour/nation/brooklyn-building-collapse-death-toll-rises-to-8-as-rescuers-search-for-survivors",
+   "published": "2026-11-12T16:34:17+00:00",
+   "summary": "Two of the people killed were children, Mayor Zohran Mamdani said during a news conference Thursday."
+  },
+  {
+   "source": "PBS News Hour - The Latest",
+   "title": "Suspected gunman shoots 5 people in D.C., killing 1, before dying by suicide",
+   "url": "https://www.pbs.org/newshour/nation/suspected-gunman-shoots-5-people-in-d-c-killing-1-before-dying-by-suicide",
+   "published": "2026-11-12T16:26:29+00:00",
+   "summary": "Jeffery Carroll, interim chief with the Metropolitan Police Department, said that the man apparently had a dispute with the building's homeowners association."
+  },
+  {
+   "source": "PBS News Hour - The Latest",
+   "title": "Sharp swings for Nvidia and oil prices weigh on Wall Street",
+   "url": "https://www.pbs.org/newshour/economy/sharp-swings-for-nvidia-and-oil-prices-weigh-on-wall-street",
+   "published": "2026-11-12T16:05:41+00:00",
+   "summary": "Nvidia's stock plunged as much as 14% at the start of trading following the resignation of Jensen Huang, its CEO, co-founder and face of the brand."
+  },
+  {
+   "source": "PBS News Hour - The Latest",
+   "title": "Nvidia CEO Jensen Huang resigns after his affair raises national security concerns",
+   "url": "https://www.pbs.org/newshour/economy/nvidia-ceo-jensen-huang-resigns-after-his-affair-raises-national-security-concerns",
+   "published": "2026-11-12T14:10:01+00:00",
+   "summary": "Huang faced growing calls to resign after his affair with an alleged Chinese spy. Late Wednesday, media reports said Huang had another extramarital affair with an Nvidia employee who reports to him."
+  },
+  {
+   "source": "PBS News Hour - The Latest",
+   "title": "Indictment sheds light on alleged Iran-backed plots across U.S. and Europe",
+   "url": "https://www.pbs.org/newshour/show/indictment-sheds-light-on-alleged-iran-backed-plots-across-u-s-and-europe",
+   "published": "2026-11-11T23:55:44+00:00",
+   "summary": "Iran's top national security official warned that it would strike American bases beyond the Gulf, including in Europe, if the United States resumes air strikes against the Islamic Republic. The warning comes one day after indictments in New York against three men who allegedly conspired to attack U.S. Air Force planes at a base in England. Nick Schifrin reports."
+  },
+  {
+   "source": "PBS News Hour - The Latest",
+   "title": "News Wrap: Democrat Scott Colom defeats Mississippi Sen. Cindy Hyde-Smith",
+   "url": "https://www.pbs.org/newshour/show/news-wrap-democrat-scott-colom-defeats-mississippi-sen-cindy-hyde-smith",
+   "published": "2026-11-11T23:50:05+00:00",
+   "summary": "In our news wrap Wednesday, Democrat Scott Colom has defeated incumbent Republican Sen. Cindy Hyde-Smith in Mississippi, a group that included Defense Secretary Pete Hegseth was admonished by an Army sentinel at the Tomb of the Unknown Soldier and peace talks between Ukraine, Russia and the U.S. ended with an agreement to exchange prisoners, but no breakthrough on ending the war."
+  },
+  {
+   "source": "PBS News Hour - The Latest",
+   "title": "White House threatens Democrats over plans to investigate Trump officials",
+   "url": "https://www.pbs.org/newshour/show/white-house-threatens-democrats-over-plans-to-investigate-trump-officials",
+   "published": "2026-11-11T23:45:49+00:00",
+   "summary": "With Democrats set to take control of Congress, the White House is threatening them over investigations into the Trump administration. The top White House lawyer warned that aggressive oversight of the administration \"may cross the line into blatant criminality.\" It comes amid a wave of resignations within the Justice Department. Amna Nawaz discussed more with Devlin Barrett of The New York Times."
+  },
+  {
+   "source": "PBS News Hour - The Latest",
+   "title": "Sen. Coons on Huang affair, Iran war and why Trump should fire Hegseth",
+   "url": "https://www.pbs.org/newshour/show/sen-coons-on-huang-affair-iran-war-and-why-trump-should-fire-hegseth",
+   "published": "2026-11-11T23:40:56+00:00",
+   "summary": "As Democrats prepare to take control of Congress, Delaware Sen. Chris Coons is poised to become chairman of the Senate Foreign Relations Committee, succeeding retiring Democrat Jeanne Shaheen. A staunch supporter of Ukraine and a critic of President Trump's war with Iran, Coons would take the helm at a consequential moment for American foreign policy.  Coons joined Geoff Bennett to discuss more."
+  },
+  {
+   "source": "PBS News Hour - The Latest",
+   "title": "How companies are using AI to make you spend more money",
+   "url": "https://www.pbs.org/newshour/show/how-companies-are-using-ai-to-make-you-spend-more-money",
+   "published": "2026-11-11T23:35:05+00:00",
+   "summary": "Companies have always tried to maximize profits, but now there are a host of sophisticated tools to determine the prices of the goods and services they sell. At a time when so many Americans are frustrated with rising costs, those tools are under greater scrutiny. Economics correspondent Paul Solman explains how that technology is transforming the prices we pay."
+  },
+  {
+   "source": "PBS News Hour - The Latest",
+   "title": "How America's military shaped the nation's history and evolved over 250 years",
+   "url": "https://www.pbs.org/newshour/show/how-americas-military-shaped-the-nations-history-and-evolved-over-250-years",
+   "published": "2026-11-11T23:30:42+00:00",
+   "summary": "Over the last 250 years, the United States military has helped shape the nation's history – from the fight for independence to its emergence as the world's leading military power. But as the military's reach has grown, fewer Americans are serving in uniform. Judy Woodruff explores what that means for the country in her series, Crossroads: America at 250."
+  },
+  {
+   "source": "PBS News Hour - The Latest",
+   "title": "New film 'The Mosquito Bowl' tells story of WWII football game between Marines",
+   "url": "https://www.pbs.org/newshour/show/new-film-the-mosquito-bowl-tells-story-of-wwii-football-game-between-marines",
+   "published": "2026-11-11T23:25:17+00:00",
+   "summary": "The themes of service to country and reflection on humanity are at the center of the new film \"The Mosquito Bowl.\" Special correspondent Mike Cerre caught up with some of the forces behind the film and the real historical event. It's part of our arts and culture series, CANVAS."
+  },
+  {
+   "source": "PBS News Hour - The Latest",
+   "title": "Scott Colom wins Senate election in Mississippi",
+   "url": "https://www.pbs.org/newshour/politics/scott-colom-wins-senate-election-in-mississippi",
+   "published": "2026-11-11T23:01:15+00:00",
+   "summary": "Democratic nominee Scott Colom has defeated Republican Sen. Cindy Hyde-Smith in Mississippi's closely contested U.S. Senate race after a prolonged ballot counting process, giving the state its first Black U.S. senator since post-Civil War Reconstruction."
+  },
+  {
+   "source": "PBS News Hour - The Latest",
+   "title": "Russia and Ukraine agree to a large prisoner exchange as talks end with no major breakthrough",
+   "url": "https://www.pbs.org/newshour/world/russia-and-ukraine-agree-to-a-large-prisoner-exchange-as-talks-end-with-no-major-breakthrough",
+   "published": "2026-11-11T22:59:17+00:00",
+   "summary": "Russia and Ukraine agreed to a large exchange of prisoners of war, both sides said Wednesday as two days of U.S.-mediated talks concluded with no major breakthrough on ending Moscow's nearly 5-year-old full-scale invasion."
+  },
+  {
+   "source": "PBS News Hour - The Latest",
+   "title": "4 key findings in the Jeffrey Epstein report from GOP-led House Oversight panel",
+   "url": "https://www.pbs.org/newshour/politics/4-key-findings-in-the-jeffrey-epstein-report-from-gop-led-house-oversight-panel",
+   "published": "2026-11-11T22:40:43+00:00",
+   "summary": "Jeffrey Epstein's crimes committed after 2005 could have been prevented, barring \"repeated failures\" from law enforcement and federal prosecutors. That's one of the findings in a report published Tuesday by the House Oversight Committee after an investigation into the late convicted sex offender and his associates."
+  },
+  {
+   "source": "PBS News Hour - The Latest",
+   "title": "Biden says he wouldn't have run for a second term in 2024 if he knew he had cancer",
+   "url": "https://www.pbs.org/newshour/politics/biden-says-he-wouldnt-have-run-for-a-second-term-in-2024-if-he-knew-he-had-cancer",
+   "published": "2026-11-11T22:04:11+00:00",
+   "summary": "Joe Biden says he did not know he had cancer while he was president and would not have sought a second term if he already had been diagnosed."
+  },
+  {
+   "source": "PBS News Hour - The Latest",
+   "title": "Judge allows Trump defamation case against BBC to proceed but tosses 1 claim",
+   "url": "https://www.pbs.org/newshour/politics/judge-allows-trump-defamation-case-against-bbc-to-proceed-but-tosses-1-claim",
+   "published": "2026-11-11T21:32:56+00:00",
+   "summary": "President Donald Trump's $10 billion defamation case against the BBC remains on track, for the moment."
+  },
+  {
+   "source": "PBS News Hour - The Latest",
+   "title": "Trump says the towering arch he wants to be build might be dedicated to military veterans",
+   "url": "https://www.pbs.org/newshour/politics/trump-says-the-towering-arch-he-wants-to-be-build-might-be-dedicated-to-military-veterans",
+   "published": "2026-11-11T21:11:02+00:00",
+   "summary": "President Donald Trump observed Veterans Day by suggesting that the towering arch he wants to build in his own honor would also be dedicated to the U.S. military and those who served in its ranks."
+  },
+  {
+   "source": "PBS News Hour - The Latest",
+   "title": "Missing South Carolina infant rescued after being buried alive in a dog crate for 24 hours",
+   "url": "https://www.pbs.org/newshour/nation/missing-south-carolina-infant-rescued-after-being-buried-alive-in-a-dog-crate-for-24-hours",
+   "published": "2026-11-11T20:59:24+00:00",
+   "summary": "When an 11-month-old infant was reported missing in South Carolina, dozens of first responders combed the countryside for the \"bright boy with reddish blond hair\" who, the sheriff's office said, had disappeared while his grandmother ran errands."
+  },
+  {
+   "source": "PBS News Hour - The Latest",
+   "title": "More than a dozen key races remain too early to call one week after Election Day",
+   "url": "https://www.pbs.org/newshour/politics/more-than-a-dozen-key-races-remain-too-early-to-call-one-week-after-election-day",
+   "published": "2026-11-11T20:33:19+00:00",
+   "summary": "The size of Democrats' majorities in the House and Senate remained undetermined one week after Election Day as more than a dozen races were still too early to call Tuesday."
+  },
+  {
+   "source": "The Conversation – Articles (US)",
+   "title": "What is ‘food is medicine?’ – 2 experts explain this decades-old approach to healthcare that is taking on new life",
+   "url": "https://theconversation.com/what-is-food-is-medicine-2-experts-explain-this-decades-old-approach-to-healthcare-that-is-taking-on-new-life-293312",
+   "published": "2026-11-12T14:04:49+00:00",
+   "summary": "Food is medicine aims to help patients prevent or manage chronic illnesses by eating food that supports their health."
+  },
+  {
+   "source": "The Conversation – Articles (US)",
+   "title": "Extreme weather risk is scaring big corporations away from poorer countries – that hurts the companies, too",
+   "url": "https://theconversation.com/extreme-weather-risk-is-scaring-big-corporations-away-from-poorer-countries-that-hurts-the-companies-too-295591",
+   "published": "2026-11-12T13:42:26+00:00",
+   "summary": "When floods, heat waves and other climate disasters cost companies money, the results can shape their willingness to invest there in the future."
+  },
+  {
+   "source": "The Conversation – Articles (US)",
+   "title": "Despite intense Islamophobia, Abdul El-Sayed and dozens of other Muslims elected representatives are breaking down barriers",
+   "url": "https://theconversation.com/despite-intense-islamophobia-abdul-el-sayed-and-dozens-of-other-muslims-elected-representatives-are-breaking-down-barriers-296035",
+   "published": "2026-11-12T13:42:15+00:00",
+   "summary": "Three political scientists found that visible Muslim representation can make public institutions seem fairer and encourage Muslim Americans to participate in politics."
+  },
+  {
+   "source": "The Conversation – Articles (US)",
+   "title": "Rural women in Colorado and nationwide are at higher risk for cervical cancer – at-home test kits can help close the gap",
+   "url": "https://theconversation.com/rural-women-in-colorado-and-nationwide-are-at-higher-risk-for-cervical-cancer-at-home-test-kits-can-help-close-the-gap-293083",
+   "published": "2026-11-12T13:42:05+00:00",
+   "summary": "At-home testing kits for cervical cancer, alongside HPV vaccines and mobile clinics, can help rural women get the care they need."
+  },
+  {
+   "source": "The Conversation – Articles (US)",
+   "title": "US demands that Iraq disarms brigades misread the nation’s complicated security landscape",
+   "url": "https://theconversation.com/us-demands-that-iraq-disarms-brigades-misread-the-nations-complicated-security-landscape-293491",
+   "published": "2026-11-12T13:41:52+00:00",
+   "summary": "Washington has reportedly warned of consequences should Baghdad not rein in pro-Iranian groups."
+  },
+  {
+   "source": "The Conversation – Articles (US)",
+   "title": "While California’s wealth tax failed, states are taking other steps to collect more revenue from the rich",
+   "url": "https://theconversation.com/while-californias-wealth-tax-failed-states-are-taking-other-steps-to-collect-more-revenue-from-the-rich-296103",
+   "published": "2026-11-12T13:41:41+00:00",
+   "summary": "Income tax increases and surcharges on high earners are cropping up around the country, along with taxes on the extra homes that the wealthiest Americans own."
+  },
+  {
+   "source": "The Conversation – Articles (US)",
+   "title": "Children are not colorblind: Why early conversations about race are essential",
+   "url": "https://theconversation.com/children-are-not-colorblind-why-early-conversations-about-race-are-essential-293500",
+   "published": "2026-11-12T13:41:28+00:00",
+   "summary": "Without explicit conversations and learning about race and racial inequality, children might believe stereotypes and draw other false assumptions about others."
+  },
+  {
+   "source": "The Conversation – Articles (US)",
+   "title": "El Niño threatens health, too – early warnings done right can save lives",
+   "url": "https://theconversation.com/el-nino-threatens-health-too-early-warnings-done-right-can-save-lives-295379",
+   "published": "2026-11-12T13:41:18+00:00",
+   "summary": "Weather warnings can help save lives by providing advice people can act on before, during and after a disaster."
+  },
+  {
+   "source": "The Conversation – Articles (US)",
+   "title": "El Salvador is exporting the ‘Bukele model’ to Haiti – but the gang offensive is a gamble for both nations",
+   "url": "https://theconversation.com/el-salvador-is-exporting-the-bukele-model-to-haiti-but-the-gang-offensive-is-a-gamble-for-both-nations-296390",
+   "published": "2026-11-11T23:58:06+00:00",
+   "summary": "Haiti’s war on gangs is increasingly relying on a patchwork of foreign troops and private militias, making accountability more complicated."
+  },
+  {
+   "source": "The Conversation – Articles (US)",
+   "title": "You likely have genes that affect how well your medications work – testing for them could improve treatment",
+   "url": "https://theconversation.com/you-likely-have-genes-that-affect-how-well-your-medications-work-testing-for-them-could-improve-treatment-296352",
+   "published": "2026-11-11T19:00:24+00:00",
+   "summary": "Researchers found that everyone in a 100,000 sample of people has at least one genetic variant that interacts with common prescriptions."
+  },
+  {
+   "source": "The Conversation – Articles (US)",
+   "title": "The ‘religious left’ may be rising – but Black Christian women have been there all along",
+   "url": "https://theconversation.com/the-religious-left-may-be-rising-but-black-christian-women-have-been-there-all-along-296110",
+   "published": "2026-11-11T17:47:30+00:00",
+   "summary": "For years, Black women have been one of the Democratic Party’s steadiest groups of supporters. And for many of those voters, faith helps inspire their politics."
+  }
+ ],
+ "elsewhere": [
+  {
+   "source": "Nature",
+   "title": "This little brown mushroom is laced with a hallucinogen — and lethal toxins",
+   "url": "https://www.nature.com/articles/d41586-026-03639-2",
+   "published": "2026-11-12T00:00:00+00:00",
+   "summary": "Nature, Published online: 12 November 2026; doi:10.1038/d41586-026-03639-2A Florida fungus might combine the psychedelic compound psilocybin with deadly chemicals to defend itself against hungry animals."
+  },
+  {
+   "source": "Nature",
+   "title": "Author Correction: SLAMF6 as a drug-targetable suppressor of T cell immunity against cancer",
+   "url": "https://www.nature.com/articles/s41586-026-11409-3",
+   "published": "2026-11-12T00:00:00+00:00",
+   "summary": "Nature, Published online: 12 November 2026; doi:10.1038/s41586-026-11409-3Author Correction: SLAMF6 as a drug-targetable suppressor of T cell immunity against cancer"
+  },
+  {
+   "source": "Nature",
+   "title": "Massive atlas of brain region linked to a host of diseases is the most detailed yet",
+   "url": "https://www.nature.com/articles/d41586-026-03565-3",
+   "published": "2026-11-12T00:00:00+00:00",
+   "summary": "Nature, Published online: 12 November 2026; doi:10.1038/d41586-026-03565-3A global team profiled nearly 26 million brain cells from the basal ganglia to build a cross-species reference database that will help to understand conditions from Parkinson’s disease to addiction."
+  },
+  {
+   "source": "Nature",
+   "title": "RSV vaccines slash infections: data show jabs’ staggering success against dangerous virus",
+   "url": "https://www.nature.com/articles/d41586-026-03573-3",
+   "published": "2026-11-12T00:00:00+00:00",
+   "summary": "Nature, Published online: 12 November 2026; doi:10.1038/d41586-026-03573-3Vaccines and monoclonal-antibody injections are cutting hospitalizations linked to the respiratory virus."
+  },
+  {
+   "source": "Science News",
+   "title": "The brain’s fear center moonlights as the save button for memories",
+   "url": "https://www.sciencenews.org/article/brain-amygdala-neuron-saves-memories",
+   "published": "2026-11-12T16:00:00+00:00",
+   "summary": "What determines which moments are remembered? The amygdala, typically associated with regulating fear and aggression, may play a major role"
+  },
+  {
+   "source": "Science News",
+   "title": "Europe’s Hera mission is ready to double down on asteroid science",
+   "url": "https://www.sciencenews.org/article/europe-hera-mission-double-asteroid",
+   "published": "2026-11-12T14:00:00+00:00",
+   "summary": "Europe’s Hera spacecraft is just beginning its exploration of the binary asteroid Didymos in a mission that’s tantalizing scientists on two fronts."
+  },
+  {
+   "source": "Science News",
+   "title": "Stone Age children left fingerprints on ancient art projects",
+   "url": "https://www.sciencenews.org/article/stone-age-children-made-art-clay-sculpt",
+   "published": "2026-11-11T19:00:00+00:00",
+   "summary": "Natufian hunter-gatherers may have shown their kids how to sculpt clay, sets of preserved fingerprints suggest."
+  },
+  {
+   "source": "Science News",
+   "title": "This magic mushroom can kill",
+   "url": "https://www.sciencenews.org/article/dark-magic-mushroom-psilocybin-amatoxin",
+   "published": "2026-11-11T16:00:00+00:00",
+   "summary": "Researchers in Florida unearthed a “dark magic mushroom” that boasts a combination of hallucinogenic and poisonous traits."
+  },
+  {
+   "source": "Science News",
+   "title": "Light is hard to block from every direction. This physicist found a way",
+   "url": "https://www.sciencenews.org/article/light-block-direction-physicist-sn10",
+   "published": "2026-11-11T12:00:00+00:00",
+   "summary": "Physicist Stefano Martiniani uses a computer algorithm to design new materials that could help advance light-based computers."
+  },
+  {
+   "source": "Quanta Magazine",
+   "title": "A New Era for the Dawn of Life",
+   "url": "https://www.quantamagazine.org/a-new-era-for-the-dawn-of-life-20261112/",
+   "published": "2026-11-12T16:20:28+00:00",
+   "summary": "Creative, interdisciplinary, and bold, the study of the origins of life has entered a new age. Welcome to Quanta Magazine’s special series on the origins of life.            The post A New Era for the Dawn of Life first appeared on Quanta Magazine"
+  },
+  {
+   "source": "Quanta Magazine",
+   "title": "The Evolving Story of How Chemistry Became Biology",
+   "url": "https://www.quantamagazine.org/the-evolving-story-of-how-chemistry-became-biology-20261112/",
+   "published": "2026-11-12T15:45:27+00:00",
+   "summary": "After decades of bickering about which molecules came first, a new generation of scientists is rethinking what life was, is, and could be.            The post The Evolving Story of How Chemistry Became Biology first appeared on Quanta Magazine"
+  },
+  {
+   "source": "Quanta Magazine",
+   "title": "How a Metabolic Spark Could Have Jump-Started Life",
+   "url": "https://www.quantamagazine.org/what-is-the-metabolism-first-theory-for-the-origin-of-life-20261111/",
+   "published": "2026-11-11T15:10:30+00:00",
+   "summary": "Energetic pathways that make and break complex molecules are critical to all life. It’s even possible that these self-sustaining cycles could have been key at life’s beginning.            The post How a Metabolic Spark Could Have Jump-Started Life first appeared on Quanta Magazine"
+  },
+  {
+   "source": "BBC News",
+   "title": "Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow",
+   "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
+   "published": "2026-11-12T16:31:12+00:00",
+   "summary": "Later on Thursday, Jared Kushner and Steve Witkoff will travel to Dublin to meet Ukraine's Volodymyr Zelensky."
+  },
+  {
+   "source": "BBC News",
+   "title": "'We've got to run': Inside ruined Ukraine power plant under constant drone threat",
+   "url": "https://www.bbc.co.uk/news/videos/cm93rp3gxn6qo?at_medium=RSS&at_campaign=rss",
+   "published": "2026-11-12T13:02:46+00:00",
+   "summary": "Dan Johnson visits one of the country's largest power stations, barely left standing after a ballistic missile strike by Russia."
+  },
+  {
+   "source": "BBC News",
+   "title": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
+   "url": "https://www.bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&at_campaign=rss",
+   "published": "2026-11-12T12:39:39+00:00",
+   "summary": "Schools across Italy have received bomb threats for the second day in a row, sparking fresh panic and evacuations."
+  },
+  {
+   "source": "BBC News",
+   "title": "Democrat Scott Colom makes history as Mississippi's first black senator since 19th Century",
+   "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
+   "published": "2026-11-12T12:56:55+00:00",
+   "summary": "In a state Trump won two years ago by 22 points, Colom's victory extends a string of Democratic wins in the Senate."
+  },
+  {
+   "source": "BBC News",
+   "title": "Pentagon backs war memorial guard who reprimanded Hegseth's group",
+   "url": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno?at_medium=RSS&at_campaign=rss",
+   "published": "2026-11-12T16:52:53+00:00",
+   "summary": "The defence secretary on Thursday awarded the soldier, Specialist Thomas Iglesias, a Joint Service Commendation Medal for the execution of his duties."
+  },
+  {
+   "source": "BBC News",
+   "title": "Millions of Ebola dollars missing with staff unpaid while virus spreads, charity says",
+   "url": "https://www.bbc.co.uk/news/articles/cx98757ymm6zo?at_medium=RSS&at_campaign=rss",
+   "published": "2026-11-12T15:18:20+00:00",
+   "summary": "Medical staff are going unpaid, lack proper training and are struggling with shortages of essential supplies, MSF warns"
+  },
+  {
+   "source": "BBC News",
+   "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
+   "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
+   "published": "2026-11-12T16:54:12+00:00",
+   "summary": "Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Gaza."
+  },
+  {
+   "source": "BBC News",
+   "title": "Five new miniature frog species found in eastern Himalayas",
+   "url": "https://www.bbc.co.uk/news/articles/c8kgkw7dr5rko?at_medium=RSS&at_campaign=rss",
+   "published": "2026-11-12T11:07:19+00:00",
+   "summary": "Scientists say the frogs evolved as the Himalayas rose and the Asian monsoon took shape."
+  },
+  {
+   "source": "BBC News",
+   "title": "Oranges investigated after four girls die in suspected Uganda school poisoning",
+   "url": "https://www.bbc.co.uk/news/articles/ck9d71wyn7wwo?at_medium=RSS&at_campaign=rss",
+   "published": "2026-11-12T07:45:52+00:00",
+   "summary": "The girls started vomiting after eating oranges brought in by a fellow pupil - police are travelling to the village they came from."
+  },
+  {
+   "source": "BBC News",
+   "title": "Eight killed in Colombian air strike targeting Gulf Clan gang",
+   "url": "https://www.bbc.co.uk/news/articles/crgj3v3z10dno?at_medium=RSS&at_campaign=rss",
+   "published": "2026-11-12T13:58:49+00:00",
+   "summary": "A suspected gang leader considered a \"priority target\" was among those killed, the Colombian president says."
+  },
+  {
+   "source": "BBC News",
+   "title": "British woman missing from cruise ship in Atlantic",
+   "url": "https://www.bbc.co.uk/news/articles/cmy0enrkwkklo?at_medium=RSS&at_campaign=rss",
+   "published": "2026-11-12T10:13:35+00:00",
+   "summary": "The 72-year-old was last seen aboard the Tui ship on Monday as it headed towards the Caribbean."
+  },
+  {
+   "source": "BBC News",
+   "title": "Clashes erupt in Barcelona after thousands join Spain general strike",
+   "url": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
+   "published": "2026-11-11T22:07:37+00:00",
+   "summary": "Tens of thousands of people have been taking part in the strike, called by the country's main unions over housing and the high cost of living."
+  },
+  {
+   "source": "BBC News",
+   "title": "Australian teen missing in bush for six days rescued alive",
+   "url": "https://www.bbc.co.uk/news/articles/ckvg25zmppglo?at_medium=RSS&at_campaign=rss",
+   "published": "2026-11-12T02:40:18+00:00",
+   "summary": "The 17-year-old's mum has joked that he is \"grounded for life\" and \"never leaving the house again\"."
+  },
+  {
+   "source": "BBC News",
+   "title": "Indonesia's vice-president resigns amid signs ruling alliance is fraying",
+   "url": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro?at_medium=RSS&at_campaign=rss",
+   "published": "2026-11-12T08:46:57+00:00",
+   "summary": "The news comes at a turbulent time for President Prabowo, who faces a growing rift with his predecessor Joko Widodo."
+  },
+  {
+   "source": "BBC News",
+   "title": "Famed ship SS United States deliberately sunk off Florida coast to become a reef",
+   "url": "https://www.bbc.co.uk/news/articles/c3x298n87rn2o?at_medium=RSS&at_campaign=rss",
+   "published": "2026-11-12T04:03:13+00:00",
+   "summary": "Activists wanted the historic liner to be turned into a museum, but it will instead become the world's largest artificial ocean reef."
+  },
+  {
+   "source": "BBC News",
+   "title": "Kidnapper, 74, escapes from house arrest in Argentina by abseiling from balcony",
+   "url": "https://www.bbc.co.uk/news/articles/c933gn6710lyo?at_medium=RSS&at_campaign=rss",
+   "published": "2026-11-11T14:56:11+00:00",
+   "summary": "Leonardo Bertulazzi, a former member of the Marxist guerrilla group the Red Brigades, was about to be extradited to his home country of Italy."
+  },
+  {
+   "source": "BBC News",
+   "title": "Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
+   "url": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss",
+   "published": "2026-11-11T18:38:45+00:00",
+   "summary": "More than 6,000 Italian schools received a threat. Authorities in all three countries say there appears to be no risk to the public."
+  },
+  {
+   "source": "BBC News",
+   "title": "Missing 11-month-old baby rescued after being buried alive in a crate in South Carolina",
+   "url": "https://www.bbc.co.uk/news/articles/c8e391xzg6z2o?at_medium=RSS&at_campaign=rss",
+   "published": "2026-11-11T18:10:57+00:00",
+   "summary": "Officials say the child was found close to his father's home on Tuesday, a day after he was taken, and is being cared for in hospital."
+  },
+  {
+   "source": "BBC News",
+   "title": "US Treasury Secretary Scott Bessent relocated after alleged Iranian threats",
+   "url": "https://www.bbc.co.uk/news/articles/cqr7gr0010r2o?at_medium=RSS&at_campaign=rss",
+   "published": "2026-11-11T16:45:11+00:00",
+   "summary": "Bessent is now one of several Trump administration officials to live on military bases due to safety concerns."
+  },
+  {
+   "source": "BBC News",
+   "title": "Four grizzly bears killed in Canada after fatal attack on mother and daughter",
+   "url": "https://www.bbc.co.uk/news/articles/cwg5r8zrm11mo?at_medium=RSS&at_campaign=rss",
+   "published": "2026-11-11T13:24:29+00:00",
+   "summary": "The sow and her three cubs were responsible for killing Jennifer Balcarras, 48, and her daughter Selah Reed, 20, earlier this month."
+  },
+  {
+   "source": "BBC News",
+   "title": "Kenya discharges last Ebola patient in major milestone towards virus-free status",
+   "url": "https://www.bbc.co.uk/news/articles/cwe9kzv0g0v7o?at_medium=RSS&at_campaign=rss",
+   "published": "2026-11-11T12:53:11+00:00",
+   "summary": "The country begins a 42-day countdown to being declared Ebola-free, provided no new cases are recorded."
+  },
+  {
+   "source": "BBC News",
+   "title": "African writing award probe finds 'no evidence' winning story was AI generated",
+   "url": "https://www.bbc.co.uk/news/articles/cmglr260z7eko?at_medium=RSS&at_campaign=rss",
+   "published": "2026-11-11T20:00:54+00:00",
+   "summary": "Zimbabwean writer Simbarashe Kundizeza has also vehemently denied the allegation made in a US magazine."
+  },
+  {
+   "source": "BBC News",
+   "title": "Egyptian journalist's retrial adjourned as UN warns of 'assaults on press freedom'",
+   "url": "https://www.bbc.co.uk/news/articles/cmkg5jr59835o?at_medium=RSS&at_campaign=rss",
+   "published": "2026-11-11T13:25:47+00:00",
+   "summary": "Mada Masr editor-in-chief Lina Attalah is being tried on the charge of \"publishing false news\" and potentially faces imprisonment."
+  },
+  {
+   "source": "BBC News",
+   "title": "'We've got to run': Inside ruined Ukraine power plant under constant drone threat",
+   "url": "https://www.bbc.co.uk/news/videos/cm93rp3gxn6qo?at_medium=RSS&at_campaign=rss",
+   "published": "2026-11-12T13:02:46+00:00",
+   "summary": "Dan Johnson visits one of the country's largest power stations, barely left standing after a ballistic missile strike by Russia."
+  },
+  {
+   "source": "BBC News",
+   "title": "Hegseth and advisers reprimanded by guard at Tomb of the Unknown Soldier",
+   "url": "https://www.bbc.co.uk/news/videos/ck5y132yq1ymo?at_medium=RSS&at_campaign=rss",
+   "published": "2026-11-11T21:43:35+00:00",
+   "summary": "Following a ceremony marking Veterans Day, a group that included Defence Secretary Pete Hegseth was shouted at to be quiet."
+  },
+  {
+   "error": "https://www.positive.news/feed/: 403 Client Error: Forbidden for url: https://www.positive.news/feed/"
+  }
+ ]
+}
