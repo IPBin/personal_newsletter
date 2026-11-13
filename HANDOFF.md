@@ -136,3 +136,18 @@ worked. With no articles to read, no issue was printed (no invented facts). Gmai
 did work. Also: the shell `python` is 3.11 and `pip` installs into 3.13, so `python -m pip install -r requirements.txt`
 is needed, and WeasyPrint failed to import because of a broken system PIL.
 Fix for Pio: allow outbound web access in the environment's network settings (the routine's environment), then rerun.
+
+## Run of Wed Nov 11, 2026: Issue No. 2 made and sent
+- Worked: network open, Todoist, Gmail, Calendar, Slack. Built from `issues/2026-11-11/make_issue.py` (a worked example of the cheap flow).
+- Things to watch next time: (1) the container clock can be in UTC and show the previous evening date; use the date in the task, America/Toronto, and set it everywhere (issue.json, weather `start_date`, `collected/<date>`). (2) `collectors/fetch.py` needs `feedparser` (now in requirements.txt); `python -m pip install --ignore-installed PyYAML -r requirements.txt` avoids the Debian PyYAML error. (3) Substack posts can be fetched whole at `https://<host>/api/v1/posts/<slug>` (`body_html`). (4) If a back image makes a PDF over 1.5 MB, blur/denoise it before processing. (5) No reading titles in lecture entries (see SCHOOL.md).
+
+**Date rule (updated Nov 10 evening):** Issue No. 2 (dated Wed Nov 11) was made and emailed on the evening of Tue Nov 10, Toronto time. Pio still wants the Nov 11 morning run: rebuild `issues/2026-11-11/` with fresh news, keep No. 2 and back stop 2, send once with subject suffix ` · morning update`. Next new issue after that: Thu Nov 12, No. 3, stop 3. Always use `TZ=America/Toronto date +%F`.
+
+## Run of Wed Nov 11, 2026 (6:45 am): morning update of Issue No. 2 sent
+- Rebuilt `issues/2026-11-11/` with `update_morning.py` (starts from `issue.evening.json`, the evening copy). New: ACX essay in full, Bentham in full, new Indonesia/US/World stories, weather. Subject suffix ` · morning update`.
+- Lessons: a full essay is ~450 words per page. Two essays of ~1,600 words each do not fit with 15 news stories; ~2,600 words of essays did. `exec`-ing slices of an old make_issue.py clobbers variables: copy the weather code instead. Slack search with `after` found nothing new, a cheap check. Substack full text: `/api/v1/posts/<slug>`.
+- Next: Thu Nov 12 is a new issue, No. 3, back stop 3.
+
+## Run of Thu Nov 12, 2026: Issue No. 3 made and sent
+- Built from `issues/2026-11-12/make_issue.py` (starts from yesterday's issue.json). Back stop 3 (Kawasaki), `back_stop` = 3.
+- Lessons: Open-Meteo hit its daily limit (use wttr.in `?format=j1`, 3 days, as a fallback). `pip install feedparser` was needed for `collectors/fetch.py`; running it in the session worked and gave fresh RSS. BBC and NPR pages are readable with curl; ANTARA text needs line-based extraction. Persuasion archive API: `/api/v1/archive?limit=1` on the publication host. The fitter treats a lone section head at a page bottom badly: set the first essay `new_page: False`. Non-splitting boxes (Bubble check) can spill a page: keep them short. A trailing `figure` after the Newsstand can add a page; drop it if the count is 21.
