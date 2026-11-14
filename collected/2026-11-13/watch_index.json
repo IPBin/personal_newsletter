@@ -67,7 +67,11 @@
  {
   "url": "https://www.apartresearch.com/sprints",
   "file": "watch/w-apartresearch-com-sprints.txt",
+<<<<<<< HEAD
   "changed": true
+=======
+  "changed": false
+>>>>>>> origin/main
  },
  {
   "url": "https://pathfinder.kairos-project.org/",

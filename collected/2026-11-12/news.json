@@ -1,7 +1,183 @@
 {
  "indonesia": [
   {
+<<<<<<< HEAD
    "error": "https://en.antaranews.com/rss/news.xml: HTTPSConnectionPool(host='en.antaranews.com', port=443): Max retries exceeded with url: /rss/news.xml (Caused by NewConnectionError(\"HTTPSConnection(host='en.antaranews.com', port=443): Failed to establish a new connection: [Errno 111] Connection refused\"))"
+=======
+   "source": "ANTARA News - Latest Indonesia News",
+   "title": "Prabowo believes Gibran will succeed in future career and service",
+   "url": "https://en.antaranews.com/news/442167/prabowo-believes-gibran-will-succeed-in-future-career-and-service",
+   "published": "2026-11-12T11:40:14+00:00",
+   "summary": "Indonesian President Prabowo Subianto expressed confidence that Gibran Rakabuming Raka would succeed in his future ..."
+  },
+  {
+   "source": "ANTARA News - Latest Indonesia News",
+   "title": "HOTEL GROOVE SHINJUKU, A PARKROYAL Hotel Wins at the World Luxury Awards 2026 for the Second Consecutive Year",
+   "url": "https://en.antaranews.com/news/442163/hotel-groove-shinjuku-a-parkroyal-hotel-wins-at-the-world-luxury-awards-2026-for-the-second-consecutive-year",
+   "published": "2026-11-12T11:36:13+00:00",
+   "summary": "HOTEL GROOVE SHINJUKU, A PARKROYAL Hotel (Shinjuku, Tokyo; General Manager: Takeshi Torii) has won five awards at the ..."
+  },
+  {
+   "source": "ANTARA News - Latest Indonesia News",
+   "title": "Bali set to become Indonesia's global creative and digital hub",
+   "url": "https://en.antaranews.com/news/442159/bali-set-to-become-indonesias-global-creative-and-digital-hub",
+   "published": "2026-11-12T11:30:04+00:00",
+   "summary": "National Development Planning Minister Rachmat Pambudy has outlined a vision to transform Bali into an ..."
+  },
+  {
+   "source": "ANTARA News - Latest Indonesia News",
+   "title": "Ampace Showcases at EICMA Milan, Redefining the Global Two-Wheeler Lithium Battery Landscape Through Reliability",
+   "url": "https://en.antaranews.com/news/442155/ampace-showcases-at-eicma-milan-redefining-the-global-two-wheeler-lithium-battery-landscape-through-reliability",
+   "published": "2026-11-12T11:27:56+00:00",
+   "summary": "Ampace, a leading global provider of high-quality lithium battery solutions, is showcasing at EICMA Milan with a ..."
+  },
+  {
+   "source": "ANTARA News - Latest Indonesia News",
+   "title": "Bali Immigration detains 28 foreigners over investment fraud",
+   "url": "https://en.antaranews.com/news/442151/bali-immigration-detains-28-foreigners-over-investment-fraud",
+   "published": "2026-11-12T11:25:20+00:00",
+   "summary": "Indonesian immigration authorities are investigating 28 foreign nationals detained in Bali over an alleged fraudulent ..."
+  },
+  {
+   "source": "ANTARA News - Latest Indonesia News",
+   "title": "Shanghai Disney Resort Invites Guests into a World of Fairytale Enchantment at Disney Winter Frostival",
+   "url": "https://en.antaranews.com/news/442147/shanghai-disney-resort-invites-guests-into-a-world-of-fairytale-enchantment-at-disney-winter-frostival",
+   "published": "2026-11-12T11:23:06+00:00",
+   "summary": "&nbsp;There is a special magic that arrives with the first snow at Shanghai Disney Resort&mdash;and this year, the ..."
+  },
+  {
+   "source": "ANTARA News - Latest Indonesia News",
+   "title": "Police uncover trafficking ring arranging brides for China",
+   "url": "https://en.antaranews.com/news/442143/police-uncover-trafficking-ring-arranging-brides-for-china",
+   "published": "2026-11-12T11:14:40+00:00",
+   "summary": "Indonesia&rsquo;s Criminal Investigation Agency (Bareskrim) has uncovered a suspected human trafficking ..."
+  },
+  {
+   "source": "ANTARA News - Latest Indonesia News",
+   "title": "BELLUSTAR TOKYO, Shinjuku, Tokyo Wins International Awards Across Eight Categories",
+   "url": "https://en.antaranews.com/news/442139/bellustar-tokyo-shinjuku-tokyo-wins-international-awards-across-eight-categories",
+   "published": "2026-11-12T10:59:15+00:00",
+   "summary": "BELLUSTAR TOKYO, A Pan Pacific Hotel (Shinjuku, Tokyo; General Manager: Takeshi Torii) has won eight awards at the ..."
+  },
+  {
+   "source": "ANTARA News - Latest Indonesia News",
+   "title": "Prabowo lauds Gibran's contributions over two years of service",
+   "url": "https://en.antaranews.com/news/442135/prabowo-lauds-gibrans-contributions-over-two-years-of-service",
+   "published": "2026-11-12T10:52:21+00:00",
+   "summary": "President Prabowo Subianto has praised Vice President Gibran Rakabuming Raka for his contributions to the ..."
+  },
+  {
+   "source": "ANTARA News - Latest Indonesia News",
+   "title": "Indonesia expands TB screening with 5,600 new diagnostic tools",
+   "url": "https://en.antaranews.com/news/442131/indonesia-expands-tb-screening-with-5600-new-diagnostic-tools",
+   "published": "2026-11-12T10:49:53+00:00",
+   "summary": "Indonesia's Health Ministry is expanding tuberculosis (TB) screening at community health centers by distributing ..."
+  },
+  {
+   "source": "ANTARA News - Latest Indonesia News",
+   "title": "MPR must elect successor following VP Gibran's resignation: Yusril",
+   "url": "https://en.antaranews.com/news/442127/mpr-must-elect-successor-following-vp-gibrans-resignation-yusril",
+   "published": "2026-11-12T10:43:58+00:00",
+   "summary": "Coordinating Minister for Law, Human Rights, Immigration and Corrections Yusril Ihza Mahendra has clarified that a ..."
+  },
+  {
+   "source": "ANTARA News - Latest Indonesia News",
+   "title": "Indonesia launches provincial forestry carbon trading at COP31",
+   "url": "https://en.antaranews.com/news/442123/indonesia-launches-provincial-forestry-carbon-trading-at-cop31",
+   "published": "2026-11-12T10:37:45+00:00",
+   "summary": "Indonesia launched a provincial-level forestry carbon trading program under the Architecture for REDD+ Transactions ..."
+  },
+  {
+   "source": "ANTARA News - Latest Indonesia News",
+   "title": "Indonesia urges investors not to panic amid VP Gibran's resignation",
+   "url": "https://en.antaranews.com/news/442119/indonesia-urges-investors-not-to-panic-amid-vp-gibrans-resignation",
+   "published": "2026-11-12T10:31:56+00:00",
+   "summary": "The Indonesian government has urged investors not to panic over domestic political developments, including Vice ..."
+  },
+  {
+   "source": "ANTARA News - Latest Indonesia News",
+   "title": "Indonesia launches six initiatives to transform higher education",
+   "url": "https://en.antaranews.com/news/442115/indonesia-launches-six-initiatives-to-transform-higher-education",
+   "published": "2026-11-12T10:28:18+00:00",
+   "summary": "The Ministry of Higher Education, Science, and Technology is strengthening digital transformation and governance in ..."
+  },
+  {
+   "source": "ANTARA News - Latest Indonesia News",
+   "title": "Ministry urges campus research that benefits society",
+   "url": "https://en.antaranews.com/news/442111/ministry-urges-campus-research-that-benefits-society",
+   "published": "2026-11-12T10:19:36+00:00",
+   "summary": "The Ministry of Higher Education, Science, and Technology (Kemdiktisaintek) is urging universities to produce research ..."
+  },
+  {
+   "source": "ANTARA News - Latest Indonesia News",
+   "title": "Prabowo praises Gibran's resignation as statesmanlike move",
+   "url": "https://en.antaranews.com/news/442107/prabowo-praises-gibrans-resignation-as-statesmanlike-move",
+   "published": "2026-11-12T10:17:46+00:00",
+   "summary": "President Prabowo Subianto described Gibran Rakabuming Raka's decision to step down as vice president as a ..."
+  },
+  {
+   "source": "ANTARA News - Latest Indonesia News",
+   "title": "MINISO Marks 10 Years in Indonesia as Southeast Asia's First SUPER MINISO Debuts, Bringing a New Era of IP Experiences",
+   "url": "https://en.antaranews.com/news/442103/miniso-marks-10-years-in-indonesia-as-southeast-asias-first-super-miniso-debuts-bringing-a-new-era-of-ip-experiences",
+   "published": "2026-11-12T10:13:12+00:00",
+   "summary": "As&nbsp;MINISO celebrates its 10th anniversary in Indonesia, the brand is entering a new chapter of growth with the ..."
+  },
+  {
+   "source": "ANTARA News - Latest Indonesia News",
+   "title": "Indonesia upgrades palm oil certification to boost global standards",
+   "url": "https://en.antaranews.com/news/442099/indonesia-upgrades-palm-oil-certification-to-boost-global-standards",
+   "published": "2026-11-12T10:02:46+00:00",
+   "summary": "Indonesia is stepping up efforts to improve its Indonesian Sustainable Palm Oil (ISPO) certification system by ..."
+  },
+  {
+   "source": "ANTARA News - Latest Indonesia News",
+   "title": "MUI calls for calm as Indonesia faces vice presidential transition",
+   "url": "https://en.antaranews.com/news/442095/mui-calls-for-calm-as-indonesia-faces-vice-presidential-transition",
+   "published": "2026-11-12T09:48:18+00:00",
+   "summary": "Muslim clerics have called on the public and community organizations to maintain unity and calm amid political ..."
+  },
+  {
+   "source": "ANTARA News - Latest Indonesia News",
+   "title": "Police Chief details five stages of alleged illegal wiretapping",
+   "url": "https://en.antaranews.com/news/442091/police-chief-details-five-stages-of-alleged-illegal-wiretapping",
+   "published": "2026-11-12T09:37:37+00:00",
+   "summary": "National Police Chief General Suyudi Ario Seto outlined five stages in the alleged illegal wiretapping, unauthorized ..."
+  },
+  {
+   "source": "ANTARA News - Latest Indonesia News",
+   "title": "Indonesia says rupiah turbulence unlike 1998 financial crisis",
+   "url": "https://en.antaranews.com/news/442087/indonesia-says-rupiah-turbulence-unlike-1998-financial-crisis",
+   "published": "2026-11-12T09:26:51+00:00",
+   "summary": "Deputy Coordinating Minister for Economic Affairs Dradjad Hari Wibowo said fluctuations in the rupiah exchange rate ..."
+  },
+  {
+   "source": "ANTARA News - Latest Indonesia News",
+   "title": "MPR says Gibran's resignation leaves Indonesia's VP post vacant",
+   "url": "https://en.antaranews.com/news/442083/mpr-says-gibrans-resignation-leaves-indonesias-vp-post-vacant",
+   "published": "2026-11-12T09:17:50+00:00",
+   "summary": "MPR Speaker Ahmad Muzani said the vice presidency had become vacant following Gibran Rakabuming Raka's ..."
+  },
+  {
+   "source": "ANTARA News - Latest Indonesia News",
+   "title": "Prabowo accepts Gibran's resignation, praises his performance",
+   "url": "https://en.antaranews.com/news/442079/prabowo-accepts-gibrans-resignation-praises-his-performance",
+   "published": "2026-11-12T09:12:13+00:00",
+   "summary": "President Prabowo Subianto said he had accepted Gibran Rakabuming Raka's decision to step down as vice ..."
+  },
+  {
+   "source": "ANTARA News - Latest Indonesia News",
+   "title": "Health ministry renovates 10,000 homes to curb tuberculosis spread",
+   "url": "https://en.antaranews.com/news/442075/health-ministry-renovates-10000-homes-to-curb-tuberculosis-spread",
+   "published": "2026-11-12T09:09:55+00:00",
+   "summary": "The Health Ministry is renovating 10,000 homes for low-income residents in areas with high tuberculosis (TB) rates to ..."
+  },
+  {
+   "source": "ANTARA News - Latest Indonesia News",
+   "title": "Meiyume Presents: Beacon at Cosmopack Asia 2026",
+   "url": "https://en.antaranews.com/news/442071/meiyume-presents-beacon-at-cosmopack-asia-2026",
+   "published": "2026-11-12T09:08:49+00:00",
+   "summary": "Meiyume returns to Cosmopack Asia at Booth 3-C01 with BEACON&mdash;an immersive beauty navigation experience designed ..."
+>>>>>>> 13e0fea07cc063a754c1cb5fadbff0a31927ce90
   },
   {
    "error": "https://en.tempo.co/rss: 403 Client Error: Forbidden for url: https://en.tempo.co/rss"
@@ -19,6 +195,7 @@
   },
   {
    "source": ": Canada",
+<<<<<<< HEAD
    "title": "Canadian travel to U.S. went up in October, data shows",
    "url": "https://globalnews.ca/news/12148020/canada-us-travel-october-2026/",
    "published": "2026-11-12T18:16:07+00:00",
@@ -107,6 +284,75 @@
    "url": "https://theconversation.com/montreals-school-service-centre-is-evicting-community-groups-in-its-surplus-buildings-an-urban-neighbourhood-shows-the-cost-265953",
    "published": "2026-11-12T14:23:24+00:00",
    "summary": "A wider shift is taking place in which the Quebec government is pushing responsibility for social infrastructure off itself and onto community organizations."
+=======
+   "title": "Ford, feds, Unifor set for high-stakes meeting with Stellantis",
+   "url": "https://globalnews.ca/news/12147000/ford-feds-unifor-set-for-high-stakes-meeting-with-stellantis/",
+   "published": "2026-11-12T11:00:38+00:00",
+   "summary": "At the heart of the issue is whether Stellantis is obligated to hold up its end of a funding agreement that saw millions in taxpayer dollars being given to the company."
+  },
+  {
+   "source": ": Canada",
+   "title": "From VHS to iPods, retro tech is driving this year’s holiday shopping season",
+   "url": "https://globalnews.ca/news/12146554/retro-nostalgia-tech-best-buy/",
+   "published": "2026-11-12T10:00:55+00:00",
+   "summary": "In the age of endless online streaming, Canadians want to return to physical media and tech, a new survey from Best Buy Canada shows."
+  },
+  {
+   "source": ": Canada",
+   "title": "Montrealers pay tribute to war veterans at annual Remembrance Day ceremony",
+   "url": "https://globalnews.ca/news/12147365/montreal-tribute-war-veterans-remembrance-day/",
+   "published": "2026-11-12T02:23:32+00:00",
+   "summary": "Retired lieutenant-colonel Colin Robinson said Remembrance Day is an opportunity for Canadians to reflect on the dangers of war, particularly amid current global tensions."
+  },
+  {
+   "source": ": Canada",
+   "title": "Quebec woman with ALS hears her own voice again thanks to AI app",
+   "url": "https://globalnews.ca/news/12147285/quebec-woman-als-ai-voice-app/",
+   "published": "2026-11-12T02:09:22+00:00",
+   "summary": "A new AI tool is helping people with ALS regain a version of their voice, making conversations faster and more personal."
+  },
+  {
+   "source": ": Canada",
+   "title": "Canada says Russian players with visas will still be barred from World Juniors",
+   "url": "https://globalnews.ca/news/12147202/world-juniors-russia-visa-players/",
+   "published": "2026-11-12T00:04:09+00:00",
+   "summary": "The statement appears to close the door on Russia's return to the world juniors after last month's court ruling that the IIHF must reinstate the country in international hockey."
+  },
+  {
+   "source": ": Canada",
+   "title": "Wainwright honours soldiers killed, injured in fire: ‘Tragedy befell this small town’",
+   "url": "https://globalnews.ca/news/12147113/wainwright-remembrance-day-ceremony/",
+   "published": "2026-11-11T23:22:44+00:00",
+   "summary": "Hundreds gathered at the Wainwright arena for a Remembrance Day ceremony that hit closer to home for the central Alberta military community, still shaken from last month's tragedy."
+  },
+  {
+   "source": ": Canada",
+   "title": "Remembrance Day ceremony in New Ross steeped in military tradition",
+   "url": "https://globalnews.ca/news/12146767/remembrance-day-ceremony-in-new-ross-steeped-in-military-tradition/",
+   "published": "2026-11-11T21:50:11+00:00",
+   "summary": "About 300 people gathered around what's considered Nova Scotia's oldest cenotaph this Remembrance Day to pay tribute to the men and women who served and died in the line of duty."
+  },
+  {
+   "source": ": Canada",
+   "title": "Hamilton police looking for three suspects in home invasion",
+   "url": "https://globalnews.ca/news/12146974/hamilton-police-looking-for-three-suspects-in-home-invasion/",
+   "published": "2026-11-11T21:47:10+00:00",
+   "summary": "Police say officers responded to the home invasion on Weathering Heights in the Stoney Creek Mountain neighbourhood shortly before 2 a.m."
+  },
+  {
+   "source": ": Canada",
+   "title": "Saskatoon police officer seriously injured after being hit by vehicle",
+   "url": "https://globalnews.ca/news/12146827/saskatoon-police-officer-circle-drive/",
+   "published": "2026-11-11T20:47:17+00:00",
+   "summary": "The Saskatoon Police Service has confirmed to Global News that an officer is seriously injured after being hit by a vehicle in a construction zone on Circle Drive."
+  },
+  {
+   "source": ": Canada",
+   "title": "Vancouver Island war museum closing as visitors drop — but staff not giving up hope",
+   "url": "https://globalnews.ca/news/12146698/vancouver-island-hmcs-alberni-museum-memorial-closure/",
+   "published": "2026-11-11T20:43:41+00:00",
+   "summary": "'Until about two years ago, we had no idea that we would be in this situation,' Lewis Bartholomew, founder and executive director of the HMCS Alberni museum, told Global News."
+>>>>>>> 13e0fea07cc063a754c1cb5fadbff0a31927ce90
   },
   {
    "source": "The Conversation – Articles (CA)",
@@ -140,6 +386,7 @@
  "usa": [
   {
    "source": "NPR Topics: News",
+<<<<<<< HEAD
    "title": "Casualties continue to rise after Brooklyn building collapses",
    "url": "https://www.npr.org/sections/the-picture-show/2026/11/12/g-s1-153229/brooklyn-building-collapse-photos",
    "published": "2026-11-12T18:15:00+00:00",
@@ -193,6 +440,33 @@
    "url": "https://www.npr.org/2026/11/12/g-s1-153171/up-first-newsletter-scott-colom-trump-democrats-ukraine-russia",
    "published": "2026-11-12T12:15:48+00:00",
    "summary": "After more than a week of counting ballots, Scott Colom has narrowly won the Mississippi Senate seat. And, the White House has sent a letter warning Democrats who plan to investigate the administration."
+=======
+   "title": "How Scott Colom defied the odds to go from district attorney to Mississippi's Democratic US Senator",
+   "url": "https://www.npr.org/2026/11/12/nx-s1-6037438/scott-colom-defied-the-odds-mississippi-democratic-senator",
+   "published": "2026-11-12T10:00:00+00:00",
+   "summary": "In a state that hasn't had a Democrat in office since 1980 and hasn't sent a Black Senator to Washington since the 1870s, Colom's win represents a massive upset in state politics."
+  },
+  {
+   "source": "NPR Topics: News",
+   "title": "A blue wave helped offset for now a falling tally of Black members in the U.S. House",
+   "url": "https://www.npr.org/2026/11/12/nx-s1-6029640/black-voter-turnout-congress-redistricting",
+   "published": "2026-11-12T10:00:00+00:00",
+   "summary": "A Supreme Court ruling that further weakened the Voting Rights Act paved the way for a record drop in Black representation in Congress. But a midterm blue wave helped hold off such a decline for now."
+  },
+  {
+   "source": "NPR Topics: News",
+   "title": "Senators don't always share bill text online before votes. They should, advocates say",
+   "url": "https://www.npr.org/2026/11/12/nx-s1-6037381/senate-legislation-public-review",
+   "published": "2026-11-12T10:00:00+00:00",
+   "summary": "The text of what lawmakers are considering isn't always made available for public review before it is voted on. A group of open governance advocates is calling on Senate leadership for a change."
+  },
+  {
+   "source": "NPR Topics: News",
+   "title": "Trump proposed a 'secret weapon' to police colleges. It will soon become reality",
+   "url": "https://www.npr.org/2026/11/12/nx-s1-6027967/accreditation-trump-higher-education",
+   "published": "2026-11-12T10:00:00+00:00",
+   "summary": "In a 2023 campaign speech, Trump pledged to reclaim universities from what he called the radical left. His Education Department just finalized a rule to help him do it."
+>>>>>>> 13e0fea07cc063a754c1cb5fadbff0a31927ce90
   },
   {
    "source": "NPR Topics: News",
@@ -203,6 +477,7 @@
   },
   {
    "source": "NPR Topics: News",
+<<<<<<< HEAD
    "title": "A blue wave helped offset for now a falling tally of Black members in the U.S. House",
    "url": "https://www.npr.org/2026/11/12/nx-s1-6029640/black-voter-turnout-congress-redistricting",
    "published": "2026-11-12T10:00:00+00:00",
@@ -242,6 +517,40 @@
    "url": "https://www.pbs.org/newshour/economy/nvidia-ceo-jensen-huang-resigns-after-his-affair-raises-national-security-concerns",
    "published": "2026-11-12T14:10:01+00:00",
    "summary": "Huang faced growing calls to resign after his affair with an alleged Chinese spy. Late Wednesday, media reports said Huang had another extramarital affair with an Nvidia employee who reports to him."
+=======
+   "title": "Kennedy Center plans Ticketmaster switch, raising conflict of interest concerns",
+   "url": "https://www.npr.org/2026/11/12/nx-s1-6031461/kennedy-center-ticketmaster-conflict-of-interest",
+   "published": "2026-11-12T10:00:00+00:00",
+   "summary": "The Kennedy Center's former president Richard Grenell was a paid board member of Ticketmaster's parent company at the same time the two parties were negotiating."
+  },
+  {
+   "source": "NPR Topics: News",
+   "title": "Israeli strike on a Gaza hospital kills 6 people, health authorities say",
+   "url": "https://www.npr.org/2026/11/12/nx-s1-6038339/israeli-strike-gaza-hospital",
+   "published": "2026-11-12T09:29:30+00:00",
+   "summary": "The victims included a surgeon, and dozens more were injured. Israel said it was targeting a Hamas commander and other militants."
+  },
+  {
+   "source": "NPR Topics: News",
+   "title": "World's fastest ocean liner is sunk to break another record: largest artificial reef",
+   "url": "https://www.npr.org/2026/11/11/nx-s1-6030853/ss-united-states-artificial-reef-sinking",
+   "published": "2026-11-12T03:10:32+00:00",
+   "summary": "The SS United States broke trans-Atlantic speed records. On Wednesday, it was sunk off the Florida coast and will become a diving destination and home for marine life."
+  },
+  {
+   "source": "NPR Topics: News",
+   "title": "Democrat Scott Colom wins the closest Senate race in the country",
+   "url": "https://www.npr.org/2026/11/11/nx-s1-6037840/democrat-scott-colom-wins-the-closest-senate-race-in-the-country",
+   "published": "2026-11-11T23:33:59+00:00",
+   "summary": "Mississippi hadn't elected a Democrat to the U.S. Senate in more than 40 years."
+  },
+  {
+   "source": "NPR Topics: News",
+   "title": "Democrat Scott Colom wins Mississippi Senate race",
+   "url": "https://www.npr.org/2026/11/11/g-s1-151688/mississippi-senate-race-scott-colom",
+   "published": "2026-11-11T23:04:51+00:00",
+   "summary": "Democrat Scott Colom has won election to the U.S. Senate in Mississippi, according to a race call by the Associated Press, defeating Republican Sen. Cindy Hyde-Smith."
+>>>>>>> 13e0fea07cc063a754c1cb5fadbff0a31927ce90
   },
   {
    "source": "PBS News Hour - The Latest",
@@ -349,6 +658,7 @@
    "summary": "The size of Democrats' majorities in the House and Senate remained undetermined one week after Election Day as more than a dozen races were still too early to call Tuesday."
   },
   {
+<<<<<<< HEAD
    "source": "The Conversation – Articles (US)",
    "title": "What is ‘food is medicine?’ – 2 experts explain this decades-old approach to healthcare that is taking on new life",
    "url": "https://theconversation.com/what-is-food-is-medicine-2-experts-explain-this-decades-old-approach-to-healthcare-that-is-taking-on-new-life-293312",
@@ -403,6 +713,41 @@
    "url": "https://theconversation.com/el-nino-threatens-health-too-early-warnings-done-right-can-save-lives-295379",
    "published": "2026-11-12T13:41:18+00:00",
    "summary": "Weather warnings can help save lives by providing advice people can act on before, during and after a disaster."
+=======
+   "source": "PBS News Hour - The Latest",
+   "title": "How Nvidia CEO Jensen Huang's extramarital affair could cause collateral damage in Washington",
+   "url": "https://www.pbs.org/newshour/world/how-nvidia-ceo-jensen-huangs-extramarital-affair-could-cause-collateral-damage-in-washington",
+   "published": "2026-11-11T20:26:20+00:00",
+   "summary": "Extramarital affairs are usually private matters. Jensen Huang's has global implications."
+  },
+  {
+   "source": "PBS News Hour - The Latest",
+   "title": "AP report: Bessent moves to a military base over safety concerns",
+   "url": "https://www.pbs.org/newshour/world/ap-report-bessent-moves-to-a-military-base-over-safety-concerns",
+   "published": "2026-11-11T19:59:45+00:00",
+   "summary": "Recent U.S. intelligence showed that Iran has stepped up efforts to target American personnel in the Middle East and elsewhere."
+  },
+  {
+   "source": "PBS News Hour - The Latest",
+   "title": "Read the letter the White House's top lawyer sent Rep. Garcia over threats to investigate Trump",
+   "url": "https://www.pbs.org/newshour/politics/read-the-letter-the-white-houses-top-lawyer-sent-rep-garcia-over-threats-to-investigate-trump",
+   "published": "2026-11-11T19:27:31+00:00",
+   "summary": "The White House's top lawyer sent a letter of warning to incoming House Oversight Committee chair Rep. Robert Garcia, D-Calif., on Wednesday, claiming that the Democrats' promise to investigate the Trump administration \"may cross the line into blatant criminality.\""
+  },
+  {
+   "source": "PBS News Hour - The Latest",
+   "title": "WATCH LIVE: SS United States, once world's fastest ocean liner, sinks to become reef off Florida",
+   "url": "https://www.pbs.org/newshour/nation/watch-live-ss-united-states-once-worlds-fastest-ocean-liner-sinks-to-become-reef-off-florida",
+   "published": "2026-11-11T17:54:51+00:00",
+   "summary": "The historic ocean liner SS United States will be intentionally sunk Wednesday off the coast of the Florida panhandle."
+  },
+  {
+   "source": "PBS News Hour - The Latest",
+   "title": "White House sends warning to Democrats about investigating the Trump administration",
+   "url": "https://www.pbs.org/newshour/politics/white-house-sends-warning-to-democrats-about-investigating-the-trump-administration",
+   "published": "2026-11-11T17:06:10+00:00",
+   "summary": "The White House has issued a warning to Democrats over their planned probes into the Trump administration, going as far as claiming that such investigations — a standard oversight function of Congress -- may amount to \"blatant criminality.\""
+>>>>>>> 13e0fea07cc063a754c1cb5fadbff0a31927ce90
   },
   {
    "source": "The Conversation – Articles (US)",
@@ -429,6 +774,7 @@
  "elsewhere": [
   {
    "source": "Nature",
+<<<<<<< HEAD
    "title": "This little brown mushroom is laced with a hallucinogen — and lethal toxins",
    "url": "https://www.nature.com/articles/d41586-026-03639-2",
    "published": "2026-11-12T00:00:00+00:00",
@@ -468,6 +814,180 @@
    "url": "https://www.sciencenews.org/article/europe-hera-mission-double-asteroid",
    "published": "2026-11-12T14:00:00+00:00",
    "summary": "Europe’s Hera spacecraft is just beginning its exploration of the binary asteroid Didymos in a mission that’s tantalizing scientists on two fronts."
+=======
+   "title": "Rattlesnakes have personalities too — to venomous effect",
+   "url": "https://www.nature.com/articles/d41586-026-03536-8",
+   "published": "2026-11-11T00:00:00+00:00",
+   "summary": "Nature, Published online: 11 November 2026; doi:10.1038/d41586-026-03536-8A snake’s defensiveness might affect how much venom it produces in a laboratory test."
+  },
+  {
+   "source": "Nature",
+   "title": "Iconic first image of black hole holds up to scrutiny",
+   "url": "https://www.nature.com/articles/d41586-026-03642-7",
+   "published": "2026-11-11T00:00:00+00:00",
+   "summary": "Nature, Published online: 11 November 2026; doi:10.1038/d41586-026-03642-7Picture produced by fresh analysis of the data that yielded the first-ever image of a black hole outputs the same, ring-like shape."
+  },
+  {
+   "source": "Nature",
+   "title": "Too dry for cacti: extreme droughts could push iconic species to extinction",
+   "url": "https://www.nature.com/articles/d41586-026-03671-2",
+   "published": "2026-11-11T00:00:00+00:00",
+   "summary": "Nature, Published online: 11 November 2026; doi:10.1038/d41586-026-03671-2Analysis reveals these plants face severe habitat loss across the Americas — plus, researchers test a new way to diagnose obesity."
+  },
+  {
+   "source": "Nature",
+   "title": "Getting a grasp on the global wildlife trade",
+   "url": "https://www.nature.com/articles/d41586-026-03591-1",
+   "published": "2026-11-11T00:00:00+00:00",
+   "summary": "Nature, Published online: 11 November 2026; doi:10.1038/d41586-026-03591-1A study reports that about 107,000 species are traded worldwide, legally or illegally — more than double a previous estimate."
+  },
+  {
+   "source": "Nature",
+   "title": "Efficient catalyst-controlled C–H arylation of arenes",
+   "url": "https://www.nature.com/articles/s41586-026-11391-w",
+   "published": "2026-11-11T00:00:00+00:00",
+   "summary": "Nature, Published online: 11 November 2026; doi:10.1038/s41586-026-11391-wEfficient catalyst-controlled C–H arylation of arenes"
+  },
+  {
+   "source": "Nature",
+   "title": "A guide to Nature Index tables",
+   "url": "https://www.nature.com/articles/d41586-026-03441-0",
+   "published": "2026-11-11T00:00:00+00:00",
+   "summary": "Nature, Published online: 11 November 2026; doi:10.1038/d41586-026-03441-0Information on the methodology used in the ranking for the 2026 Nature Spotlight: Energy."
+  },
+  {
+   "source": "Nature",
+   "title": "Even giant anteaters in remote Brazil have microplastics in their blood",
+   "url": "https://www.nature.com/articles/d41586-026-03660-5",
+   "published": "2026-11-11T00:00:00+00:00",
+   "summary": "Nature, Published online: 11 November 2026; doi:10.1038/d41586-026-03660-5Mapping the movements of wildlife across the Amazon and other regions to their exposure to human activities can inform protection initiatives."
+  },
+  {
+   "source": "Nature",
+   "title": "Microplastics change the colour of the sea near the Great Pacific Garbage Patch",
+   "url": "https://www.nature.com/articles/d41586-026-03637-4",
+   "published": "2026-11-11T00:00:00+00:00",
+   "summary": "Nature, Published online: 11 November 2026; doi:10.1038/d41586-026-03637-4The waters around the zone of floating debris appear greener and bluer on account of high levels of tiny bits of plastic."
+  },
+  {
+   "source": "Nature",
+   "title": "Salty grains in Saturn’s outermost ring formed from the slow freeze of plumes from the moon Enceladus",
+   "url": "https://www.nature.com/articles/d41586-026-03489-y",
+   "published": "2026-11-11T00:00:00+00:00",
+   "summary": "Nature, Published online: 11 November 2026; doi:10.1038/d41586-026-03489-yOne of Saturn’s rings consists of a diverse population of icy and rocky grains, each with a distinct composition. How this came about might now have an explanation."
+  },
+  {
+   "source": "Nature",
+   "title": "Daily briefing: Should old, bad science be culled from the literature?",
+   "url": "https://www.nature.com/articles/d41586-026-03675-y",
+   "published": "2026-11-11T00:00:00+00:00",
+   "summary": "Nature, Published online: 11 November 2026; doi:10.1038/d41586-026-03675-yAI tools that summarize scientific literature are picking up decades-old flawed papers — should they be retracted? Plus, the first image of a black hole holds up to scrutiny and how the Artemis II mission might have disrupted GPS."
+  },
+  {
+   "source": "Nature",
+   "title": "Cacti are severely threatened by drought in a warming world",
+   "url": "https://www.nature.com/articles/d41586-026-03496-z",
+   "published": "2026-11-11T00:00:00+00:00",
+   "summary": "Nature, Published online: 11 November 2026; doi:10.1038/d41586-026-03496-zForecasts of the effects that climate change will have on biodiversity typically rely on long-term climate averages while excluding extreme events. Projections that include severe drought predict that a majority of the 993 cactus species assessed will see large losses of suitable climatic area: more than 25% of species could lose at least 80% of it by 2100."
+  },
+  {
+   "source": "Nature",
+   "title": "Extraordinary materials shaped by the principles of complex networks",
+   "url": "https://www.nature.com/articles/d41586-026-03272-z",
+   "published": "2026-11-11T00:00:00+00:00",
+   "summary": "Nature, Published online: 11 November 2026; doi:10.1038/d41586-026-03272-zNetwork science has inspired the design of materials that spread out their deformation when a force is applied, have tunable stiffness and can control vibrational waves."
+  },
+  {
+   "source": "Nature",
+   "title": "DeepMind's ultra-powerful AI for genome mapping wows scientists",
+   "url": "https://www.nature.com/articles/d41586-026-03673-0",
+   "published": "2026-11-11T00:00:00+00:00",
+   "summary": "Nature, Published online: 11 November 2026; doi:10.1038/d41586-026-03673-0AlphaGenome 2 can predict the types of cells where a DNA variant is likely to act."
+  },
+  {
+   "source": "Nature",
+   "title": "Proteins that form the nuclear pore barrier move like liquids",
+   "url": "https://www.nature.com/articles/d41586-026-03428-x",
+   "published": "2026-11-11T00:00:00+00:00",
+   "summary": "Nature, Published online: 11 November 2026; doi:10.1038/d41586-026-03428-xNuclear pores control molecular traffic into and out of the cell nucleus. Measurements in living cells, together with molecular-dynamics simulations, show that flexible protein chains that form the selectivity barriers of nuclear pores are highly mobile, and that a sugar modification and the carrier protein importin-β help to preserve this dynamic state."
+  },
+  {
+   "source": "Nature",
+   "title": "How to avoid aliens and live",
+   "url": "https://www.nature.com/articles/d41586-026-03515-z",
+   "published": "2026-11-11T00:00:00+00:00",
+   "summary": "Nature, Published online: 11 November 2026; doi:10.1038/d41586-026-03515-zSilence is golden."
+  },
+  {
+   "source": "Nature",
+   "title": "Earth’s early history told by 3.9-billion-year-old rocks from northern China",
+   "url": "https://www.nature.com/articles/d41586-026-03499-w",
+   "published": "2026-11-11T00:00:00+00:00",
+   "summary": "Nature, Published online: 11 November 2026; doi:10.1038/d41586-026-03499-wAncient rocks in northern China reveal that by 3.95 billion years ago, surface-altered oceanic crust had been buried rapidly to depths greater than 50 kilometres and partly melted. This crust was derived from a mantle reservoir that had been left behind when the crust separated from the early mantle as early as 4.3 billion years ago."
+  },
+  {
+   "source": "Nature",
+   "title": "Biotech innovations are an opportunity to limit climate change",
+   "url": "https://www.nature.com/articles/d41586-026-03621-y",
+   "published": "2026-11-11T00:00:00+00:00",
+   "summary": "Nature, Published online: 11 November 2026; doi:10.1038/d41586-026-03621-yAgricultural biotechnology once found itself in opposition to environmental science. Now it could reduce the impact of food systems on global warming and biodiversity loss."
+  },
+  {
+   "source": "Nature",
+   "title": "How I balance my life as a professional surfer and a university researcher",
+   "url": "https://www.nature.com/articles/d41586-026-03183-z",
+   "published": "2026-11-11T00:00:00+00:00",
+   "summary": "Nature, Published online: 11 November 2026; doi:10.1038/d41586-026-03183-zCliff Kapono shares his advice on ways to navigate and grow two different careers."
+  },
+  {
+   "source": "Nature",
+   "title": "Hideki Shirakawa obituary: chemist who showed that plastics can conduct electricity",
+   "url": "https://www.nature.com/articles/d41586-026-03633-8",
+   "published": "2026-11-11T00:00:00+00:00",
+   "summary": "Nature, Published online: 11 November 2026; doi:10.1038/d41586-026-03633-8Nobel prizewinner’s accidental discovery led to new forms of materials, light-emitting diodes and solar cells."
+  },
+  {
+   "source": "Nature",
+   "title": "Give biologists the space to be curious, not just better tools",
+   "url": "https://www.nature.com/articles/d41586-026-03669-w",
+   "published": "2026-11-11T00:00:00+00:00",
+   "summary": "Nature, Published online: 11 November 2026; doi:10.1038/d41586-026-03669-wTechnology is making biological studies more powerful than ever. But people are the real force behind discovery."
+  },
+  {
+   "source": "Nature",
+   "title": "Anthropic bought a one-person, AI-powered biotech: is this drug discovery’s future?",
+   "url": "https://www.nature.com/articles/d41586-026-03640-9",
+   "published": "2026-11-11T00:00:00+00:00",
+   "summary": "Nature, Published online: 11 November 2026; doi:10.1038/d41586-026-03640-9A promising biotechnology company developed a new approach that might treat a rare disease — but its sole employee didn’t do all the work."
+  },
+  {
+   "source": "Nature",
+   "title": "Move over BMI: new obesity definition is better for predicting your health",
+   "url": "https://www.nature.com/articles/d41586-026-03636-5",
+   "published": "2026-11-11T00:00:00+00:00",
+   "summary": "Nature, Published online: 11 November 2026; doi:10.1038/d41586-026-03636-5A fresh approach considers waist circumference, rather than just weight and height, providing a more accurate classification."
+  },
+  {
+   "source": "Nature",
+   "title": "New culprit in early Alzheimer’s: Blood–brain barrier blocks protective proteins",
+   "url": "https://www.nature.com/articles/d41586-026-03655-2",
+   "published": "2026-11-11T00:00:00+00:00",
+   "summary": "Nature, Published online: 11 November 2026; doi:10.1038/d41586-026-03655-2The brain relies on crucial proteins to maintain neurons. This system is disrupted in mice with neurological disease."
+  },
+  {
+   "source": "Nature",
+   "title": "AI’s energy paradox: will the AI boom strain energy systems or be the source of solutions?",
+   "url": "https://www.nature.com/articles/d41586-026-03412-5",
+   "published": "2026-11-11T00:00:00+00:00",
+   "summary": "Nature, Published online: 11 November 2026; doi:10.1038/d41586-026-03412-5Ginelle Greene-Dewasmes is leading a community of interdisciplinary specialists exploring how to make the energy use of artificial intelligence net-positive."
+  },
+  {
+   "source": "Nature",
+   "title": "Retractions of old papers are on the rise: when should bad science be culled?",
+   "url": "https://www.nature.com/articles/d41586-026-03624-9",
+   "published": "2026-11-11T00:00:00+00:00",
+   "summary": "Nature, Published online: 11 November 2026; doi:10.1038/d41586-026-03624-9Decades-old papers are increasingly being pulled from the literature, bringing a host of challenges."
+>>>>>>> 13e0fea07cc063a754c1cb5fadbff0a31927ce90
   },
   {
    "source": "Science News",
@@ -492,6 +1012,7 @@
   },
   {
    "source": "Quanta Magazine",
+<<<<<<< HEAD
    "title": "A New Era for the Dawn of Life",
    "url": "https://www.quantamagazine.org/a-new-era-for-the-dawn-of-life-20261112/",
    "published": "2026-11-12T16:20:28+00:00",
@@ -506,6 +1027,8 @@
   },
   {
    "source": "Quanta Magazine",
+=======
+>>>>>>> 13e0fea07cc063a754c1cb5fadbff0a31927ce90
    "title": "How a Metabolic Spark Could Have Jump-Started Life",
    "url": "https://www.quantamagazine.org/what-is-the-metabolism-first-theory-for-the-origin-of-life-20261111/",
    "published": "2026-11-11T15:10:30+00:00",
@@ -513,6 +1036,7 @@
   },
   {
    "source": "BBC News",
+<<<<<<< HEAD
    "title": "Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow",
    "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
    "published": "2026-11-12T16:31:12+00:00",
@@ -531,16 +1055,34 @@
    "url": "https://www.bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&at_campaign=rss",
    "published": "2026-11-12T12:39:39+00:00",
    "summary": "Schools across Italy have received bomb threats for the second day in a row, sparking fresh panic and evacuations."
+=======
+   "title": "'No light, no water, no heat': Ukrainians struggle with blackouts as Russia hits power grid",
+   "url": "https://www.bbc.co.uk/news/articles/cr1ewpd95d21o?at_medium=RSS&at_campaign=rss",
+   "published": "2026-11-12T07:59:33+00:00",
+   "summary": "For parents in parts of Ukraine, trying to lead a normal family life with just a few hours of power each day is taking its toll."
+  },
+  {
+   "source": "BBC News",
+   "title": "New York building collapse kills at least four people",
+   "url": "https://www.bbc.co.uk/news/articles/c8zx964glvwxo?at_medium=RSS&at_campaign=rss",
+   "published": "2026-11-12T11:48:14+00:00",
+   "summary": "A dangerous search for survivors continues after a three-storey building collapsed in Brooklyn on Wednesday afternoon."
+>>>>>>> 13e0fea07cc063a754c1cb5fadbff0a31927ce90
   },
   {
    "source": "BBC News",
    "title": "Democrat Scott Colom makes history as Mississippi's first black senator since 19th Century",
    "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
+<<<<<<< HEAD
    "published": "2026-11-12T12:56:55+00:00",
+=======
+   "published": "2026-11-12T10:02:32+00:00",
+>>>>>>> 13e0fea07cc063a754c1cb5fadbff0a31927ce90
    "summary": "In a state Trump won two years ago by 22 points, Colom's victory extends a string of Democratic wins in the Senate."
   },
   {
    "source": "BBC News",
+<<<<<<< HEAD
    "title": "Pentagon backs war memorial guard who reprimanded Hegseth's group",
    "url": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno?at_medium=RSS&at_campaign=rss",
    "published": "2026-11-12T16:52:53+00:00",
@@ -558,14 +1100,26 @@
    "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
    "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
    "published": "2026-11-12T16:54:12+00:00",
+=======
+   "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
+   "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
+   "published": "2026-11-12T09:43:11+00:00",
+>>>>>>> 13e0fea07cc063a754c1cb5fadbff0a31927ce90
    "summary": "Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Gaza."
   },
   {
    "source": "BBC News",
+<<<<<<< HEAD
    "title": "Five new miniature frog species found in eastern Himalayas",
    "url": "https://www.bbc.co.uk/news/articles/c8kgkw7dr5rko?at_medium=RSS&at_campaign=rss",
    "published": "2026-11-12T11:07:19+00:00",
    "summary": "Scientists say the frogs evolved as the Himalayas rose and the Asian monsoon took shape."
+=======
+   "title": "US envoys arrive in Moscow for Ukraine talks with Vladimir Putin",
+   "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
+   "published": "2026-11-12T10:08:38+00:00",
+   "summary": "Later on Thursday, Jared Kushner and Steve Witkoff will travel to Dublin to meet Ukraine's Volodymyr Zelensky."
+>>>>>>> 13e0fea07cc063a754c1cb5fadbff0a31927ce90
   },
   {
    "source": "BBC News",
@@ -576,6 +1130,7 @@
   },
   {
    "source": "BBC News",
+<<<<<<< HEAD
    "title": "Eight killed in Colombian air strike targeting Gulf Clan gang",
    "url": "https://www.bbc.co.uk/news/articles/crgj3v3z10dno?at_medium=RSS&at_campaign=rss",
    "published": "2026-11-12T13:58:49+00:00",
@@ -583,6 +1138,8 @@
   },
   {
    "source": "BBC News",
+=======
+>>>>>>> 13e0fea07cc063a754c1cb5fadbff0a31927ce90
    "title": "British woman missing from cruise ship in Atlantic",
    "url": "https://www.bbc.co.uk/news/articles/cmy0enrkwkklo?at_medium=RSS&at_campaign=rss",
    "published": "2026-11-12T10:13:35+00:00",
@@ -674,6 +1231,7 @@
   },
   {
    "source": "BBC News",
+<<<<<<< HEAD
    "title": "'We've got to run': Inside ruined Ukraine power plant under constant drone threat",
    "url": "https://www.bbc.co.uk/news/videos/cm93rp3gxn6qo?at_medium=RSS&at_campaign=rss",
    "published": "2026-11-12T13:02:46+00:00",
@@ -681,12 +1239,31 @@
   },
   {
    "source": "BBC News",
+=======
+>>>>>>> 13e0fea07cc063a754c1cb5fadbff0a31927ce90
    "title": "Hegseth and advisers reprimanded by guard at Tomb of the Unknown Soldier",
    "url": "https://www.bbc.co.uk/news/videos/ck5y132yq1ymo?at_medium=RSS&at_campaign=rss",
    "published": "2026-11-11T21:43:35+00:00",
    "summary": "Following a ceremony marking Veterans Day, a group that included Defence Secretary Pete Hegseth was shouted at to be quiet."
   },
   {
+<<<<<<< HEAD
+=======
+   "source": "BBC News",
+   "title": "Watch: Vinícius Jr's surprise message to boy who received prosthetic legs after Sudan drone strike",
+   "url": "https://www.bbc.co.uk/news/videos/cm894wg251pzo?at_medium=RSS&at_campaign=rss",
+   "published": "2026-11-11T09:28:36+00:00",
+   "summary": "Real Madrid player Vinícius Jr sent a surprise message to 13-year-old fan Zaher who lost both his legs after being hit by a drone in Khartoum, in 2024."
+  },
+  {
+   "source": "BBC News",
+   "title": "Can Nigeria's president regain voters' trust after painful first term?",
+   "url": "https://www.bbc.co.uk/news/articles/ck5ynyw527wdo?at_medium=RSS&at_campaign=rss",
+   "published": "2026-11-12T07:30:44+00:00",
+   "summary": "For Nigerians to feel meaningful improvements, reforms will need to go beyond the promises outlined, analysts say."
+  },
+  {
+>>>>>>> 13e0fea07cc063a754c1cb5fadbff0a31927ce90
    "error": "https://www.positive.news/feed/: 403 Client Error: Forbidden for url: https://www.positive.news/feed/"
   }
  ]

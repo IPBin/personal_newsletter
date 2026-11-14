@@ -2,6 +2,7 @@
  "indonesia": [
   {
    "source": "ANTARA News - Latest Indonesia News",
+<<<<<<< HEAD
    "title": "Airlangga upbeat about Indonesia's 2027 economic outlook",
    "url": "https://en.antaranews.com/news/442519/airlangga-upbeat-about-indonesias-2027-economic-outlook",
    "published": "2026-11-13T17:21:15+00:00",
@@ -156,6 +157,8 @@
   },
   {
    "source": "ANTARA News - Latest Indonesia News",
+=======
+>>>>>>> origin/main
    "title": "Oceanpayment to Showcase OP Link for Cross-Border QR Payments at SFF 2026",
    "url": "https://en.antaranews.com/news/442431/oceanpayment-to-showcase-op-link-for-cross-border-qr-payments-at-sff-2026",
    "published": "2026-11-13T11:44:30+00:00",
@@ -176,6 +179,163 @@
    "summary": "Speaker of the People's Consultative Assembly (MPR) Ahmad Muzani said the assembly would send a letter to President ..."
   },
   {
+<<<<<<< HEAD
+=======
+   "source": "ANTARA News - Latest Indonesia News",
+   "title": "Indonesia targets 5.45 percent growth on robust economic fundamentals",
+   "url": "https://en.antaranews.com/news/442419/indonesia-targets-545-percent-growth-on-robust-economic-fundamentals",
+   "published": "2026-11-13T11:30:00+00:00",
+   "summary": "Coordinating Minister for Economic Affairs Airlangga Hartarto emphasized that Indonesia&rsquo;s macroeconomic ..."
+  },
+  {
+   "source": "ANTARA News - Latest Indonesia News",
+   "title": "Indonesia seeks French investment, training support for tourism growth",
+   "url": "https://en.antaranews.com/news/442415/indonesia-seeks-french-investment-training-support-for-tourism-growth",
+   "published": "2026-11-13T11:28:50+00:00",
+   "summary": "Tourism Minister Widiyanti Putri Wardhana has sought deeper cooperation with France to expand Indonesia's access to ..."
+  },
+  {
+   "source": "ANTARA News - Latest Indonesia News",
+   "title": "Indonesia boosts global investment synergy at diplomatic forum",
+   "url": "https://en.antaranews.com/news/442411/indonesia-boosts-global-investment-synergy-at-diplomatic-forum",
+   "published": "2026-11-13T11:27:29+00:00",
+   "summary": "The Indonesian Chamber of Commerce and Industry (Kadin) and the Coordinating Ministry for Economic Affairs have ..."
+  },
+  {
+   "source": "ANTARA News - Latest Indonesia News",
+   "title": "Indonesia defends market credibility amid MSCI reclassification",
+   "url": "https://en.antaranews.com/news/442407/indonesia-defends-market-credibility-amid-msci-reclassification",
+   "published": "2026-11-13T10:55:47+00:00",
+   "summary": "The credibility of Indonesia's financial market is key to weathering market volatility triggered by global index ..."
+  },
+  {
+   "source": "ANTARA News - Latest Indonesia News",
+   "title": "Sunmax Brings Together Asia-Pacific Medical Experts for Deusaderm APAC Summit 2026, Celebrating 25 Years of Collagen Innovation",
+   "url": "https://en.antaranews.com/news/442403/sunmax-brings-together-asia-pacific-medical-experts-for-deusaderm-apac-summit-2026-celebrating-25-years-of-collagen-innovation",
+   "published": "2026-11-13T10:48:58+00:00",
+   "summary": "Sunmax Biotechnology Co., Ltd. (stock code: 4728) celebrated its 25th anniversary by bringing together medical ..."
+  },
+  {
+   "source": "ANTARA News - Latest Indonesia News",
+   "title": "Indonesia prepares palm oil traceability system ahead of EU Rules",
+   "url": "https://en.antaranews.com/news/442399/indonesia-prepares-palm-oil-traceability-system-ahead-of-eu-rules",
+   "published": "2026-11-13T10:24:10+00:00",
+   "summary": "The government is finalizing the Indonesian Sustainable Palm Oil Information System (SI-ISPO) to ensure end-to-end ..."
+  },
+  {
+   "source": "ANTARA News - Latest Indonesia News",
+   "title": "Indonesia joins Forest and Climate Leaders' Partnership at COP31",
+   "url": "https://en.antaranews.com/news/442395/indonesia-joins-forest-and-climate-leaders-partnership-at-cop31",
+   "published": "2026-11-13T09:43:22+00:00",
+   "summary": "Indonesia has joined the Forest and Climate Leaders' Partnership (FCLP), Deputy Forestry Minister Rohmat Marzuki ..."
+  },
+  {
+   "source": "ANTARA News - Latest Indonesia News",
+   "title": "BSKDN urges regions to strengthen innovation for economic growth",
+   "url": "https://en.antaranews.com/news/442391/bskdn-urges-regions-to-strengthen-innovation-for-economic-growth",
+   "published": "2026-11-13T09:42:52+00:00",
+   "summary": "The Policy Strategy Agency for Domestic Affairs (BSKDN) of the Ministry of Home Affairs has called on regional ..."
+  },
+  {
+   "source": "ANTARA News - Latest Indonesia News",
+   "title": "Indonesia repatriates World War II US soldier's remains",
+   "url": "https://en.antaranews.com/news/442387/indonesia-repatriates-world-war-ii-us-soldiers-remains",
+   "published": "2026-11-13T09:36:11+00:00",
+   "summary": "The Indonesian Ministry of Defense formally repatriated the remains of an American soldier killed during World War II, ..."
+  },
+  {
+   "source": "ANTARA News - Latest Indonesia News",
+   "title": "Indonesia's MPR to elect new vice president on December 2",
+   "url": "https://en.antaranews.com/news/442383/indonesias-mpr-to-elect-new-vice-president-on-december-2",
+   "published": "2026-11-13T09:35:35+00:00",
+   "summary": "The People's Consultative Assembly (MPR) will convene a plenary session on Wednesday, December 2, 2026, to ..."
+  },
+  {
+   "source": "ANTARA News - Latest Indonesia News",
+   "title": "Indonesia seeks stronger BYD commitment to local content, jobs",
+   "url": "https://en.antaranews.com/news/442379/indonesia-seeks-stronger-byd-commitment-to-local-content-jobs",
+   "published": "2026-11-13T09:28:04+00:00",
+   "summary": "Industry Minister Muhammad Sarmuji has urged Chinese automaker BYD to increase its domestic component level (TKDN), ..."
+  },
+  {
+   "source": "ANTARA News - Latest Indonesia News",
+   "title": "Finance ministry says state budget deficit is planned, not a loss",
+   "url": "https://en.antaranews.com/news/442375/finance-ministry-says-state-budget-deficit-is-planned-not-a-loss",
+   "published": "2026-11-13T09:12:21+00:00",
+   "summary": "Finance Minister Suahasil Nazara stressed that a deficit in the State Budget (APBN) does not mean the state is ..."
+  },
+  {
+   "source": "ANTARA News - Latest Indonesia News",
+   "title": "Minister pushes for diversification of village economic potential",
+   "url": "https://en.antaranews.com/news/442371/minister-pushes-for-diversification-of-village-economic-potential",
+   "published": "2026-11-13T08:33:23+00:00",
+   "summary": "Minister of Villages and Development of Disadvantaged Regions&nbsp;Yandri Susanto is pushing for the diversification of ..."
+  },
+  {
+   "source": "ANTARA News - Latest Indonesia News",
+   "title": "Indonesia details waste-related methane mitigation plans at COP31",
+   "url": "https://en.antaranews.com/news/442367/indonesia-details-waste-related-methane-mitigation-plans-at-cop31",
+   "published": "2026-11-13T08:32:19+00:00",
+   "summary": "Environment Minister Moh. Jumhur Hidayat outlined Indonesia's measures to reduce methane emissions from waste ..."
+  },
+  {
+   "source": "ANTARA News - Latest Indonesia News",
+   "title": "Democratic Party refrain from proposing VP candidate: AHY",
+   "url": "https://en.antaranews.com/news/442363/democratic-party-refrain-from-proposing-vp-candidate-ahy",
+   "published": "2026-11-13T08:31:20+00:00",
+   "summary": "Chairman of the Democratic Party Agus Harimurti Yudhoyono&nbsp;(AHY) stated that his party had not proposed a candidate ..."
+  },
+  {
+   "source": "ANTARA News - Latest Indonesia News",
+   "title": "Government studies raw material sufficiency for B50 in 2027",
+   "url": "https://en.antaranews.com/news/442359/government-studies-raw-material-sufficiency-for-b50-in-2027",
+   "published": "2026-11-13T08:01:06+00:00",
+   "summary": "The government is still evaluating the 50 percent biodiesel mandate (B50) for 2027 to ensure that the policy does not ..."
+  },
+  {
+   "source": "ANTARA News - Latest Indonesia News",
+   "title": "Jakarta to turn purple ahead of BTS concert in December",
+   "url": "https://en.antaranews.com/news/442355/jakarta-to-turn-purple-ahead-of-bts-concert-in-december",
+   "published": "2026-11-13T07:55:09+00:00",
+   "summary": "Indonesia's Tourism Ministry and the Jakarta provincial government are planning to turn parts of the capital ..."
+  },
+  {
+   "source": "ANTARA News - Latest Indonesia News",
+   "title": "MPR to meet on Friday to determine vice presidential succession",
+   "url": "https://en.antaranews.com/news/442351/mpr-to-meet-on-friday-to-determine-vice-presidential-succession",
+   "published": "2026-11-13T07:43:18+00:00",
+   "summary": "The People's Consultative Assembly (MPR) will hold a joint meeting on Friday afternoon to determine the ..."
+  },
+  {
+   "source": "ANTARA News - Latest Indonesia News",
+   "title": "Jakarta eyes over Rp600 billion boost from BTS, Guns N' Roses shows",
+   "url": "https://en.antaranews.com/news/442347/jakarta-eyes-over-rp600-billion-boost-from-bts-guns-n-roses-shows",
+   "published": "2026-11-13T07:37:15+00:00",
+   "summary": "Jakarta Governor Pramono Anung Wibowo has projected that concerts by Guns N' Roses and BTS in the capital would ..."
+  },
+  {
+   "source": "ANTARA News - Latest Indonesia News",
+   "title": "Prabowo to exercise executive power alone amid VP vacancy",
+   "url": "https://en.antaranews.com/news/442343/prabowo-to-exercise-executive-power-alone-amid-vp-vacancy",
+   "published": "2026-11-13T07:35:25+00:00",
+   "summary": "President Prabowo Subianto can continue to exercise executive power independently without a vice president, ..."
+  },
+  {
+   "source": "ANTARA News - Latest Indonesia News",
+   "title": "Gibran resignation: Govt assures stable political climate for investor",
+   "url": "https://en.antaranews.com/news/442339/gibran-resignation-govt-assures-stable-political-climate-for-investor",
+   "published": "2026-11-13T07:34:31+00:00",
+   "summary": "Deputy Minister of Industry Faisol Riza has assured investors and the business community that Indonesia's domestic ..."
+  },
+  {
+   "source": "ANTARA News - Latest Indonesia News",
+   "title": "Indonesia highlights forest fires, climate bill at COP31 Leader Summit",
+   "url": "https://en.antaranews.com/news/442335/indonesia-highlights-forest-fires-climate-bill-at-cop31-leader-summit",
+   "published": "2026-11-13T07:33:15+00:00",
+   "summary": "Indonesian President's Special Envoy for Climate and Energy, Hashim Djojohadikusumo, outlined several steps taken ..."
+  },
+  {
+>>>>>>> origin/main
    "error": "https://en.tempo.co/rss: 403 Client Error: Forbidden for url: https://en.tempo.co/rss"
   },
   {
@@ -191,6 +351,7 @@
   },
   {
    "source": ": Canada",
+<<<<<<< HEAD
    "title": "Farm truck caught going 92 km/h in 40 km/h zone: OPP",
    "url": "https://globalnews.ca/news/12149663/mapleton-township-farm-truck-speeding/",
    "published": "2026-11-13T17:35:40+00:00",
@@ -247,6 +408,8 @@
   },
   {
    "source": ": Canada",
+=======
+>>>>>>> origin/main
    "title": "Ontario career college forced into layoffs as student funding stalls",
    "url": "https://globalnews.ca/news/12148797/ontario-career-college-funding-stalls/",
    "published": "2026-11-13T11:00:13+00:00",
@@ -260,6 +423,65 @@
    "summary": "At 73, Mary Onwá Tekahawáhkwen Macdonald is the first graduate of McGill’s Indigenous language revitalization PhD program."
   },
   {
+<<<<<<< HEAD
+=======
+   "source": ": Canada",
+   "title": "Toronto orthodox priest criticized for accepting medal from Putin",
+   "url": "https://globalnews.ca/news/12145277/toronto-orthodox-priest-criticized-for-accepting-medal-from-putin/",
+   "published": "2026-11-13T10:00:00+00:00",
+   "summary": "The Ukrainian Canadian Congress said it was disgraceful that Father Vladimir Malchenko shook hands with Putin two days after Russia bombed a school in Ukraine, killing 55."
+  },
+  {
+   "source": ": Canada",
+   "title": "Crestwood residents fear 8-plex ‘sandwiches’ being fast-tracked before provincial deadline",
+   "url": "https://globalnews.ca/news/12148666/concerns-rising-over-8-plex-sandwiches/",
+   "published": "2026-11-13T00:24:48+00:00",
+   "summary": "Crestwood residents fear builders and the City of Edmonton are racing the clock, trying to approve infill developments before a January deadline to roll back housing bylaws."
+  },
+  {
+   "source": ": Canada",
+   "title": "Elks kicker Blanchard wrote it down in 2026",
+   "url": "https://globalnews.ca/news/12148814/elks-kicker-blanchard-wrote-it-down-in-2026/",
+   "published": "2026-11-12T23:32:55+00:00",
+   "summary": "Vincent Blanchard began writing things down this season."
+  },
+  {
+   "source": ": Canada",
+   "title": "Generations Foundation holiday food and toy drive kicks off: Here’s where to donate",
+   "url": "https://globalnews.ca/news/12148313/generations-foundation-holiday-food-toy-drive-where-to-donate/",
+   "published": "2026-11-12T22:30:14+00:00",
+   "summary": "The Generations Foundation’s annual holiday food and toy drive is underway. Here’s where to donate toys, non-perishable food and money to support Montreal families in need."
+  },
+  {
+   "source": ": Canada",
+   "title": "N.S. municipal politicians weigh in on whether AI can speed up housing approvals",
+   "url": "https://globalnews.ca/news/12148595/artificial-intelligence-housing-approvals/",
+   "published": "2026-11-12T22:26:08+00:00",
+   "summary": "Municipal politicians in Nova Scotia are reacting after the federal government pitched artificial intelligence as a way of speeding up housing approvals."
+  },
+  {
+   "source": ": Canada",
+   "title": "Saskatoon police officer who was hit by vehicle stable, still in hospital",
+   "url": "https://globalnews.ca/news/12148605/saskatoon-police-hit-stable-hospital/",
+   "published": "2026-11-12T22:23:08+00:00",
+   "summary": "The Saskatoon police officer who was stuck by a vehicle on Wednesday afternoon is still undergoing treatment in hospital, but is now stable, SPS Chief Cameron McBride said."
+  },
+  {
+   "source": ": Canada",
+   "title": "Program that supports seniors living at home expands in rural New Brunswick",
+   "url": "https://globalnews.ca/news/12148478/nursing-home-without-walls/",
+   "published": "2026-11-12T22:01:32+00:00",
+   "summary": "A new program in rural New Brunswick is bringing some of the benefits of a nursing home directly to the community."
+  },
+  {
+   "source": ": Canada",
+   "title": "Truro deer cull to provide locally-sourced meat for food banks thanks to $30K grant",
+   "url": "https://globalnews.ca/news/12147809/hunters-helping-the-hungry-truro-deer-cull/",
+   "published": "2026-11-12T21:16:03+00:00",
+   "summary": "Nova Scotia is offering a one-time grant of $30,000 to help fund a program that donates locally-sourced meat to food banks, while also supporting Truro's annual deer cull."
+  },
+  {
+>>>>>>> origin/main
    "source": "The Conversation – Articles (CA)",
    "title": "Why Canada has a moral imperative to address homelessness",
    "url": "https://theconversation.com/why-canada-has-a-moral-imperative-to-address-homelessness-296188",
@@ -298,6 +520,7 @@
  "usa": [
   {
    "source": "NPR Topics: News",
+<<<<<<< HEAD
    "title": "The Trump administration's voter roll crusade could continue",
    "url": "https://www.npr.org/2026/11/13/nx-s1-6034016/voter-fraud-search-trump-california",
    "published": "2026-11-13T17:00:00+00:00",
@@ -354,6 +577,8 @@
   },
   {
    "source": "NPR Topics: News",
+=======
+>>>>>>> origin/main
    "title": "Kratom and 7-OH can feel like 'a miracle.' They can also be addictive",
    "url": "https://www.npr.org/2026/11/13/nx-s1-6039203/kratom-7-oh-dea-addiction-opioid",
    "published": "2026-11-13T11:00:00+00:00",
@@ -367,6 +592,7 @@
    "summary": "Pete Hegseth was yelled at by a sentinel for poor decorum at Arlington National Cemetery. Now the Secretary of Defense hasgiven him a medal."
   },
   {
+<<<<<<< HEAD
    "source": "PBS News Hour - The Latest",
    "title": "Bigger and more-frequent wildfires threaten water supplies across the U.S.",
    "url": "https://www.pbs.org/newshour/nation/bigger-and-more-frequent-wildfires-threaten-water-supplies-across-the-u-s",
@@ -421,6 +647,62 @@
    "url": "https://www.pbs.org/newshour/politics/van-hollen-to-challenge-schumer-for-senate-democratic-leader",
    "published": "2026-11-13T14:26:31+00:00",
    "summary": "Democratic Sen. Chris Van Hollen of Maryland said Thursday that he will run for Senate Majority Leader in the next Congress, setting up a challenge to Democratic Leader Chuck Schumer after the party swept to power in the midterm elections."
+=======
+   "source": "NPR Topics: News",
+   "title": "Rivers in the sky are raining down on the Pacific Northwest. What are they?",
+   "url": "https://www.npr.org/2026/11/13/nx-s1-6032777/rivers-in-the-sky-are-raining-down-on-the-pacific-northwest-what-are-they",
+   "published": "2026-11-13T10:01:00+00:00",
+   "summary": "Atmospheric rivers are large bands of water vapor in the sky. They are dumping trillions of gallons of water on Washington and Oregon, just as high tides and winds batter shorelines."
+  },
+  {
+   "source": "NPR Topics: News",
+   "title": "SpaceX's giant rocket may leave NASA in the dust",
+   "url": "https://www.npr.org/2026/11/13/nx-s1-6039312/spacex-nasa-starship-iss-dragon-falcon-musk",
+   "published": "2026-11-13T10:00:00+00:00",
+   "summary": "As it races to develop its new massive rocket, the space launch company is preparing to retire NASA's main ride to the International Space Station."
+  },
+  {
+   "source": "NPR Topics: News",
+   "title": "Why is Google cutting off Search from AI-free schools? Here are some theories",
+   "url": "https://www.npr.org/2026/11/13/nx-s1-6029408/google-ai-search-schools",
+   "published": "2026-11-13T10:00:00+00:00",
+   "summary": "The forthcoming move has left some parents and educators frustrated and wondering about the company's motivations."
+  },
+  {
+   "source": "NPR Topics: News",
+   "title": "These swing voters have low expectations for divided government",
+   "url": "https://www.npr.org/2026/11/13/nx-s1-6035826/north-carolina-swing-voters-congress-trump",
+   "published": "2026-11-13T10:00:00+00:00",
+   "summary": "Key voters in North Carolina are pessimistic the blue wave flipping control of Congress will solve their economic woes. Many say President Trump will be the chief obstacle."
+  },
+  {
+   "source": "NPR Topics: News",
+   "title": "These two voter turnout trends explain what happened across the South in the election",
+   "url": "https://www.npr.org/2026/11/13/nx-s1-6038701/midterm-election-voter-turnout-south",
+   "published": "2026-11-13T10:00:00+00:00",
+   "summary": "In six states across the Deep South, a drastic swing to the left this election was driven by high Black voter turnout and compounded by a sharp decline in voting rates across Republican-heavy areas."
+  },
+  {
+   "source": "NPR Topics: News",
+   "title": "Fed up with the healthcare industry, this red state capped insulin prices for patients",
+   "url": "https://www.npr.org/2026/11/13/nx-s1-6032717/diabetes-insurance-insulin-price",
+   "published": "2026-11-13T10:00:00+00:00",
+   "summary": "Republicans and Democrats in North Dakota worked together to limit what people with diabetes have to pay for insulin, joining a growing bipartisan push across the country to protect patients."
+  },
+  {
+   "source": "NPR Topics: News",
+   "title": "Why even a fraction of a degree can escalate climate change impacts",
+   "url": "https://www.npr.org/2026/11/13/nx-s1-6035801/climate-goal-degrees-cop31-summit",
+   "published": "2026-11-13T10:00:00+00:00",
+   "summary": "Countries are not meeting their goal of limiting climate change to 1.5 degrees Celsius. How much hotter the planet gets makes a profound difference for the impacts the world could see."
+  },
+  {
+   "source": "NPR Topics: News",
+   "title": "The cost of college is confusing. Some schools are trying to change that",
+   "url": "https://www.npr.org/2026/11/13/nx-s1-6023392/real-college-costs-confusing",
+   "published": "2026-11-13T10:00:00+00:00",
+   "summary": "Many Americans have soured on higher education because of how frustratingly hard it is to figure out what they will pay to attend."
+>>>>>>> origin/main
   },
   {
    "source": "PBS News Hour - The Latest",
@@ -507,6 +789,7 @@
    "summary": "Nvidia announced Huang's resignation on Thursday, effective immediately. The California-based company said that Colette Kress — who has been Nvidia's chief financial officer and executive vice president since 2013 — will step into the role of interim CEO."
   },
   {
+<<<<<<< HEAD
    "source": "The Conversation – Articles (US)",
    "title": "To get Americans to care about climate change, just call it climate change",
    "url": "https://theconversation.com/to-get-americans-to-care-about-climate-change-just-call-it-climate-change-296481",
@@ -547,6 +830,62 @@
    "url": "https://theconversation.com/lebanons-power-sharing-formula-was-once-a-model-for-conflict-resolution-now-it-is-creaking-293991",
    "published": "2026-11-13T13:37:06+00:00",
    "summary": "The Hezbollah-Israeli war, the displacement of people and unbalanced negotiations have put stress on an already fragile system."
+=======
+   "source": "PBS News Hour - The Latest",
+   "title": "Sen. Blumenthal says federal prosecutor attempting to investigate him for conducting an inquiry",
+   "url": "https://www.pbs.org/newshour/politics/sen-blumenthal-says-federal-prosecutor-attempting-to-investigate-him-for-conducting-an-inquiry",
+   "published": "2026-11-12T22:29:13+00:00",
+   "summary": "Democratic Sen. Richard Blumenthal of Connecticut, who is set to chair the Permanent Subcommittee on Investigations when the Democratic majority takes control of the Senate next year, said the implied investigation is baseless."
+  },
+  {
+   "source": "PBS News Hour - The Latest",
+   "title": "WATCH: 'More questions than answers' about Nvidia's Huang, Jeffries says in news conference",
+   "url": "https://www.pbs.org/newshour/politics/watch-more-questions-than-answers-about-nvidias-huang-jeffries-says-in-news-conference",
+   "published": "2026-11-12T22:14:06+00:00",
+   "summary": "House Democratic Leader Hakeem Jeffries is demanding a classified briefing for all members of Congress about the Nvidia situation."
+  },
+  {
+   "source": "PBS News Hour - The Latest",
+   "title": "After emotional return, Pope Leo denounces 'machismo' in Peru and demands respect for women",
+   "url": "https://www.pbs.org/newshour/world/after-emotional-return-pope-leo-denounces-machismo-in-peru-and-demands-respect-for-women",
+   "published": "2026-11-12T22:06:20+00:00",
+   "summary": "Pope Leo XIV on Thursday denounced widespread \"machismo\" and violence against women in Peru, demanding that women be protected and respected as he set out marching orders for his beloved Peruvian church and people."
+  },
+  {
+   "source": "PBS News Hour - The Latest",
+   "title": "WATCH: Trump administration officials announce PTSD research funding for psychedelic drug ibogaine",
+   "url": "https://www.pbs.org/newshour/politics/watch-trump-administration-officials-announce-ptsd-research-funding-for-psychedelic-drug-ibogaine",
+   "published": "2026-11-12T21:58:26+00:00",
+   "summary": "Federal officials on Thursday announced new funding to explore the medical potential of ibogaine, a controversial psychedelic drug championed by veterans, conservative lawmakers and podcasters aligned with President Donald Trump."
+  },
+  {
+   "source": "PBS News Hour - The Latest",
+   "title": "Democrats gather in Denver for post-midterms introspection-turned-celebration",
+   "url": "https://www.pbs.org/newshour/politics/democrats-gather-in-denver-for-post-midterms-introspection-turned-celebration",
+   "published": "2026-11-12T21:22:47+00:00",
+   "summary": "The two-day What's Next conference, hosted by a new group called Majority Democrats, was put on politicos' calendars months ago as another stepping stone as the party charted its way out of its post-2024 political wilderness."
+  },
+  {
+   "source": "PBS News Hour - The Latest",
+   "title": "Alaska judge rules a request by Peltola campaign for ballot data in Senate race is 'not reasonable'",
+   "url": "https://www.pbs.org/newshour/politics/alaska-judge-rules-a-request-by-peltola-campaign-for-ballot-data-in-senate-race-is-not-reasonable",
+   "published": "2026-11-12T20:24:30+00:00",
+   "summary": "An Alaska judge ruled Wednesday that a request by Democratic U.S. Senate candidate Mary Peltola's campaign for a list of absentee voters whose ballots have been rejected is \"not reasonable,\" particularly given the time crunch election officials face as they continue counting ballots from last week's election."
+  },
+  {
+   "source": "PBS News Hour - The Latest",
+   "title": "Trump administration plans to make it harder to get grocery assistance",
+   "url": "https://www.pbs.org/newshour/politics/trump-administration-plans-to-make-it-harder-to-get-grocery-assistance",
+   "published": "2026-11-12T19:02:18+00:00",
+   "summary": "About 6.3 million people could lose eligibility for SNAP by the 2029 fiscal year if the proposed change takes effect, according to the U.S. Department of Agriculture. That is on top of 5.5 million people who already have lost SNAP benefits over the past year."
+  },
+  {
+   "source": "PBS News Hour - The Latest",
+   "title": "Hegseth presents award to soldier who scolded him and his aides at Tomb of the Unknown Soldier",
+   "url": "https://www.pbs.org/newshour/world/hegseth-presents-award-to-soldier-who-scolded-him-and-his-aides-at-tomb-of-the-unknown-soldier",
+   "published": "2026-11-12T18:35:44+00:00",
+   "summary": "The scolding drew attention once more to the embattled defense secretary, who had survived an impeachment attempt the day before."
+>>>>>>> origin/main
   },
   {
    "source": "The Conversation – Articles (US)",
@@ -617,11 +956,22 @@
    "url": "https://theconversation.com/el-nino-threatens-health-too-early-warnings-done-right-can-save-lives-295379",
    "published": "2026-11-12T13:41:18+00:00",
    "summary": "Weather warnings can help save lives by providing advice people can act on before, during and after a disaster."
+<<<<<<< HEAD
+=======
+  },
+  {
+   "source": "The Conversation – Articles (US)",
+   "title": "El Salvador is exporting the ‘Bukele model’ to Haiti – but the gang offensive is a gamble for both nations",
+   "url": "https://theconversation.com/el-salvador-is-exporting-the-bukele-model-to-haiti-but-the-gang-offensive-is-a-gamble-for-both-nations-296390",
+   "published": "2026-11-11T23:58:06+00:00",
+   "summary": "Haiti’s war on gangs is increasingly relying on a patchwork of foreign troops and private militias, making accountability more complicated."
+>>>>>>> origin/main
   }
  ],
  "elsewhere": [
   {
    "source": "Nature",
+<<<<<<< HEAD
    "title": "Chinese graduate students are now choosing to stay closer to home",
    "url": "https://www.nature.com/articles/d41586-026-03456-7",
    "published": "2026-11-13T00:00:00+00:00",
@@ -629,6 +979,8 @@
   },
   {
    "source": "Nature",
+=======
+>>>>>>> origin/main
    "title": "Accept all changes",
    "url": "https://www.nature.com/articles/d41586-026-03516-y",
    "published": "2026-11-13T00:00:00+00:00",
@@ -636,6 +988,7 @@
   },
   {
    "source": "Nature",
+<<<<<<< HEAD
    "title": "This AI ‘mechanic’ can peer inside the black box of other neural networks",
    "url": "https://www.nature.com/articles/d41586-026-03679-8",
    "published": "2026-11-13T00:00:00+00:00",
@@ -654,6 +1007,61 @@
    "url": "https://www.sciencenews.org/article/hell-chicken-dinosaur-terror-fruit-eat",
    "published": "2026-11-13T16:00:00+00:00",
    "summary": "Infernogallus – the ‘hell chicken’ dinosaur – evolved to eat a fruit-heavy diet. It may be the first evidence of fruit-eating adaptations among non-avian dinosaurs."
+=======
+   "title": "Found: a protein that drives ageing without unleashing inflammation",
+   "url": "https://www.nature.com/articles/d41586-026-03638-3",
+   "published": "2026-11-12T00:00:00+00:00",
+   "summary": "Nature, Published online: 12 November 2026; doi:10.1038/d41586-026-03638-3Aged mice engineered to lack granzyme K have improved heart and liver function and less kidney damage."
+  },
+  {
+   "source": "Nature",
+   "title": "This little brown mushroom is laced with a hallucinogen — and lethal toxins",
+   "url": "https://www.nature.com/articles/d41586-026-03639-2",
+   "published": "2026-11-12T00:00:00+00:00",
+   "summary": "Nature, Published online: 12 November 2026; doi:10.1038/d41586-026-03639-2A Florida fungus might combine the psychedelic compound psilocybin with deadly chemicals to defend itself against hungry animals."
+  },
+  {
+   "source": "Nature",
+   "title": "Who needs sex? Kelp reproduce asexually when no mate is nearby",
+   "url": "https://www.nature.com/articles/d41586-026-03665-0",
+   "published": "2026-11-12T00:00:00+00:00",
+   "summary": "Nature, Published online: 12 November 2026; doi:10.1038/d41586-026-03665-0Insights into the reproductive modes of brown algae could help in the fight to protect them in warming climate."
+  },
+  {
+   "source": "Nature",
+   "title": "Author Correction: SLAMF6 as a drug-targetable suppressor of T cell immunity against cancer",
+   "url": "https://www.nature.com/articles/s41586-026-11409-3",
+   "published": "2026-11-12T00:00:00+00:00",
+   "summary": "Nature, Published online: 12 November 2026; doi:10.1038/s41586-026-11409-3Author Correction: SLAMF6 as a drug-targetable suppressor of T cell immunity against cancer"
+  },
+  {
+   "source": "Nature",
+   "title": "Record-breaking Ebola outbreak: phone data reconstruct first weeks of spread",
+   "url": "https://www.nature.com/articles/d41586-026-03666-z",
+   "published": "2026-11-12T00:00:00+00:00",
+   "summary": "Nature, Published online: 12 November 2026; doi:10.1038/d41586-026-03666-zThe Bundibugyo virus strain was circulating for weeks before its detection in May, but was missed owing to surveillance failures, testing gaps and funding cuts, researchers say."
+  },
+  {
+   "source": "Nature",
+   "title": "Massive atlas of brain region linked to a host of diseases is the most detailed yet",
+   "url": "https://www.nature.com/articles/d41586-026-03565-3",
+   "published": "2026-11-12T00:00:00+00:00",
+   "summary": "Nature, Published online: 12 November 2026; doi:10.1038/d41586-026-03565-3A global team profiled nearly 26 million brain cells from the basal ganglia to build a cross-species reference database that will help to understand conditions from Parkinson’s disease to addiction."
+  },
+  {
+   "source": "Nature",
+   "title": "RSV vaccines slash infections: data show jabs’ staggering success against dangerous virus",
+   "url": "https://www.nature.com/articles/d41586-026-03573-3",
+   "published": "2026-11-12T00:00:00+00:00",
+   "summary": "Nature, Published online: 12 November 2026; doi:10.1038/d41586-026-03573-3Vaccines and monoclonal-antibody injections are cutting hospitalizations linked to the respiratory virus."
+  },
+  {
+   "source": "Nature",
+   "title": "Novel CRISPR therapy is poised to gain first FDA approval to alter genes inside the body",
+   "url": "https://www.nature.com/articles/d41586-026-03705-9",
+   "published": "2026-11-12T00:00:00+00:00",
+   "summary": "Nature, Published online: 12 November 2026; doi:10.1038/d41586-026-03705-9Earlier CRISPR treatments require removal of a participant’s cells, a complex and costly approach."
+>>>>>>> origin/main
   },
   {
    "source": "Science News",
@@ -692,6 +1100,7 @@
   },
   {
    "source": "BBC News",
+<<<<<<< HEAD
    "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
    "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
    "published": "2026-11-13T17:12:46+00:00",
@@ -759,6 +1168,33 @@
    "url": "https://www.bbc.co.uk/news/articles/cmvg2dvw0355o?at_medium=RSS&at_campaign=rss",
    "published": "2026-11-13T11:37:08+00:00",
    "summary": "The university has banned all parties, while investigations are underway to find the cause of the students' deaths."
+=======
+   "title": "What we know about the global Microsoft outage",
+   "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
+   "published": "2026-11-13T10:53:40+00:00",
+   "summary": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful."
+  },
+  {
+   "source": "BBC News",
+   "title": "Watch: How Microsoft services went down around the world",
+   "url": "https://www.bbc.co.uk/news/videos/cwm2591k27e2o?at_medium=RSS&at_campaign=rss",
+   "published": "2026-11-13T07:18:17+00:00",
+   "summary": "Microsoft is struggling to fix a global outage, with services including Teams, Outlook and AI software Copilot affected by \"connectivity problems\"."
+  },
+  {
+   "source": "BBC News",
+   "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
+   "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+   "published": "2026-11-13T03:57:01+00:00",
+   "summary": "Huang abruptly quit on Thursday as head of one of the world's most valuable companies after revelations of alleged extramarital affairs."
+  },
+  {
+   "source": "BBC News",
+   "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
+   "url": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss",
+   "published": "2026-11-13T02:01:35+00:00",
+   "summary": "The Ukrainian president says it makes sense for European leaders to be involved as Ukraine hopes to eventually join the EU."
+>>>>>>> origin/main
   },
   {
    "source": "BBC News",
@@ -769,10 +1205,17 @@
   },
   {
    "source": "BBC News",
+<<<<<<< HEAD
    "title": "At least 24 killed after bus collides with truck in north-east India",
    "url": "https://www.bbc.co.uk/news/articles/c6r7g5lp1zrxo?at_medium=RSS&at_campaign=rss",
    "published": "2026-11-13T15:16:50+00:00",
    "summary": "Several of the deceased are college students, according to local official Atul Bora, but they have not yet been publicly identified."
+=======
+   "title": "African Miss Universe beauty queens in limbo as US visa restrictions bite",
+   "url": "https://www.bbc.co.uk/news/articles/cklyw3neqg2wo?at_medium=RSS&at_campaign=rss",
+   "published": "2026-11-13T07:01:43+00:00",
+   "summary": "Hall has been seeking a US visa in South Africa as other African beauty queens face similar hurdles."
+>>>>>>> origin/main
   },
   {
    "source": "BBC News",
@@ -783,10 +1226,31 @@
   },
   {
    "source": "BBC News",
+<<<<<<< HEAD
    "title": "Watch: Divers explore US ship sunk off Florida coast to create new reef",
    "url": "https://www.bbc.co.uk/news/videos/ckqx5ryx905qo?at_medium=RSS&at_campaign=rss",
    "published": "2026-11-13T15:09:40+00:00",
    "summary": "The ship was intentionally sunk off the coast of Florida in order to create the world's largest artificial ocean reef."
+=======
+   "title": "Russian warship hit by Ukrainian drone in Gulf of Finland",
+   "url": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss",
+   "published": "2026-11-12T20:09:16+00:00",
+   "summary": "The attack is thought to be the first time Ukrainian drones have attacked a Russian ship in an open stretch of the Baltic Sea."
+  },
+  {
+   "source": "BBC News",
+   "title": "Australian footballers will not be charged after hotel incident, police say",
+   "url": "https://www.bbc.co.uk/news/articles/ckregjwr7njqo?at_medium=RSS&at_campaign=rss",
+   "published": "2026-11-13T03:02:54+00:00",
+   "summary": "Four Sydney Swans players had been under investigation after an alleged sexual assault after a game in Melbourne."
+  },
+  {
+   "source": "BBC News",
+   "title": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
+   "url": "https://www.bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&at_campaign=rss",
+   "published": "2026-11-12T19:23:02+00:00",
+   "summary": "Schools across Italy have received bomb threats for the second day in a row, sparking fresh panic and evacuations."
+>>>>>>> origin/main
   },
   {
    "source": "BBC News",
@@ -811,6 +1275,7 @@
   },
   {
    "source": "BBC News",
+<<<<<<< HEAD
    "title": "How a sex scandal at Nvidia is putting pressure on the White House",
    "url": "https://www.bbc.co.uk/news/articles/c67429m3vem3o?at_medium=RSS&at_campaign=rss",
    "published": "2026-11-13T12:22:30+00:00",
@@ -818,6 +1283,8 @@
   },
   {
    "source": "BBC News",
+=======
+>>>>>>> origin/main
    "title": "Australian cricket's sandpapergate is back - and it cuts deep in a 'nation of good sports'",
    "url": "https://www.bbc.co.uk/news/articles/c6702z750zvyo?at_medium=RSS&at_campaign=rss",
    "published": "2026-11-13T08:20:28+00:00",
@@ -825,6 +1292,7 @@
   },
   {
    "source": "BBC News",
+<<<<<<< HEAD
    "title": "Why midterm vote-counting is taking so long in America's largest state",
    "url": "https://www.bbc.co.uk/news/articles/cqly4ljvr4pjo?at_medium=RSS&at_campaign=rss",
    "published": "2026-11-13T00:35:05+00:00",
@@ -832,6 +1300,8 @@
   },
   {
    "source": "BBC News",
+=======
+>>>>>>> origin/main
    "title": "Neither war nor peace in Tigray - is Ethiopia's latest conflict really over?",
    "url": "https://www.bbc.co.uk/news/articles/cm3egjgvp794o?at_medium=RSS&at_campaign=rss",
    "published": "2026-11-13T00:20:24+00:00",
@@ -839,10 +1309,24 @@
   },
   {
    "source": "BBC News",
+<<<<<<< HEAD
    "title": "Whatever happened to the $300,000 diamond that went missing in F1 crash?",
    "url": "https://www.bbc.co.uk/sport/formula1/articles/c60735md0jrpo?at_medium=RSS&at_campaign=rss",
    "published": "2026-11-13T06:12:20+00:00",
    "summary": "Whatever happened to the diamond that went missing after the Formula 1 car it was attached to crashed?"
+=======
+   "title": "The rise and fall of Jensen Huang - how the tech superstar became mired in scandal",
+   "url": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
+   "published": "2026-11-12T17:11:48+00:00",
+   "summary": "Within days, Huang's status as a seemingly untouchable figure leading the global tech race has crumbled."
+  },
+  {
+   "source": "BBC News",
+   "title": "Jensen Huang has resigned, what's next for Nvidia?",
+   "url": "https://www.bbc.co.uk/news/videos/cmdx1r99kp9wo?at_medium=RSS&at_campaign=rss",
+   "published": "2026-11-12T19:33:37+00:00",
+   "summary": "The BBC's Samira Hussain reports from Wall Street on what the fall of the tech superstar means for the company and AI."
+>>>>>>> origin/main
   },
   {
    "source": "BBC News",

@@ -17,6 +17,7 @@ Secrets (`QUERCUS_ICAL_URL`, `TODOIST_TOKEN`) live only in the cloud environment
 settings. Never write them into a file, a commit, the paper, an email or a chat.
 
 ## Updates from Pio (Nov 11, 2026)
+- **ENGA10 lecture entries**: write just "ENGA10 lecture" and the room. Do not add the reading or text of the week (e.g. "Mrs Dalloway"). Pio did not ask for it. It came from the reading list in QUERCUS_CONTEXT.md. Same rule for other courses: no lecture topics on the front page unless Pio asks.
 - **Google Calendar now has everything**: classes, birthdays and the rest. Use it for the
   front-page "Today" list and the week ahead. The class times in QUERCUS_CONTEXT.md are a fallback only.
 - **New assignments and MGEA01 Achieve quiz dates** arrive through Quercus emails (Gmail

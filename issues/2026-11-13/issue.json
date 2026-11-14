@@ -1,0 +1,849 @@
+{
+ "date": "2026-11-13",
+ "date_long": "Friday, November 13, 2026",
+ "weekday": "Friday",
+ "number": "4",
+ "edition": "Morning edition",
+ "weather_word": "Cold & cloudy",
+ "weather": {
+  "daily": [
+   {
+    "date": "2026-11-13",
+    "day_of_week": "Friday",
+    "high": 4,
+    "low": 0,
+    "precipitation_chance": 1,
+    "precipitation_type": "",
+    "summary": "cloudy"
+   },
+   {
+    "date": "2026-11-14",
+    "day_of_week": "Saturday",
+    "high": 7,
+    "low": 0,
+    "precipitation_chance": 17,
+    "precipitation_type": "rain",
+    "summary": "cloudy, small chance of rain"
+   },
+   {
+    "date": "2026-11-15",
+    "day_of_week": "Sunday",
+    "high": 7,
+    "low": 4,
+    "precipitation_chance": 2,
+    "precipitation_type": "",
+    "summary": "cloudy"
+   },
+   {
+    "date": "2026-11-16",
+    "day_of_week": "Monday",
+    "high": 10,
+    "low": 6,
+    "precipitation_chance": 0,
+    "precipitation_type": "",
+    "summary": "mild"
+   },
+   {
+    "date": "2026-11-17",
+    "day_of_week": "Tuesday",
+    "high": 12,
+    "low": 5,
+    "precipitation_chance": 0,
+    "precipitation_type": "",
+    "summary": "mild"
+   }
+  ]
+ },
+ "front": {
+  "image": {
+   "src": "assets/art/processed/front-overworld-band.png",
+   "caption": "The old road from Edo to Kyoto, drawn by Katsushika Hokusai around 1818. Today’s back page is the fourth stop on that road, Kanagawa."
+  },
+  "lede": [
+   "Nothing is on your calendar today. Expect cloud and about 4°. Two PHLB18 items are still late, and reading response 6 earns nothing after Monday. The BlueDot course closes Sunday and the CLR program closes Monday."
+  ],
+  "today": [
+   {
+    "time": "All day",
+    "what": "Nothing on your calendar",
+    "where": "A free day to catch up"
+   },
+   {
+    "time": "Today",
+    "what": "Apart’s AI × Epistemics sprint starts",
+    "where": "Online · see Opportunities",
+    "dim": true
+   }
+  ],
+  "todos": [
+   {
+    "topic": "Academics",
+    "items": [
+     {
+      "text": "PHLB18 reading response 6 is late. It earns half marks until Mon Nov 16, then nothing.",
+      "src": "Todoist",
+      "urgent": true
+     },
+     {
+      "text": "PHLB18 Scaffolding 2 is late. It loses 20% for every 3 days. It stays open to Dec 8.",
+      "src": "Todoist"
+     },
+     {
+      "text": "Todoist still lists the MGEA01 Chapter 11 quiz and GGRA30 Practical 7 as overdue. Check if they are done. Only your best 6 of 9 practicals count.",
+      "src": "Todoist · QUERCUS_CONTEXT"
+     },
+     {
+      "text": "COPB50 informational interview: due Sunday.",
+      "src": "Todoist"
+     },
+     {
+      "text": "ENGA10: a 500-word discussion on The Last Laugh earns one extra point on the final.",
+      "src": "Quercus"
+     }
+    ]
+   },
+   {
+    "topic": "TAISI",
+    "items": [
+     {
+      "text": "Upload your receipts to HCB, if you haven’t.",
+      "src": "#taisi-team"
+     },
+     {
+      "text": "Shivam’s cohort, Mon Nov 16: order the kosher meal.",
+      "src": "Todoist"
+     }
+    ]
+   },
+   {
+    "topic": "Misc",
+    "items": [
+     {
+      "text": "Read the UTSC Registrar’s check-in email (Nov 11).",
+      "src": "UofT mail",
+      "urgent": true
+     }
+    ]
+   }
+  ],
+  "brief": [
+   {
+    "where": "Essays",
+    "text": "How we came to talk about our lives like video games; should AI workers unionize?"
+   },
+   {
+    "where": "World",
+    "text": "Indonesia picks a new vice president on Dec 2; fires in Kalimantan; Ethiopia’s Tigray."
+   }
+  ]
+ },
+ "sections": [
+  {
+   "id": "desk",
+   "title": "Your Desk",
+   "tab": "For you",
+   "aside": "What needs you, and what TAISI talked about",
+   "blocks": [
+    {
+     "type": "attention",
+     "title": "Needs you",
+     "items": [
+      {
+       "what": "Monday is the last day for PHLB18 reading response 6.",
+       "detail": "It earns half marks until Nov 16, then is not accepted. Scaffolding 2 loses 20% for every 3 days it is late, so handing it in soon costs less. It closes Dec 8.",
+       "src": "Todoist · QUERCUS_CONTEXT"
+      },
+      {
+       "what": "Two course windows close this weekend.",
+       "detail": "BlueDot’s Frontier AI Governance course: apply by Nov 15. CLR’s Fundamentals Program closes Monday, Nov 16 at 11:59 pm GMT. Both pages were checked today.",
+       "src": "bluedot.org · longtermrisk.org"
+      },
+      {
+       "what": "Check two quizzes in Todoist.",
+       "detail": "The MGEA01 Chapter 11 quiz (due Thursday 7 pm) and GGRA30 Practical 7 (closed Wednesday) still show as overdue there. They may just need ticking off.",
+       "src": "Todoist"
+      }
+     ]
+    },
+    {
+     "type": "agenda",
+     "title": "This week and beyond",
+     "items": [
+      {
+       "time": "Fri",
+       "what": "Apart epistemics sprint starts. AI Safety Camp posts its project list (the site says Nov 14).",
+       "where": "online · see Opportunities"
+      },
+      {
+       "time": "Sat",
+       "what": "Marches for an AI treaty",
+       "where": "cities in the US, Canada and France · noted in Astral Codex Ten",
+       "dim": true
+      },
+      {
+       "time": "Sun",
+       "what": "COPB50 informational interview due; BlueDot closes",
+       "where": "Nov 15"
+      },
+      {
+       "time": "Mon",
+       "what": "PHLB18 lecture 10–12 (IA 2150) and tutorial 1–2 (HW 402); reading response due; CLR closes; Shivam’s cohort food",
+       "where": "Nov 16"
+      },
+      {
+       "time": "Wed",
+       "what": "GGRA30 lecture 11–1 (HL B101); ENGA10 lecture 1–3 (AC 223), film: Modern Times; GGRA30 practical 4–5 (BV 469); Practical 8 quiz",
+       "where": "Nov 18"
+      },
+      {
+       "time": "Thu",
+       "what": "MGEA01 lecture",
+       "where": "7:00–10:00 pm · IC 130 · Nov 19"
+      }
+     ]
+    },
+    {
+     "type": "events",
+     "title": "Your events (from Luma)",
+     "items": [
+      {
+       "when": "Fri Nov 27",
+       "time": "5:30–7:30 pm",
+       "name": "After AGI: What Might a Good Outcome for Humanity Look Like?",
+       "detail": "Jackman Humanities Building, Toronto. Hosted by TAISI. You registered yesterday.",
+       "status": "registered"
+      }
+     ]
+    },
+    {
+     "type": "channels",
+     "title": "TAISI Slack · since Thursday",
+     "channels": [
+      {
+       "name": "#colloquium",
+       "points": [
+        "Pera K asked to meet before 7 or at 11. Joseph Kostousov and Ayushman Gupta both said 11 works. The day is not clear from the messages, so check the channel."
+       ]
+      },
+      {
+       "name": "Other channels",
+       "points": [
+        "No other new messages found."
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "opps",
+   "title": "Opportunities",
+   "new_page": false,
+   "tab": "Don’t miss",
+   "aside": "Sorted by deadline",
+   "blocks": [
+    {
+     "type": "opportunities",
+     "ruler_days": 28,
+     "intro": "Picked for a second-year CS and Public Policy student on TAISI’s operations team. ★ = strong fit. Each item says why. Today I re-checked the BlueDot, CLR and AI Safety Camp pages. The rest were last checked Nov 9.",
+     "groups": [
+      {
+       "title": "Closing soon",
+       "items": [
+        {
+         "name": "Apart: AI × Epistemics sprint",
+         "org": "Apart Research",
+         "short": "Apart epistemics",
+         "desc": "A free online weekend sprint, Nov 13 to 15. Teams build a test, dataset or tool about how AI changes what people believe. $2,000 in prizes. Entries are due Sunday night.",
+         "fit": "This weekend. No AI safety background is needed, and you can work at your own pace. A low-cost way to get a first research write-up.",
+         "deadline": "2026-11-13",
+         "deadline_short": "Nov 13",
+         "deadline_note": "starts today",
+         "tags": [
+          "hackathon",
+          "online",
+          "free"
+         ],
+         "url": "apartresearch.com/sprints"
+        },
+        {
+         "name": "Frontier AI Governance course (online)",
+         "org": "BlueDot Impact",
+         "short": "BlueDot gov",
+         "desc": "BlueDot’s own free online governance course, about 40 hours. Take it as a six-day intensive or over six weeks. Groups run in many time zones.",
+         "fit": "The governance half of what you did at TAISI, with no travel. No earlier BlueDot course is required. You give your free hours after you apply.",
+         "deadline": "2026-11-15",
+         "deadline_short": "Nov 15",
+         "deadline_note": "Sun; closes in 2 days",
+         "tags": [
+          "course",
+          "online",
+          "governance",
+          "free"
+         ],
+         "url": "bluedot.org/courses/ai-governance",
+         "star": true
+        },
+        {
+         "name": "CLR Fundamentals Program",
+         "org": "Center on Long-Term Risk",
+         "short": "CLR course",
+         "desc": "An online reading course, Nov 20 to Dec 21, on how advanced AI could cause suffering on a huge scale. About five hours a week. Meeting times fit the group.",
+         "fit": "Online, short, and new topics beyond what TAISI’s fellowship covered. It runs into exam season, so five hours a week needs a plan.",
+         "deadline": "2026-11-16",
+         "deadline_short": "Nov 16",
+         "deadline_note": "Mon, 23:59 GMT",
+         "tags": [
+          "course",
+          "online",
+          "beginner ok"
+         ],
+         "url": "longtermrisk.org/intro-seminar",
+         "star": true
+        },
+        {
+         "name": "GovAI Summer Fellowship 2027 (London)",
+         "org": "Centre for the Governance of AI",
+         "short": "GovAI",
+         "desc": "Three months of AI policy work in London, June 7 to Aug 27, 2027, paid £14,000. There is a research track and an applied track. No degree is required.",
+         "fit": "A stretch for a second-year, but CS plus policy is exactly their field. GovAI can sponsor UK work visas. Skip the DC version: it needs the right to work in the US.",
+         "deadline": "2026-11-22",
+         "deadline_short": "Nov 22",
+         "deadline_note": "Sun, 23:59 UK time",
+         "tags": [
+          "fellowship",
+          "paid",
+          "governance",
+          "stretch"
+         ],
+         "url": "governance.ai/opportunities",
+         "star": true
+        },
+        {
+         "name": "Kairos Pathfinder Fellowship, Spring 2027",
+         "org": "Kairos",
+         "short": "Pathfinder",
+         "desc": "Mentoring, workshops and group funding for students who organize AI safety or AI policy groups at a university. Online. Decisions come Dec 2 and it starts Dec 5.",
+         "fit": "You help run TAISI, so you can apply. Each organizer applies alone. Kairos now funds only groups with an organizer in this program, so tell TAISI’s leads. Undergrads get no personal stipend.",
+         "deadline": "2026-11-24",
+         "deadline_short": "Nov 24",
+         "deadline_note": "Tue, 23:59 anywhere on Earth",
+         "tags": [
+          "field-building",
+          "ops",
+          "remote"
+         ],
+         "url": "pathfinder.kairos-project.org",
+         "star": true
+        },
+        {
+         "name": "AI Safety Camp 12",
+         "org": "AI Safety Camp",
+         "short": "AI Safety Camp",
+         "desc": "An online research program, Jan 9 to Apr 18, 2027. You join a small team on a project picked in advance. The project list goes up about Nov 13–14, when team applications open.",
+         "fit": "Part-time, remote and open to beginners. A good first research project, and it does not depend on SPAR. Read the list on Friday and apply to the governance or security projects.",
+         "deadline": "2026-11-29",
+         "deadline_short": "Nov 29",
+         "deadline_note": "Sun Nov 29; team applications open about Nov 13–14",
+         "tags": [
+          "research",
+          "remote",
+          "beginner ok"
+         ],
+         "url": "aisafety.camp",
+         "star": true
+        },
+        {
+         "name": "Apart: Threat Intelligence & Threat Modelling hackathon",
+         "org": "Apart Research",
+         "short": "Apart security",
+         "desc": "A free online weekend hackathon, Dec 4 to 6, run with Security Level 5. Teams test whether AI can speed up security planning for AI data centres. $5,000 in prizes.",
+         "fit": "The closest match to your security interest on this page. Entries are due Dec 6, 11:59pm anywhere on Earth. It falls near exams, so decide early.",
+         "deadline": "2026-12-04",
+         "deadline_short": "Dec 4",
+         "deadline_note": "starts Fri",
+         "tags": [
+          "hackathon",
+          "security",
+          "online",
+          "free"
+         ],
+         "url": "apartresearch.com/sprints/threat-intelligence-threat-modelling-2026",
+         "star": true
+        }
+       ]
+      },
+      {
+       "title": "Opening soon: best fits",
+       "items": [
+        {
+         "name": "SPAR, Spring 2027",
+         "org": "SPAR (run by Kairos)",
+         "desc": "Remote, part-time research with a mentor, usually 5 to 20 hours a week. Open to undergrads. It has policy projects too. Applications open around December.",
+         "fit": "Your best next step: real research that fits around classes. Press “Express interest” on the site now so you get the email when it opens.",
+         "deadline_short": "Dec",
+         "deadline_note": "opens; date not announced",
+         "tags": [
+          "research",
+          "remote",
+          "undergrad ok"
+         ],
+         "url": "sparai.org",
+         "star": true
+        },
+        {
+         "name": "Apart: Agent Attribution Hackathon",
+         "org": "Apart Research",
+         "short": "Apart agents",
+         "desc": "A free online weekend sprint, Dec 11 to 13, on telling rogue AI agents apart from ones a human is steering. Entries are due Dec 13.",
+         "fit": "An AI security topic close to your TryHackMe work. Some other sites still show Nov 27 to 29. Apart’s own page says Dec 11.",
+         "deadline": "2026-12-11",
+         "deadline_short": "Dec 11",
+         "deadline_note": "starts Fri",
+         "tags": [
+          "hackathon",
+          "security",
+          "online",
+          "free"
+         ],
+         "url": "apartresearch.com/sprints/agent-attribution-2026"
+        },
+        {
+         "name": "Vector Institute research internship, summer 2027",
+         "org": "Vector Institute",
+         "short": "Vector",
+         "desc": "A paid research internship in Toronto, May to August, with a Vector professor. Vector takes summer applications from November to January. The page says they are closed for now.",
+         "fit": "In Toronto and open to undergrads at any school, in Canada or abroad. Letters are optional for undergrads. You need some machine learning experience.",
+         "deadline_short": "TBA",
+         "deadline_note": "not open yet",
+         "tags": [
+          "research",
+          "Toronto",
+          "paid"
+         ],
+         "url": "vectorinstitute.ai/research-talent/students/ai-research-internships",
+         "star": true
+        },
+        {
+         "name": "UTSC summer research award (UTEA)",
+         "org": "University of Toronto Scarborough",
+         "short": "UTEA",
+         "desc": "A $7,500 award to do 14 to 16 weeks of summer research with a UTSC professor. The 2027 date is not posted. The 2026 deadline was Feb 27.",
+         "fit": "On your own campus. Foreign students with a valid study permit for the summer can hold a UTEA. You need a professor to back you, so start asking in November.",
+         "deadline_short": "TBA",
+         "deadline_note": "likely Feb; not announced",
+         "tags": [
+          "research",
+          "Toronto",
+          "undergrad ok",
+          "paid"
+         ],
+         "url": "utsc.utoronto.ca/research/utea-ursa",
+         "star": true
+        }
+       ]
+      },
+      {
+       "title": "For TAISI, any time",
+       "items": [
+        {
+         "name": "Money for TAISI projects",
+         "org": "always open",
+         "desc": "BlueDot Rapid Grants give up to $20,000 for AI safety projects. Manifund keeps a list of who else is funding. It says the Long-Term Future Fund has stopped taking new applications.",
+         "fit": "Useful for ops: hackathon food, room costs, compute keys. For TAISI’s regular budget, the route is now the Pathfinder Fellowship above, due Nov 24.",
+         "deadline_short": "any time",
+         "deadline_note": "",
+         "tags": [
+          "grants",
+          "for groups"
+         ],
+         "url": "bluedot.org/grants/rapid · manifund.org/ais-funder-bulletin"
+        }
+       ]
+      }
+     ],
+     "note": "Programs that don’t fit you yet are listed in this morning’s email. Always check dates on the program’s own site."
+    }
+   ]
+  },
+  {
+   "id": "world",
+   "title": "The World",
+   "tab": "News",
+   "aside": "The facts first. The opinions get labels.",
+   "new_page": true,
+   "blocks": [
+    {
+     "type": "region",
+     "kicker": "Region one",
+     "title": "Indonesia",
+     "region": "indonesia",
+     "map_points": [],
+     "blurb": "A date for the new vice president, fires in Kalimantan, and a budget deficit by design.",
+     "stories": [
+      {
+       "tag": "Politics",
+       "headline": "Indonesia will choose a new vice president on December 2",
+       "lead": true,
+       "paras": [
+        "The People’s Consultative Assembly (MPR), which holds the vote, will meet on Wednesday, December 2 to elect and swear in a successor to Gibran Rakabuming Raka. He resigned on Thursday. Speaker Ahmad Muzani said the law gives the MPR 60 days.",
+        "President Prabowo must name two candidates within 14 days of the MPR’s request. By law they must come from the parties that backed the winning ticket in 2024. A minister said the president has full authority to pick the two."
+       ],
+       "why": "Until then, the president holds the top two jobs’ powers alone.",
+       "outlet": "ANTARA",
+       "date": "Nov 13",
+       "url": "https://en.antaranews.com/news/442383/indonesias-mpr-to-elect-new-vice-president-on-december-2"
+      },
+      {
+       "tag": "Fires",
+       "headline": "Forest fires fall in most places but rise in East Kalimantan and East Nusa Tenggara",
+       "paras": [
+        "The national disaster agency counts 283 hotspots covering 764 hectares. Hotspots in South Papua fell 84% from the day before. In East Kalimantan they rose 77%, and the burning area in East Nusa Tenggara rose 21%."
+       ],
+       "why": "Smoke from fires harms health far from where they burn.",
+       "outlet": "ANTARA",
+       "date": "Nov 13",
+       "url": "https://en.antaranews.com/news/442427/fires-decline-in-most-regions-e-kalimantan-and-ntt-remain-concerns"
+      },
+      {
+       "tag": "Budget",
+       "headline": "The finance ministry says a budget deficit is planned, not a loss",
+       "paras": [
+        "A ministry official said the state budget is “designed to run a deficit,” because spending is meant to be higher than income. Through October the deficit was 1.47% of GDP. The plan for the full year is 2.85%.",
+        "Income was Rp2,618 trillion (about US$143.7 billion), up 23.9% from a year ago. Spending was Rp2,997 trillion (about US$164.5 billion), up 15.6%."
+       ],
+       "why": "The words matter: a planned deficit is borrowing the government chose.",
+       "outlet": "ANTARA",
+       "date": "Nov 13",
+       "url": "https://en.antaranews.com/news/442375/finance-ministry-says-state-budget-deficit-is-planned-not-a-loss"
+      }
+     ]
+    },
+    {
+     "type": "region",
+     "kicker": "Region two",
+     "title": "Canada",
+     "region": "canada",
+     "map_points": [],
+     "blurb": "Student loans stop at career colleges, and a PhD first.",
+     "stories": [
+      {
+       "tag": "Education",
+       "headline": "A career college lays off staff as Ontario freezes student loans",
+       "lead": true,
+       "paras": [
+        "Ontario has barred students at all 242 private career colleges from OSAP loans while it investigates fraud. The ban began with five colleges in July and grew in October. Computek College in Toronto, Ajax and Markham says its income stopped. It made layoffs on Monday for the first time in 35 years.",
+        "On Thursday, Minister Nolan Quinn said a bill will be introduced Monday to add oversight. He said the problems are “far more widespread than first suspected.”"
+       ],
+       "views": "Computek’s chairman says the school is audited each year and supports a crackdown, but wants to be inspected first so students can return. The government says it found “coordinated, sophisticated” efforts to take advantage of students and taxpayers.",
+       "why": "Students who relied on loans now struggle to pay rent and food.",
+       "outlet": "Global News",
+       "date": "Nov 13",
+       "url": "https://globalnews.ca/news/12148797/ontario-career-college-funding-stalls/"
+      },
+      {
+       "tag": "Languages",
+       "headline": "A 73-year-old teacher is the first graduate of McGill’s Indigenous languages PhD",
+       "paras": [
+        "Mary Onwá Tekahawáhkwen Macdonald, from the Mohawk community of Akwesasne, finished in three years. The usual time is five. She taught the Mohawk language, Kanyen’kéha, for 45 years before she retired at 70 to study.",
+        "The program began in 2023 for people who speak an Indigenous language that is at risk. She hopes to stay at McGill as an elder in residence."
+       ],
+       "why": "Languages survive when people are trained to teach them.",
+       "outlet": "Global News",
+       "date": "Nov 13",
+       "url": "https://globalnews.ca/news/12149031/elder-first-graduate-mcgill-indigenous-languages-phd-program/"
+      }
+     ]
+    },
+    {
+     "type": "region",
+     "kicker": "Region three",
+     "title": "United States",
+     "region": "usa",
+     "map_points": [],
+     "blurb": "Insulin caps in red states, and a plan to shrink food aid.",
+     "stories": [
+      {
+       "tag": "Health",
+       "headline": "Twenty-nine states now cap what patients pay for insulin",
+       "lead": true,
+       "paras": [
+        "North Dakota, a Republican-led state, limits insulin to $25 a month for state-regulated plans. About a fifth of the roughly 40 million Americans with diabetes use insulin. Average yearly out-of-pocket costs for people with private insurance went from $470 in 2018 to $220 in 2025.",
+        "Colorado began in 2019. In 2022, a federal law capped insulin at $35 a month for Medicare. An attempt to extend that to private insurance failed in Congress after Republican opposition."
+       ],
+       "why": "A rare issue where both parties agreed the market was not working.",
+       "outlet": "NPR (KFF Health News)",
+       "date": "Nov 13",
+       "url": "https://www.npr.org/2026/11/13/nx-s1-6032717/diabetes-insurance-insulin-price"
+      },
+      {
+       "tag": "Food aid",
+       "headline": "A proposed rule could cut about 6.3 million people from SNAP",
+       "paras": [
+        "The Agriculture Department wants to stop some people who get benefits from the TANF program from qualifying for SNAP, the food aid program, automatically. It estimates 6.3 million people could lose eligibility by 2029. About 5.5 million have already lost benefits in the past year.",
+        "The public can comment until next month. If approved, the rule would take full effect in about two years."
+       ],
+       "views": "The administration says it is closing a loophole. A former Agriculture official, Stacy Dean, says it would remove many working-poor people. A left-leaning research group says the move ignores voters’ wish for lower costs.",
+       "why": "Being on SNAP also helps children get free school meals.",
+       "outlet": "PBS NewsHour (AP)",
+       "date": "Nov 12",
+       "url": "https://www.pbs.org/newshour/politics/trump-administration-plans-to-make-it-harder-to-get-grocery-assistance"
+      }
+     ]
+    },
+    {
+     "type": "region",
+     "kicker": "Region four",
+     "title": "Around the World",
+     "map_points": [],
+     "blurb": "Talks on Ukraine, a hacking scheme, and Ethiopia’s Tigray.",
+     "stories": [
+      {
+       "tag": "War",
+       "headline": "US envoys say Europe will join the next round of Ukraine peace talks",
+       "paras": [
+        "Jared Kushner and Steve Witkoff, envoys of the US, met Russia’s Vladimir Putin in Moscow and then Ukraine’s Volodymyr Zelensky in Dublin on Thursday. Kushner said Putin is “willing to give it a try” on having EU delegates at the table. Zelensky welcomed it.",
+        "Putin said Russia’s demand for territory has not changed. Both sides did agree to another prisoner swap, the largest yet."
+       ],
+       "why": "Past talks in Abu Dhabi ended with no breakthrough.",
+       "outlet": "BBC",
+       "date": "Nov 13",
+       "url": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo"
+      },
+      {
+       "tag": "Ethiopia",
+       "headline": "In Tigray, it is neither war nor peace",
+       "paras": [
+        "Fighting began in late September between the TPLF, which ran Tigray for decades, and Ethiopia’s army. Federal forces took the capital, Mekelle, in under two weeks. Hundreds of people are reported to have died.",
+        "Officials say the war is over. Residents describe no work and fear about what comes next."
+       ],
+       "why": "A 2022 peace deal ended an earlier two-year war here.",
+       "outlet": "BBC",
+       "date": "Nov 13",
+       "url": "https://www.bbc.co.uk/news/articles/cm3egjgvp794o"
+      },
+      {
+       "tag": "Crime",
+       "headline": "The FBI says North Korean hackers used fake video calls to steal $400 million",
+       "paras": [
+        "The scheme, called FaceStealer, hit more than 900 people in 18 months, mostly in crypto work. Hackers invite targets to a fake meeting, play clips of past victims, then ask them to “fix” the audio with a link that installs malware.",
+        "The FBI says the money funds North Korea’s weapons program."
+       ],
+       "why": "Even careful people can be fooled by a call that looks real.",
+       "outlet": "BBC",
+       "date": "Nov 13",
+       "url": "https://www.bbc.co.uk/news/articles/cqdj1ellpd70o"
+      }
+     ]
+    },
+    {
+     "type": "region",
+     "kicker": "Region five",
+     "title": "Science",
+     "map_points": [],
+     "blurb": "How phone data traced Ebola.",
+     "stories": [
+      {
+       "tag": "Health",
+       "headline": "Phone data show how Ebola spread for weeks before it was found",
+       "lead": true,
+       "paras": [
+        "Researchers used anonymous phone data and test records to map the start of the Bundibugyo Ebola outbreak in Congo. The first confirmed case, found May 15, had symptoms by April 25.",
+        "There are now more than 10,000 confirmed cases and 5,198 deaths."
+       ],
+       "why": "Finding a disease early is the best way to stop it.",
+       "outlet": "Nature",
+       "date": "Nov 12",
+       "url": "https://www.nature.com/articles/d41586-026-03666-z"
+      }
+     ]
+    },
+    {
+     "type": "box",
+     "style": "tint",
+     "label": "Bubble check",
+     "paras": [
+      "Of 12 newsletters since yesterday, 5 were about AI. No news story today is."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "essays",
+   "title": "The Essays",
+   "tab": "Read slowly",
+   "aside": "Printed whole, in the writers’ own words",
+   "blocks": [
+    {
+     "type": "essay",
+     "essay_id": "asterisk-playable-characters",
+     "optional": false,
+     "priority": 9,
+     "kicker": "Asterisk · Nov 12 · Essay",
+     "title": "We are all playable characters",
+     "author": "Hannah Kim",
+     "publication": "Asterisk",
+     "dek": "A philosopher asks why we now talk about our lives with game words like “side quest” and “NPC,” and what is lost and gained.",
+     "paras": [
+      "As a new freshman in an undergrad co-op, Bee, the protagonist of Tony Tulathimutte’s novella “Main Character,” makes things difficult for everyone at the first house meeting. Bee refuses to specify their ethnic background, rejects all pronouns and gender labels (including “no-label”), and after unsuccessfully requesting to be called just by their name, simply tells people not to refer to them at all. “You can’t not identify,” Bee says later. “So since I couldn’t be no one, I would be everyone.”",
+      "How does one be everyone? Apparently via “identity terrorism” by producing countless online personas, faking their interactions, and seeding a language model to produce an alleged 230 story variations that flood the internet with different biographical details.",
+      "The irony is that Bee can’t escape being the main character not only of their own life, but of the internet — finding out who Bee really is incites a viral investigation — as well as the story we read. But what I find fascinating is how Bee creates and disseminates incompatible life stories as a way to hide, as if escaping one story requires telling another. This builds on the familiar trope that to hear someone’s story is to know them.",
+      "Today, however, this narrative framework has acquired a new vocabulary. Alongside plot, main character, and villain, we now go on side quests, grind for rewards, and avoid NPCs. A hybrid culture is emerging — one that still asks what our lives mean, but asks more immediately what we should do next.",
+      "In both narratives and lives, one thing happens after another, and meaning is sought from the progression of events. Perhaps for this reason, European intellectual tradition has consistently recounted lives as a story, presenting them in a developmental manner that builds toward some “point.” In contrast, other traditions, including in early China, reached for nature’s recurring cycles — rather than teleological linear progression — to understand life’s rhythms in work and rest, growth and decay, and the rise and fall of family fortunes.",
+      "Not everyone experiences their lives as a continuous saga centering on themselves; some people just don’t identify much with their past and future selves, which is a requirement for thinking that one’s life is a long stretch of events that involves the same character. But more often than not, story logic has shaped how we think of our life structures.",
+      "In Confessions , Augustine’s life is told as a providential story where God is the author of his life and Augustine understands who he is — and who God is — by the happenings. Jean-Jacques Rousseau’s Confessions secularizes the life story, recounting his life not to understand the divine but how he became who he is . The rise of the novel, especially the bildungsroman, provided an established form for “coming of age.”",
+      "From here, it is a short step to arrive at the 20th-century philosophers and psychologists who theorized that stories are crucial to self-understanding, if not to identity altogether. The psychologist Jerome Bruner argued that “[o]ur precommitment about the nature of a life is that it is a story.” His ideas, also explored by Alasdair MacIntyre, Paul Ricoeur, Marya Schechtman, and Daniel Dennett, among others, have been influential both in academic discussions of identity and selfhood and in broader culture. A quarter into the 21st century, we still live in a narrative culture where it is natural to think of ourselves as protagonists of the story of our lives, periods of our lives as chapters, and friends as side characters.",
+      "But narrative logic is limited by its temporal structure: What makes lives and stories seem meaningful is the way events accrue and connect. The problem with this, according to philosopher Elisabeth Camp, is that stories are beholden to their ending for meaning .",
+      "We can, of course, tell the story of our lives while in the middle of it, but the meaning of any event is open to revision until the story is over. An early tragedy could be a formative moment that provides someone with the resilience they need to succeed later, or it could be a harbinger of difficulties that will continue to plague a life. To think of a life as a story, then, is to hold meaning, value, and identity in limbo until the end.",
+      "If we’re meant to be both character and author, that poses trouble too. Camp reminds us that no one can simultaneously be a protagonist in a story while also stepping outside of the story to interpret and plan the life that is being lived. A practical cliché says one must choose between living and reflecting (hello, Hamlet). Characters and storytellers also can’t help but exist in different “worlds,” if you will, since the storyteller has access to the story world but characters tend not to have access to the storyteller’s world. If stories are great for making sense of something in retrospect, we need something else to tell us the next move while we’re still in the middle of living.",
+      "The best workout class experience I’ve had was at Orangetheory two months ago. The day’s workout was split into lifting and cardio sessions chopped into three-, seven-, and 10-minute blocks: Shoulder press! Romanian deadlift! Dead bug! Treadmill! Rowing! Floor touch jacks! Meanwhile, a heart rate monitor gave me constant feedback on whether I was in the ideal heart rate zone. Everyone’s zones and scores were on the board, so I was feeling smug about being among the top performers, too.",
+      "Since then, I’ve repeatedly asked myself what about the class worked so well. One surprise was that I didn’t know just how much I loved being told what to do when working out. Plus, the clear structure of the exercises and the measurable feedback made me feel like I had done a good job — and not in a thank-yourself-for-showing-up-today kind of way, but in an objective, real way.",
+      "I am, of course, talking about gamification, games, and ludic thinking.",
+      "Ludic thinking, like narrative thinking, has been around forever. Plato and Epictetus compared human lives to dice games, arguing that what matters more than what is rolled (chance) is how one plays what is given (skill). The medieval moralist Jacobus de Cessolis uses chess as a model of a harmonious society, the idea being that society, like the game, only goes well when individuals stick to the roles they are given. The Game of Life we have today can be traced back to the 18th century.",
+      "Gaming terms and concepts aren’t new, either. Tabletop role-playing games like Dungeons & Dragons supplied concepts like NPC, experience points, quests, and abilities, though these terms remained technical throughout the ’70s and ’80s. As gaming went online and massively multiplayer online games proliferated in the ’90s and 2000s, gaming vocabulary contributed to a subculture with its own dialect; this is when terms like “noob,” “loot,” “camping,” and “grinding” became popular.",
+      "Now this language has gone mainstream. The Merriam-Webster dictionary added “level up” in 2022; “NPC” has become conspicuous in political meme culture; and just last year, Merriam-Webster added a separate entry for “side quest” in its Slang Dictionary, as a Gen Z term that refers to anything secondary to the main pursuit.",
+      "There are a variety of reasons for this proliferation: the growth of technology that makes gamification easy, a widespread culture of optimization, and several generations that have now grown up with video games. An underappreciated explanation for the growing appeal of these concepts, however, is that games provide a new mode of engagement that isn’t possible with stories.",
+      "As philosopher C. Thi Nguyen notes , when we play games, we try on new goals and values. No one really cares about collecting small wooden cut-outs of hops, barley, flax, or sheep for their own sakes, but while playing Hallertau, we develop new ways of paying attention to these resources and become more skillful at acquiring them for the sake of the game. When we temporarily bind ourselves to the game’s rules and take up new roles defined by goals and values we wouldn’t otherwise have, we try on new forms of acting and being.",
+      "Nguyen therefore presents games as an art form whose medium is our agency. This is a striking claim: If a drawing’s medium is paper and pencil, a game’s medium, so the thought goes, is the human capacity for action.",
+      "I might be terrible with U.S. geography, but while looking at a map, I could trace the Chicago–Kansas City–Oklahoma City–Santa Fe–Phoenix line as a close approximation of a road trip I just took, or I might see the strategic importance of Denver or Pittsburgh in building the longest road. To see the highways as a way of organizing my past experience is to approach the map in a narrative mode, and to see the highways as a way to achieve some other end (win the game!) is to approach the map in a ludic mode.",
+      "Many games are narrative in structure: Pandemic Legacy and Dungeons & Dragons require player choices that determine events and tell a story. Still, games that combine narrative and ludic elements lean on player action. There is always a “now” in games that requires a move . In a story, someone is represented as making choices; in a game, someone must actually make choices. In a game, we’re simultaneously the first-person experiencer and the interpreter-planner of what is going on, privy to statistics like health points and the time left for the round even while enjoying the game world. In stories, we toggle between the character living a life and the narrator or author who tells us about the life, but games allow the integration of the two roles.",
+      "The narrative way of thinking isn’t gone, but ludic elements are increasingly accompanying narrative concepts. Games drop you into the middle of action. They tell you what to do even while figuring out what it all means — and the ludic influence over character is changing how we understand ourselves, too.",
+      "Somewhere between 2015 and 2021, when I started and finished my PhD, something in mainstream culture shifted so that more and more people identified themselves and others with terms like “white,” “BIPOC,” “queer,” “cishet,” or “first-gen.” While it was helpful to see what is distinct about the Asian American experience and identify as one, sometimes it felt as if calling myself that was to sign on to having certain traits and experiences such that studying philosophy or playing jazz drums was to out myself as an anomalous kind of Asian American.",
+      "Labels can provide a template for being , so social identity labels like “Asian American,” “mom,” “queer,” “evangelical,” or “doctor” can help individuals construct themselves, but they can quickly rigidify and backfire as a way to define oneself. Yet the craving for labels doesn’t go away, or at least — as Bee found out — it’s impossible not to identify with any label. So we either need a different way of applying labels or different kinds of labels.",
+      "In a narrative framework, answering the question “Who am I?” requires looking at what happened in my life and what that says about the person I am. In a ludic framework, asking the question “Who am I?” involves asking what my task is and how good I am at it. In a narrative-ludic framework, to ask “Who am I?” is to ask for a role, a character type that would tell me how I am supposed to act. Modern character types — Karen, Chad, girlboss, tradwife — are narrative concepts transformed through ludic influence.",
+      "Characters, too, are ancient. Theophrastus wrote Characters , a collection of 30 personality types in fourth-century B.C.E. Athens; each character is a highly compressed model of a person, like “The Flatterer” and “The Newshound.” Chinese dynastic histories feature rivals such as Xiang Yu and Liu Bang from the third-century B.C.E. whose opposing personalities become competing ways of being.",
+      "All this sounds a lot like stereotyping, but stereotyping describes what a group of people are supposedly like, whereas characters are applied to individuals to understand their behaviors. Unlike stereotypes, character types are willingly taken on by individuals to try out a new identity. And unlike TV tropes like the Chosen One or Manic Pixie Dream Girl, which are derived from their role in a plot, characters don’t require any surrounding plot to be legible. They encode traits and worldviews much more effectively.",
+      "Characters are playable: They provide a context that makes certain actions, but not others, make sense within it. Some choices count as progress while others count as failure.  Once someone takes up “Horse Girl” as a role, an array of actions becomes newly salient as moves that “count” — talking about horses, spending the weekend riding, buying horse stickers — and the role gives those moves a center of gravity that coheres them into a recognizable way of being. The tradwife type comes with a preloaded set of values — domesticity, nuclear family, traditional gender roles — and a set of instructions that tells someone what to wear, what to buy, and how to behave. With a narrative, a character’s values are revealed through the course of the story. But the tradwife character shows you up front what counts as playing her well.",
+      "Character types like “Golden Retriever Boyfriend” or “girlboss” are not straightforward social identities but bundles of attitudes and behaviors that often encode worldviews. Whereas labels like “Mom” or “Latina” could be neutral in value judgment, characters are rarely neutral: Being called a soy boy, Becky, or an NPC is an insult, whereas being called a Sigma Male or Main Character might be a compliment.",
+      "Character types are also accessible. We’re stuck with many of our social identities — I can’t be “Latina” or “male” — but I could be a Wine Aunt. They’re malleable, too; note how “girlboss” went from being aspirational to embarrassing.",
+      "“Main character,” as a synonym of protagonist, was originally a narrative term, but “main character energy” now is less about possessing a coherent plot than about being at the center of attention or having the freedom or privilege to act in an uninhibited manner. Being a main character is now about how much agentic power one has, whereas being an NPC is about the lack of such agentic power. To be a main character of one’s life now isn’t to make meaning, but to take control.",
+      "The boon and danger of modern characters is their efficiency. The types compress both ourselves and others. If we wanted to understand a date’s behavior, we could tell a story — recount what happened and guess their motives — or label the date a “fuckboy” and move on. The character types are condensed explanations. Faced with information overload, we reach for quicker, more portable tools of understanding, and characters expedite the work.",
+      "Another worry lurking here is related to what Nguyen calls “ value capture .” Games define what counts as success, and character types can do the same socially. If it weren’t for already existing worldviews and values compressed into character types that we can try on, we would have to customize our own set of commitments and tastes to reflect who we are. The malleable nature of character types helps only slightly since they tend to offer  simplified values, such as looking or dressing a certain way.",
+      "Bee from “Main Character” complains that these days everyone desires to be defined, “to be issued their personhood so they can pursue it without hesitation.” It’s not just that everyone wants to understand who they are; it’s that they want to be issued an identity that can be pursued, something they can do something about.",
+      "Bee tried to overcome being known by becoming every possible character online. Funny, then, that we’re doing something similar, albeit on a smaller scale: We identify roles that speak to us and try living as them. Character types and games are appealing because they make the hard question — how do I live? — more manageable. They don’t actually tell you how to live, but they break down the big question into a smaller, easier one of what to do next. The answers we’re given are clear and easy to follow: Stay in the orange zone; complete side quests; play the role well. What I can’t tell is whether this amounts to an upgrade or a downgrade in what it means to be a self."
+     ],
+     "source_note": "asteriskmag.substack.com/p/we-are-all-playable-characters · from Asterisk Issue 16 · a subscribe line, the author line and one footnote are left out",
+     "counter_label": "In plain words, and the other side",
+     "counterpoint": [
+      "The short version: People used to see their lives as a story: one thing leads to the next, and the meaning shows up at the end. Now many people use game ideas instead: quests, levels, roles. Kim says character types like “girlboss” are easy to try on and give clear next steps. But they also tell you what counts as success, and that may shrink who we are.",
+      "The other side. This is one philosopher’s view, and it builds on other thinkers like C. Thi Nguyen. She ends unsure whether this is an upgrade or a downgrade. A reader might say game words are just slang, like old terms for types of people, and do not change how anyone lives. Or that stories and games can work together."
+     ],
+     "new_page": false
+    },
+    {
+     "type": "essay",
+     "essay_id": "acx-ai-employee-union",
+     "optional": false,
+     "priority": 7,
+     "kicker": "Astral Codex Ten · Nov 12 · Opinion",
+     "title": "AI company employees should unionize",
+     "author": "Scott Alexander",
+     "publication": "Astral Codex Ten",
+     "dek": "A blogger says safety-minded workers at AI companies could organize, and explains how the law could help.",
+     "paras": [
+      "Should safety-conscious employees at AI companies quit in protest, or stay and fight? The latest argument didn’t resolve the dispute, but it did get me in contact with organizers working on both sides.",
+      "Those planning to stay and fight are increasingly interested in labor organization. This doesn’t need to mean literal government-recognized Labor Unions. An existing group, Coalition Of Concerned AI Staff , is already helping support interested employees and investigating other models to do more. But it might involve using laws, rights, and tactics associated with the National Labor Relations Act and the labor movement.",
+      "You may remember stories of bitter unionization battles at places like Starbucks, but AI workers can probably route around that. The toughest labor disputes happen in fields where the employer could easily fire all the organized workers and replace them from a bottomless pool of faceless scabs: although this is illegal, everyone needs to be maximally lawyered-up to prevent it. But there are so few skilled AI researchers that these laws are hardly necessary; if a dozen top AI researchers threaten to walk, it doesn’t matter whether Section P Sub-Section Q forces the AI company to negotiate - the AI company will want to negotiate. This cuts through the red tape that intimidates workers in less blessed fields 1 ; AI researchers could likely get away with only the package of rights provided by informal “concerted activity”,  defined as two or more workers doing anything vaguely labor-activism-shaped. Just put up a sign somewhere saying “OpenAI Safety Union” and get at least two employees to stand behind it, and it counts.",
+      "(even the word “union” is unnecessary; if employees felt like it was too adversarial, they could call it “OpenAI Research Council” or something)",
+      "Once an organization existed, the law would ban the company from firing people simply for being part of it, or talking to other members, or planning demands or actions together. It also couldn’t fire workers for striking over workplace conditions 2 .",
+      "Does the “workplace conditions” requirement rule out most forms of safety activism? Not necessarily: many safety issues double as workplace issues, including whistleblower protections, auditing requirements, and safety team staffing. Most of all, fears of recursive self-improvement are naturally workplace-related: whatever else RSI does to the world, it will also automate AI researcher positions. This would be a popular starting issue that might attract even non-alignment-pilled colleagues.",
+      "But even if some safety issue has no workplace relevance at all, employees can still strike over it; they only lose their protection against being fired. And good AI researchers are worth tens of millions of dollars each and nearly irreplaceable, so AI companies are already averse to firing dozens of them at once. And any attempt to fire striking AI researchers would likely make national news and be a PR disaster. So the legal protection against being fired isn’t doing most of the work anyway, and AI employee organizations could strike over issues without direct workplace relevance if they wanted 3 .",
+      "What if employees think their company already does a good job prioritizing safety? Then they should organize in order to give their already-virtuous company more options. Negotiations between unions get less antitrust scrutiny than negotiations between companies, so workers can forge deals to slow research or prioritize safety even when executives’ hands are tied.",
+      "For example, suppose that OpenAI leadership orders its researchers to switch to a less-monitorable looped transformer design. A safety-conscious employee union might ask further questions, or mutually refuse to pursue this.  If Sam Altman said that they had to build a looped transformer, or else Anthropic would build it first and beat them, the organizers could call up their friends at the Anthropic Employee Union and ask whether they would go on strike if Anthropic built a looped transformer. If the Anthropic Employee Union said yes, then the two unions could present a united front, and their companies wouldn’t have to worry about the other company racing ahead. ",
+      "Although on its own this has limited value - Meta or DeepSeek could still build the looped transformer - these union deals could also provide a standard that the industry could rally around, or a clear starting point for government intervention. In an extreme case, two unions could negotiate the beginnings of a pause deal, force it on their parent companies, and the government could take note and make it part of a future international deal.",
+      "What else could unions or union-like organizations work toward?",
+      "Upholding normal protections around discipline and firing. In October, OpenAI fired three safety researchers after accusing them of leaking information on the company’s experiments with potentially-dangerous looped transformers ; these accusations now seem to be false , with the most likely scenario being that OpenAI was angry about the leak and fired some people in the vicinity of the problem to make a point. If OpenAI employees had a union, the company might have to be more careful about firing employees under false pretenses.",
+      "Holding companies to the commitments they made during September’s excitement around Pacing The Frontier , for example, demanding that they hire independent evaluators with employee-level access by such-and-such a time.",
+      "Demanding transparency, eg about compute allocation as described here , or about the information necessary to measure the speed of recursive self-improvement.",
+      "Acting as an independent voice holding companies to their commitments. This is another one that works even if (especially if?) employees already trust their company leadership. Currently, companies struggle to make credible promises because there’s nobody inside who can enforce them. A union that threatened to investigate or raise a fuss if a promise were broken could help executives be taken seriously.",
+      "If you’re interested, contact the people taking point on this, who I can vouch for as smart and trustworthy, at AIemployeeorganizing@gmail.com",
+      "For people taking the other route - whistleblowing or quitting - my contacts recommend talking to Psst , a nonprofit that provides legal advice for concerned tech workers.",
+      "Whistleblowing is a fraught process. Your company has more experience catching and neutralizing whistleblowers than you have being one, and if you’re working on your own, then you will probably fail to cover your tracks (did you know companies look to see how many times different employees checked leaked documents, on the grounds that someone who’s agonizing about whether to whistleblow about them probably reads them more often than most?) Another classic mistake is to complain about something internally, then whistleblow after your complaints are not taken seriously; it’s not hard for companies to connect the dots and realize that the complainer and the whistleblower are probably the same person. Psst has more experience with this than you or your company, and can walk you through the process.",
+      "Even if you’re thinking of quitting, Psst may be able to help. You may have more options than you thought, like threatening to quit unless you get the thing you want. And if you do decide to quit, you may want to do it in the most effective way possible - make a splash on your way out, like Jacob Coxon did. This requires some basic media literacy, and Psst will connect you with the people who can give it to you.",
+      "Contact Psst by messaging @PsstLegal.01 on Signal on a personal device without any employer spyware. The person on the other end will be a lawyer, and your conversation with them will be confidential.",
+      "Whatever AI employees do, they should do it soon. RSI could start making them obsolete as soon as next year , so they may never have this amount of leverage again."
+     ],
+     "source_note": "astralcodexten.com/p/ai-company-employees-should-unionize · the section numbers and the footnotes at the end are left out",
+     "counter_label": "In plain words, and the other side",
+     "counterpoint": [
+      "The short version: Scott Alexander says people at AI companies who worry about safety should not only quit or blow the whistle. They can band together, even without a formal union. Because skilled AI researchers are so rare, a small group threatening to walk could win real talks about safety. He points to a legal group, Psst, for those who want to speak out, and says to act soon.",
+      "The other side. He writes as a supporter of AI safety, and his case rests on guesses about how hard it is to replace these workers and about how fast AI will advance. He admits some safety actions may not be protected by law. Others may say a union would slow useful work, or that companies would respond by hiring different people. Several claims come from his contacts, not from public records."
+     ],
+     "new_page": false
+    },
+    {
+     "type": "box",
+     "style": "poem",
+     "optional": true,
+     "priority": -2,
+     "label": "A poem for a wet week",
+     "paras": [
+      "I wandered lonely as a cloud / That floats on high o’er vales and hills,",
+      "When all at once I saw a crowd, / A host, of golden daffodils;",
+      "William Wordsworth, “I Wandered Lonely as a Cloud”, 1807. The first four lines. A host is a large crowd."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "stand",
+   "title": "The Newsstand",
+   "new_page": false,
+   "tab": "Your inbox",
+   "aside": "The last 24 hours, summed up",
+   "blocks": [
+    {
+     "type": "newsstand",
+     "items": [
+      {
+       "essay_id": "asterisk-playable-characters",
+       "pub": "Asterisk",
+       "author": "Hannah Kim",
+       "title": "We are all playable characters",
+       "mode": "in full",
+       "summary": "Printed in full in the Essays.",
+       "hide_if_full": true,
+       "fallback": [
+        "Essay. A philosopher says people now describe their lives with game words, such as quests and NPCs, instead of as one story. Character types are easy to try on, but they may also define success for us."
+       ]
+      },
+      {
+       "essay_id": "acx-ai-employee-union",
+       "pub": "Astral Codex Ten",
+       "author": "Scott Alexander",
+       "title": "AI company employees should unionize",
+       "mode": "in full",
+       "summary": "Printed in full in the Essays.",
+       "hide_if_full": true,
+       "fallback": [
+        "Opinion. The writer says safety-minded AI workers could organize, with or without a formal union, and that their rare skills give them power. Keep in mind: several claims come from his contacts."
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "email_notes": [
+  "Issue No. 4, Friday Nov 13. Gmail, Calendar, Slack, Todoist and the network all worked. The Quercus calendar feed is not set up; school dates come from Todoist, Quercus mail and QUERCUS_CONTEXT.md.",
+  "Weather: Open-Meteo for Fri to Tue.",
+  "Opportunities: it is not Monday, so the list is carried over. I re-checked the BlueDot (apply by Nov 15), CLR (Mon Nov 16, 23:59 GMT) and AI Safety Camp pages today. AI Safety Camp says team applications open Nov 14 (it also calls that day Friday, but Nov 14 is a Saturday), so check the site. Nothing new reached the inbox or Slack.",
+  "School: Todoist still shows the MGEA01 Chapter 11 quiz and GGRA30 Practical 7 as overdue, so I do not know if you did them. PHLB18 reading response 6 earns half marks until Nov 16. ENGA10 posted a new discussion (500 words on The Last Laugh for one extra point on the final), the Mrs Dalloway notes, and the film link for Modern Times (Lecture 9, Nov 18). ThriveUTSC asks for an artifact for the Nov 25 and 26 classes. The UTSC Registrar’s “Academic Probation Check-in” (Nov 11) is still worth reading; I did not copy details into the paper.",
+  "Slack: only #colloquium had new messages (a meeting time of 11). A DM thread with Joseph Kostousov about a call was not read or printed.",
+  "Essays: Hannah Kim (Asterisk) is printed in full (free). Scott Alexander is printed in full minus the footnotes. There was no room for a Newsstand today. Persuasion (Double Down on College), The New Critic and Slow Boring were paywalled, so I only had their free parts and left them out. Left out: Noahpinion’s podcast, the OWID Brief, ControlAI, AI Frontiers, Epoch’s Gradient Updates, Zvi, Bentham’s short notes, Visual Capitalist and the Rutger Bregman welcome emails.",
+  "News: CBC was blocked, so Canada comes from Global News. I did not print the Microsoft outage because it was mostly about AI services, or the Jensen Huang story, which is AI-related. I read but cut for space: the Pope Leo in Peru story, the Hera asteroid story, the Truro deer-cull story, NPR on turnout in the South, ANTARA on the B50 fuel plan, ANTARA on palm-oil tracing before EU rules, BYD and local content, and the Somalia aid-cuts report.",
+  "Art: Hiroshige’s Kanagawa. The Wikimedia copy was resized and lightly smoothed to keep the PDF small."
+ ],
+ "credits": [
+  "Front page band: Katsushika Hokusai, Famous Places on the Tōkaidō in One View (c. 1818). UBC Library, no known copyright restrictions.",
+  "Back page: Utagawa Hiroshige, Kanagawa, from the Fifty-three Stations of the Tōkaidō. Library of Congress (LCCN 2008660614), public domain.",
+  "Maps: Natural Earth data via world-atlas. Weather: Open-Meteo."
+ ],
+ "back": {
+  "src": "assets/art/processed/back-04-kanagawa.png",
+  "kicker": "The Road · Stop 4 of 55",
+  "title": "Kanagawa · Hiroshige",
+  "caption": "Kanagawa was the fourth town on the road from Edo. The picture shows a row of inns on a hillside above the bay, with travellers on the road and sailing boats on the water. Hiroshige made 55 prints of the road, and this paper shows one each issue. Turn the page sideways to see it the right way up.",
+  "credit": "Public domain. Library of Congress, via Wikimedia Commons."
+ }
+}

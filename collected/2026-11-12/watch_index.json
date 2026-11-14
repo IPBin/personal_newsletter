@@ -22,12 +22,12 @@
  {
   "url": "https://www.matsprogram.org/",
   "file": "watch/w-matsprogram-org-.txt",
-  "changed": false
+  "changed": true
  },
  {
   "url": "https://sparai.org/",
   "file": "watch/arai-org-.txt",
-  "changed": true
+  "changed": false
  },
  {
   "url": "https://erafellowship.org/",
@@ -37,7 +37,7 @@
  {
   "url": "https://bluedot.org/courses",
   "file": "watch/uedot-org-courses.txt",
-  "changed": false
+  "changed": true
  },
  {
   "url": "https://www.constellation.org/programs",
@@ -72,7 +72,7 @@
  {
   "url": "https://pathfinder.kairos-project.org/",
   "file": "watch/thfinder-kairos-project-org-.txt",
-  "changed": false
+  "changed": true
  },
  {
   "url": "https://aisafetymontreal.org/programs/",
