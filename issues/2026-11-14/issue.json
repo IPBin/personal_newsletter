@@ -1,0 +1,769 @@
+{
+ "date": "2026-11-14",
+ "date_long": "Saturday, November 14, 2026",
+ "weekday": "Saturday",
+ "number": "5",
+ "edition": "Morning edition",
+ "weather_word": "Cool & dry",
+ "weather": {
+  "daily": [
+   {
+    "date": "2026-11-14",
+    "day_of_week": "Saturday",
+    "high": 7,
+    "low": 2,
+    "precipitation_chance": 5,
+    "precipitation_type": "",
+    "summary": "cloudy"
+   },
+   {
+    "date": "2026-11-15",
+    "day_of_week": "Sunday",
+    "high": 6,
+    "low": 2,
+    "precipitation_chance": 0,
+    "precipitation_type": "",
+    "summary": "mostly sunny"
+   },
+   {
+    "date": "2026-11-16",
+    "day_of_week": "Monday",
+    "high": 9,
+    "low": 5,
+    "precipitation_chance": 5,
+    "precipitation_type": "",
+    "summary": "cloudy"
+   },
+   {
+    "date": "2026-11-17",
+    "day_of_week": "Tuesday",
+    "high": 10,
+    "low": 3,
+    "precipitation_chance": 0,
+    "precipitation_type": "",
+    "summary": "dry"
+   },
+   {
+    "date": "2026-11-18",
+    "day_of_week": "Wednesday",
+    "high": 10,
+    "low": 4,
+    "precipitation_chance": 0,
+    "precipitation_type": "",
+    "summary": "dry"
+   }
+  ]
+ },
+ "front": {
+  "image": {
+   "src": "assets/art/processed/front-overworld-band.png",
+   "caption": "The old road from Edo to Kyoto, drawn by Katsushika Hokusai around 1818. Today’s back page is the fifth stop on that road, Hodogaya."
+  },
+  "lede": [
+   "Nothing is on your calendar today. Expect cloud and about 7°, with sun tomorrow. Three things close this weekend or Monday: the BlueDot course, the Apart sprint and the CLR program. Reading response 6 for PHLB18 earns nothing after Monday."
+  ],
+  "today": [
+   {
+    "time": "All day",
+    "what": "Nothing on your calendar",
+    "where": "A free day to catch up"
+   },
+   {
+    "time": "Tonight",
+    "what": "Colloquium call, 11 pm",
+    "where": "Slack #colloquium · if tonight is the night"
+   },
+   {
+    "time": "Sunday",
+    "what": "Apart sprint entries due 11:59 pm",
+    "where": "Online · see Opportunities",
+    "dim": true
+   }
+  ],
+  "todos": [
+   {
+    "topic": "Academics",
+    "items": [
+     {
+      "text": "PHLB18 reading response 6 is late. It earns half marks until Mon Nov 16, then nothing.",
+      "src": "Todoist",
+      "urgent": true
+     },
+     {
+      "text": "PHLB18 Scaffolding 2 is late (due Nov 2). It loses 20% for every 3 days. It stays open to Dec 8.",
+      "src": "Todoist · QUERCUS_CONTEXT"
+     },
+     {
+      "text": "MGEA01: the Chapter 12 quiz is due Thu Nov 19, 7 pm.",
+      "src": "Quercus"
+     }
+    ]
+   },
+   {
+    "topic": "TAISI",
+    "items": [
+     {
+      "text": "Late since Friday: write the Writing Desk proposal, decide what to do with the hackathon, send TAISI ideas to Joseph.",
+      "src": "Todoist",
+      "urgent": true
+     },
+     {
+      "text": "Due today: IDS IDC brainstorming, the BlueDot course, your Substack.",
+      "src": "Todoist"
+     },
+     {
+      "text": "Shivam’s cohort, Mon Nov 16: order the kosher meal.",
+      "src": "Todoist"
+     }
+    ]
+   },
+   {
+    "topic": "Misc",
+    "items": [
+     {
+      "text": "Robarts room 2H is booked Sat Nov 28, 11:30 to 2:30.",
+      "src": "UofT Libraries"
+     }
+    ]
+   }
+  ],
+  "brief": [
+   {
+    "where": "Essays",
+    "text": "Do veterans’ benefits rest on weak science? How sure should we be about hard questions?"
+   },
+   {
+    "where": "World",
+    "text": "Why US flights stopped; Alberta’s separatism rift; cash found in Hungary; Uganda’s army."
+   }
+  ]
+ },
+ "sections": [
+  {
+   "id": "desk",
+   "title": "Your Desk",
+   "tab": "For you",
+   "aside": "What needs you, and what TAISI talked about",
+   "blocks": [
+    {
+     "type": "attention",
+     "title": "Needs you",
+     "items": [
+      {
+       "what": "Monday is the last day for PHLB18 reading response 6.",
+       "detail": "It earns half marks until Nov 16, then is not accepted. Scaffolding 2 loses 20% for every 3 days it is late, so handing it in soon costs less. It closes Dec 8.",
+       "src": "Todoist · QUERCUS_CONTEXT"
+      },
+      {
+       "what": "Three course windows close this weekend and Monday.",
+       "detail": "BlueDot’s Frontier AI Governance course: apply by Nov 15. Apart’s epistemics sprint: entries due Sunday 11:59 pm (anywhere on Earth). CLR’s Fundamentals Program: Monday Nov 16, 11:59 pm GMT.",
+       "src": "bluedot.org · apartresearch.com · longtermrisk.org"
+      },
+      {
+       "what": "Three TAISI to-dos went late on Friday.",
+       "detail": "The Writing Desk proposal, the hackathon decision, and your TAISI ideas for Joseph. Joseph also wanted a call about colloquiums “Saturday night”.",
+       "src": "Todoist · #colloquium"
+      }
+     ]
+    },
+    {
+     "type": "agenda",
+     "title": "This week and beyond",
+     "items": [
+      {
+       "time": "Sat",
+       "what": "Free day. Apart sprint is live. AI Safety Camp is taking team applications.",
+       "where": "Nov 14 · online · see Opportunities"
+      },
+      {
+       "time": "Sun",
+       "what": "BlueDot closes. Apart entries due 11:59 pm.",
+       "where": "Nov 15"
+      },
+      {
+       "time": "Mon",
+       "what": "PHLB18 lecture 10–12 (IA 2150) and tutorial 1–2 (HW 402); reading response due; CLR closes; Shivam’s cohort food",
+       "where": "Nov 16"
+      },
+      {
+       "time": "Wed",
+       "what": "GGRA30 lecture 11–1 (HL B101); ENGA10 lecture 1–3 (AC 223), film: Modern Times; film studies mix and mingle 3:30 (HW 404); GGRA30 practical 4–5 (BV 469); Practical 8 quiz",
+       "where": "Nov 18"
+      },
+      {
+       "time": "Thu",
+       "what": "MGEA01 lecture 7–10 pm (IC 130); Chapter 12 quiz due 7 pm",
+       "where": "Nov 19"
+      },
+      {
+       "time": "Fri",
+       "what": "After AGI event, TAISI (registered); Robarts room the next day",
+       "where": "Nov 27 · Sat Nov 28 11:30–2:30",
+       "dim": true
+      }
+     ]
+    },
+    {
+     "type": "events",
+     "title": "Your events (from Luma)",
+     "items": [
+      {
+       "when": "Fri Nov 27",
+       "time": "5:30–7:30 pm",
+       "name": "After AGI: What Might a Good Outcome for Humanity Look Like?",
+       "detail": "Jackman Humanities Building, Toronto. Hosted by TAISI. You are registered.",
+       "status": "registered"
+      }
+     ]
+    },
+    {
+     "type": "channels",
+     "title": "TAISI Slack · since Thursday",
+     "channels": [
+      {
+       "name": "#colloquium",
+       "points": [
+        "Joseph, Pera and Ayushman agreed to meet at 11 pm. Joseph earlier asked to talk about colloquiums on Saturday night, so this may be tonight.",
+        "Joseph suggested a speaker event with Thomas from METR. Pera prefers Nov 30 to Dec 4."
+       ]
+      },
+      {
+       "name": "#taisi-team",
+       "points": [
+        "Ilyass needs someone who manages the hacker club to send a Wise money transfer for a hackathon speaker’s talk. Joseph said he can do it.",
+        "Joseph asked Elizabeth to delete an old event so people are not confused."
+       ]
+      },
+      {
+       "name": "Other channels",
+       "points": [
+        "No other new messages found."
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "opps",
+   "title": "Opportunities",
+   "new_page": false,
+   "tab": "Don’t miss",
+   "aside": "Sorted by deadline",
+   "blocks": [
+    {
+     "type": "opportunities",
+     "ruler_days": 28,
+     "intro": "Picked for a second-year CS and Public Policy student on TAISI’s operations team. ★ = strong fit. Each item says why. Today I re-checked the CLR, Apart and AI Safety Camp pages. The rest were last checked Nov 9.",
+     "groups": [
+      {
+       "title": "Closing soon",
+       "items": [
+        {
+         "name": "Apart: AI × Epistemics sprint",
+         "org": "Apart Research",
+         "short": "Apart epistemics",
+         "desc": "A free online weekend sprint, Nov 13 to 15. Teams build a test, dataset or tool about how AI changes what people believe. $2,000 in prizes. Entries are due Sunday, Nov 15, 11:59 pm anywhere on Earth.",
+         "fit": "This weekend. No AI safety background is needed, and you can work at your own pace. A low-cost way to get a first research write-up.",
+         "deadline": "2026-11-15",
+         "deadline_short": "Nov 15",
+         "deadline_note": "Sun 11:59 pm AoE; live now",
+         "tags": [
+          "hackathon",
+          "online",
+          "free"
+         ],
+         "url": "apartresearch.com/sprints"
+        },
+        {
+         "name": "Frontier AI Governance course (online)",
+         "org": "BlueDot Impact",
+         "short": "BlueDot gov",
+         "desc": "BlueDot’s own free online governance course, about 40 hours. Take it as a six-day intensive or over six weeks. Groups run in many time zones.",
+         "fit": "The governance half of what you did at TAISI, with no travel. No earlier BlueDot course is required. You give your free hours after you apply.",
+         "deadline": "2026-11-15",
+         "deadline_short": "Nov 15",
+         "deadline_note": "Sun; closes tomorrow",
+         "tags": [
+          "course",
+          "online",
+          "governance",
+          "free"
+         ],
+         "url": "bluedot.org/courses/ai-governance",
+         "star": true
+        },
+        {
+         "name": "CLR Fundamentals Program",
+         "org": "Center on Long-Term Risk",
+         "short": "CLR course",
+         "desc": "An online reading course, Nov 20 to Dec 21, on how advanced AI could cause suffering on a huge scale. About five hours a week. Meeting times fit the group.",
+         "fit": "Online, short, and new topics beyond what TAISI’s fellowship covered. It runs into exam season, so five hours a week needs a plan.",
+         "deadline": "2026-11-16",
+         "deadline_short": "Nov 16",
+         "deadline_note": "Mon, 23:59 GMT; checked today",
+         "tags": [
+          "course",
+          "online",
+          "beginner ok"
+         ],
+         "url": "longtermrisk.org/intro-seminar",
+         "star": true
+        },
+        {
+         "name": "GovAI Summer Fellowship 2027 (London)",
+         "org": "Centre for the Governance of AI",
+         "short": "GovAI",
+         "desc": "Three months of AI policy work in London, June 7 to Aug 27, 2027, paid £14,000. There is a research track and an applied track. No degree is required.",
+         "fit": "A stretch for a second-year, but CS plus policy is exactly their field. GovAI can sponsor UK work visas. Skip the DC version: it needs the right to work in the US.",
+         "deadline": "2026-11-22",
+         "deadline_short": "Nov 22",
+         "deadline_note": "Sun, 23:59 UK time",
+         "tags": [
+          "fellowship",
+          "paid",
+          "governance",
+          "stretch"
+         ],
+         "url": "governance.ai/opportunities",
+         "star": true
+        },
+        {
+         "name": "Kairos Pathfinder Fellowship, Spring 2027",
+         "org": "Kairos",
+         "short": "Pathfinder",
+         "desc": "Mentoring, workshops and group funding for students who organize AI safety or AI policy groups at a university. Online. Decisions come Dec 2 and it starts Dec 5.",
+         "fit": "You help run TAISI, so you can apply. Each organizer applies alone. Kairos now funds only groups with an organizer in this program, so tell TAISI’s leads. Undergrads get no personal stipend.",
+         "deadline": "2026-11-24",
+         "deadline_short": "Nov 24",
+         "deadline_note": "Tue, 23:59 anywhere on Earth",
+         "tags": [
+          "field-building",
+          "ops",
+          "remote"
+         ],
+         "url": "pathfinder.kairos-project.org",
+         "star": true
+        },
+        {
+         "name": "AI Safety Camp 12",
+         "org": "AI Safety Camp",
+         "short": "AI Safety Camp",
+         "desc": "An online research program, Jan 9 to Apr 18, 2027. You join a small team on a project picked in advance. The project list goes up about Nov 13–14, when team applications open.",
+         "fit": "Part-time, remote and open to beginners. A good first research project, and it does not depend on SPAR. Read the list on Friday and apply to the governance or security projects.",
+         "deadline": "2026-11-29",
+         "deadline_short": "Nov 29",
+         "deadline_note": "Sun Nov 29; team applications opened Nov 13",
+         "tags": [
+          "research",
+          "remote",
+          "beginner ok"
+         ],
+         "url": "aisafety.camp",
+         "star": true
+        }
+       ]
+      },
+      {
+       "title": "Opening soon: best fits",
+       "items": [
+        {
+         "name": "SPAR, Spring 2027",
+         "org": "SPAR (run by Kairos)",
+         "desc": "Remote, part-time research with a mentor, usually 5 to 20 hours a week. Open to undergrads. It has policy projects too. Applications open around December.",
+         "fit": "Your best next step: real research that fits around classes. Press “Express interest” on the site now so you get the email when it opens.",
+         "deadline_short": "Dec",
+         "deadline_note": "opens; date not announced",
+         "tags": [
+          "research",
+          "remote",
+          "undergrad ok"
+         ],
+         "url": "sparai.org",
+         "star": true
+        }
+       ]
+      }
+     ],
+     "note": "Left out to save space: the TAISI grants line, Apart’s Dec 4 and Dec 11 hackathons, the Vector Institute internship (not open) and the UTSC summer award (likely Feb). They are in this morning’s email. Always check dates on the program’s own site."
+    }
+   ]
+  },
+  {
+   "id": "world",
+   "title": "The World",
+   "tab": "News",
+   "aside": "The facts first. The opinions get labels.",
+   "new_page": true,
+   "blocks": [
+    {
+     "type": "region",
+     "kicker": "Region one",
+     "title": "Indonesia",
+     "region": "indonesia",
+     "map_points": [],
+     "blurb": "A wage subsidy still waiting, community forests, and a wider export-money rule.",
+     "stories": [
+      {
+       "tag": "Jobs",
+       "headline": "The government has not yet paid the fourth-quarter wage subsidy",
+       "paras": [
+        "Manpower Minister Yassierli said the payment is still under administrative review at the Finance Ministry. Nothing has been paid out yet. He told people to wait and to beware of fraud.",
+        "The plan is Rp300,000 a month for October to December, paid as one lump sum of Rp900,000. It targets about 13.3 million workers who earn Rp3.5 million a month or less. It would cost almost Rp12 trillion."
+       ],
+       "why": "Fake “subsidy” messages spread when people are waiting for money.",
+       "outlet": "ANTARA",
+       "date": "Nov 14",
+       "url": "https://en.antaranews.com/news/442639/q4-wage-subsidy-still-in-administrative-review-manpower-minister",
+       "lead": true
+      },
+      {
+       "tag": "Forests",
+       "headline": "Community-run forests have the fewest fires, the forestry minister says",
+       "paras": [
+        "Raja Juli Antoni said village forests, community forests and customary (traditional) forests burn the least. He said communities who hold the land protect it better. This is the minister’s view; he did not give fire figures.",
+        "By October, the ministry had issued 11,364 permits covering 8.47 million hectares. They reach 1.43 million families."
+       ],
+       "why": "The government is giving more forest land to local people, and says this also guards against fires.",
+       "outlet": "ANTARA",
+       "date": "Nov 14",
+       "url": "https://en.antaranews.com/news/442635/social-forestry-areas-see-fewest-fires-forestry-minister"
+      },
+      {
+       "tag": "Trade",
+       "headline": "Indonesia widens its rule on keeping export money at home",
+       "paras": [
+        "Mining exporters with at least 10% investment from seven listed countries or regions must keep at least 30% of export earnings in approved banks for at least three months. The banks now include 11 private and foreign-backed ones, such as HSBC and JPMorgan, plus five state banks.",
+        "A new state company, PT Danantara Sumberdaya Indonesia, will handle the paperwork for coal, vegetable oil and ferroalloy exports. Full operation is planned for January 1, 2027."
+       ],
+       "why": "The rule keeps more foreign money in Indonesian banks, which can help the rupiah.",
+       "outlet": "ANTARA",
+       "date": "Nov 13",
+       "url": "https://en.antaranews.com/news/442615/indonesia-expands-foreign-exchange-earnings-policy-for-exporters"
+      }
+     ]
+    },
+    {
+     "type": "region",
+     "kicker": "Region two",
+     "title": "Canada",
+     "region": "canada",
+     "map_points": [],
+     "blurb": "Alberta’s party rift, steel jobs and a tent camp.",
+     "stories": [
+      {
+       "tag": "Politics",
+       "headline": "Alberta’s premier will call UCP officials who refuse to sign a pledge on separatism",
+       "paras": [
+        "Danielle Smith said she will phone the party officials who will not sign a new code of conduct. It says they will respect last month’s referendum. About 75% of voters said Alberta should stay in Canada and not hold a second, binding vote on leaving.",
+        "Fifteen of the party’s 87 local association presidents wrote that they will not sign. They say it limits free speech. Smith says members can think what they like, but party spokespeople must reflect party policy."
+       ],
+       "why": "A governing party is deciding how much open disagreement it will allow.",
+       "outlet": "Global News",
+       "date": "Nov 13",
+       "url": "https://globalnews.ca/news/12150519/ucp-officials-alberta-separatism-pledge/",
+       "views": "Not everyone agrees. Smith says a party must speak with one voice to win elections. The 15 presidents say the party board cannot punish a political view.",
+       "lead": true
+      },
+      {
+       "tag": "Jobs",
+       "headline": "Stelco will bring back 175 laid-off workers in Hamilton on December 1",
+       "paras": [
+        "The steelmaker said higher customer demand lets it restart its finishing operations. Workers will be paid retroactively for the time they were laid off. Restarting will take several weeks.",
+        "Stelco’s US owner, Cleveland-Cliffs, announced the layoffs in September. Ottawa said that broke promises made when it approved the 2024 sale, and warned the firm could be forced to sell."
+       ],
+       "why": "Federal conditions on a foreign takeover were tested, and jobs came back.",
+       "outlet": "Global News",
+       "date": "Nov 13",
+       "url": "https://globalnews.ca/news/12149822/stelco-layoff-recall/"
+      },
+      {
+       "tag": "Housing",
+       "headline": "A Saskatoon group will fight an order to clear a tent camp",
+       "paras": [
+        "The city ordered Station 20 West to remove more than 15 tents and structures by November 30. It calls them a nuisance. The group, which helps people find housing and work, says it will appeal.",
+        "Its board director said moving people out would only shift the problem. The city said the property owner must follow the bylaw."
+       ],
+       "why": "Cities and charities disagree over who must deal with encampments.",
+       "outlet": "Global News",
+       "date": "Nov 13",
+       "url": "https://globalnews.ca/news/12150007/appeal-encampment-cleanup-saskatoon-station-20/"
+      }
+     ]
+    },
+    {
+     "type": "region",
+     "kicker": "Region three",
+     "title": "United States",
+     "region": "usa",
+     "map_points": [],
+     "blurb": "A nationwide flight stop, an asylum case and a slow housing market.",
+     "stories": [
+      {
+       "tag": "Travel",
+       "headline": "A rare nationwide ground stop halted US flights for about four hours",
+       "paras": [
+        "The Federal Aviation Administration stopped flights at all US airports on Friday. By 9 pm ET, more than 8,000 flights were delayed and 7,000 cancelled, according to FlightAware.",
+        "Transportation Secretary Sean Duffy blamed old equipment, including “1980s little copper lines.” Pressed on why it failed that day, he had no ready answer. Homeland Security Secretary Markwayne Mullin said there was no sign of an attack."
+       ],
+       "why": "Aviation relies on old systems, and the cause is still not fully explained.",
+       "outlet": "NPR",
+       "date": "Nov 13",
+       "url": "https://www.npr.org/2026/11/13/nx-s1-6040403/faa-nationwide-groundstop-airports",
+       "lead": true
+      },
+      {
+       "tag": "Courts",
+       "headline": "The Supreme Court will hear Trump’s ban on asylum at the southern border",
+       "paras": [
+        "The order calls the border an “invasion” and blocks asylum applications. Lower courts found it illegal. The justices will hear the case in the spring and rule by the end of June.",
+        "The government says border encounters fell 93% after the order. Rights groups say crossings were already falling, and that the president cannot stop people from applying."
+       ],
+       "why": "The case tests how far a president can limit a right written into law.",
+       "outlet": "PBS NewsHour (AP)",
+       "date": "Nov 13",
+       "url": "https://www.pbs.org/newshour/politics/supreme-court-will-consider-trumps-executive-order-suspending-asylum-access-at-the-southern-border",
+       "views": "Not everyone agrees. Solicitor General D. John Sauer calls the limits critical. The ACLU says they unlawfully remove protections."
+      },
+      {
+       "tag": "Housing",
+       "headline": "US home sales fall to their lowest in more than 16 years",
+       "paras": [
+        "Existing-home sales were 3.75 million (a yearly pace) in October, down 8.8% from a year earlier, says the National Association of Realtors. The average 30-year mortgage rate is 7%.",
+        "Prices are falling in some places but are still out of reach for many buyers. Some sellers are holding back."
+       ],
+       "why": "High loan costs freeze both buying and selling.",
+       "outlet": "PBS NewsHour",
+       "date": "Nov 13",
+       "url": "https://www.pbs.org/newshour/show/increasing-cost-of-housing-squeezes-americans-out-of-market"
+      }
+     ]
+    },
+    {
+     "type": "region",
+     "kicker": "Region four",
+     "title": "Around the World, and Science",
+     "map_points": [],
+     "blurb": "Uganda’s army, India’s protests, cash in Hungary, and how much carbon nature absorbs.",
+     "stories": [
+      {
+       "tag": "Uganda",
+       "headline": "Uganda’s army chief, the president’s son, arrests generals",
+       "paras": [
+        "At least a dozen generals and senior officers have been arrested in 15 months under Gen Muhoozi Kainerugaba. He is the army chief and the son of President Yoweri Museveni, who has ruled for four decades.",
+        "This week he threatened Vice-President Jessica Alupo with dismissal. The ruling party says reports that it rejected backing him are “completely false.”"
+       ],
+       "why": "No one knows who will lead Uganda next, and the army is part of the story.",
+       "outlet": "BBC",
+       "date": "Nov 14",
+       "url": "https://www.bbc.co.uk/news/articles/cmlydy0xw45wo",
+       "views": "Not everyone agrees. Some see a purge of rivals. Others see an anti-corruption drive."
+      },
+      {
+       "tag": "India",
+       "headline": "India’s young protesters find it hard to gather again",
+       "paras": [
+        "In July, protests led by Gen Z forced the education minister to resign. In October, thousands who joined a voting-rights protest by the Cockroach Janta Party were detained.",
+        "The BJP says the right to protest must stay within the law and not harm public safety."
+       ],
+       "why": "A protest win can be followed by a tougher response.",
+       "outlet": "BBC",
+       "date": "Nov 13",
+       "url": "https://www.bbc.co.uk/news/articles/cq99e0z4vg1eo"
+      },
+      {
+       "tag": "Hungary",
+       "headline": "Nearly $20 million in cash found in a probe of an Orbán-era minister",
+       "paras": [
+        "Investigators found the money in safes, buried in forests and hidden in farm buildings. Miklós Seszták, a former development minister, is accused of taking bribes in a state transport company scheme. He denies it.",
+        "Prime Minister Péter Magyar won in April on a promise to fight corruption."
+       ],
+       "why": "It is a test of Hungary’s new anti-corruption drive.",
+       "outlet": "BBC",
+       "date": "Nov 14",
+       "url": "https://www.bbc.co.uk/news/articles/ckjwj03w4w0qo"
+      },
+      {
+       "tag": "Climate",
+       "headline": "Oceans and plants take in about half of our carbon, but may slow down",
+       "paras": [
+        "A study in the journal Science finds the oceans have absorbed 35% of fossil-fuel carbon dioxide since 1990, and forests and other plants 13%.",
+        "The ocean sink has grown, but may start to slow. The land sink has not grown, which surprised the team. The authors say measuring both is hard and costly."
+       ],
+       "why": "These natural sinks decide how much carbon we can still release.",
+       "outlet": "The Conversation",
+       "date": "Nov 13",
+       "url": "https://theconversation.com/oceans-and-forests-have-absorbed-roughly-half-our-carbon-emissions-for-decades-slowing-climate-change-but-can-they-keep-it-up-296498"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "essays",
+   "title": "The Essays",
+   "tab": "Read slowly",
+   "aside": "Printed whole, in the writers’ own words",
+   "blocks": [
+    {
+     "type": "essay",
+     "essay_id": "decker-agent-orange",
+     "priority": 9,
+     "kicker": "Homo Economicus · Nov 13 · Opinion",
+     "title": "Agent Orange did not cause your father’s sickness",
+     "author": "Nicholas Decker",
+     "publication": "Homo Economicus",
+     "dek": "An economist argues that the US list of illnesses blamed on Agent Orange rests on weak studies, and that billions are spent on that basis.",
+     "paras": [
+      "Now before I say anything, I don’t want you to think I’m crazy. But Congress, the Department of Veterans Affairs, Vietnam, and veteran’s advocacy groups are all lying to you. Or – perhaps not lying. They might not know any better. But their claims are totally false, and all you have to do is actually read the evidence they’re providing.",
+      "The United States government promises those soldiers who served certain benefits. If they suffer a disability which was caused by the service, they are given a pension for life (and to their widow thereafter). This pension is exceptionally generous. It is tax free, so our instinct around income lead to us understating the size – it’s about $50,000 a year if you are rated 100% disabled. Now, you might naively think that 100% disabled means that you are in fact disabled, but it does not. It simply means you are entitled to 100% of the available disability benefits. You can be perfectly fine and healthy, and still get your pension forever. Graham Platner, famously, was able to run for Senate on a 100% disability rating. In 2025, fully 30% of disabled veterans are rated 100% disabled, and we’re going to be at at least 40% 100% disabled by 2028. 37% of veterans have a disability",
+      "During the Vietnam War, we dumped an enormous quantity of an herbicide, Agent Orange, in order to deny insurgents cover from which to ambush soldiers, as well to destroy crops. It is a dioxin based mix of chemicals. One contributor to the high disability benefit payments is the government’s belief that Agent Orange caused a wide range of conditions, and if you have one of them, your disability is presumptively service caused.",
+      "I previously wrote about Type II Diabetes, which Congress declared to be service caused in 2001 after considerable lobbying. This was despite the fact that there was no evidence for it actually causing diabetes. If you match people who served in the Air Force with sprayers, you have no association of serving in Operation Ranch Hand with diabetes, nor is such an association found in industrial workers. There is no dose-response in the industrial workers sample, although there is in the Air Force sample; but of course, dioxin lingers in body fat, and controlling for weight gets rid of the association. This is hardly the basis to label a condition service caused, nor does it make sense for an at best small effect to justify an enormous expenditure for everyone with the condition.",
+      "What I did not understand at the time is that this shoddiness extends to almost all of the 19 conditions listed as presumptively caused by exposure to Agent Orange. The ones which have a positive association are simply the result of making many comparisons, and having some be associated as you would expect to happen by chance. When, for instance, you compare the likelihood of 96 different cancers across two groups and choose a 95% confidence interval, you should expect about 5 of the cancers to be positively associated purely due to random chance. These associations do not hold up out of sample, but that isn’t necessary for the VA – they have stacked the deck such that limited, suggestive evidence (read, one correlation one time) suffices to get it on the list.",
+      "I should first acknowledge that there are two conditions which are unambiguously associated with dioxin poisoning, chloracne and porphyria cutanea tarda. These are both disorders of the skin, causing blistering. The evidence, from industrial samples and the Seveso disaster (where a factory in Italy vented a cloud of dioxin over the Piedmont) is fairly unambiguous – an immediate reaction to the toxin, showing up within days.",
+      "Of course, I say from industrial samples and the Seveso disaster advisedly. There has been not one single case of chloracne from Operation Ranch Hand. Not one. That’s little surprise when the dose received by the most exposed people in the sample – the people actually manhandling the drums of herbicide onto planes and spraying them – had a detectable dosage an order of magnitude smaller than the people who got chloracne.",
+      "That’s another thing. The theory of harm is that people were exposed to dioxin, and then developed certain conditions. This has been extended very broadly – anyone who served in Vietnam from 1962 to 1975, or in Thailand, or in Laos, or in Guam or American Samoa (and this despite the fact that the program ran from 1962 to 1971 – one wonders how someone who joined the military in 1973 was supposed to be exposed to the stuff), whether you served in the program or on the ground. But of course, the people who served on ground had no elevated levels of dioxin at all. And how could they? Agent Orange degrades extremely fast in sunlight. The idea that they had conditions caused by exposure to a substance we can’t measure in their bodies is risible.",
+      "We should also emphasize that, whatever the effects of Agent Orange may be, there was zero (0) effect on health. Because people were drafted, we can use that as a source of random variation – people born on one day might be drafted, while others the next day would not be. They are emphatic. Vietnam service had no effect on mortality. Not in Americans, and not in Australians.",
+      "But enough preliminary complaining. We need to move onto debunking the claims of Congress and veterans lobbying groups, which can be done simply. All we have to do is actually read the evidence that Congress directed the National Academies of Sciences to compile. The 19 conditions are:",
+      "Skin conditions chloracne and porphyria cutanea tarda; Cancers soft tissue sarcoma, non-Hodgkin lymphoma, Hodgkin disease, chronic B-cell leukemias, multiple myeloma (and its precursor, monoclonal gammopathy of undetermined significance (MGUS)), respiratory cancers, prostate cancer, and bladder cancer; Early-onset peripheral neuropathy; Type 2 diabetes; Ischemic heart disease; Parkinson’s disease; AL amyloidosis; Hypothyroidism; Hypertension; and Spina bifida in the children of veterans.",
+      "This may be long and tedious, but we need to actually go through each one to demonstrate just how weak the evidence is. We can start by discarding the skin conditions because, as mentioned, not one Vietnam veteran ever had them. Now, funny enough, chloracne is self-reported among Vietnam vets more, although this never holds up to examination. Bear that in mind when we get to studies whose measure of exposure depends on people self-reporting after they’ve been diagnosed with a condition they have been told is caused by Agent Orange.",
+      "## Soft Tissue Sarcoma",
+      "This is a cancer of the soft tissues, such as muscle and far. It is rather rare. The case for it rests on Hardell and Sandstrom (1979) and Eriksson et al (1981), which documented an association in Sweden, largely for chemicals which did not contain dioxin. However, this association does not appear in any other study, including the comprehensive study on Vietnam veterans, nor in Kansas farm workers, nor in industrial workers. However, the standard which Congress set is for limited, suggestive evidence of an association, which in practice means that some study, some where, found a significant result.",
+      "## Non-Hodgkin’s Lymphoma",
+      "This is a cancer of the white blood cells. We have an association of Vietnam service with this. However, the incidence does not track actually being involved with Operation Ranch Hand at all, and is in fact highest in Navy sailors who were stationed off-shore. How they are supposed to be exposed, I do not know. When we look at industrial workers with a significantly higher dose, we see no significant result.",
+      "## Hodgkin’s Disease",
+      "They actually have no evidence for this cancer. They simply reasoned that if non-Hodgkin’s lymphoma is caused by Agent Orange, Hodgkin’s disease is surely close enough.",
+      "## B-Cell Leukemias",
+      "Another cancer of the white blood cells. For this one, the main evidence is cohort studies of Vietnam veterans. Unfortunately, these are hopelessly poisoned by years of claims that Agent Orange causes these conditions, because the measure of exposure to Agent Orange is simply “Were you exposed to Agent Orange, yes, no, maybe”. It is up to the discretion of the individual which way to answer! No study actually got dioxin – it’s far too rare for any study to detect.",
+      "## Multiple Myeloma",
+      "This is another cancer, and MGUS is its precursor. Most people with MGUS do not develop multiple myeloma, with about 1% of people per year with MGUS developing it. Landgren et al (2015) compared 479 Ranch Hand veterans and 479 other veterans. 34 in Ranch Hand had MGUS, while 15 of the matched controls did. This one holds across several studies. I am open to saying that Agent Orange raised the likelihood of multiple myeloma, although I would caution that we are making many, many comparisons, and some are going to be associated by chance.",
+      "## Respiratory Cancers",
+      "The basic problem with these is that smoking history is never recorded. In any case, we have a significant effect on US industrial workers, and an insignificant effect on international industrial workers. All of them have much higher exposure than veterans.",
+      "## Prostate Cancer",
+      "Reviewing every study available, Cheng et al (2014) find “no consistent or convincing evidence of a causal relationship between exposure to Agent Orange or TCDD and prostate cancer”.",
+      "## Bladder Cancer",
+      "From self-reports, we get a very slight association. However, there was no association of exposure with the aggressiveness of the cancer, which one might expect if the association was not due simply to people with bladder cancer reporting that they were exposed more often. Meanwhile, Yi et al (2014) try their best to use the end of Agent Orange in 1971 in Korean Vietnam War vets as a way to get exogenous variation. However, their results purport to show that Agent Orange also causes excess mortality through car crashes, falls, and alcoholism. Clearly, the cohorts which deployed before and after 1971 differed – probably just because the earlier cohorts were more exposed to combat. (Also their standard errors aren’t clustered, which is wrong). Worse still, this approach does not even correlate well with objective dioxin levels.",
+      "## Type II Diabetes",
+      "I covered this before. There’s no correlation, even in the group of interest.",
+      "## Neuropathy",
+      "There’s really just nothing. We have some evidence that extremely high doses from industrial accidents, large enough to cause chloracne, can cause it immediately afterwards. Following up years later, nothing.",
+      "## Ischemic Heart Disease",
+      "Best they can say is suggested or limited evidence. Remember that dioxin is retained in fat, and being fat is one of the biggest risk factors for heart disease.",
+      "## Hypertension",
+      "We have one study pointing towards it, using self-reports. We have many other studies pointing toward no effect, including on industrial workers with much greater exposure, Korean veterans, and the Seveso disaster. Don’t take too long guessing which one we considered sufficient.",
+      "## AL Amyloidosis",
+      "No evidence for it per se. It was just ruled as caused by analogy to myelomas and lymphomas, which were themselves only limited or suggestive.",
+      "## Hypothyroidism",
+      "The evidence for this comes from Yi et al (2014) and is rejected as unsatisfactory for the same reasons.",
+      "## Spina Bifida",
+      "This condition is not in Vietnam vets, but in their children. It is when the lining around the nerve cells in the spine does not fully develop around it. There is no case whatsoever for Agent Orange causing it. To begin with, the proposed biological path is absurd – we are supposed to believe that exposure years earlier affects the gametes. There was no association of birth defects as a whole. The association of spina bifida comes from Erickson (which he testified about here). If you take 96 different defects, as they did, and then bin by subsamples, well, incredibly, you can find that one particular defect is significantly associated. Meanwhile the Vietnamese are happy to play along to try and get reparations.",
+      "We are spending billions of dollars a year on veterans who have these conditions. We promised to provide benefits if the conditions are service-caused. So why are we spending all this when they are not? When America drafted its veterans, it made a promise. I would like for my country to stick by that promise, not expand upon it."
+     ],
+     "source_note": "nicholasdecker.substack.com/p/agent-orange-is-a-lie",
+     "counter_label": "In plain words, and the other side",
+     "counterpoint": [
+      "The short version: Agent Orange was a chemical the US sprayed in Vietnam. The government treats 19 illnesses as caused by it, so veterans get benefits without proving it. Decker says the studies behind most are weak, and only two skin conditions are clearly linked.",
+      "The other side. This is one economist’s reading of the studies, not a new study, and he is not a doctor. He says himself that review panels called much of the evidence “limited or suggestive.” That is weaker than proof, but not nothing. A sick veteran who served where the spray was used may fairly get the benefit of the doubt. A question to carry: when evidence is unclear, who should bear the risk of being wrong?"
+     ],
+     "new_page": false
+    },
+    {
+     "type": "essay",
+     "essay_id": "benthams-confident",
+     "optional": false,
+     "priority": 7,
+     "kicker": "Bentham’s Newsletter · Nov 13 · Essay",
+     "title": "Why are you so confident?",
+     "author": "Bentham’s Bulldog",
+     "publication": "Bentham’s Newsletter",
+     "dek": "A philosopher says people are too sure of many views, from machine consciousness to shrimp pain, without strong arguments.",
+     "paras": [
+      "It is maddening how often people are extremely confident in views that aren’t supported by any very good arguments. To rationally be extremely confident in some view, you need an extremely good reason to believe it.",
+      "For example, the proponents of biological naturalism—the view that biology is needed for consciousness—tend to be almost certain the view is correct (or act like they’re almost certain). Their credence generally appears to be well over 90%. Yet what licenses such confidence?",
+      "It is usually unclear. There are few agreed-upon arguments for biological naturalism. The arguments given in favor of biological naturalism vary from biological naturalist to biological naturalist and tend to be very weak. I can understand thinking odds are decent that biology is needed for consciousness. I don’t agree with that view, but I at least understand it. But I don’t get being almost certain of the view. There is no single canonical obviously-correct argument for it (note: naming some random unique feature of biology isn’t a very strong argument, because we don’t know that the unique feature is needed for consciousness).",
+      "There are lots of disputes that aren’t settled by the evidence. In the case of consciousness, we really don’t know what ingredients are needed for consciousness. So we should have uncertainty about whether they require biology and whether they’d arise naturally in LLMs. And yet I find it very common, in these disputes that are underdetermined by the evidence, for people to be extremely confident, often for reasons that seem very bizarre to me.",
+      "You might object that we can be confident that some feature is insufficient for consciousness without knowing what features are needed for consciousness. I’m pretty sure rocks aren’t conscious, even though I don’t know what is needed for consciousness. This is correct, but it’s totally unclear why people are confident that what LLMs do is in principle incapable of giving rise to consciousness.",
+      "I can explain why I think it’s unlikely rocks are conscious (they perform no computational functions, have none of the neural correlates of consciousness on leading theories, don’t do anything like making decisions, have no intelligence, have no internal representations, etc). But what feature will LLMs definitely indefinitely lack that you’re super confident is needed for consciousness? Autopoiesis? Why? Why are you confident that’s needed for consciousness? I don’t get it.",
+      "Here’s another example: lots of people are very confident that the AI industry is a bubble that will pop soon. Many of these people have been predicting for a long time that AI would plateau. Now, it’s possible that progress stops soon. Certainly progress will eventually stop. But what in the world licenses extreme confidence that it will stop before we get superintelligence?",
+      "I think the rational credence to have in that is below half, because it looks like we’ll get superintelligence soon on the current trajectory. If progress has continued for years, even speeding up, you should think it probably won’t stop in the next year. But at the very least, it seems totally irrational to be near certain that it will stop. The Ed Zitrons of the world who repeatedly predicted LLMs plateauing with high confidence weren’t just wrong—they were being irrational. They should not have been as confident as they were.",
+      "Now that I think about it, I consider this to be a pretty core part of my worldview: don’t be super confident that something’s true unless there is a very strong argument for thinking it is. Your confidence in a proposition should be proportional to the arguments in favor of it. I think almost everybody violates this rule.",
+      "One case where I violated this maxim was in estimating AI risk. For a long time, my p(doom) was around 2%. Now it’s nearer to 12%. I think my credence of 2% was irrational. I should have known better. I should have been less confident in non-obvious things.",
+      "We get doom if the following things happen:",
+      "We continue along the current trajectory, which is capable of reaching superintelligence.",
+      "The superintelligence we build is misaligned.",
+      "We don’t get a decisive warning shot that leads us to shut it down.",
+      "A misaligned superintelligence can kill or disempower the world.",
+      "I thought there was about a 90% chance that we’d solve alignment. In hindsight, that seems way too high. It’s not at all obvious that if there’s a race between companies trying to build superintelligence as quickly as possible, they’ll be successful in making it aligned in time. A big part of my reasoning was that it seemed like the models at the time were aligned—but I don’t think that provides strong evidence that future models would be aligned (see Hugging Face). There is no extremely strong argument for thinking alignment will work; for this reason, it was irrational to be so confident.",
+      "The other steps mostly seem pretty plausible too. Thus, there are a number of things that are each plausible. If they all happen, everyone dies or is permanently disempowered. This is cause for extreme alarm; it would be irrational to be very confident that things will go alright. If you are very confident that things will go okay, then think about which step you’re very confident won’t happen. Are you confident that we won’t build superintelligence? Are you confident that the world can survive building superintelligence?",
+      "Lots of AI skeptics seem to be confident that even a misaligned superintelligence wouldn’t kill everyone. I think this is irrational. It’s hard to know what a superintelligent being is capable of. Because it’s superintelligent, we just don’t know what it will do. Are you really confident that a thing that surpasses us across the board as thoroughly as Stockfish outclasses Magnus Carlsen won’t be able to figure out a way to kill or disempower humans? It can’t think of any way—canvassing its knowledge of cybersecurity, biology, nanotechnology, and a hundred other areas—to kill or disempower humans? You’re near-certain of that? Really?",
+      "I feel similarly about the MIRI-type people who are almost certain that AI will kill everyone. I realize they give arguments for this, but I don’t think it would be rational to be extremely confident that we won’t get a decisive warning shot, say, or that alignment won’t work. For this reason, p(doom)s much above 70% seem irrational to me.",
+      "Often, people act super confident in views without really giving them much thought. Almost everybody is very confident that meat eating is fine before they think seriously about it. But this seems like a mistake. If you don’t know the conditions that animals live in and you haven’t thought about animals’ moral status, you shouldn’t be confident that it’s okay to eat them. Killing another sentient being is, whatever you think about its ultimate permissibility, a grave matter: it isn’t the kind of thing that you should at the outset be near certain is okay.",
+      "Overconfidence without decisive arguments is especially common when thinking about simple animals like shrimp and insects. It’s popular to count these organisms’ moral status by their neurons. So, because a honeybee has about a million neurons, and humans have about 86 billion, this view holds that our conscious experience is in expectation 86,000 times more intense than that of a honeybee.",
+      "But note: if you think that, then you think that there isn’t even a 1% chance that honeybees have experiences 1% as intense as humans. You are near certain that your experience of eating porridge or dreaming is vastly more intense than a bee’s experience of having sex, starving to death, or being burned to death. You are near certain that inside the bee, while maybe the lights aren’t totally off, they are turned down to such a degree that there’s almost nothing of note happening.",
+      "But why would you think that? Why are you extremely confident of that? Sure, maybe it’s right. But what makes you more than 99% confident that it’s true? I’m not even 99% sure that degrees of consciousness make sense, much less that bees have experiences no more than 1% as intense as human experience.",
+      "There are some biological features that can be implemented robustly in small organisms. Small organisms can have pretty robust eyesight and functional wings. It’s not like a bee can only fly one 10,000th as well as a bird. It’s unclear why we’d be near certain that intense pain requires a large brain. This is especially true given that small animals behave like they’re in a lot of pain.",
+      "Drop a crab into a pot of boiling water and it will behave more like if someone dropped you into a pot of boiling water than if someone stubbed your toe. So a not-too-unlikely inference is: maybe when you drop them in boiling water, they feel sort of like you would if you were dropped into boiling water. If you’re super confident that’s false, why?",
+      "This is also an important lesson to take to heart when you’re an outsider evaluating a disagreement between experts. Suppose that there’s a big disagreement between two economists. They have a long back-and-forth. I can’t really follow every detail super well. Either one would crush me in a debate if I tried to defend the other side.",
+      "In my view, it would be irrational to be supremely confident that one side is right and the other side is wrong. Even if one side sounded a bit more convincing to you, that doesn’t give you super strong reason to think they’re right. I often encounter lay people who have confident views on random disputes between experts—I always find this baffling. What makes them so confident?",
+      "Let me address one possible misunderstanding of what I’m saying. I’m not suggesting that there needs to be strong evidence against a view in order for you to be confident that it’s false. There are some things that are very likely false, not because there’s good evidence against them, but because they’re intrinsically improbable. For example, I have no specific evidence that I don’t have 123,387 hairs on my head, but I think it’s unlikely, because it has a low prior probability. It’s unlikely before we consider the evidence.",
+      "So I’m not suggesting you need strong positive evidence against a view to be confident that it’s false. I’m suggesting you need a good reason to think something is false. That reason can be “it has a very low prior probability.” But then there ought to be some convincing reason to think its prior is low. My sense is a lot of the biological naturalists treat non-biologically-naturalist theories as having a very low prior. But I’m not quite sure why they think this.",
+      "People most commonly write off plausible views when they would have worldview-upending implications. If there’s going to be superintelligence around the corner, that changes everything. If insects can suffer intensely, so that almost all the intense suffering in the world is experienced by arthropods, that radically upends our moral priorities. Can we be rational to change our lives based on a conclusion without super strong evidence for it?",
+      "Yes. It is irrational to have your assessment of the probability of a conclusion depend on the implications that its being true would have. Your bar for concluding that an asteroid is likely to be coming to Earth shouldn’t depend on how devastating it would be if it did. That makes no difference to the probability it will hit Earth. Your credence that arthropods suffer intensely shouldn’t depend on the moral implications that would follow if they could suffer intensely—it isn’t as if learning that the world had few arthropods would make it likelier they could suffer intensely, by making the conclusion lower-stakes.",
+      "There are some conclusions that you should take very seriously even if you’re not sure that they’re right. Some possibilities are significant enough that even a 30% chance of them is a big deal. Sometimes, there’s a 30% chance that something is true because it has a not-very-low prior and there’s no good evidence against it. In such cases, you should change your priorities based on a conclusion, even without any very strong reason to think it’s true, because it’s plausible and huge if true.",
+      "High confidence requires good reasons. That a conclusion would be shocking or inconvenient if true on its own gives you no reason to believe that it isn’t. Overall, uncertain and possible worldview-upending conclusions are highly underrated—we ought to take them much more seriously."
+     ],
+     "source_note": "benthams.substack.com/p/why-are-you-so-confident · printed in full",
+     "counter_label": "In plain words, and the other side",
+     "counterpoint": [
+      "The short version: Bentham says you need a strong reason to be very sure of something. On hard questions, such as what can feel pain or what advanced AI might do, he thinks experts should stay unsure.",
+      "The other side. These are his own guesses, and he has a clear stake: he writes for readers who share his worries about AI and animals. Critics could say that treating every unsettled question as a coin flip makes small risks seem too large. A question to carry: what am I very sure of, and what is my reason?"
+     ],
+     "new_page": false
+    },
+    {
+     "type": "box",
+     "style": "tint",
+     "label": "Bubble check",
+     "paras": [
+      "Of 11 newsletters since yesterday, 3 were mainly about AI. No news story today is. One non-AI read worth your time is the Palladium piece on Brazil’s new party, in your email."
+     ]
+    },
+    {
+     "type": "box",
+     "style": "poem",
+     "optional": true,
+     "priority": -2,
+     "label": "A short poem",
+     "paras": [
+      "I think I could turn and live with animals, they are so placid and self-contained,",
+      "I stand and look at them long and long.",
+      "Walt Whitman, “Song of Myself,” section 32, 1855. The first two lines."
+     ]
+    }
+   ]
+  }
+ ],
+ "email_notes": [
+  "Issue No. 5, Saturday Nov 14. I ran this on a Saturday because the schedule fired today. Gmail, Calendar, Slack, Todoist and the web all worked. The Quercus calendar feed is not set up; school dates come from Todoist, Quercus mail and QUERCUS_CONTEXT.md.",
+  "Weather: Open-Meteo said its daily limit was exceeded, so the forecast is from MET Norway (api.met.no). Rain chances are my estimates from zero rain in the forecast, not published percentages.",
+  "Opportunities: it is not Monday, so the list is carried over. I re-checked CLR (apply by Mon Nov 16, 23:59 GMT), Apart (entries due Sun Nov 15, 11:59 pm AoE) and AI Safety Camp (team applications opened Nov 13, close Nov 29) on their own pages. I did not re-open the BlueDot course page, so its Nov 15 date comes from yesterday’s check. Nothing new reached the inbox or Slack.",
+  "School: Todoist no longer lists the MGEA01 Chapter 11 quiz, GGRA30 Practical 7 or the COPB50 interview, so I dropped them. Still late: PHLB18 reading response 6 and Scaffolding 2. New: MGEA01 Chapter 12 quiz due Nov 19, 7 pm; ENGA10 film studies mix and mingle Nov 18, 3:30 pm. Robarts room 2H is booked for Nov 28, 11:30 am to 2:30 pm. Three Todoist items due Nov 13 (Writing Desk proposal, hackathon decision, TAISI ideas for Joseph) are now late.",
+  "Slack: read #taisi-team, #colloquium, #phl-panel (others had nothing new). Nobody named you. The Slack digest email about Joseph’s message in #organizing-discussion was not opened.",
+  "Essays: Nicholas Decker (Agent Orange) and Bentham’s Bulldog (confidence) are printed in full. Decker’s page had a heading, “Parkinson’s Disease,” with no text under it, so I left that heading out. The Palladium piece “A Movement Is Not Enough” (about 4,200 words) was too long to print. Short version, opinion: a São Paulo political consultant says Brazil’s big parties lock out newcomers, so the Free Brazil Movement built its own party, Missão, which gathered five times as many valid signatures as Bolsonaro’s party; its leader Renan Santos came fourth in the 2026 presidential election. It reads as an admiring portrait. Link: palladium.substack.com/p/a-movement-is-not-enough. Left out: Noahpinion (paid), Persuasion (paywalled), Zvi, ControlAI, Cosmos Institute, the ACX vote reminder, Visual Capitalist, and Substack login codes.",
+  "News: CBC and Nature pages were not used. Canada comes from Global News. The Science News “hell chicken” article says the study was reported Oct 10 in Nature Communications although Science News listed it Nov 13, so I did not print a date for the study. I did not print the Microsoft outage or the Nvidia stories because they were mostly about AI. I read but cut: ANTARA on Germany ties, Starship, the New Orleans cruise-boat collision, Alaska’s governor race and the Schumer challenge.",
+  "Space: with two long essays in full, I printed 12 news stories and merged Science into Around the World (one science story, the ocean-carbon study). Cut for space: ANTARA on a stunting-data program (Boyolali), BBC on Germany’s new spy powers, and Science News on the “hell chicken” dinosaur (which I read and could print another day). The Newsstand and the TAISI grants line were cut too; Apart’s Dec 4 and Dec 11 hackathons, the Vector Institute internship and the UTSC summer award are still on the carried-over list: Apart Threat Intelligence (Dec 4–6, entries due Dec 6), Apart Agent Attribution (Dec 11–13), Vector (summer 2027, not open), UTSC UTEA (likely Feb).",
+  "Art: Hiroshige’s Hodogaya, from Wikimedia (the original link was refused, so I used the Special:FilePath copy at 3,840 px)."
+ ],
+ "credits": [
+  "Front page band: Katsushika Hokusai, Famous Places on the Tōkaidō in One View (c. 1818). UBC Library, no known copyright restrictions.",
+  "Back page: Utagawa Hiroshige, Hodogaya (Shinkame Bridge), from the Fifty-three Stations of the Tōkaidō, c. 1834. Public-domain print via Wikimedia Commons (file CH 18608907-2).",
+  "Maps: Natural Earth data via world-atlas. Weather: MET Norway (Open-Meteo was over its daily limit)."
+ ],
+ "back": {
+  "src": "assets/art/processed/back-05-hodogaya.png",
+  "kicker": "The Road · Stop 5 of 55",
+  "title": "Hodogaya · Hiroshige",
+  "caption": "Hodogaya was the fifth town on the road from Edo. The picture shows travellers crossing the Shinkame Bridge, with tall pines and hills behind. Hiroshige made 55 prints of the road, and this paper shows one each issue. Turn the page sideways to see it the right way up.",
+  "credit": "Public domain. Cleveland Museum of Art open-access copy, via Wikimedia Commons."
+ }
+}

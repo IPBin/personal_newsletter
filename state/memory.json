@@ -1,540 +1,574 @@
 {
-  "essays": {
-    "1a1bb1c55bd40fe7": {
-      "title": "The Least of All Freedoms",
-      "pub": "Homo Economicus (Nicholas Decker)",
-      "history": [
-        {
-          "date": "2026-11-10",
-          "mode": "in full",
-          "issue": "proof"
-        }
-      ],
-      "given_in_full": true
-    },
-    "1a1bd77f3e6cfc5b": {
-      "title": "The Midterms Just Made the World More Dangerous",
-      "pub": "Persuasion",
-      "history": [
-        {
-          "date": "2026-11-10",
-          "mode": "in full",
-          "issue": "proof"
-        }
-      ],
-      "given_in_full": true
-    },
-    "1a1c1217386b5aa2": {
-      "title": "The Scariest Recent AI Development",
-      "pub": "Bentham’s Newsletter",
-      "history": [
-        {
-          "date": "2026-11-10",
-          "mode": "in full",
-          "issue": "proof"
-        }
-      ],
-      "given_in_full": true
-    },
-    "1a1c08693dc9291f-tale": {
-      "title": "Life as a Beyond-Human Form of Sculpture",
-      "pub": "Import AI (Tech Tales)",
-      "history": [
-        {
-          "date": "2026-11-10",
-          "mode": "in full",
-          "issue": "proof"
-        }
-      ],
-      "given_in_full": true
-    },
-    "1a1c03f311b75abb": {
-      "title": "China’s venture capital market is defying common sense",
-      "pub": "ChinAI #381",
-      "history": [
-        {
-          "date": "2026-11-10",
-          "mode": "summary",
-          "issue": "proof"
-        },
-        {
-          "date": "2026-11-10",
-          "issue": "1",
-          "mode": "in full"
-        }
-      ],
-      "given_in_full": true
-    },
-    "1a1c0d360df73dd5": {
-      "title": "The True Believer",
-      "pub": "Persuasion",
-      "history": [
-        {
-          "date": "2026-11-10",
-          "mode": "summary",
-          "issue": "proof"
-        },
-        {
-          "date": "2026-11-10",
-          "issue": "1",
-          "mode": "in full"
-        }
-      ],
-      "given_in_full": true
-    },
-    "1a1c1d7ea4b49307": {
-      "title": "AI may be speeding up AI research",
-      "pub": "Sentinel Global Risks Watch",
-      "history": [
-        {
-          "date": "2026-11-10",
-          "mode": "summary",
-          "issue": "proof"
-        }
-      ],
-      "given_in_full": false
-    },
-    "1a1c163db54ba802": {
-      "title": "Two Kinds of Test-Time Scaling",
-      "pub": "Forethought",
-      "history": [
-        {
-          "date": "2026-11-10",
-          "mode": "summary",
-          "issue": "proof"
-        }
-      ],
-      "given_in_full": false
-    },
-    "1a1c08693dc9291f": {
-      "title": "The rest of this week’s issue",
-      "pub": "Import AI 480",
-      "history": [
-        {
-          "date": "2026-11-10",
-          "mode": "summary",
-          "issue": "proof"
-        }
-      ],
-      "given_in_full": false
-    },
-    "1a1bfff966d27820": {
-      "title": "The rise of the Hispanic moderate",
-      "pub": "Slow Boring",
-      "history": [
-        {
-          "date": "2026-11-10",
-          "mode": "summary",
-          "issue": "proof"
-        }
-      ],
-      "given_in_full": false
-    },
-    "1a1c0c7407f83360": {
-      "title": "AI R&D Is Accelerating Towards Potential RSI in 2027",
-      "pub": "Don’t Worry About the Vase",
-      "history": [
-        {
-          "date": "2026-11-10",
-          "mode": "blurb",
-          "issue": "proof"
-        }
-      ],
-      "given_in_full": false
-    },
-    "1a1b7deb2c081195": {
-      "title": "Why I’m becoming a China bear",
-      "pub": "Noahpinion",
-      "history": [
-        {
-          "date": "2026-11-10",
-          "mode": "summary"
-        }
-      ],
-      "given_in_full": false
-    },
-    "1a1c348a38c199f7": {
-      "title": "Verified compute allocation disclosures as a foundational governance tool",
-      "pub": "AI Futures Project",
-      "history": [
-        {
-          "date": "2026-11-10",
-          "mode": "summary"
-        }
-      ],
-      "given_in_full": false
-    },
-    "1a1c2657eebbb358": {
-      "title": "Open Thread 459",
-      "pub": "Astral Codex Ten",
-      "history": [
-        {
-          "date": "2026-11-10",
-          "mode": "blurb"
-        }
-      ],
-      "given_in_full": false
-    },
-    "1a1c162ac8d53883": {
-      "title": "The world’s biggest economies vs. debt in 2026",
-      "pub": "Visual Capitalist",
-      "history": [
-        {
-          "date": "2026-11-10",
-          "mode": "blurb"
-        }
-      ],
-      "given_in_full": false
-    },
-    "benthams-longtermism-animals": {
-      "title": "Longtermism For Animals",
-      "pub": "Bentham’s Newsletter",
-      "history": [
-        {
-          "date": "2026-11-11",
-          "mode": "in full"
-        }
-      ],
-      "given_in_full": true
-    },
-    "decker-meritocratic-consensus": {
-      "title": "On “The Meritocratic Consensus” in Higher Education",
-      "pub": "Homo Economicus",
-      "history": [
-        {
-          "date": "2026-11-11",
-          "mode": "summary"
-        }
-      ],
-      "given_in_full": false
-    },
-    "aisn-85": {
-      "title": "AISN #85: US midterms favor candidates backing AI regulation",
-      "pub": "AI Safety Newsletter",
-      "history": [
-        {
-          "date": "2026-11-11",
-          "mode": "summary"
-        }
-      ],
-      "given_in_full": false
-    },
-    "aifutures-q35": {
-      "title": "Q3.5 Timelines Update",
-      "pub": "AI Futures Project",
-      "history": [
-        {
-          "date": "2026-11-11",
-          "mode": "summary"
-        }
-      ],
-      "given_in_full": false
-    },
-    "asterisk-german-romantics": {
-      "title": "What Bay Area culture owes the German Romantics",
-      "pub": "Asterisk",
-      "history": [
-        {
-          "date": "2026-11-11",
-          "mode": "summary"
-        }
-      ],
-      "given_in_full": false
-    },
-    "hyperdimensional-iron": {
-      "title": "Iron Makes Iron",
-      "pub": "Hyperdimensional",
-      "history": [
-        {
-          "date": "2026-11-11",
-          "mode": "summary"
-        }
-      ],
-      "given_in_full": false
-    },
-    "vc-fossil-fuels": {
-      "title": "Ranked: countries that use the most of each fossil fuel",
-      "pub": "Visual Capitalist",
-      "history": [
-        {
-          "date": "2026-11-11",
-          "mode": "blurb"
-        }
-      ],
-      "given_in_full": false
-    },
-    "1a1c9d31b03d704b": {
-      "title": "India is quietly doing great",
-      "pub": "Noahpinion",
-      "history": [
-        {
-          "date": "2026-11-11",
-          "mode": "summary"
-        }
-      ],
-      "given_in_full": true
-    },
-    "1a1c974b97364390": {
-      "title": "Escaping The “Outside Criticism” Trap",
-      "pub": "Astral Codex Ten",
-      "history": [
-        {
-          "date": "2026-11-11",
-          "mode": "in full",
-          "issue": "morning update"
-        }
-      ],
-      "given_in_full": true
-    },
-    "benthams-broadtermism": {
-      "title": "Broadtermism",
-      "pub": "Bentham’s Newsletter",
-      "history": [
-        {
-          "date": "2026-11-12",
-          "mode": "in full"
-        }
-      ],
-      "given_in_full": true
-    },
-    "persuasion-pluralism": {
-      "title": "Campuses Need More Pluralism, Not Less",
-      "pub": "Persuasion",
-      "history": [
-        {
-          "date": "2026-11-12",
-          "mode": "summary"
-        }
-      ],
-      "given_in_full": false
-    },
-    "canadian-ai-registry": {
-      "title": "The Canadian AI Registry for Incident Tracking",
-      "pub": "Substack (Ilyass)",
-      "history": [
-        {
-          "date": "2026-11-12",
-          "mode": "summary"
-        }
-      ],
-      "given_in_full": false
-    },
-    "slowboring-gasoline": {
-      "title": "Gasoline isn’t really that expensive",
-      "pub": "Slow Boring (Matthew Yglesias)",
-      "history": [
-        {
-          "date": "2026-11-12",
-          "issue": "3",
-          "mode": "in full"
-        }
-      ],
-      "given_in_full": true
-    },
-    "asterisk-playable-characters": {
-      "title": "We are all playable characters",
-      "pub": "Asterisk",
-      "history": [
-        {
-          "date": "2026-11-13",
-          "mode": "in full"
-        }
-      ],
-      "given_in_full": true
-    },
-    "acx-ai-employee-union": {
-      "title": "AI company employees should unionize",
-      "pub": "Astral Codex Ten",
-      "history": [
-        {
-          "date": "2026-11-13",
-          "mode": "in full"
-        }
-      ],
-      "given_in_full": true
-    },
-    "persuasion-double-down": {
-      "title": "Double Down on College",
-      "pub": "Persuasion",
-      "history": [
-        {
-          "date": "2026-11-13",
-          "mode": "summary"
-        }
-      ],
-      "given_in_full": false
-    },
-    "newcritic-good-game": {
-      "title": "Good Game, Well Played",
-      "pub": "The New Critic",
-      "history": [
-        {
-          "date": "2026-11-13",
-          "mode": "summary"
-        }
-      ],
-      "given_in_full": false
-    },
-    "slowboring-moderate": {
-      "title": "What a moderate looks like",
-      "pub": "Slow Boring",
-      "history": [
-        {
-          "date": "2026-11-13",
-          "mode": "summary"
-        }
-      ],
-      "given_in_full": false
+ "essays": {
+  "1a1bb1c55bd40fe7": {
+   "title": "The Least of All Freedoms",
+   "pub": "Homo Economicus (Nicholas Decker)",
+   "history": [
+    {
+     "date": "2026-11-10",
+     "mode": "in full",
+     "issue": "proof"
     }
+   ],
+   "given_in_full": true
   },
-  "opportunities": {
-    "Frontier AI Governance course": {
-      "name": "Frontier AI Governance course",
-      "deadline": "2026-11-10",
-      "url": "aisafetymontreal.org/programs",
-      "first_seen": "2026-11-10",
-      "last_seen": "2026-11-10"
-    },
-    "Gen Stream, Cohort 2": {
-      "name": "Gen Stream, Cohort 2",
-      "deadline": "2026-11-11",
-      "url": "genstream.org",
-      "first_seen": "2026-11-10",
-      "last_seen": "2026-11-10"
-    },
-    "CLR Fundamentals Program": {
-      "name": "CLR Fundamentals Program",
-      "deadline": "2026-11-16",
-      "url": "longtermrisk.org/intro-seminar",
-      "first_seen": "2026-11-10",
-      "last_seen": "2026-11-13"
-    },
-    "AGI Strategy course": {
-      "name": "AGI Strategy course",
-      "deadline": "2026-11-16",
-      "url": "aisafetymontreal.org/programs",
-      "first_seen": "2026-11-10",
-      "last_seen": "2026-11-10"
-    },
-    "GovAI Summer Fellowships 2027 (London or DC)": {
-      "name": "GovAI Summer Fellowships 2027 (London or DC)",
-      "deadline": "2026-11-22",
-      "url": "governance.ai/opportunities",
-      "first_seen": "2026-11-10",
-      "last_seen": "2026-11-10"
-    },
-    "AFFINE Superintelligence Alignment Seminar": {
-      "name": "AFFINE Superintelligence Alignment Seminar",
-      "deadline": "2026-11-22",
-      "url": "affine.org/program",
-      "first_seen": "2026-11-10",
-      "last_seen": "2026-11-10"
-    },
-    "SPAR, Spring 2027": {
-      "name": "SPAR, Spring 2027",
-      "deadline": null,
-      "url": "sparai.org",
-      "first_seen": "2026-11-10",
-      "last_seen": "2026-11-13"
-    },
-    "Apart: Threat Intelligence & Threat Modelling hackathon": {
-      "name": "Apart: Threat Intelligence & Threat Modelling hackathon",
-      "deadline": "2026-12-04",
-      "url": "apartresearch.com/sprints/threat-intelligence-threat-modelling-2026",
-      "first_seen": "2026-11-10",
-      "last_seen": "2026-11-13"
-    },
-    "Apart: AI × Epistemics sprint": {
-      "name": "Apart: AI × Epistemics sprint",
-      "deadline": "2026-11-13",
-      "url": "apartresearch.com/sprints",
-      "first_seen": "2026-11-10",
-      "last_seen": "2026-11-13"
-    },
-    "AI Safety Camp 12 · PRISM": {
-      "name": "AI Safety Camp 12 · PRISM",
-      "deadline": null,
-      "url": "aisafety.camp · prism-research.org",
-      "first_seen": "2026-11-10",
-      "last_seen": "2026-11-10"
-    },
-    "Kairos Pathfinder Fellowship": {
-      "name": "Kairos Pathfinder Fellowship",
-      "deadline": null,
-      "url": "pathfinder.kairos-project.org",
-      "first_seen": "2026-11-10",
-      "last_seen": "2026-11-10"
-    },
-    "Money for TAISI projects": {
-      "name": "Money for TAISI projects",
-      "deadline": null,
-      "url": "bluedot.org/grants/rapid · manifund.org/ais-funder-bulletin",
-      "first_seen": "2026-11-10",
-      "last_seen": "2026-11-13"
-    },
-    "Frontier AI Governance course (online)": {
-      "first_seen": "2026-11-10",
-      "name": "Frontier AI Governance course (online)",
-      "deadline": "2026-11-15",
-      "url": "bluedot.org/courses/ai-governance",
-      "last_seen": "2026-11-13"
-    },
-    "GovAI Summer Fellowship 2027 (London)": {
-      "first_seen": "2026-11-10",
-      "name": "GovAI Summer Fellowship 2027 (London)",
-      "deadline": "2026-11-22",
-      "url": "governance.ai/opportunities",
-      "last_seen": "2026-11-13"
-    },
-    "Kairos Pathfinder Fellowship, Spring 2027": {
-      "first_seen": "2026-11-10",
-      "name": "Kairos Pathfinder Fellowship, Spring 2027",
-      "deadline": "2026-11-24",
-      "url": "pathfinder.kairos-project.org",
-      "last_seen": "2026-11-13"
-    },
-    "AI Safety Camp 12": {
-      "first_seen": "2026-11-10",
-      "name": "AI Safety Camp 12",
-      "deadline": "2026-11-29",
-      "url": "aisafety.camp",
-      "last_seen": "2026-11-13"
-    },
-    "Apart: Agent Attribution Hackathon": {
-      "first_seen": "2026-11-10",
-      "name": "Apart: Agent Attribution Hackathon",
-      "deadline": "2026-12-11",
-      "url": "apartresearch.com/sprints/agent-attribution-2026",
-      "last_seen": "2026-11-13"
-    },
-    "PRISM AI Safety Research Fellowship": {
-      "first_seen": "2026-11-10",
-      "name": "PRISM AI Safety Research Fellowship",
-      "deadline": "2027-01-08",
-      "url": "prism-research.org",
-      "last_seen": "2026-11-10"
-    },
-    "Vector Institute research internship, summer 2027": {
-      "first_seen": "2026-11-10",
-      "name": "Vector Institute research internship, summer 2027",
-      "deadline": null,
-      "url": "vectorinstitute.ai/research-talent/students/ai-research-internships",
-      "last_seen": "2026-11-13"
-    },
-    "UTSC summer research award (UTEA)": {
-      "first_seen": "2026-11-10",
-      "name": "UTSC summer research award (UTEA)",
-      "deadline": null,
-      "url": "utsc.utoronto.ca/research/utea-ursa",
-      "last_seen": "2026-11-13"
+  "1a1bd77f3e6cfc5b": {
+   "title": "The Midterms Just Made the World More Dangerous",
+   "pub": "Persuasion",
+   "history": [
+    {
+     "date": "2026-11-10",
+     "mode": "in full",
+     "issue": "proof"
     }
+   ],
+   "given_in_full": true
   },
-  "issues": [
-    "2026-11-10",
-    "2026-11-11",
-    "2026-11-12",
-    "2026-11-13"
-  ],
-  "back_stop": 4,
-  "note": "Issue No. 2 (2026-11-11) showed back_stop 2 (Shinagawa), rebuilt as a morning update on Nov 11. The next issue (Thu Nov 12, No. 3) shows stop 3, then +1 per issue. Issue No. 3 (2026-11-12) showed stop 3 (Kawasaki); next issue shows stop 4. Issue No. 4 (2026-11-13) showed stop 4 (Kanagawa); next issue shows stop 5."
+  "1a1c1217386b5aa2": {
+   "title": "The Scariest Recent AI Development",
+   "pub": "Bentham’s Newsletter",
+   "history": [
+    {
+     "date": "2026-11-10",
+     "mode": "in full",
+     "issue": "proof"
+    }
+   ],
+   "given_in_full": true
+  },
+  "1a1c08693dc9291f-tale": {
+   "title": "Life as a Beyond-Human Form of Sculpture",
+   "pub": "Import AI (Tech Tales)",
+   "history": [
+    {
+     "date": "2026-11-10",
+     "mode": "in full",
+     "issue": "proof"
+    }
+   ],
+   "given_in_full": true
+  },
+  "1a1c03f311b75abb": {
+   "title": "China’s venture capital market is defying common sense",
+   "pub": "ChinAI #381",
+   "history": [
+    {
+     "date": "2026-11-10",
+     "mode": "summary",
+     "issue": "proof"
+    },
+    {
+     "date": "2026-11-10",
+     "issue": "1",
+     "mode": "in full"
+    }
+   ],
+   "given_in_full": true
+  },
+  "1a1c0d360df73dd5": {
+   "title": "The True Believer",
+   "pub": "Persuasion",
+   "history": [
+    {
+     "date": "2026-11-10",
+     "mode": "summary",
+     "issue": "proof"
+    },
+    {
+     "date": "2026-11-10",
+     "issue": "1",
+     "mode": "in full"
+    }
+   ],
+   "given_in_full": true
+  },
+  "1a1c1d7ea4b49307": {
+   "title": "AI may be speeding up AI research",
+   "pub": "Sentinel Global Risks Watch",
+   "history": [
+    {
+     "date": "2026-11-10",
+     "mode": "summary",
+     "issue": "proof"
+    }
+   ],
+   "given_in_full": false
+  },
+  "1a1c163db54ba802": {
+   "title": "Two Kinds of Test-Time Scaling",
+   "pub": "Forethought",
+   "history": [
+    {
+     "date": "2026-11-10",
+     "mode": "summary",
+     "issue": "proof"
+    }
+   ],
+   "given_in_full": false
+  },
+  "1a1c08693dc9291f": {
+   "title": "The rest of this week’s issue",
+   "pub": "Import AI 480",
+   "history": [
+    {
+     "date": "2026-11-10",
+     "mode": "summary",
+     "issue": "proof"
+    }
+   ],
+   "given_in_full": false
+  },
+  "1a1bfff966d27820": {
+   "title": "The rise of the Hispanic moderate",
+   "pub": "Slow Boring",
+   "history": [
+    {
+     "date": "2026-11-10",
+     "mode": "summary",
+     "issue": "proof"
+    }
+   ],
+   "given_in_full": false
+  },
+  "1a1c0c7407f83360": {
+   "title": "AI R&D Is Accelerating Towards Potential RSI in 2027",
+   "pub": "Don’t Worry About the Vase",
+   "history": [
+    {
+     "date": "2026-11-10",
+     "mode": "blurb",
+     "issue": "proof"
+    }
+   ],
+   "given_in_full": false
+  },
+  "1a1b7deb2c081195": {
+   "title": "Why I’m becoming a China bear",
+   "pub": "Noahpinion",
+   "history": [
+    {
+     "date": "2026-11-10",
+     "mode": "summary"
+    }
+   ],
+   "given_in_full": false
+  },
+  "1a1c348a38c199f7": {
+   "title": "Verified compute allocation disclosures as a foundational governance tool",
+   "pub": "AI Futures Project",
+   "history": [
+    {
+     "date": "2026-11-10",
+     "mode": "summary"
+    }
+   ],
+   "given_in_full": false
+  },
+  "1a1c2657eebbb358": {
+   "title": "Open Thread 459",
+   "pub": "Astral Codex Ten",
+   "history": [
+    {
+     "date": "2026-11-10",
+     "mode": "blurb"
+    }
+   ],
+   "given_in_full": false
+  },
+  "1a1c162ac8d53883": {
+   "title": "The world’s biggest economies vs. debt in 2026",
+   "pub": "Visual Capitalist",
+   "history": [
+    {
+     "date": "2026-11-10",
+     "mode": "blurb"
+    }
+   ],
+   "given_in_full": false
+  },
+  "benthams-longtermism-animals": {
+   "title": "Longtermism For Animals",
+   "pub": "Bentham’s Newsletter",
+   "history": [
+    {
+     "date": "2026-11-11",
+     "mode": "in full"
+    }
+   ],
+   "given_in_full": true
+  },
+  "decker-meritocratic-consensus": {
+   "title": "On “The Meritocratic Consensus” in Higher Education",
+   "pub": "Homo Economicus",
+   "history": [
+    {
+     "date": "2026-11-11",
+     "mode": "summary"
+    }
+   ],
+   "given_in_full": false
+  },
+  "aisn-85": {
+   "title": "AISN #85: US midterms favor candidates backing AI regulation",
+   "pub": "AI Safety Newsletter",
+   "history": [
+    {
+     "date": "2026-11-11",
+     "mode": "summary"
+    }
+   ],
+   "given_in_full": false
+  },
+  "aifutures-q35": {
+   "title": "Q3.5 Timelines Update",
+   "pub": "AI Futures Project",
+   "history": [
+    {
+     "date": "2026-11-11",
+     "mode": "summary"
+    }
+   ],
+   "given_in_full": false
+  },
+  "asterisk-german-romantics": {
+   "title": "What Bay Area culture owes the German Romantics",
+   "pub": "Asterisk",
+   "history": [
+    {
+     "date": "2026-11-11",
+     "mode": "summary"
+    }
+   ],
+   "given_in_full": false
+  },
+  "hyperdimensional-iron": {
+   "title": "Iron Makes Iron",
+   "pub": "Hyperdimensional",
+   "history": [
+    {
+     "date": "2026-11-11",
+     "mode": "summary"
+    }
+   ],
+   "given_in_full": false
+  },
+  "vc-fossil-fuels": {
+   "title": "Ranked: countries that use the most of each fossil fuel",
+   "pub": "Visual Capitalist",
+   "history": [
+    {
+     "date": "2026-11-11",
+     "mode": "blurb"
+    }
+   ],
+   "given_in_full": false
+  },
+  "1a1c9d31b03d704b": {
+   "title": "India is quietly doing great",
+   "pub": "Noahpinion",
+   "history": [
+    {
+     "date": "2026-11-11",
+     "mode": "summary"
+    }
+   ],
+   "given_in_full": true
+  },
+  "1a1c974b97364390": {
+   "title": "Escaping The “Outside Criticism” Trap",
+   "pub": "Astral Codex Ten",
+   "history": [
+    {
+     "date": "2026-11-11",
+     "mode": "in full",
+     "issue": "morning update"
+    }
+   ],
+   "given_in_full": true
+  },
+  "benthams-broadtermism": {
+   "title": "Broadtermism",
+   "pub": "Bentham’s Newsletter",
+   "history": [
+    {
+     "date": "2026-11-12",
+     "mode": "in full"
+    }
+   ],
+   "given_in_full": true
+  },
+  "persuasion-pluralism": {
+   "title": "Campuses Need More Pluralism, Not Less",
+   "pub": "Persuasion",
+   "history": [
+    {
+     "date": "2026-11-12",
+     "mode": "summary"
+    }
+   ],
+   "given_in_full": false
+  },
+  "canadian-ai-registry": {
+   "title": "The Canadian AI Registry for Incident Tracking",
+   "pub": "Substack (Ilyass)",
+   "history": [
+    {
+     "date": "2026-11-12",
+     "mode": "summary"
+    }
+   ],
+   "given_in_full": false
+  },
+  "slowboring-gasoline": {
+   "title": "Gasoline isn’t really that expensive",
+   "pub": "Slow Boring (Matthew Yglesias)",
+   "history": [
+    {
+     "date": "2026-11-12",
+     "issue": "3",
+     "mode": "in full"
+    }
+   ],
+   "given_in_full": true
+  },
+  "asterisk-playable-characters": {
+   "title": "We are all playable characters",
+   "pub": "Asterisk",
+   "history": [
+    {
+     "date": "2026-11-13",
+     "mode": "in full"
+    }
+   ],
+   "given_in_full": true
+  },
+  "acx-ai-employee-union": {
+   "title": "AI company employees should unionize",
+   "pub": "Astral Codex Ten",
+   "history": [
+    {
+     "date": "2026-11-13",
+     "mode": "in full"
+    }
+   ],
+   "given_in_full": true
+  },
+  "persuasion-double-down": {
+   "title": "Double Down on College",
+   "pub": "Persuasion",
+   "history": [
+    {
+     "date": "2026-11-13",
+     "mode": "summary"
+    }
+   ],
+   "given_in_full": false
+  },
+  "newcritic-good-game": {
+   "title": "Good Game, Well Played",
+   "pub": "The New Critic",
+   "history": [
+    {
+     "date": "2026-11-13",
+     "mode": "summary"
+    }
+   ],
+   "given_in_full": false
+  },
+  "slowboring-moderate": {
+   "title": "What a moderate looks like",
+   "pub": "Slow Boring",
+   "history": [
+    {
+     "date": "2026-11-13",
+     "mode": "summary"
+    }
+   ],
+   "given_in_full": false
+  },
+  "decker-agent-orange": {
+   "title": "Agent Orange did not cause your father’s sickness",
+   "pub": "Homo Economicus",
+   "history": [
+    {
+     "date": "2026-11-14",
+     "mode": "in full"
+    }
+   ],
+   "given_in_full": true
+  },
+  "benthams-confident": {
+   "title": "Why are you so confident?",
+   "pub": "Bentham’s Newsletter",
+   "history": [
+    {
+     "date": "2026-11-14",
+     "mode": "in full"
+    }
+   ],
+   "given_in_full": true
+  },
+  "palladium-movement": {
+   "title": "A Movement Is Not Enough",
+   "pub": "Palladium Magazine",
+   "history": [
+    {
+     "date": "2026-11-14",
+     "mode": "email only"
+    }
+   ],
+   "given_in_full": false
+  }
+ },
+ "opportunities": {
+  "Frontier AI Governance course": {
+   "name": "Frontier AI Governance course",
+   "deadline": "2026-11-10",
+   "url": "aisafetymontreal.org/programs",
+   "first_seen": "2026-11-10",
+   "last_seen": "2026-11-10"
+  },
+  "Gen Stream, Cohort 2": {
+   "name": "Gen Stream, Cohort 2",
+   "deadline": "2026-11-11",
+   "url": "genstream.org",
+   "first_seen": "2026-11-10",
+   "last_seen": "2026-11-10"
+  },
+  "CLR Fundamentals Program": {
+   "name": "CLR Fundamentals Program",
+   "deadline": "2026-11-16",
+   "url": "longtermrisk.org/intro-seminar",
+   "first_seen": "2026-11-10",
+   "last_seen": "2026-11-14"
+  },
+  "AGI Strategy course": {
+   "name": "AGI Strategy course",
+   "deadline": "2026-11-16",
+   "url": "aisafetymontreal.org/programs",
+   "first_seen": "2026-11-10",
+   "last_seen": "2026-11-14"
+  },
+  "GovAI Summer Fellowships 2027 (London or DC)": {
+   "name": "GovAI Summer Fellowships 2027 (London or DC)",
+   "deadline": "2026-11-22",
+   "url": "governance.ai/opportunities",
+   "first_seen": "2026-11-10",
+   "last_seen": "2026-11-14"
+  },
+  "AFFINE Superintelligence Alignment Seminar": {
+   "name": "AFFINE Superintelligence Alignment Seminar",
+   "deadline": "2026-11-22",
+   "url": "affine.org/program",
+   "first_seen": "2026-11-10",
+   "last_seen": "2026-11-14"
+  },
+  "SPAR, Spring 2027": {
+   "name": "SPAR, Spring 2027",
+   "deadline": null,
+   "url": "sparai.org",
+   "first_seen": "2026-11-10",
+   "last_seen": "2026-11-14"
+  },
+  "Apart: Threat Intelligence & Threat Modelling hackathon": {
+   "name": "Apart: Threat Intelligence & Threat Modelling hackathon",
+   "deadline": "2026-12-04",
+   "url": "apartresearch.com/sprints/threat-intelligence-threat-modelling-2026",
+   "first_seen": "2026-11-10",
+   "last_seen": "2026-11-14"
+  },
+  "Apart: AI × Epistemics sprint": {
+   "name": "Apart: AI × Epistemics sprint",
+   "deadline": "2026-11-15",
+   "url": "apartresearch.com/sprints",
+   "first_seen": "2026-11-10",
+   "last_seen": "2026-11-14"
+  },
+  "AI Safety Camp 12 · PRISM": {
+   "name": "AI Safety Camp 12 · PRISM",
+   "deadline": null,
+   "url": "aisafety.camp · prism-research.org",
+   "first_seen": "2026-11-10",
+   "last_seen": "2026-11-10"
+  },
+  "Kairos Pathfinder Fellowship": {
+   "name": "Kairos Pathfinder Fellowship",
+   "deadline": null,
+   "url": "pathfinder.kairos-project.org",
+   "first_seen": "2026-11-10",
+   "last_seen": "2026-11-10"
+  },
+  "Money for TAISI projects": {
+   "name": "Money for TAISI projects",
+   "deadline": null,
+   "url": "bluedot.org/grants/rapid · manifund.org/ais-funder-bulletin",
+   "first_seen": "2026-11-10",
+   "last_seen": "2026-11-14"
+  },
+  "Frontier AI Governance course (online)": {
+   "first_seen": "2026-11-10",
+   "name": "Frontier AI Governance course (online)",
+   "deadline": "2026-11-15",
+   "url": "bluedot.org/courses/ai-governance",
+   "last_seen": "2026-11-14"
+  },
+  "GovAI Summer Fellowship 2027 (London)": {
+   "first_seen": "2026-11-10",
+   "name": "GovAI Summer Fellowship 2027 (London)",
+   "deadline": "2026-11-22",
+   "url": "governance.ai/opportunities",
+   "last_seen": "2026-11-14"
+  },
+  "Kairos Pathfinder Fellowship, Spring 2027": {
+   "first_seen": "2026-11-10",
+   "name": "Kairos Pathfinder Fellowship, Spring 2027",
+   "deadline": "2026-11-24",
+   "url": "pathfinder.kairos-project.org",
+   "last_seen": "2026-11-14"
+  },
+  "AI Safety Camp 12": {
+   "first_seen": "2026-11-10",
+   "name": "AI Safety Camp 12",
+   "deadline": "2026-11-29",
+   "url": "aisafety.camp",
+   "last_seen": "2026-11-14"
+  },
+  "Apart: Agent Attribution Hackathon": {
+   "first_seen": "2026-11-10",
+   "name": "Apart: Agent Attribution Hackathon",
+   "deadline": "2026-12-11",
+   "url": "apartresearch.com/sprints/agent-attribution-2026",
+   "last_seen": "2026-11-14"
+  },
+  "PRISM AI Safety Research Fellowship": {
+   "first_seen": "2026-11-10",
+   "name": "PRISM AI Safety Research Fellowship",
+   "deadline": "2027-01-08",
+   "url": "prism-research.org",
+   "last_seen": "2026-11-14"
+  },
+  "Vector Institute research internship, summer 2027": {
+   "first_seen": "2026-11-10",
+   "name": "Vector Institute research internship, summer 2027",
+   "deadline": null,
+   "url": "vectorinstitute.ai/research-talent/students/ai-research-internships",
+   "last_seen": "2026-11-14"
+  },
+  "UTSC summer research award (UTEA)": {
+   "first_seen": "2026-11-10",
+   "name": "UTSC summer research award (UTEA)",
+   "deadline": null,
+   "url": "utsc.utoronto.ca/research/utea-ursa",
+   "last_seen": "2026-11-14"
+  }
+ },
+ "issues": [
+  "2026-11-10",
+  "2026-11-11",
+  "2026-11-12",
+  "2026-11-13",
+  "2026-11-14"
+ ],
+ "back_stop": 5,
+ "note": "Issue No. 2 (2026-11-11) showed back_stop 2 (Shinagawa), rebuilt as a morning update on Nov 11. The next issue (Thu Nov 12, No. 3) shows stop 3, then +1 per issue. Issue No. 3 (2026-11-12) showed stop 3 (Kawasaki); next issue shows stop 4. Issue No. 4 (2026-11-13) showed stop 4 (Kanagawa); next issue shows stop 5. Issue No. 5 (2026-11-14) showed stop 5 (Hodogaya); next issue shows stop 6."
 }
